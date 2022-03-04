@@ -6,7 +6,6 @@ Here you find the public documentation for [LoyJoy Conversational Marketing Clou
 
 | Documentation                                                                              |                                                              |
 | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Get started with LoyJoy](get_started/get_started.md)                                      | Begin your journey with the LoyJoy Conversational Cloud.     |
 | [Login to LoyJoy](login/login.md)                                                          | Passwordless Login and security keys.                        |
 | [Process Modules](process_building_blocks/process_building_blocks.md)                      | Discover the LoyJoy process modules.                         |
 | [Home View](introduction/homeview.md)                                                      | How to set up your a Home View.                              |
