@@ -7,7 +7,7 @@
 + Scanner
 + Signal <br/>
 ### 2. Advanced features
-+ NLU
++ [NLU](nlu/nlu.md)
 + Push
 + Live
 ### 3. Google Assistant Panera Bread Integration
