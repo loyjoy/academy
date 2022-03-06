@@ -1,6 +1,6 @@
 ## BASIC Modules
 
-[See also Module-FAQs](/faq/modules.md)
+*[See also Module-FAQs](/faq/modules.md)*
 
 | Module                                   | Description                                                         | Pros       | Cons       |
 | ---------------------------------------- | ------------------------------------------------------------------- | ---------- |----------- |
