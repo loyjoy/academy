@@ -1,4 +1,6 @@
-## ADVANCED Modules
+## ADVANCED Modules                                                                   
+
+*[See also Module-FAQs](/faq/modules.md)*
 
 | Module                                                  | Description                                        | Pros       | Cons       | more detailed description |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
