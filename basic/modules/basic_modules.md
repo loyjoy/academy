@@ -1,5 +1,7 @@
 ## BASIC Modules
 
+See also FAQs
+
 | Module                                   | Description                                                         | Pros       | Cons       |
 | ---------------------------------------- | ------------------------------------------------------------------- | ---------- |----------- |
 | [Simple Message](help/processes/process/subprocesses/message.md) | Plain chat message + image optionally       | Simple     | No line break, no jumps| 
