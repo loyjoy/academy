@@ -16,6 +16,6 @@ There are four different roles: Owner, Editor, Support and Viewer.
 
 2. The role *Editor* can modify and build chatbots, but has only limited insights into customer data and is not able to see explicit customer data or download CSV-Exports.
 
-3. The role *Support*, on the other hand, can solely see customer data, but cannot work on the chat bots.
+3. The role *Support*, on the other hand, can solely see customer data, but cannot work on the chat bots. This role is normally given to live chat agents.
 
 4. The role with the least rights is *Viewer*, which can only view analytics. For example, this could be a manager who just wants to see how the chatbots are performing.
