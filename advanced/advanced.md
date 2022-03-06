@@ -1,13 +1,6 @@
 ### 1. Advanced modules
- #### [Overview of advanced modules](modules/advanced_modules.md) 
+#### [Overview of advanced modules](modules/advanced_modules.md) 
 
-+ NPS survey 
-+ Clipboard
-+ Mini Program
-+ Audio
-+ Video
-+ Scanner
-+ Signal <br/>
 ### 2. Advanced features
 + [NLU](nlu/nlu.md)
 + Push
