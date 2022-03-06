@@ -1,3 +1,16 @@
+*.pdf
+*.PDF
+*.doc
+*.DOC
+*.docx
+*.DOCX
+*.ppt
+*.PPT
+*.pptx
+*.PPTX
+
+
+
 ### OSX ###
 .DS_Store
 .AppleDouble
