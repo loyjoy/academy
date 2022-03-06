@@ -28,21 +28,21 @@
 
 ### 5. Basic modules
 
-#### [Overview]() 
-5.1.  Simple message <br> [x]
-5.2.  Questionnaire <br>
-5.3.  Product gallery <br>
-5.4.  Image/Video gallery <br>
-5.5.  Animation <br>
-5.6.  Share link <br>
-5.7.  Email (vs. sign in) <br>
-5.8.  Decision Jump <br>
-5.9.  Share link <br>
-5.10. External link <br>
-5.11. Proceed question <br>
-5.12. Quiz<br>
-5.13. Giveaway participation <br>
-5.14. Newsletter Opt-in <br>
+#### [Overview od the basic modules](modules/basic_modules.md) 
+5.1.  [x] Simple message <br> 
+5.2.  [ ] Questionnaire <br>
+5.3.  [ ] Product gallery <br>
+5.4.  [ ] Image/Video gallery <br>
+5.5.  [ ] Animation <br>
+5.6.  [ ] Share link <br>
+5.7.  [ ] Email (vs. sign in) <br>
+5.8.  [x] Decision Jump <br>
+5.9.  [ ] Share link <br>
+5.10. [ ] External link <br>
+5.11. [ ] Proceed question <br>
+5.12. [ ] Quiz<br>
+5.13. [ ] Giveaway participation <br>
+5.14. [ ] Newsletter Opt-in <br>
 
 ### 6. Chat Design & Settings
 6.1.  Branding tab <br>
