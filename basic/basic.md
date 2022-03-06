@@ -28,7 +28,7 @@
 
 ### 5. Basic modules
 
-#### [Overview od the basic modules](modules/basic_modules.md) 
+#### [Overview of basic modules](modules/basic_modules.md) 
 5.1.  [x] Simple message <br> 
 5.2.  [ ] Questionnaire <br>
 5.3.  [ ] Product gallery <br>
