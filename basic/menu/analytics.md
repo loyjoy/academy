@@ -18,17 +18,22 @@ Bounces are counted here. It counts as a bounce when the customer has not typed 
 The number indicates how often the chat was started
 
 ### Participants
-
+The number of participants tells how many different customers have started the chat
 
 ### New customers
+The number of 'New customers' counts all customers who have signed up with their email address.
 
 ### Asked for Web push
+The number indicates the total number of times the web push opt-in was asked for
 
 ### Single opt-in Web push
+The number shows how many times in total the single web push opt-in was given.
 
 ### Double opt-in Web push
+The number shows how many times in total the double web push opt-in was given.
 
 ### Shared via Facebook
+
 
 ### Shared via email
 
