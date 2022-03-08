@@ -54,7 +54,7 @@ The drilldown tab shows a sequential view of the different modules that make up 
 4.2. [KPIs over time](#42-kpis-over-time)</br>
 4.3. [KPIs over time (cumulated)](#43-kpis-over-time-cumulated)</br>
 4.4. [Funnel](#44-funnel)</br>
-4.5. [KPIs over time](#44-others)</br>
+4.5. [KPIs over time](#45-others)</br>
 
 ### 4.1. KPIs in absolute numbers
 
@@ -194,11 +194,25 @@ absolute number.
 In this chart you can see the NPS scores per score.
 
 #### NPS answers
-Download the answers (typed content) of the customers in the NPS rating here. You can choose between the three categories [detractors](#detractors), [passives]
-(#passives) and [promoters](#promoters) .
+Download the answers (typed content) of the customers in the NPS rating here. You can choose between the three categories [detractors](#detractors), 
+[passives](#passives) and [promoters](#promoters).
 
 ## 5. Which numbers are displayed (Drill-down-Tab)
 
-TBD
+In the heat map, you can see which modules are passed through the most. The warmer the colour, the more often the module is passed through. With the help of the 
+heat map, you can see where most customers have left the chat.
+If you click on the individual modules, you will get more detailed information. For each module, it is indicated how often it was passed through. For some 
+modules, there are also additional KPIs. These are explained in more detail [here](#51-web-push-opt-in).
+
+5.1. [Web push opt-in](#51-web-push-opt-in)</br>
+5.2. [Share link](#52-share-link)</br>
+
+### 5.1. Web push opt-in
+Here you can see how often the web push opt-in was asked for, how many single and double opt-ins were given and how many times the single opt-in was rejected
+
+### 5.2. Share link
+Here you can see how often the chatbot was shared via Facebook, email, Twitter, Whatsapp or the link.
+
+
 
 
