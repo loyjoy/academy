@@ -1,4 +1,4 @@
-### What is the difference between chat starts and sessions?
+### 1. What is the difference between chat starts and sessions?
 
 A chat start is counted each time a user starts an experience. A session starts
 when a user receives messages for the first time *inside 30 minutes*.
@@ -9,19 +9,19 @@ visits both experiences they will create two chat starts, one in experience `A`
 and one in experience `B`. However, only in experience `A` there will be a
 session recorded.
 
-### Why are there no / few new sessions in my experience even though it was started?
+### 2. Why are there no / few new sessions in my experience even though it was started?
 
 A session is only started in the first experience a user has visited. Because of
 this you have to look for the new sessions in the start experience or look at the
 analytics of a folder (you can also create a new folder to do this).
 
-### How are bounces calculated?
+### 3. How are bounces calculated?
 
 Bounces are defined as sessions without interactions. Consequently they are
 calculated by subtracting the number of sessions with conversation from the
 number of sessions overall.
 
-### Do I have to many bounces in my experiences?
+### 4. Do I have to many bounces in my experiences?
 
 The fraction of bounces that can be expected can differ greatly between
 experiences. Experiences that open automatically, for example, are expected
@@ -38,12 +38,12 @@ conversion rate:
   to keep text messages as short as possible - chat style
 - Do increase user engagement by using many graphics, especially animated ones
 
-### How can I find out where my users bounce in the experience?
+### 5. How can I find out where my users bounce in the experience?
 
 For this purpose we have created the drilldown tab. Here you can see all the
 modules of your experience and see how often each one of them was visited:
 
- <img src="/heatmap.jpg" alt="Heatmap showing how often each process module was seen" title="Heatmap showing how often each process module was seen" width="300"/>
+ <img src="analytics/heatmap.jpg" alt="Heatmap showing how often each process module was seen" title="Heatmap showing how often each process module was seen" width="300"/>
 
 Here we can see that the process was started 6 times (number above the top
 circle). Accordingly, each of the first 3 modules was seen six times. The
@@ -54,7 +54,7 @@ can see that the Goodbye `#5` was seen two times. That means that two times
 users have answered the questions in the questionnaire and proceeded to the
 final Goodbye step in the process.
 
-### What does the drilldown tab show?
+### 6. What does the drilldown tab show?
 
 The drilldown tab shows a sequential view of the different modules that make
 up an experience. For each of the modules it shows the number of times this
@@ -63,7 +63,7 @@ the relative frequency (blue over green and yellow to red from low to high).
 
 You can get more details about each of the modules simply by clicking on it.
 
-### Why does my second module have more views than the first one?
+### 7. Why does my second module have more views than the first one?
 
 This can have two causes:
 - The first module was added after the chat went live
