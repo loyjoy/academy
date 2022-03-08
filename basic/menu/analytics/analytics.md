@@ -172,9 +172,9 @@ Here the diagram highlights where the turn of the year has taken place.
 
 ### 4.3. KPIs over time (cumulated)
 
-#### Funnel
+### 4.4. Funnel
 
-### 4.4. Others
+### 4.5. Others
 
 #### Platforms
 
