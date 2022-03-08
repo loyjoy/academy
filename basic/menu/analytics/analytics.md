@@ -143,7 +143,6 @@ The number indicates how often a pin has been entered incorrectly.
 Here you can see how many customers have been deleted.
 
 ### 4.2. KPIs over time
-
 In this chart you can view the individual KPIs over the specified time period or over the entire time period
 
 #### Sessions
@@ -171,18 +170,26 @@ The number indicates how often double web push opt-in was given.
 Here the diagram highlights where the turn of the year has taken place.
 
 ### 4.3. KPIs over time (cumulated)
+In this diagram you can view the individual KPIs cumulatively over the specified time period or over the entire time period.
 
 ### 4.4. Funnel
+Here you can see the individual KPIs in a funnel.
 
 ### 4.5. Others
 
 #### Platforms
+Take a look at the diagram to see how your customers are split between mobile and desktop. If you hover over it, you get the absolute number.
 
 #### Log-in attemps with code
+This diagram shows how often the log in attempt with code worked and how often it did not. If you hover over it, you will also see the absolute number.
 
 #### Data entered by customers
+Here you can see what data has been entered by customers, such as the postal address. You will also see how often this data has been collected.
 
 #### NPS segments
+This diagram shows the distribution of [detractors](#-detractors), passives and promoters. If you move the mouse pointer over it, you will also see the absolute 
+number.
+
 
 #### NPS distribution
 
