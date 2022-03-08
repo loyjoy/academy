@@ -143,6 +143,8 @@ Here you can see how many customers have been deleted.
 
 ### 4.2. KPIs over time
 
+In this chart you can view the individual KPIs over the specified time period or over the entire time period
+
 #### Sessions
 Displays the number of sessions. A session is added if the customer spends 30min of time in the chat after opening and receiving the first message.
 
@@ -165,6 +167,7 @@ The number indicates how often single web push opt-in was given.
 The number indicates how often double web push opt-in was given.
 
 #### Year change
+Here the diagram highlights where the turn of the year has taken place.
 
 ### 4.3. KPIs over time (cumulated)
 
