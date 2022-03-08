@@ -144,12 +144,26 @@ Here you can see how many customers have been deleted.
 ### 4.2. KPIs over time
 
 #### Sessions
+Displays the number of sessions. A session is added if the customer spends 30min of time in the chat after opening and receiving the first message.
+
 #### Session with interaction
+Displays the number of sessions where the customer has made an interaction, such as clicking on a button or typing something into the chat.
+
 #### New customers
+The number of 'New customers' counts all customers who have signed up with their email address.
+
 #### SOI reminder
+The number indicates how often single reminder opt-in was given.
+
 #### DOI reminder
+The number indicates how often double reminder opt-in was given.
+
 #### SOI Web push
+The number indicates how often single web push opt-in was given.
+
 #### DOI Web push
+The number indicates how often double web push opt-in was given.
+
 #### Year change
 
 ### 4.3. KPIs over time (cumulated)
