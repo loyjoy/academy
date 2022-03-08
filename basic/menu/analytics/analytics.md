@@ -29,7 +29,7 @@ SCREENSHOT (tabs)
 
 SCREENSHOT (learn hat)
 
-+ **Selection of the time period:** You can select here for which period the data should be displayed. </br>
++ **Selection of the time period:** You can select here for which period the data should be displayed. The selection will affect all tabs and views.</br>
 
 SCREENSHOT
 
@@ -48,13 +48,15 @@ SCREENSHOT (graph)
 
 The drilldown tab shows a sequential view of the different modules that make up an experience. For each of the modules it shows the number of times this module was shown. Laid over the the modules is a heatmap that visually indicates the relative frequency (blue over green and yellow to red from low to high).
 
-You can get more details about each of the modules simply by clicking on it.
-
-
 ## 4. Which numbers are displayed (Overview-Tab)
 
-TBD
+Major KPIs are: 
 
+**Screen time** - The cumulated screen time that all your customers have spend in the chat.   
+**Sessions** - The number of users that received chat messages. Users returning after more than 30 minutes are counted again. Inside these 30 minutes, each user will only have one session, no matter how many experiences they visit.
+**Sessions with conversation** - The number of sessions during which users have send a chat message or clicked a button.   
+**Bounces** - The number of sessions minus the number of sessions without interactions.  
+**Chat Starts** - The number of times the experience was started. There can be more than one chat start per session.
 
 ## 5. Which numbers are displayed (Drill-down-Tab)
 
