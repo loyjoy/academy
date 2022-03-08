@@ -88,40 +88,58 @@ The number shows how many times in total the single web push opt-in was given.
 The number shows how many times in total the double web push opt-in was given.
 
 #### Shared via Facebook
+Here you can see how often the experience was shared via Facebook.
 
 #### Shared via email
+Here you can see how often the experience was shared via email.
 
 #### Shared native
 
 #### Shared via Twitter
+Here you can see how often the experience was shared via Twitter.
 
 #### Shared via WhatsApp
+Here you can see how often the experience was shared via WhatsApp.
 
 #### Single opt-in reminder
+The number shows how many times in total the single reminder opt-in was given.
 
 #### Double opt-in reminder
+The number shows how many times in total the double reminder opt-in was given.
 
 #### Conversations
 
+
 #### Participations
+The number indicates how many participants there are in a raffle, for example. A customer can be counted several times if a more frequent participation in the 
+raffle is possible.
 
 #### Advent calendar opened
+Here you can see how many times the advent calendar doors have been opened.
 
 #### Net Promoter Score
+The number indicates how often an NPS rating is given.
 
 #### Detractors
+Detractors are those customers who score between 1 and 6 on the NPS rating.
 
 #### Passives
+Passives are those customers who score 7 or 8 on the NPS rating.
 
 #### Promoters
+Passives are those customers who score 9 or 10 on the NPS rating.
 
 #### Pin email sent
+The number indicates how often an email with a pin was sent.
 
 #### Pin succeded
+The number indicates how often a pin has been entered correctly.
 
 #### Pin failed
+The number indicates how often a pin has been entered incorrectly.
 
 #### Customer deleted
+Here you can see how many customers have been deleted.
 
 ### 4.2. KPIs over time
 
