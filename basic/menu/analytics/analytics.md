@@ -8,6 +8,7 @@ ________________________
 5. [Which numbers are displayed (Overview-Tab)](#4-which-numbers-are-displayed-overview-tab)
 6. [Which numbers are displayed (Drill-down-Tab)](#5-which-numbers-are-displayed-drill-down-tab)
 
+[*See also Analytics FAQs*](/faq/analytics/analytics.md)
 ## 1. Find your way
 
 + You can find your aggregated, tenant-wide KPIs under "Dashboard" at the top of the page and the performance of the individual experience in the view in the respective folders. <br>
