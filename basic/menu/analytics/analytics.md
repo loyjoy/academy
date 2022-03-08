@@ -50,18 +50,107 @@ The drilldown tab shows a sequential view of the different modules that make up 
 
 ## 4. Which numbers are displayed (Overview-Tab)
 
-Major KPIs are: 
+4.1. [KPIs in absolute numbers](#41-kpis-in-absolute-numbers)</br>
+4.2. [KPIs over time](#42-kpis-over-time)</br>
+4.3. [KPIs over time (cumulated)](#43-kpis-over-time-cumulated)</br>
+4.4. [KPIs over time](#44-others)</br>
 
-**Screen time** - The cumulated screen time that all your customers have spend in the chat. </br>
-   
-**Sessions** - The number of users that received chat messages. Users returning after more than 30 minutes are counted again. Inside these 30 minutes, each user will only have one session, no matter how many experiences they visit. </br>
+### 4.1. KPIs in absolute numbers
 
-**Sessions with conversation** - The number of sessions during which users have send a chat message or clicked a button. </br>
-  
-**Bounces** - The number of sessions minus the number of sessions without interactions. </br>
-  
-**Chat Starts** - The number of times the experience was started. There can be more than one chat start per session. </br>
+#### Screen time (min)
+Gives the screen time spent by all customers together in the experience.
 
+#### Sessions
+Displays the number of sessions. A session is added if the customer spends 30min of time in the chat after opening and receiving the first message.
+
+#### Sessions with conversation
+Conversations are counted here. It counts as a conversation when the customer has typed something in the chat or clicked on a button.
+
+#### Bounces
+Bounces are counted here. It counts as a bounce when the customer has not typed anything into the chat or has not clicked on any button.
+
+#### Chat starts
+The number indicates how often the chat was started
+
+#### Participants
+The number of participants tells how many different customers have started the chat
+
+#### New customers
+The number of 'New customers' counts all customers who have signed up with their email address.
+
+#### Asked for Web push
+The number indicates the total number of times the web push opt-in was asked for
+
+#### Single opt-in Web push
+The number shows how many times in total the single web push opt-in was given.
+
+#### Double opt-in Web push
+The number shows how many times in total the double web push opt-in was given.
+
+#### Shared via Facebook
+
+#### Shared via email
+
+#### Shared native
+
+#### Shared via Twitter
+
+#### Shared via WhatsApp
+
+#### Single opt-in reminder
+
+#### Double opt-in reminder
+
+#### Conversations
+
+#### Participations
+
+#### Advent calendar opened
+
+#### Net Promoter Score
+
+#### Detractors
+
+#### Passives
+
+#### Promoters
+
+#### Pin email sent
+
+#### Pin succeded
+
+#### Pin failed
+
+#### Customer deleted
+
+### 4.2. KPIs over time
+
+#### Sessions
+#### Session with interaction
+#### New customers
+#### SOI reminder
+#### DOI reminder
+#### SOI Web push
+#### DOI Web push
+#### Year change
+
+### 4.3. KPIs over time (cumulated)
+
+#### Funnel
+
+### 4.4. Others
+
+#### Platforms
+
+#### Log-in attemps with code
+
+#### Data entered by customers
+
+#### NPS segments
+
+#### NPS distribution
+
+#### NPS answers
 
 ## 5. Which numbers are displayed (Drill-down-Tab)
 
