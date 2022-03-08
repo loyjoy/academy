@@ -6,3 +6,5 @@
 
 ## [About settings](settings.md)
 
+## [About analytics](analytics.md)
+
