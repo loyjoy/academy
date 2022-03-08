@@ -52,11 +52,16 @@ The drilldown tab shows a sequential view of the different modules that make up 
 
 Major KPIs are: 
 
-**Screen time** - The cumulated screen time that all your customers have spend in the chat.   
-**Sessions** - The number of users that received chat messages. Users returning after more than 30 minutes are counted again. Inside these 30 minutes, each user will only have one session, no matter how many experiences they visit.
-**Sessions with conversation** - The number of sessions during which users have send a chat message or clicked a button.   
-**Bounces** - The number of sessions minus the number of sessions without interactions.  
-**Chat Starts** - The number of times the experience was started. There can be more than one chat start per session.
+**Screen time** - The cumulated screen time that all your customers have spend in the chat. </br>
+   
+**Sessions** - The number of users that received chat messages. Users returning after more than 30 minutes are counted again. Inside these 30 minutes, each user will only have one session, no matter how many experiences they visit. </br>
+
+**Sessions with conversation** - The number of sessions during which users have send a chat message or clicked a button. </br>
+  
+**Bounces** - The number of sessions minus the number of sessions without interactions. </br>
+  
+**Chat Starts** - The number of times the experience was started. There can be more than one chat start per session. </br>
+
 
 ## 5. Which numbers are displayed (Drill-down-Tab)
 
