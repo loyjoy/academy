@@ -53,7 +53,8 @@ The drilldown tab shows a sequential view of the different modules that make up 
 4.1. [KPIs in absolute numbers](#41-kpis-in-absolute-numbers)</br>
 4.2. [KPIs over time](#42-kpis-over-time)</br>
 4.3. [KPIs over time (cumulated)](#43-kpis-over-time-cumulated)</br>
-4.4. [KPIs over time](#44-others)</br>
+4.4. [Funnel](#43-kpis-over-time-cumulated)</br>
+4.5. [KPIs over time](#44-others)</br>
 
 ### 4.1. KPIs in absolute numbers
 
