@@ -45,6 +45,7 @@ modules of your experience and see how often each one of them was visited:
 
  <img src="analytics/heatmap.jpeg" alt="Heatmap showing how often each process module was seen" title="Heatmap showing how often each process module was seen" width="300"/>
 
+
 Here we can see that the process was started 6 times (number above the top
 circle). Accordingly, each of the first 3 modules was seen six times. The
 proceed question is the first stop / break in the process where the chat waits
