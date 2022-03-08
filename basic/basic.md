@@ -12,13 +12,13 @@
 
 ### 3. Main menu bar and their core features
 
-3.1.  [Analytics](menu/analytics.md) <br>
-3.2.  [Data](menu/data.md) <br>
+3.1.  [Analytics](menu/analytics/analytics.md) <br>
+3.2.  [Data](menu/data/data.md) <br>
 + Local Storage vs Datenbank
 + Winner drawing <br>
 
-3.3.  [Experiences](/menu/experiences.md) <br>
-3.4.  [NLU/ Push/ Live](menu/nlu_push_live.md) <br>
+3.3.  [Experiences](/menu/experiences/experiences.md) <br>
+3.4.  [NLU/ Push/ Live](menu/nlu_push_live/nlu_push_live.md) <br>
 
 ### 4. Conversation design practice  
 
