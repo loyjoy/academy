@@ -195,7 +195,7 @@ In this chart you can see the NPS scores per score.
 
 #### NPS answers
 Download the answers (typed content) of the customers in the NPS rating here. You can choose between the three categories [detractors](#detractors), [passives]
-(#passives) and [promoters](#promoters).
+(#passives) and [promoters](#promoters) .
 
 ## 5. Which numbers are displayed (Drill-down-Tab)
 
