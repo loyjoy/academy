@@ -2,9 +2,9 @@
 
 ## [Around the Release 01/22](22-01-release.md)
 
-## [About modules](modules.md)
+## [About modules](modules/modules.md)
 
-## [About settings](settings.md)
+## [About settings](settings/settings.md)
 
-## [About analytics](analytics.md)
+## [About analytics](analytics/analytics.md)
 
