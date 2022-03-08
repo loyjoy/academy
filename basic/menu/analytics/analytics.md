@@ -187,13 +187,15 @@ This diagram shows how often the log in attempt with code worked and how often i
 Here you can see what data has been entered by customers, such as the postal address. You will also see how often this data has been collected.
 
 #### NPS segments
-This diagram shows the distribution of [detractors](#detractors), passives and promoters. If you move the mouse pointer over it, you will also see the absolute 
-number.
-
+This diagram shows the distribution of [detractors](#detractors), [passives](#passives) and [promoters](#promoters). If you hover over it, you will also see the 
+absolute number.
 
 #### NPS distribution
+In this chart you can see the NPS scores per score.
 
 #### NPS answers
+Download the answers (typed content) of the customers in the NPS rating here. You can choose between the three categories [detractors](#detractors), [passives]
+(#passives) and [promoters](#promoters).
 
 ## 5. Which numbers are displayed (Drill-down-Tab)
 
