@@ -61,7 +61,7 @@ The drilldown tab shows a sequential view of the different modules that make up 
 #### Screen time (min)
 Gives the screen time spent by all customers together in the experience.
 
-#### Sessions
+#### Sessions*
 Displays the number of sessions. A session is added if the customer spends 30min of time in the chat after opening and receiving the first message.
 
 #### Sessions with conversation
@@ -76,16 +76,16 @@ The number indicates how often the chat was started
 #### Participants
 The number of participants tells how many different customers have started the chat
 
-#### New customers
+#### New customers*
 The number of 'New customers' counts all customers who have signed up with their email address.
 
 #### Asked for Web push
 The number indicates the total number of times the web push opt-in was asked for
 
-#### Single opt-in Web push
+#### Single opt-in/SOI Web push*
 The number shows how many times in total the single web push opt-in was given.
 
-#### Double opt-in Web push
+#### Double opt-in/DOI Web push*
 The number shows how many times in total the double web push opt-in was given.
 
 #### Shared via Facebook
@@ -102,10 +102,10 @@ Here you can see how often the experience was shared via Twitter.
 #### Shared via WhatsApp
 Here you can see how often the experience was shared via WhatsApp.
 
-#### Single opt-in reminder
+#### Single opt-in/SOI reminder*
 The number shows how many times in total the single reminder opt-in was given.
 
-#### Double opt-in reminder
+#### Double opt-in/DOI reminder*
 The number shows how many times in total the double reminder opt-in was given.
 
 #### Conversations
@@ -142,32 +142,20 @@ The number indicates how often a pin has been entered incorrectly.
 #### Customer deleted
 Here you can see how many customers have been deleted.
 
-### 4.2. KPIs over time
-In this chart you can view the individual KPIs over the specified time period or over the entire time period
-
 #### Sessions
 Displays the number of sessions. A session is added if the customer spends 30min of time in the chat after opening and receiving the first message.
 
 #### Session with interaction
 Displays the number of sessions where the customer has made an interaction, such as clicking on a button or typing something into the chat.
 
-#### New customers
-The number of 'New customers' counts all customers who have signed up with their email address.
-
-#### SOI reminder
-The number indicates how often single reminder opt-in was given.
-
-#### DOI reminder
-The number indicates how often double reminder opt-in was given.
-
-#### SOI Web push
-The number indicates how often single web push opt-in was given.
-
-#### DOI Web push
-The number indicates how often double web push opt-in was given.
-
-#### Year change
+#### Year change*
 Here the diagram highlights where the turn of the year has taken place.
+
+* All KPIs marked with * can also be seen at [KPIs over time](#42-kpis-over-time), [KPIs over time (cumulated)](#43-kpis-over-time-cumulated) and [Funnel](#44-funnel).
+
+### 4.2. KPIs over time
+In this chart you can view the individual KPIs over the specified time period or over the entire time period
+
 
 ### 4.3. KPIs over time (cumulated)
 In this diagram you can view the individual KPIs cumulatively over the specified time period or over the entire time period.
