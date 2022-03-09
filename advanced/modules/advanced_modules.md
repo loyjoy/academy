@@ -9,5 +9,5 @@
 | [Clipboard](Helpbar link)                                    | Module in 3 words                                  |            |            |           LINK        |
 | [Mini program](Helpbar link)                                    | Module in 3 words                                  |            |            |           LINK        |
 | [Scanner](Helpbar link)                                    | Module in 3 words                                  |            |            |           LINK        |
-| [Decision table](../../../../../welcome/blob/staging/help/processes/process/subprocesses/dmn.md)                                    | Module in 3 words                                  |            |            |           [How to *Decision table*](/advanced/modules/dmn.md)        |
+| [Decision table](../../../../../welcome/blob/staging/help/processes/process/subprocesses/dmn.md)                                    | Compute process variables                                  |            |            |           [How to *Decision table*](/advanced/modules/dmn.md)        |
 
