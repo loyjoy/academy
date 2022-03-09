@@ -194,6 +194,12 @@ modules, there are also additional KPIs. These are explained in more detail [her
 
 5.1. [Web push opt-in](#51-web-push-opt-in)</br>
 5.2. [Share link](#52-share-link)</br>
+5.3. [NPS Survey](#53-nps-survey)</br>
+5.4. [Sign in](#54-sign-in)</br>
+5.5. [Decision Jump](#55-decision-jump)</br>
+5.6. [Loyalty points](#56-loyalty-points)</br>
+5.7. [Rewards](#57-rewards)</br>
+
 
 ### 5.1. Web push opt-in
 Here you can see how often the web push opt-in was asked for, how many single and double opt-ins were given and how many times the single opt-in was rejected
