@@ -1,16 +1,16 @@
 # Experiences & Home Views 
 Welcome to your backend in LoyJoy. Find everything you need to know about your Experiences and your Home Views!
 
-- [Experiences] (#experiences) 
+- [Experiences](#experiences) 
 	Create powerful Experiences and start your journey with LoyJoy!
-- [Home Views] (#home-view)
+- [Home Views](#home-view)
 	Discover the possibilities of the LoyJoy Home Screen!
 
 # Experiences 
 Start your journey with LoyJoy and build your first Experience! 🎉
 
 ## Create new Experience
-Create a new Experience in the upper right corner on the orange button. You can choose between three options: start with a blank Experience and make your own from scratch, choose a template from our template store or a colleagues templates ([find our more here](https://github.com/loyjoy/academy/blob/main/basic/start/personal_settings.md), or enter a copy token from another Experience. After you have created your Experience, it will appear in your overview under *Experiences*.
+Create a new Experience in the upper right corner on the orange button. You can choose between three options: start with a blank Experience and make your own from scratch, choose a template from our template store or a colleagues templates ([find our more here](https://github.com/loyjoy/academy/blob/main/basic/start/personal_settings.md)), or enter a copy token from another Experience. After you have created your Experience, it will appear in your overview under *Experiences*.
 
 ### Manage 
 To manage your Experiences you can click on the three dots in the right upper corner of any Experience. Here you are able to download or upload as a file, move the Experience into a folder, copy, pause, archive or delete your Experience. 
