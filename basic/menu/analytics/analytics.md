@@ -201,6 +201,33 @@ Here you can see how often the web push opt-in was asked for, how many single an
 ### 5.2. Share link
 Here you can see how often the chatbot was shared via Facebook, email, Twitter, Whatsapp or the link.
 
+### 5.3. NPS Survey
+
+#### NPS segments
+This diagram shows the distribution of [detractors](#detractors), [passives](#passives) and [promoters](#promoters). If you hover over it, you will also see the 
+absolute number.
+
+#### NPS distribution
+In this chart you can see the NPS scores per score.
+
+#### NPS answers
+Download the answers (typed content) of the customers in the NPS rating here. You can choose between the three categories [detractors](#detractors), 
+[passives](#passives) and [promoters](#promoters).
+
+### 5.4. Sign in
+Here you get an overview of how many customers have signed in and how often the pin email was sent. You can also see how often the pin was successfully or 
+unsuccessfully entered. In addition, the new customers are also counted. These are customers who enter their email address for the first time.
+
+### 5.5. Decision Jump
+Look at the split of how many clients chose which options
+
+### 5.6. Loyalty points
+This module provides you with information on how many loyalty points have been awarded, how many different customers have received these points and how many 
+rewards have been redeemed.
+
+### 5.7. Rewards
+Here you can find out how many points have been redeemed in total and how many rewards they have been distributed over.
+
 
 
 
