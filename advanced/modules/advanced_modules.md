@@ -9,5 +9,5 @@
 | [Clipboard](Helpbar link)                                    | Module in 3 words                                  |            |            |           LINK        |
 | [Mini program](Helpbar link)                                    | Module in 3 words                                  |            |            |           LINK        |
 | [Scanner](Helpbar link)                                    | Module in 3 words                                  |            |            |           LINK        |
-| [Decision table](Helpbar link)                                    | Module in 3 words                                  |            |            |           LINK        |
+| [Decision table](../../../../../welcome/blob/staging/help/processes/process/subprocesses/dmn.md)                                    | Module in 3 words                                  |            |            |           LINK        |
 
