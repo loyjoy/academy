@@ -59,108 +59,96 @@ The drilldown tab shows a sequential view of the different modules that make up 
 ### 4.1. KPIs in absolute numbers
 
 #### Screen time (min)
-Gives the screen time spent by all customers together in the experience.
+Total screen time spent by all customers within this experience in minutes.
 
 #### Sessions*
-Displays the number of sessions. A session is counted every 30min if no interaction is made by the customer during this time. Only one message from the chat is 
-required to start a session. This applies across all processes. This means that a session is not finished when the customer jumps to another chatbot.
+Number of sessions. A new session is counted every 30 minutes. Only one message from the chat is required to start a session. This applies across all processes. Within 30 minutes it still counts as one session if the customer skips bewteen other experiences within the chatbot.
 
 #### Sessions with conversation
-Here you can see how many sessions there have already been with conversation. A conversation is counted when the customer interacts. This can be, for example, 
-clicking a button or typing a message into the chat. This applies across all processes. This means that a session is not finished when the customer jumps to 
-another chatbot.
+A session with conversation is counted as soon as the customer interacts (clicking a button, typing a message). This applies across all processes. Within 30 minutes it still counts as one session if the customer skips bewteen other experiences within the chatbot.
 
 #### Bounces
-Bounces are counted here. It counts as a bounce when the customer has not typed anything into the chat or has not clicked on any button.
+A bounce is counted when the customer has neither typed anything in the chat nor clicked on a button before closing the chatbot or website again.
 
 #### Chat starts
-The number indicates how often the chat was started
+Number of chat starts within this experience. Unlike sessions, this does not apply across processes. Chat starts are recounted individually for each experience.
 
 #### Participants
-The number of participants tells how many different customers have started the chat
+Number of customers that successfully went through a participation module. The participation module is mostly used for raffles. In this case it counts the unique users, that participated in the raffle.
 
 #### New customers*
-The number of 'New customers' counts all customers who have signed up with their email address.
+Number of customers who have entered their e-mail address in the e-mail module.
 
 #### Asked for Web push
-The number indicates the total number of times the web push opt-in was asked for
+Number of customers who were asked for a web push opt-in.
 
 #### Single opt-in/SOI Web push*
-The number shows how many times in total the single web push opt-in was given.
+Number of customers who have given their consent to a web push single opt-in.
 
 #### Double opt-in/DOI Web push*
-The number shows how many times in total the double web push opt-in was given.
+Number of customers who have given their consent to a web push double opt-in.
 
 #### Shared via Facebook
-Here you can see how often the experience was shared via Facebook.
+Number of customers who clicked on the facebook option within the share link module.
 
 #### Shared via email
-Here you can see how often the experience was shared via email.
+Number of customers who clicked on the email option within the share link module.
 
 #### Shared native
-Here you can see how often the experience was shared via the sharing button.
+Number of customers who clicked on the sharing button within the share link module.
 
 #### Shared via Twitter
-Here you can see how often the experience was shared via Twitter.
+Number of customers who clicked on the twitter option within the share link module.
 
 #### Shared via WhatsApp
-Here you can see how often the experience was shared via WhatsApp.
+Number of customers who clicked on the whatsapp option within the share link module.
 
 #### Single opt-in/SOI reminder*
-The number shows how many times in total the single reminder opt-in was given.
+Number of customers who have given their consent to a reminder single opt-in.
 
 #### Double opt-in/DOI reminder*
-The number shows how many times in total the double reminder opt-in was given.
+Number of customers who have given their consent to a reminder double opt-in.
 
 #### Conversations
-This number shows you how many conversations have taken place. A conversation starts when there is an interaction from the customer, such as clicking on a button 
-for typing something into the chat.
+Total number of conversations within this experience. A conversation starts when there is an interaction from the customer, such as clicking on a button or typing something into the chat.
 
 #### Participations
-The number indicates how many participants there are in a raffle, for example. A customer can be counted several times if a more frequent participation in the 
-raffle is possible.
+Total number of participations through the participation module. The participation module is mostly used for raffles. If multiple participations are allowed, the individual participants are counted multiple times (no unique users).
 
 #### Advent calendar opened
-Here you can see how many times the advent calendar doors have been opened.
+The number of customers who clicked on "open door" within the Advent calendar module. 
 
 #### Net Promoter Score
-The number indicates how often an NPS rating is given.
+Result of the Net Promoter Score survey in the NPS module. The Net Promoter Score is calculated by asking your customers to provide their feedback on a scale of 0 to 10. To calculate the score, the percentage of Detractors is subtracted from the percentage of Promoters. The difference results in the Net Promoter Score, which can range between -100 and 100. The higher above 0, the more customer-focused your company. A number above 30 is remarkable. 50 is excellent and above 70 is exceptional.
 
 #### Detractors
-Detractors are those customers who score between 1 and 6 on the NPS rating.
+Customers who rate the NPS with a score between 1 and 6 are referred to as "Detractors".
 
 #### Passives
-Passives are those customers who score 7 or 8 on the NPS rating.
+Customers who rate the NPS with a score between 1 and 6 are referred to as "Passives".
 
 #### Promoters
-Passives are those customers who score 9 or 10 on the NPS rating.
+Customers who rate the NPS with a score between 1 and 6 are referred to as "Promoters".
 
 #### Pin email sent
-The number indicates how often an email with a pin was sent.
+Number of pin emails sent.
 
 #### Pin succeded
-The number indicates how often a pin has been entered correctly.
+Number of pins successfully entered.
 
 #### Pin failed
-The number indicates how often a pin has been entered incorrectly.
+Number of pins entered incorrectly..
 
 #### Customer deleted
-Here you can see how many customers have been deleted.
-
-#### Sessions
-Displays the number of sessions. A session is added if the customer spends 30min of time in the chat after opening and receiving the first message.
-
-#### Session with interaction
-Displays the number of sessions where the customer has made an interaction, such as clicking on a button or typing something into the chat.
+Number of deleted costumers.
 
 #### Year change*
-Here the diagram highlights where the turn of the year has taken place.
+Display of the year change in the diagram.
 
 * All KPIs marked with * can also be seen at [KPIs over time](#42-kpis-over-time), [KPIs over time (cumulated)](#43-kpis-over-time-cumulated) and [Funnel](#44-funnel).
 
 ### 4.2. KPIs over time
 In this chart you can view the individual KPIs over the specified time period or over the entire time period
-
 
 ### 4.3. KPIs over time (cumulated)
 In this diagram you can view the individual KPIs cumulatively over the specified time period or over the entire time period.
