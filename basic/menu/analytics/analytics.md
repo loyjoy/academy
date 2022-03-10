@@ -199,6 +199,16 @@ modules, there are also additional KPIs. These are explained in more detail [her
 5.5. [Decision Jump](#55-decision-jump)</br>
 5.6. [Loyalty points](#56-loyalty-points)</br>
 5.7. [Rewards](#57-rewards)</br>
+5.8. [Opt-ins](#58-opt-ins)</br>
+5.9. [Quiz](#59-quiz)</br>
+5.10. [Instant win](#510-instant-win)</br>
+5.11. [Giveaway participation](#511-giveaway-participation)</br>
+5.12. [Coupon code](#512-coupon-code)</br>
+5.13. [Appointment scheduler](#513-appointment-scheduler)</br>
+5.14. [Code entry](#514-code-entry)</br>
+
+
+
 
 
 ### 5.1. Web push opt-in
@@ -233,6 +243,31 @@ rewards have been redeemed.
 
 ### 5.7. Rewards
 Here you can find out how many points have been redeemed in total and how many rewards they have been distributed over.
+
+### 5.8. Opt-ins
+For the opt-in modules (profiling, reminder, SMS and newsletter), you can see how often single or double opt-ins were given, how often single opt-ins were 
+rejected and how often opt-outs occurred.
+
+### 5.9. Quiz
+See here how many correct and incorrect answers were given and how many pictures were uploaded. You also get an overview of the answer distribution for the 
+individual quiz questions.
+
+### 5.10. Instant win
+Here you can see how many different participants there were and how many in total. You can also see how many participants won and how many lost.
+
+### 5.11. Giveaway participation
+Here you get an overview of how many different customers have participated and how many in total.
+
+### 5.12 Coupon code
+Get an overview of how many coupon codes have been uploaded, how many codes have been distributed and how many codes have been entered.
+
+### 5.13. Appointment scheduler
+Get an overview here of how many appointments have already been booked
+
+### 5.14 Code entry
+Here you can see how many codes were entered, how many of them were correct and how many of them were wrong.
+
+
 
 
 
