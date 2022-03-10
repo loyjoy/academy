@@ -62,10 +62,13 @@ The drilldown tab shows a sequential view of the different modules that make up 
 Gives the screen time spent by all customers together in the experience.
 
 #### Sessions*
-Displays the number of sessions. A session is added if the customer spends 30min of time in the chat after opening and receiving the first message.
+Displays the number of sessions. A session is counted every 30min if no interaction is made by the customer during this time. Only one message from the chat is 
+required to start a session. This applies across all processes. This means that a session is not finished when the customer jumps to another chatbot.
 
 #### Sessions with conversation
-Conversations are counted here. It counts as a conversation when the customer has typed something in the chat or clicked on a button.
+Here you can see how many sessions there have already been with conversation. A conversation is counted when the customer interacts. This can be, for example, 
+clicking a button or typing a message into the chat. This applies across all processes. This means that a session is not finished when the customer jumps to 
+another chatbot.
 
 #### Bounces
 Bounces are counted here. It counts as a bounce when the customer has not typed anything into the chat or has not clicked on any button.
@@ -95,6 +98,7 @@ Here you can see how often the experience was shared via Facebook.
 Here you can see how often the experience was shared via email.
 
 #### Shared native
+Here you can see how often the experience was shared via the sharing button.
 
 #### Shared via Twitter
 Here you can see how often the experience was shared via Twitter.
@@ -109,7 +113,8 @@ The number shows how many times in total the single reminder opt-in was given.
 The number shows how many times in total the double reminder opt-in was given.
 
 #### Conversations
-
+This number shows you how many conversations have taken place. A conversation starts when there is an interaction from the customer, such as clicking on a button 
+for typing something into the chat.
 
 #### Participations
 The number indicates how many participants there are in a raffle, for example. A customer can be counted several times if a more frequent participation in the 
