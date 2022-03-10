@@ -206,8 +206,7 @@ modules, there are also additional KPIs. These are explained in more detail [her
 5.12. [Coupon code](#512-coupon-code)</br>
 5.13. [Appointment scheduler](#513-appointment-scheduler)</br>
 5.14. [Code entry](#514-code-entry)</br>
-
-
+5.15. [Personal data](#515-personal-data)</br>
 
 
 
@@ -264,8 +263,11 @@ Get an overview of how many coupon codes have been uploaded, how many codes have
 ### 5.13. Appointment scheduler
 Get an overview here of how many appointments have already been booked
 
-### 5.14 Code entry
+### 5.14. Code entry
 Here you can see how many codes were entered, how many of them were correct and how many of them were wrong.
+
+### 5.15. Personal data
+In the modules that request personal data (birthdate, first name, phone number, postal address), you can see how many customers have entered data.
 
 
 
