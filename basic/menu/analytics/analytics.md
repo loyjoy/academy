@@ -192,8 +192,8 @@ Download the answers (typed content) of the customers in the NPS rating here. Yo
 
 ## 5. Which numbers are displayed (Drill-down-Tab)
 
-In the heat map, you can see which modules are passed through the most. The warmer the colour, the more often the module is passed through. With the help of the 
-heat map, you can see where most customers have left the chat.
+A color visualized heatmap shows how often each of the modules were displayed. The color gradient from blue to green to yellow to red shows a low to high 
+frequency.
 If you click on the individual modules, you will get more detailed information. For each module, it is indicated how often it was passed through. For some 
 modules, there are also additional KPIs. These are explained in more detail [here](#51-web-push-opt-in).
 
