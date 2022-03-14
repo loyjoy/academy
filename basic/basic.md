@@ -6,9 +6,9 @@
 
 ### 2. Getting started
 
-2.1.  [Login & security](start/login_and_security.md) <br>
-2.2.  [Invite colleagues & user roles](start/roles.md) <br>
-2.3.  [Personal settings](start/personal_settings.md) <br>
+2.1.  [Login & security](start/login/logon.md) <br>
+2.2.  [Invite colleagues & user roles](start/roles/roles.md) <br>
+2.3.  [Personal settings](start/personal_settings/personal_settings.md) <br>
 
 ### 3. Main menu bar and their core features
 
