@@ -1,4 +1,4 @@
-# Get started with the Conversational Marketing Cloud
+# Get started with the Conversational Marketing Cloud 🎉
 We are excited to have you on board of the LoyJoy Conversation Marketing Cloud! Very soon you will be able to build your awesome customer journeys yourself. Let’s get started!
 
 This article will guide you through your very first access to the LoyJoy platform and help you understand the wide range of possibilities available for you to build conversational journeys that will excite your customers. 
@@ -47,7 +47,7 @@ Everybody has troubles remembering passwords. That's why re retires the password
   <img src="magic_link.png" alt="sign in with magic link" title="sign in with magic link" width="300"/>
 </p>
 
-Tada! Welcome to the LoyJoy platform. It's where the magic happens! :party_popper:
+Tada! Welcome to the LoyJoy platform. It's where the magic happens! 🎉
 
 ## How to Set up a Chatbot
 
@@ -78,7 +78,7 @@ Now you can open your experience and rename it to your wishes.
   <img src="name_experience.png" alt="Give experience name" title="Give experience name" width="200"/>
 </p>
 
-Great! Now you can start [editing your chat experience](#The-Chat-Flow-editor)! :party_popper:
+Great! Now you can start [editing your chat experience](#The-Chat-Flow-editor)! 🎉
 
 #### Option 2: Create a New Experience
 
@@ -393,7 +393,7 @@ Depending on your chat experience, you will find information on your customers' 
 </p>
 
 
-Now it's time to celebrate your first successful LoyJoy chatbot! Enjoy! :party_popper:
+Now it's time to celebrate your first successful LoyJoy chatbot! Enjoy! 🎉
 
 
 
