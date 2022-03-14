@@ -2,7 +2,7 @@
 
 ### 1. Welcome to LoyJoy
 
-[Welcome video](Welcome/welcome_to_loyjoy.md) <br>
+[Welcome video](welcome/welcome_to_loyjoy.md) <br>
 
 ### 2. Getting started
 
