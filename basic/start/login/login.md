@@ -58,9 +58,9 @@ In the backend, you can have several starting points. You can either start an ex
 </p>
 
 
-#### Option 1: Copy an existing Experience
+#### Option 1: Copy an existing Experience/Folder
 
-Imagine your colleagues have built an amazing chatbot experience which got your inspired to start your project. To benefit from their work, you can simply copy their experiences and work on your customizations and modifications with the copy. Click on the three dots of the chat experience you wish to copy and select "Copy Experience".
+Imagine your colleagues have built an amazing chatbot experience which got your inspired to start your project. To benefit from their work, you can simply copy their experiences and work on your customizations and modifications with the copy. Click on the three dots of the chat experience or a whole folder of experiences you wish to copy and select "Copy".
 
 <p align="center">
   <img src="copy_experience.png" alt="Copy an existing experience" title="Copy an existing experience" width="500"/>
@@ -70,7 +70,7 @@ Imagine your colleagues have built an amazing chatbot experience which got your 
   <img src="copy_link.png" alt="copy link of existing experience" title="copy link of existing experience" width="500"/>
 </p>
 
-Now click " Create Experience" in the chatbot to which you want to add the experience.
+Now click "New Experience"/"New Folder" on your start screen. Or you paste the experience in the Folder in which you want to add it.
 
 <p align="center">
   <img src="create_experience.png" alt="Create experience" title="Create experience" width="200"/>
