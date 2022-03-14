@@ -67,13 +67,17 @@ Imagine your colleagues have built an amazing chatbot experience which got your 
 </p>
 
 <p align="center">
-  <img src="copy_link.png" alt="copy link of existing experience" title="copy link of existing experience" width="500"/>
+  <img src="paste_experience.png" alt="copy link of existing experience" title="paste lik of existing experience" width="500"/>
 </p>
 
 Now click "New Experience"/"New Folder" on your start screen. Or you paste the experience in the Folder in which you want to add it. Simply paste the copied link.
 
 <p align="center">
   <img src="create_experience.png" alt="Paste experience" title="Paste experience" width="500"/>
+</p>
+
+<p align="center">
+  <img src="copy_link.png" alt="copy link of existing experience" title="copy link of existing experience" width="500"/>
 </p>
 
 Now you can rename your chatbot to your wishes.
