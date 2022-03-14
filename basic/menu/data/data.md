@@ -2,7 +2,13 @@
 + Local Storage vs Datenbank
 + Winner drawing
 ...
-### Customer
+
+1. [Customers](#1-customers)
+2. [Consents](#2-consents)
+3. [Giveaways](#3-giveaways)
+4. [Runtime log](#4-runtime-log)
+
+### 1. Customers
 
 In the customer tab, you can view all customers who have registered via the sign-in module and have been active in the last 180 days. You can see the email address of these customers and when they registered. 
 
@@ -15,7 +21,7 @@ Using the search bar, you can search for customers by their email address.
 
 You can also download all customer data as a CSV file.
 
-### Consent
+### 2. Consents
 
 In the consents tab you can see which customer has given which consent. The data is sorted by time. The time stamp indicates at which point in time the client gave 
 this consent.
@@ -28,7 +34,7 @@ Using the search bar, you can search for customers by their email address.
 
 You can also download all customer data as a CSV file.
 
-### Giveaways
+### 3. Giveaways
 
 In the giveaway tab, you have the possibility to manage your giveaways and to draw winners. First, select which chatbot the giveaway you want to access is in.
 
@@ -40,9 +46,7 @@ In the area of the drawn winners, you can draw as many winners as you want via t
 The data will be automatically deleted 60 days after creation.
 
 
-
-
-### Runtime log
+### 4. Runtime log
 
 The runtime log stores events, which have occurred for the tenant in the last 7 days. Typical log entries e.g. are that customers signed up in the chat, or that errors have happened when communicating with remote REST apis such as Salesforce.
 
