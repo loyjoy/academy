@@ -1,8 +1,6 @@
 # B A S I C - C O U R S E
 
-### 1. Welcome to LoyJoy (-> Video)
-
-1.1.  [Welcome video](Welcome/welcome_to_loyjoy.md) <br>
+### 1. [Welcome to LoyJoy](Welcome/welcome_to_loyjoy.md) <br>
 
 ### 2. Getting started
 
