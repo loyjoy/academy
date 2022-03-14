@@ -85,8 +85,11 @@ To build your own experience, click on "Create Experience".
 Now decide whether you make use of our great ready-to-go experience or if you prefer to start from scratch. We recommend checking out the ready-to-go experiences as they provide you with the logical structure of your chat flow based on your objectives. 
 
 <p align="center">
+ <img src="custom_experience.png" alt="Custom experience" title="Custom experience" width="200"/>
+</p>
+
+<p align="center">
  <img src="pick_experience.png" alt="Pick a ready-to-use experience" title="Pick a ready-to-use experience" width="500"/>
- <img src="custom_experience.png" alt="Custom experience" title="Custom experience" width="400"/>
 </p>
 
 Amazing! Let's start customizing your experience to your wishes! 
