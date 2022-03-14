@@ -99,13 +99,13 @@ Let's dive right into the Process Editor, the heart of every chat flow. On the l
   <img src="process_editor.png" alt="Process editor" title="Process editor" width="500"/>
 </p>
 
-Simply drag and drop the process blocks into your flow.
+Simply drag and drop the process modules into your flow.
 
 <p align="center">
   <img src="add_to_editor.gif" alt="Add bricks to editor" title="Add bricks to editor" width="500"/>
 </p>
 
-Once you have added all your process blocks, the next step would be editing. Click "Close process editor" to open the Chat Flow Editor.
+Once you have added all your process modules, the next step would be editing. Click "Close process editor" to open the Chat Flow Editor.
 
 <p align="center">
   <img src="chatflow_editor.png" alt="Chat flow editor" title="Chat flow editor" width="500"/>
@@ -141,13 +141,13 @@ Select exciting emoticons to engage emotionally with your consumers. Take advant
   <img src="explain_smileys.png" alt="Use of smileys" title="Use of smileys" width="500"/>
 </p>
 
-Add variables to individualize your texts for every customer. Address them by their first name when returning to your chatbot, provide content-specific data or link variable data to your text field. 
+Add variables to individualize your texts for every customer. Address them by their first name when returning to your chat, provide content-specific data or link variable data to your text field. 
 
 <p align="center">
   <img src="explain_variables.png" alt="Explain variables" title="Explain variables" width="500"/>
 </p>
 
-To make sure you stay on top of your chat flow, you can name your process blocks according to their use. This helps you to navigate through your flow when complexity grows.
+To make sure you stay on top of your chat flow, you can name your process modules according to their use. This helps you to navigate through your flow when complexity grows.
 
 <p align="center">
   <img src="name_bricks.png" alt="Give bricks a name" title="Give bricks a name" width="300"/>
