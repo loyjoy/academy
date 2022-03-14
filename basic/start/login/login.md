@@ -72,13 +72,7 @@ Now click "New Experience"/"New Folder" on your start screen. Or you paste the e
   <img src="paste_experience.png" alt="Paste experience" title="Paste experience" width="500"/>
 </p>
 
-Now you can open your experience and rename it to your wishes.
-
-<p align="center">
-  <img src="name_experience.png" alt="Give experience name" title="Give experience name" width="200"/>
-</p>
-
-Great! Now you can start [editing your chat experience](#The-Chat-Flow-editor)! 🎉
+Now you can open your experience and rename it to your wishes. Great! Now you can start [editing your chat experience](#The-Chat-Flow-editor)! 🎉
 
 #### Option 2: Create a New Experience
 
