@@ -66,8 +66,9 @@ Imagine your colleagues have built an amazing chatbot experience which got your 
   <img src="copy_experience.png" alt="Copy an existing experience" title="Copy an existing experience" width="500"/>
 </p>
 
+
 <p align="center">
-  <img src="paste_experience.png" alt="copy link of existing experience" title="paste lik of existing experience" width="500"/>
+  <img src="paste_experience.png" alt="Paste experience" title="Paste experience" width="500"/>
 </p>
 
 Now click "New Experience"/"New Folder" on your start screen. Or you paste the experience in the Folder in which you want to add it. Simply paste the copied link.
