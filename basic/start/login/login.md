@@ -108,7 +108,7 @@ Once you have added all your process modules, the next step would be editing. Cl
   <img src="chatflow_editor.png" alt="Chat flow editor" title="Chat flow editor" width="500"/>
 </p>
 
-Feel free to insert your prefered text into the text fields. Click on each process block to edit its texts.
+Feel free to insert your prefered text into the text fields. Click on each process modules to edit its texts.
 
 <p align="center">
   <img src="choose_message.png" alt="Choose message" title="Choose message" width="500"/>
