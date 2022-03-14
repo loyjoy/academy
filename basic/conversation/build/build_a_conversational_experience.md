@@ -105,13 +105,13 @@ Hit "Refresh Preview" and open the chat window by clicking on the chat bubble at
 
 <p align="center">
   <img src="refresh_preview.png" alt="Refresh preview" title="Refresh preivew" width="400"/>
-  <img src="button.png" alt="Chatbutton" title="Chatbutton" width="50"/>
+  <img src="button.png" alt="Chatbutton" title="Chatbutton" width="200"/>
 </p>
 
 Your chatbot will open and you can check out your progress. Whenever you wish to restart the flow, simply press "Refresh Preview" again.
 
 <p align="center">
-  <img src="first_flow.png" alt="First flow example" title="First flow example" width="200"/>
+  <img src="first_flow_example.png" alt="First flow example" title="First flow example" width="200"/>
 </p>
 
 Do not worry about saving your progress. We have your back! Every edit is automatically saved.
