@@ -22,9 +22,8 @@
 
 ### 4. Conversation design practice  
 
-4.1.  Build a Conversational Experience <br>
-4.2.  Process editor <br>
-4.3.  Dos & don’ts <br>
+4.1.  [Build a Conversational Experience](coversation/build/build_a_conversational_experience.md) <br>
+4.2.  [Dos & don’ts](coversation/build/dos_and_donts.md) <br>
 
 ### 5. Basic modules
 
