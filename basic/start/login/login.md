@@ -47,7 +47,7 @@ Everybody has troubles remembering passwords. That's why re retires the password
   <img src="magic_link.png" alt="sign in with magic link" title="sign in with magic link" width="300"/>
 </p>
 
-Tada! Welcome to the LoyJoy platform. It's where the magic happens! :tada:
+Tada! Welcome to the LoyJoy platform. It's where the magic happens! :party_popper:
 
 ## How to Set up a Chatbot
 
@@ -66,28 +66,19 @@ Imagine your colleagues have built an amazing chatbot experience which got your 
   <img src="copy_experience.png" alt="Copy an existing experience" title="Copy an existing experience" width="500"/>
 </p>
 
+Now click "New Experience"/"New Folder" on your start screen. Or you paste the experience in the Folder in which you want to add it. Simply paste the copied link.
 
 <p align="center">
   <img src="paste_experience.png" alt="Paste experience" title="Paste experience" width="500"/>
 </p>
 
-Now click "New Experience"/"New Folder" on your start screen. Or you paste the experience in the Folder in which you want to add it. Simply paste the copied link.
-
-<p align="center">
-  <img src="create_experience.png" alt="Paste experience" title="Paste experience" width="500"/>
-</p>
-
-<p align="center">
-  <img src="copy_link.png" alt="copy link of existing experience" title="copy link of existing experience" width="500"/>
-</p>
-
-Now you can rename your chatbot to your wishes.
+Now you can open your experience and rename it to your wishes.
 
 <p align="center">
   <img src="name_experience.png" alt="Give experience name" title="Give experience name" width="200"/>
 </p>
 
-Great! Now you can start [editing your chat experience](#The-Chat-Flow-editor)! :tada: 
+Great! Now you can start [editing your chat experience](#The-Chat-Flow-editor)! :party_popper:
 
 #### Option 2: Create a New Experience
 
@@ -402,7 +393,7 @@ Depending on your chat experience, you will find information on your customers' 
 </p>
 
 
-Now it's time to celebrate your first successful LoyJoy chatbot! Enjoy! :tada:
+Now it's time to celebrate your first successful LoyJoy chatbot! Enjoy! :party_popper:
 
 
 
