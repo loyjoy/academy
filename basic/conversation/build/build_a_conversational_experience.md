@@ -99,7 +99,7 @@ To make sure you stay on top of your chat flow, you can name your process module
   <img src="name_bricks.png" alt="Give bricks a name" title="Give bricks a name" width="300"/>
 </p>
 
-Now it is time to try out what you have built up so far. Here you can also define whether the chat recognises you as a "returner", on which day the chat should be played (only makes sense if a timer is also set on the modules) and in which language the chat should be displayed. 
+Now it is time to try out what you have built up so far. Here you can also define whether the chat recognises you as a "returner", on which day the chat should be played (only makes sense if a timer is also set in the modules) and in which language the chat should be displayed. 
 
 Hit "Refresh Preview" and open the chat window by clicking on the chat bubble at the bottom. 
 
