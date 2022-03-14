@@ -51,7 +51,7 @@ Tada! Welcome to the LoyJoy platform. It's where the magic happens! :tada:
 
 ## How to Set up a Chatbot
 
-In the backend, you can have several starting points. You can either start an experience by using a copy of an existing one, you can use our ready-to-use experiences that give you a process flow to customize yourself, or you can start from scratch with a blank process.
+In the backend, you can have several starting points. You can either start an experience by using a copy of an existing one, you can use our ready-to-use experiences from our template store that give you a process flow to customize yourself, or you can start from scratch with a blank process.
 
 <p align="center">
   <img src="startscreen.png" alt="LoyJoy startscreen" title="LoyJoy startscreen" width="500"/>
