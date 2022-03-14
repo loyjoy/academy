@@ -101,10 +101,13 @@ To make sure you stay on top of your chat flow, you can name your process module
 
 Now it is time to try out what you have built up so far. Here you can also define whether the chat recognises you as a "returner", on which day the chat should be played (only makes sense if a timer is also set in the modules) and in which language the chat should be displayed. 
 
+<p align="center">
+  <img src="refresh_preview.png" alt="Refresh preview" title="Refresh preivew" width="400"/>
+</p>
+
 Hit "Refresh Preview" and open the chat window by clicking on the chat bubble at the bottom. 
 
 <p align="center">
-  <img src="refresh_preview.png" alt="Refresh preview" title="Refresh preivew" width="400"/>
   <img src="button.png" alt="Chatbutton" title="Chatbutton" width="200"/>
 </p>
 
