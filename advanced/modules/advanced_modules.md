@@ -10,4 +10,3 @@
 | [Mini program](../../../../../welcome/blob/staging/help/processes/process/subprocesses/mini_program.md)| Insert any existing web application or website into the chat| Placeholder           | Placeholder           |           [How to *Mini program*](/advanced/modules/mini_program.md)        |
 | [Scanner](../../../../../welcome/blob/staging/help/processes/process/subprocesses/scanner.md)| Scan products, QR codes or bar codes |  Placeholder          | Placeholder           |           [How to *Scanner*](/advanced/modules/scanner.md)        |
 | [Decision table](../../../../../welcome/blob/staging/help/processes/process/subprocesses/dmn.md)                                    | Compute process variables |   Placeholder         |   Placeholder         |           [How to *Decision table*](/advanced/modules/dmn.md)        |
-
