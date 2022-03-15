@@ -30,10 +30,10 @@
 #### [Overview of basic modules](modules/basic_modules.md) 
 
 ### 6. Chat Design & Settings
-6.1.  [Branding tab](basic/design/branding/branding.md)<br>
-6.2.  [Languages tab](basic/design/language/language.md)<br>
-6.3.  [Textes/ Assets tabs](basic/design/text/text_and_assets.md)<br>
-6.4.  [Publish tab](basic/design/publish/publish.md)<br>
+6.1.  [Branding tab](design/branding/branding.md)<br>
+6.2.  [Languages tab](design/language/language.md)<br>
+6.3.  [Textes/ Assets tabs](design/text/text_and_assets.md)<br>
+6.4.  [Publish tab](design/publish/publish.md)<br>
 
 ### 7. Useful Links
 7.1.  [Overview of question types](help/processes/process/subprocesses/data_collection.md)<br>
