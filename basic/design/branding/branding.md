@@ -1,5 +1,5 @@
 
-## How to Adjust the Branding
+# How to Adjust the Branding
 
 Let's brand your chatbot to your preferences together. Give your chatbot a name and attract customers with a slogan. Add a placeholder for the open text field, if you wish so.
 
