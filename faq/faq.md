@@ -1,10 +1,10 @@
 # FAQs
 
-## [Around the Release 01/22](22-01-release.md)
+## [Release 01/22](22-01-release.md)
 
-## [About modules](modules/modules.md)
+## [FAQs - Modules](modules/modules.md)
 
-## [About settings](settings/settings.md)
+## [FAQs - Settings](settings/settings.md)
 
-## [About analytics](analytics/analytics.md)
+## [FAQs - Analytics](analytics/analytics.md)
 
