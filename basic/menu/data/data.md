@@ -1,7 +1,3 @@
-## Data
-+ Local Storage vs Datenbank
-+ Winner drawing
-...
 
 1. [Customers](#1-customers)
 2. [Consents](#2-consents)
