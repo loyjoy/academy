@@ -45,7 +45,7 @@ Amazing! Let's start customizing your experience to your wishes!
 
 #### The Chat Flow Editor
 
-Let's dive right into the Process Editor, the heart of every chat flow. On the left side, you can find [all basic process modules](https://github.com/loyjoy/welcome/blob/master/documentation/process_building_blocks/PROCESS_BUILDING_BLOCKS.md) to use for your chat flow. Simply drag and drop the process modules into your flow.
+Let's dive right into the Process Editor, the heart of every chat flow. On the left side, you can find [all basic process modules](https://github.com/loyjoy/academy/blob/main/basic/modules/basic_modules.md) to use for your chat flow. Simply drag and drop the process modules into your flow.
 
 <p align="center">
   <img src="add_to_editor.gif" alt="Add bricks to editor" title="Add bricks to editor" width="500"/>
