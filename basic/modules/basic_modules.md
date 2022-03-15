@@ -4,19 +4,19 @@
 
 | Module                                   | Description                                                         | Pros       | Cons       |
 | ---------------------------------------- | ------------------------------------------------------------------- | ---------- |----------- |
-| [Simple Message](help/processes/process/subprocesses/message.md) | Plain chat message + image optionally       | Simple     | No line break, no jumps| 
-| [Decision Jump](help/processes/process/subprocesses/jump_decision.md)  | Jump into another modul or experience | Easy branch | No variables, only quick replies|
+| [Simple Message](help/processes/process/subprocesses/message.md) | Send plain chat message | Simple, possible to add image    | No line break, no jumps| 
+| [Decision Jump](help/processes/process/subprocesses/decision_jump.md)  | Jump into another modul or experience | Easy branch | No variables, only quick replies|
 [Questionnaire](help/processes/process/subprocesses/questionnaire.md) | Collect customer information  | CRM integration     | Placeholder| 
-[Product gallery](help/processes/process/subprocesses/product_gallery.md) | Show products to customers| Insert as many products as you like |Placeholder | 
+[Product gallery](help/processes/process/subprocesses/product_gallery.md) | Show products to customers| Customizable |Placeholder | 
 [Video gallery](help/processes/process/subprocesses/video_gallery.md) | Add videos to chat       |  Videos playing in chat window    | Placeholder| 
 [Image gallery](help/processes/process/subprocesses/image_gallery.md) | Add images to chat| Swipe through gallery     | Limited to 5 images| 
-[Animation](help/processes/process/subprocesses/animation.md) | Show an animation | Placeholder     | Placeholder| 
+[Animation](help/processes/process/subprocesses/animation.md) | Show an animation | Many animations to choose from     | Placeholder| 
 [Share link](help/processes/process/subprocesses/share_link.md) | Let customers share their experience       |Share on social media     | Placeholder| 
 [Email](help/processes/process/subprocesses/email.md) | Ask customer for email address      |Email stored as variable      |Placeholder | 
 [External link](help/processes/process/subprocesses/external_link.md) |Link to an external website  |WebView (open website in chat)|Placeholder | 
-[Proceed question](help/processes/process/subprocesses/proceed_question.md) | Press a button to continue       |Placeholder      |Placeholder | 
+[Proceed question](help/processes/process/subprocesses/proceed_question.md) | Press a button to continue       |Fast and interactive      |Placeholder | 
 [Quiz](help/processes/process/subprocesses/quiz.md) | Let your customers play a quiz       |Gamification element      |Placeholder | 
-[Giveaway participation](help/processes/process/subprocesses/giveaway_participation.md) | Let customers participate in raffles |Placeholder      |Placeholder | 
+[Giveaway participation](help/processes/process/subprocesses/giveaway_participation.md) | Let customers participate in raffles |Customer retention |Placeholder | 
 [Newsletter Opt-in](help/processes/process/subprocesses/newsletter_opt-in.md) | Ask for newsletter opt-in  |GDPR compliant double opt-in      |Placeholder | 
 
 
