@@ -23,7 +23,7 @@
 ### 4. Conversation design practice  
 
 4.1.  [Build a Conversational Experience](conversation/build/build_a_conversational_experience.md) <br>
-4.2.  [Dos & don’ts](conversation/build/dos_and_donts.md) <br>
+4.2.  [Dos & don’ts](conversation/do/dos_and_donts.md) <br>
 
 ### 5. Basic modules
 
