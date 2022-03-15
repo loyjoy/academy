@@ -23,7 +23,7 @@
 ### 4. Conversation design practice  
 
 4.1.  [Build a Conversational Experience](conversation/build/build_a_conversational_experience.md) <br>
-4.2.  [Dos & don’ts](conversation/do/dos_and_donts.md) <br>
+4.2.  [Dos & dont's](conversation/do/dos_and_donts.md) <br>
 
 ### 5. Basic modules
 
@@ -37,10 +37,9 @@
 6.5.  Publish tab <br>
 
 ### 7. Useful Links
-7.1.  Link to overview of question types https://github.com/loyjoy/welcome/blo...<br>
-7.2.  Link to Emojipedia https://emojipedia.org/ <br>
-7.3.  Link to pick up your Corporate Color https://imagecolorpicker.com/ <br>
-7.4.  7 Rules of Conversation <br>
+7.1.  [Overview of question types](help/processes/process/subprocesses/data_collection.md)<br>
+7.2.  [Emojipedia](https://emojipedia.org/) <br>
+7.3.  [Pick up your Corporate Color](https://imagecolorpicker.com/) <br>
 
 ### 8. From idea to conversation
 8.1.  KPIs <br>
