@@ -1,6 +1,6 @@
 ## BASIC Modules
 
-*[See also Module-FAQs](/faq/modules.md)*
+*[See also Module-FAQs](https://github.com/loyjoy/academy/blob/main/faq/modules/modules.md)*
 
 | Module                                   | Description                                                         | Pros       | Cons       |
 | ---------------------------------------- | ------------------------------------------------------------------- | ---------- |----------- |
