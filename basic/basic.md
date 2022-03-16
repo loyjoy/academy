@@ -44,4 +44,4 @@
 8.1.  KPIs <br>
 8.2.  Use cases <br>
 8.3.  Practical exercise <br>
-8.4.  Checklist <br>
+8.4.  [Checklist](idea/new_checklist.md) <br>
