@@ -2,7 +2,7 @@
 
 *[See also Module-FAQs](/faq/modules/modules.md)*
 
-| Module                                                  | Description                                        | Pros       | Cons       | more detailed description |
+| Module                                                  | Description                                        | Pros       | Cons       | Detailed description |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
 | [Signal](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Trigger execution of process|  Useful when working with DOIs     | Expensive when used tenant wide          |[How to *Signal*](detailed.md#signal) |
 | [NPS survey](../../../../../welcome/blob/staging/help/processes/process/subprocesses/nps_survey.md) | Ask for Net Promoter Score |Slider to adjust your score |Placeholder         |           [How to *NPS survey*](detailed.md#nps-survey)|
