@@ -1,10 +1,10 @@
-### 1. Advanced modules
-> [Overview of advanced modules](modules/advanced_modules.md) 
+## 1. Advanced modules
+[Overview of advanced modules](modules/advanced_modules.md) 
 
-### 2. Advanced features
-+ [NLU](nlu/nlu.md)
-+ Push
-+ Live
+## 2. Advanced features
+#### [2.1.  NLU](nlu/nlu.md) <br/>
+#### [2.2.  Push](push/push.md) <br/>
+#### [2.3.  Live](live/live.md) 
 ### 3. Google Assistant Panera Bread Integration
 ### 4. Using variables & conditions
 + Case: AB-Test
