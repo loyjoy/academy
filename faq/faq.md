@@ -2,9 +2,12 @@
 
 ## [Release 01/22](22-01-release.md)
 
-## [FAQs - Modules](modules/modules.md)
+## [Loyjoy in general](loyjoy/loyjoy_in_general.md)
 
-## [FAQs - Settings](settings/settings.md)
+## [Modules](modules/modules.md)
 
-## [FAQs - Analytics](analytics/analytics.md)
+## [Settings](settings/settings.md)
 
+## [Analytics](analytics/analytics.md)
+
+## [NLU](nlu/nlu.md)
