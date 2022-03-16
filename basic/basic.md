@@ -2,7 +2,7 @@
 
 ### 1. Welcome to LoyJoy
 
-[Welcome video](welcome/welcome_to_loyjoy.md) <br>
+1.1. [Welcome video](welcome/welcome_to_loyjoy.md) <br>
 
 ### 2. Getting started
 
@@ -27,7 +27,7 @@
 
 ### 5. Basic modules
 
-   [Overview of basic modules](modules/basic_modules.md) 
+5.1.   [Overview of basic modules](modules/basic_modules.md) 
 
 ### 6. Chat Design & Settings
 6.1.  [Branding tab](design/branding/branding.md)<br>
