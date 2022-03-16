@@ -1,5 +1,5 @@
 ### 1. Advanced modules
-#### [Overview of advanced modules](modules/advanced_modules.md) 
+1.1. [Overview of advanced modules](modules/advanced_modules.md) 
 
 ### 2. Advanced features
 + [NLU](nlu/nlu.md)
