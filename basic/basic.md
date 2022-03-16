@@ -27,7 +27,7 @@
 
 ### 5. Basic modules
 
-5.1.   [Overview of basic modules](modules/basic_modules.md) 
+   [Overview of basic modules](modules/basic_modules.md) 
 
 ### 6. Chat Design & Settings
 6.1.  [Branding tab](design/branding/branding.md)<br>
