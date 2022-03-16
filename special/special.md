@@ -1,10 +1,11 @@
-### 🎄 Advent calendar
+## 🎄 Advent calendar
+> + [Checklist](advent/advent_checklist.md)
 
-### 🛍️ Product finder
+## 🛍️ Product finder
 
-### 🏅 Loyalty Program
+## 🏅 Loyalty Program
 
-### 💬 Live chat
+## 💬 Live chat
 
-### 💡 BDF Guides
-
+## 💡 BDF Guides
+> + [One-time-pin vs. NL registration without profile](bdf/otp.md) 
