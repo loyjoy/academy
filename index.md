@@ -8,6 +8,6 @@ Here you find the academy documentation for [LoyJoy Conversational Marketing Clo
 | ------------------------------------------------------------------------| ------------------------------------------------------------ |
 | [BASIC](basic/basic.md)                                                 |  How to bring the joy 🎉                                     |
 | [ADVANCED](advanced/advanced.md)                                        |  How to bring advanced joy ⭐                                | 
-| [SPECIAL](special/special.md)                                           |  How to how to get around with special use cases             |
-| [FAQs](faq/faq.md)                                                      |  What I have always wondered                                 |
+| [SPECIAL](special/special.md)                                           |  How to get around with special use cases                    |
 | [GUIDES](guides/guides.md)                                              |  Tec-Content 👾                                              | 
+| [FAQs](faq/faq.md)                                                      |  What I have always wondered                                 |
