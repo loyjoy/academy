@@ -2,7 +2,8 @@
 1. [Customers](#1-customers)
 2. [Consents](#2-consents)
 3. [Giveaways](#3-giveaways)
-4. [Runtime log](#4-runtime-log)
+4. [Instant win](#4-instant-win)
+5. [Runtime log](#5-runtime-log)
 
 ### 1. Customers
 
@@ -38,11 +39,27 @@ In the giveaway tab, you have the possibility to manage your giveaways and to dr
 In this section, you will first see all the winners drawn and below that all the participants. 
 There is always an email address for each customer. You can also see all the personal data that has been entered via the corresponding modules. This includes, for example, the postal address. 
 
-In the area of the drawn winners, you can draw as many winners as you want via the button 'draw participation'. You can also export the winners as well as all participants with their data as a CSV. To do this, click on the button for the participants or for the drawn winners.
+In the area of the drawn participations, you can draw as many winners as you want via the button 'draw participation'. You can also export the winners as 
+well as all participants with their data as a CSV. To do this, click on the button for the participants or for the drawn winners.
 The data will be automatically deleted 60 days after creation.
 
+#### Participations
+In this area, you can see all participants. You can also see all the data that the participant has entered. If, for example, you were asked for the 
+postal address in the chat, it will be displayed here. You can also see in which experience the customer took part in the competition and when.
+You can either delete the data individually via the bin symbol or you can delete all of them via the button 'Delete all entries' at the top right. If you 
+do not delete the data yourself, it will be deleted automatically after 60 days.
 
-### 4. Runtime log
+#### Drawn participations
+Here you can see all the participants drawn. You can see all the personal information that was asked for in the chatbot, such as the postal address. In 
+addition, under 'created at' you can see when the participant was drawn and under 'participated at' when the customer participated.You can either delete 
+the data individually via the bin symbol or you can delete all of them via the button 'Delete all entries' at the top right. If you 
+do not delete the data yourself, it will be deleted automatically after 60 days.
+
+### 4. Instant win
+This area is structured in the same way as the tab for [giveaways](#3-giveaways). The only difference is that there is no button for the winner drawing, as these have 
+already been selected automatically.
+
+### 5. Runtime log
 
 The runtime log stores events, which have occurred for the tenant in the last 7 days. Typical log entries e.g. are that customers signed up in the chat, or that errors have happened when communicating with remote REST apis such as Salesforce.
 
