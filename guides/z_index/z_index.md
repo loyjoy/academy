@@ -20,13 +20,13 @@ still belongs to the popup. In the style section of the inspector, you then
 search for `z-index`. The resulting number is the z-index that LoyJoy has can
 not be above. In this example the z-index is `9999999`.
 
-<p align="center">
-  <img src="inspect.png" alt="Inspect the popup" title="Inspect the popup" width="800"/>
-</p>
 
-<p align="center">
-  <img src="style.png" alt="Find the z-index" title="Find the z-index" width="800"/>
-</p>
+![Inspect the popup](inspect.png "Inspect the popup")
+
+
+
+![Find the z-index](style.png "Find the z-index")
+
 
 ## 3. Changing the LoyJoy z-index (drawing 'height')
 
@@ -44,6 +44,6 @@ You can enter this value in the corresponding field in the `Branding` tab in
 the LoyJoy backend. Afterwards, your popup should lie above the LoyJoy
 elements.
 
-<p align="center">
-  <img src="branding.png" alt="Set the z-index" title="Set the z-index" width="800"/>
-</p>
+
+![Set the z-index](branding.png "Set the z-index")
+

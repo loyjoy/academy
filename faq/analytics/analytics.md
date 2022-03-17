@@ -58,7 +58,7 @@ conversion rate:
 For this purpose we have created the drilldown tab. Here you can see all the
 modules of your experience and see how often each one of them was visited:
 
- <img src="https://github.com/loyjoy/academy/blob/main/faq/analytics/heatmap.jpeg" alt="Heatmap showing how often each process module was seen" title="Heatmap showing how often each process module was seen" width="300"/>
+![Heatmap showing how often each process module was seen](https://github.com/loyjoy/academy/blob/main/faq/analytics/heatmap.jpeg "Heatmap showing how often each process module was seen")
 
 
 Here we can see that the process was started 6 times (number above the top

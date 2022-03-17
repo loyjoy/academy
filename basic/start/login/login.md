@@ -1,8 +1,7 @@
 
 # How to Log in
 
-After your first call with the LoyJoy team, you will receive an email inviting you to the LoyJoy platform. Please click “Confirm my account” within 24 hours to activate your access your tenant on the LoyJoy platform. Think of your tenant as being your team's playground to create chat experiences and much more. 
-
+After your first call with the LoyJoy team, you will receive an email inviting you to the LoyJoy platform. Please click “Confirm my account” within 24 hours to activate your access your tenant on the LoyJoy platform. Think of your tenant as being your team's playground to create chat experiences and much more.
 
 ![How to log in](confirm_account.png "How to log in")
 

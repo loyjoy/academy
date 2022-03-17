@@ -5,25 +5,25 @@ The **`Questionnaire`** is a powerful process building block to collect differen
 ## The process building block **Questionnaire**
 Add a new chatbot experience or copy an excisting experience. Then add the process block **`Questionnaire`** in the process editor.
 
-<p align="center">
-  <img src="questionnaire_main2.png" alt="Questionnaire Process Block" title="LoyJoy Questionnaire Process Block" width="800"/>
-</p>
+
+![Questionnaire Process Block](questionnaire_main2.png "LoyJoy Questionnaire Process Block")
+
 
 Now close the process editor to access the process building block `Questionnaire`. 
 
-<p align="center">
-  <img src="questionnaire_main.png" alt="Questionnaire Process Block" title="LoyJoy Questionnaire Process Block" width="800"/>
-</p>
+
+![Questionnaire Process Block](questionnaire_main.png "LoyJoy Questionnaire Process Block")
+
 
 You can add questions here and select the `Question type`. Give your question an (optional) introduction text while using the text field ´Intro´ to post a simple message before your question. Enter your question in the `Question` field. You can also set an (optional) message that will be sent regardless of the response from your customers with the text field `React to an answer`. `Add answer` options if your type of question requires pre-set answers. 
 
-<p align="center">
-  <img src="questionnaire1.png" alt="Questionnaire Process Block Detail 1" title="LoyJoy Questionnaire Process Block in Detail" width="400"/>
-</p>
 
-<p align="center">
-  <img src="questionnaire2.png" alt="Questionnaire Process Block Detail 1" title="LoyJoy Questionnaire Process Block in Detail" width="400"/>
-</p>
+![Questionnaire Process Block Detail 1](questionnaire1.png "LoyJoy Questionnaire Process Block in Detail")
+
+
+
+![Questionnaire Process Block Detail 1](questionnaire2.png "LoyJoy Questionnaire Process Block in Detail")
+
 
 ## Let's look at the **different question types** of the Questionnaire.
 
@@ -56,150 +56,150 @@ You can choose from a range of different question types according to your object
 
 One of the most used question type. This question type creates the famous button design. 
 
-<p align="center">
-  <img src="quick_reply.png" alt="Process Building Blocks Quick Reply" title="Process Building Blocks Quick Reply" width="300"/>
-</p>
+
+![Process Building Blocks Quick Reply](quick_reply.png "Process Building Blocks Quick Reply")
+
 
 ### Accordion
 
 If your answer option are a little bit longer, use the Accordion to provide more complex answer options and have your customer unfold the answers.
 
-<p align="center">
-  <img src="accordion.png" alt="process building blocks accordion" title="Process Building Blocks Accordion" width="300"/>
-</p>
+
+![process building blocks accordion](accordion.png "Process Building Blocks Accordion")
+
 
 ### Address query
 
 Your customer is asked to enter his address. This is supported by Google Maps and suggests addresses before the input is completed.
 
-<p align="center">
-  <img src="adress_entry.png" alt="process building blocks adress entry" title="process building blocks adress entry" width="300"/>
-</p>
+
+![process building blocks adress entry](adress_entry.png "process building blocks adress entry")
+
 
 ### Categorical slider
 
 Define categories and ask the customer to find his opinion on the slider.
 
-<p align="center">
-  <img src="scale2.png" alt="Process Building Blocks categorical Slider" title="Process Building Blocks categorical Slider" width="300"/>
-</p>
+
+![Process Building Blocks categorical Slider](scale2.png "Process Building Blocks categorical Slider")
+
 
 ### Date input
 
 Ask your customer to select a date.
 
-<p align="center">
-  <img src="date.png" alt="process building blocks date" title="process building blocks date" width="300"/>
-</p>
+
+![process building blocks date](date.png "process building blocks date")
+
 
 ### Dropdown select
 
 Create a dropdown menu and let your customer choose one of the given options.
 
-<p align="center">
-  <img src="dropdown.png" alt="process building blocks dropdown" title="process building blocks dropdown" width="300"/>
-</p>
+
+![process building blocks dropdown](dropdown.png "process building blocks dropdown")
+
 
 ### File upload
 
 Ask your customer to upload a file from his computer or phone.
 
-<p align="center">
-  <img src="upload_file.png" alt="Process Building Blocks Upload File" title="Process Building Upload File" width="300"/>
-</p>
+
+![Process Building Blocks Upload File](upload_file.png "Process Building Upload File")
+
 
 ### Gallery image select
 
 Let your customer choose one picture from multiple provided.
 
-<p align="center">
-  <img src="image_selection.png" alt="Process Building Blocks Image Selection" title="Process Building Image Selection" width="300"/>
-</p>
+
+![Process Building Blocks Image Selection](image_selection.png "Process Building Image Selection")
+
 
 ### Horizontal slider
 
 The horizontal slider gives you the possiblity to present content and have your customer select from the options.
 
-<p align="center">
-  <img src="selection.png" alt="Process Building Blocks Horizontal Slider" title="Process Building Blocks Horizontal Slider" width="300"/>
-</p>
+
+![Process Building Blocks Horizontal Slider](selection.png "Process Building Blocks Horizontal Slider")
+
 
 ### IBAN input
 
 Ask your customer to enter his IBAN. For privacy reasons, this data will not be shown in the analytics.
 
-<p align="center">
-  <img src="iban.png" alt="process building blocks Iban" title="process building blocks iban" width="300"/>
-</p>
+
+![process building blocks Iban](iban.png "process building blocks iban")
+
 
 ### Image upload
 
 Your customer can upload an image from his computer or phone.
 
-<p align="center">
-  <img src="image.png" alt="Process Building Blocks Image Upload" title="Process Building Blocks Image Upload" width="300"/>
-</p>
+
+![Process Building Blocks Image Upload](image.png "Process Building Blocks Image Upload")
+
 
 ### Multiple choice
 
 Let your customer select multiple answer options.
 
-<p align="center">
-  <img src="multiple_choice.png" alt="Process Building Blocks Multiple Choice" title="Process Building Blocks Multiple Choice" width="300"/>
-</p>
+
+![Process Building Blocks Multiple Choice](multiple_choice.png "Process Building Blocks Multiple Choice")
+
 
 ### Numerical input
 
 Ask your customer to enter a precise number.
 
-<p align="center">
-  <img src="numeric_input.png" alt="Process Building Blocks Numerical Input" title="Process Building Blocks Numerical Input" width="300"/>
-</p>
+
+![Process Building Blocks Numerical Input](numeric_input.png "Process Building Blocks Numerical Input")
+
 
 ### Numerical slider
 
 Ask your customer to give you feedback on a slider. You can set the minimum and maximum value of your slider and choose from the percentage (32%), floating-point number (5.676,...) or Integer (3,4,...).
 
-<p align="center">
-  <img src="scale.png" alt="Process Building Blocks Numerical Slider" title="Process Building Blocks Numerical Slider" width="300"/>
-</p>
+
+![Process Building Blocks Numerical Slider](scale.png "Process Building Blocks Numerical Slider")
+
 
 ### Ordering/prioritize
 
 You customer can prioritize the given answer options by clicking the answers.
 
-<p align="center">
-  <img src="ranking.png" alt="Process Building Blocks Ranking" title="Process Building Blocks Ranking" width="300"/>
-</p>
+
+![Process Building Blocks Ranking](ranking.png "Process Building Blocks Ranking")
+
 
 ### Phone number
 
 Ask your customer for a phone number.
 
-<p align="center">
-  <img src="phone_number.png" alt="Process Building Blocks Phone Number" title="Process Building Blocks Phone Number" width="300"/>
-</p>
+
+![Process Building Blocks Phone Number](phone_number.png "Process Building Blocks Phone Number")
+
 
 ### Rating
 
 Use this question to receive feedback from your customers. Let them choose to give you one to five stars or hearts.
 
-<p align="center">
-  <img src="rating.png" alt="Process Building Blocks Rating" title="Process Building Blocks Rating" width="300"/>
-</p>
+
+![Process Building Blocks Rating](rating.png "Process Building Blocks Rating")
+
 
 ### Single choice
 
 Ask your customers to pick one out of many answer options.
 
-<p align="center">
-  <img src="single_choice.png" alt="Process Building Single Choice" title="Process Building single Choice" width="300"/>
-</p>
+
+![Process Building Single Choice](single_choice.png "Process Building single Choice")
+
 
 ### Text input
 
 Ask your customer to type something. 
 
-<p align="center">
-  <img src="text_field.png" alt="Process Building Blocks Text input" title="Process Building Text Input" width="300"/>
-</p>
+
+![Process Building Blocks Text input](text_field.png "Process Building Text Input")
+

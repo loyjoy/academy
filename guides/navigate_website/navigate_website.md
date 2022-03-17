@@ -45,9 +45,9 @@ tab (native browser behaviour). To change this, you can use the setting
 in the external link module. We have to use the event name from the snippet here
 (`openlink`).
 
-<p align="center">
-  <img src="external_link.png" alt="External link module triggering an event" title="External link module triggering an event" width="800"/>
-</p>
+
+![External link module triggering an event](external_link.png "External link module triggering an event")
+
 
 Additionally, you can use the markdown syntax
 `[Text](https://www.example.org)(@openlink)` (the `@` is required in front of
@@ -55,6 +55,6 @@ the event name) to trigger an event instead of opening the link in a new tab.
 This way, you can also have link have links in normal text messages navigate
 your website.
 
-<p align="center">
-  <img src="text_link.png" alt="Text link triggering an event" title="Text link triggering an event" width="800"/>
-</p>
+
+![Text link triggering an event](text_link.png "Text link triggering an event")
+

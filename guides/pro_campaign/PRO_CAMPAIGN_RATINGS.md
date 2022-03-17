@@ -4,9 +4,9 @@
  
 Customers will be able to rate a product within the LoyJoy chat. In this article you will learn how to then automatically tranfer the ratings to ProCampaign.
 
-<p align="center">  
-  <img src="pro_campaign_integration/pro_campaign_ratings.png" alt="Ratings and review chatbot in LoyJoy" title="LoyJoy ProCampaign Ratings Reviews Data Transfer" width="800"/>
-</p>
+  
+![Ratings and review chatbot in LoyJoy](pro_campaign_integration/pro_campaign_ratings.png "LoyJoy ProCampaign Ratings Reviews Data Transfer")
+
 
 ## 2. What you need for this solution to work
 
@@ -22,9 +22,9 @@ To start sending ratings from LoyJoy to ProCampaign you will need the following 
 
 To build a chatbot which collects ratings and reviews from your customers, we have to add a **`Questionnaire`** process block to our chat flow. A `Questionnaire` should be used when user input is needed. In case your data is not influenced by the customers' input, you can add a **`Variable`** process block to your flow. Please add the **`ProCampaign`** and the **`Sign in`** process block to your chatflow too.  
 
-  <p align="center">  
+    
     <img src="pro_campaign_integration/variable_process.png" alt="Ratings and review process block chatbot in LoyJoy" title="Ratings and review process block chatbot in LoyJoy" width="600" />
-  </p>
+  
 
 In LoyJoy you can create custom data fiels, we call them variables, and store them in the LoyJoy customer database. All the data we send to ProCampaign for the review must first be defined as variables.
 
@@ -46,9 +46,9 @@ Drag a `Questionnaire` process block to your chatflow and choose the question ty
   Add a variable to determine the source of your product and use the variable name: **procampaign_rating_url** 
   This could be the milk chocolate product page on our website.
   
-  <p align="center">  
+    
     <img src="pro_campaign_integration/pro_campaign_url.png" alt="Ratings and review url chatbot in LoyJoy" title="LoyJoy ProCampaign url Ratings Reviews Data Transfer" width="600" />
-  </p>
+  
 
   - Ask your customers if they would recommend the product     
   **procampaign_rating_is_recommended** 
@@ -66,9 +66,9 @@ Drag a `Questionnaire` process block to your chatflow and choose the question ty
   **procampaign_rating_value** - `Questionnaire`
   We ask our customers to give us a star-rating of the chocolate.
 
-  <p align="center">  
-    <img src="pro_campaign_integration/procampaign_integration_5star_rating.png" alt="Ratings and review  5stars chatbot in LoyJoy" title="LoyJoy ProCampaign 5 stars Ratings Reviews Data Transfer" width="600"/>
-  </p>
+    
+![Ratings and review  5stars chatbot in LoyJoy](pro_campaign_integration/procampaign_integration_5star_rating.png "LoyJoy ProCampaign 5 stars Ratings Reviews Data Transfer")
+  
 
 Make sure you included all above-mentioned `ProCampaign` process variables in your chat flow.
 
@@ -78,9 +78,9 @@ After you defined your variables of the rating data which you would like to tran
 
 In the process block, select `Rating - Review a product`.
 
-<p align="center">  
-  <img src="pro_campaign_integration/procampaign_process_brick.png" alt="Ratings and review chatbot in LoyJoy" title="LoyJoy ProCampaign Ratings Reviews Data Transfer" width="800"/>
-</p>
+  
+![Ratings and review chatbot in LoyJoy](pro_campaign_integration/procampaign_process_brick.png "LoyJoy ProCampaign Ratings Reviews Data Transfer")
+
 
 ## 5. Configure the data transfer
 
@@ -88,9 +88,9 @@ You've completed all the configurations within the chat. Now you have to set up 
 
 On the LoyJoy platform, go to settings, then choose integration. Choose ProCampaign and click on "Add now".
 
-<p align="center">
-  <img src="pro_campaign_integration/pro_campaign_integration.png" alt="LoyJoy to ProCampaign" title="LoyJoy to ProCampaign" width="800"/>
-</p>
+
+![LoyJoy to ProCampaign](pro_campaign_integration/pro_campaign_integration.png "LoyJoy to ProCampaign")
+
 
 This will add a new tab with the name "ProCampaign" below the cards.
 
@@ -99,9 +99,9 @@ Scroll down to "General settings".
 Set a name for your integration (since you can have several integrations this will help you keeping track of)
 Enter your API key that you got from your ProCampaign admin
 
-<p align="center">
-  <img src="pro_campaign_integration/pro_campaign_integration_api_key.png" alt="API key for ProCampaign" title="API key for ProCampaign" width="800"/>
-</p>
+
+![API key for ProCampaign](pro_campaign_integration/pro_campaign_integration_api_key.png "API key for ProCampaign")
+
 
 The requirement for the API keys is different, depending on whether reviews are only allowed for logged in users or for all users:
 
@@ -116,9 +116,9 @@ Now scroll down until you see a tab called "Add mapping". A mapping maps field n
 - Enter the variable name from LoyJoy that you want to transfer as Source (here: "customer_email")  -> **the variable customer_email will transfer the ratings and review data to ProCampaign**
 - Enter the target name of the data field that you store in ProCampaign (here: "Email")
 
-<p align="center">  
-  <img src="pro_campaign_integration/procampaign_mapping.png" alt="Mapping settings LoyJoy to ProCampaign" title="Mapping settings LoyJoy to ProCampaign" width="800"/>
-</p>
+  
+![Mapping settings LoyJoy to ProCampaign](pro_campaign_integration/procampaign_mapping.png "Mapping settings LoyJoy to ProCampaign")
+
 
 
 Now you can test the data transfer and you are ready to go!
@@ -130,9 +130,9 @@ If you run into problems, here are some typical solutions:
 - Are the field names in ProCampaign written correctly?
 - Has your API key the necessary rights? (check out the log in LoyJoy for error messages, you find it at the bottom of the page settings > integrations)
 
-<p align="center">
-  <img src="pro_campaign_integration/pro_campaign_integration_log.png" alt="Integration log in LoyJoy" title="Integration log in LoyJoy" width="800"/>
-</p>
+
+![Integration log in LoyJoy](pro_campaign_integration/pro_campaign_integration_log.png "Integration log in LoyJoy")
+
 
 
 

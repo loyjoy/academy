@@ -60,9 +60,9 @@ The parameter `myparam` is now freely available in LoyJoy. Parameter names can b
 
 Inside LoyJoy, we can access this parameter and, for example, make an automatic jump based on it:
 
-<p align="center">
-  <img src="process-jump-condition.png" alt="LoyJoy A/B testing" title="LoyJoy A/B testing" width="800"/>
-</p>
+
+![LoyJoy A/B testing](process-jump-condition.png "LoyJoy A/B testing")
+
 
 Here, we trigger an automatic jump, if the given parameter is has the value `true`. This jump can lead
 to a specific position in the process or to another process altogether.
@@ -81,9 +81,9 @@ It is required that the param name starts with `loyjoy-` so that LoyJoy can iden
 
 Inside LoyJoy, we can access this parameter and, for example, make an automatic jump based on it:
 
-<p align="center">
-  <img src="url-params.png" alt="LoyJoy A/B testing with URL params" title="LoyJoy A/B testing with URL parameters" width="800"/>
-</p>
+
+![LoyJoy A/B testing with URL params](url-params.png "LoyJoy A/B testing with URL parameters")
+
 
 Here, we trigger an automatic jump, if the given parameter is has the value `true`. This jump can lead
 to a specific position in the process or to another process altogether.
@@ -98,16 +98,16 @@ The next step is an automatic jump that will lead half of the users to variant B
 
 At the end of variant A and B there is a decision jump. This allows us to count independently how often this point was reached and how often users proceeded to the next step:
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/8091176/125585761-0a2b3c63-b554-4546-ae92-71286d9dd38d.png" alt="LoyJoy A/B testing" title="LoyJoy A/B testing" width="400"/>
-</p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/8091176/125586528-28a01e25-55f3-4346-bb8e-436c6675fa7f.png" alt="LoyJoy A/B testing" title="LoyJoy A/B testing" width="400"/>
-</p>
+![LoyJoy A/B testing](https://user-images.githubusercontent.com/8091176/125585761-0a2b3c63-b554-4546-ae92-71286d9dd38d.png "LoyJoy A/B testing")
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/8091176/125586557-edda0b2e-7fd9-47d3-a62d-d62bd83ab802.png" alt="LoyJoy A/B testing" title="LoyJoy A/B testing" width="400"/>
-</p>
+
+
+![LoyJoy A/B testing](https://user-images.githubusercontent.com/8091176/125586528-28a01e25-55f3-4346-bb8e-436c6675fa7f.png "LoyJoy A/B testing")
+
+
+
+![LoyJoy A/B testing](https://user-images.githubusercontent.com/8091176/125586557-edda0b2e-7fd9-47d3-a62d-d62bd83ab802.png "LoyJoy A/B testing")
+
 
 Here we can see that both variants were shown 4 times, 2 of the users in variant B continued and only one in variant A.

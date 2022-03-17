@@ -9,15 +9,15 @@ ____
 
 # What Is a Chatbot?
 
-<p align="center">
-  <img src="Chatbot.png" alt="chatbot" title="Chatbot" width="600"/>
-</p>
+
+![chatbot](Chatbot.png "Chatbot")
+
 
 # What Is a Conversational Platform?
 
-<p align="center">
-  <img src="Coversational_platform.png" alt="platform" title="Platform" width="600"/>
-</p>
+
+![platform](Coversational_platform.png "Platform")
+
 
 # What Is a BPMN Engine?
 

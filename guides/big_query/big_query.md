@@ -17,9 +17,9 @@ Open Google Cloud BigQuery with this Google Cloud Project.
 
 Create a table `facts` in your Google Cloud project with the following schema.
 
-<p align="center">
-  <img src="facts.png" alt="Create facts table" title="Create facts table" width="800"/>
-</p>
+
+![Create facts table](facts.png "Create facts table")
+
 
 ```
 facts:
@@ -35,9 +35,9 @@ facts:
 
 Create a table `dimensions` in your Google Cloud project with the following schema.
 
-<p align="center">
-  <img src="dimensions.png" alt="Create dimensions table" title="Create dimensions table" width="800"/>
-</p>
+
+![Create dimensions table](dimensions.png "Create dimensions table")
+
 
 ```
 dimensions:
