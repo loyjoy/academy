@@ -4,7 +4,7 @@ Insert detailed description here. (if explanation in the help bar is not suffici
 
 # Mini program
 
-Insert detailed description here. (if explanation in the help bar is not sufficient)
++ Some server security settings don't allow itself to be embedded on pages other than itself. This prevents e.g. phishing sites pretending to be the website. So mini programs can only work when the chatbot is running on the actual page. 
 
 # NPS survey
 
