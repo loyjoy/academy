@@ -11,12 +11,11 @@ Now enter your default language.
 
 ![Set a default language](default_language.png "Set a default language")
 
-Placeholder
+Once you have selected English (the default language in this example) and German as the languages for your experience, go to the bottom of the page and use "Translate locale". This is where you select English-German and click on "translate".
 
 ![Translation example](translation_example.png "Translation example")
 
-Placeholder 
-
+At this point, you can go to the dialogue tab and see the translated text.
 ![Language example text](language_example_text.png "Language example text")
 
 
