@@ -12,10 +12,10 @@
 [Image gallery](help/processes/process/subprocesses/image_gallery.md) | Add images to chat| Swipe through gallery     | Limited to 5 images| 
 [Animation](help/processes/process/subprocesses/animation.md) | Show an animation | Many animations to choose from     | Lagging on older devices?| 
 [Share link](help/processes/process/subprocesses/share_link.md) | Let customers share their experience       |Share on social media     | Displayed sharing buttons depend on device and installed apps| 
-[Email](help/processes/process/subprocesses/email.md) | Ask customer for email address      |Email stored as variable      |Placeholder | 
+[Email](help/processes/process/subprocesses/email.md) | Ask customer for email address      |Email stored as variable      |Codemail in some cases| 
 [External link](help/processes/process/subprocesses/external_link.md) |Link to an external website  |WebView (open website in chat)|WebView: The linked website must not prohibit the integration in an IFrame via X-Frame-Options | 
-[Proceed question](help/processes/process/subprocesses/proceed_question.md) | Press a button to continue       |Fast and interactive      |Placeholder | 
-[Quiz](help/processes/process/subprocesses/quiz.md) | Let your customers play a quiz       |Gamification element      |Placeholder | 
+[Proceed question](help/processes/process/subprocesses/proceed_question.md) | Press a button to continue       |Fast and interactive      |NEVER as first element | 
+[Quiz](help/processes/process/subprocesses/quiz.md) | Let your customers play a quiz       |Gamification element      |No jump | 
 [Giveaway participation](help/processes/process/subprocesses/giveaway_participation.md) | Let customers participate in raffles |Customer retention |Provide email address to participate | 
 [Newsletter Opt-in](help/processes/process/subprocesses/newsletter_opt-in.md) | Ask for newsletter opt-in  |GDPR compliant double opt-in      | Email address of the customer must be known | 
 
