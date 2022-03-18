@@ -3,7 +3,8 @@
 2. [Consents](#2-consents)
 3. [Giveaways](#3-giveaways)
 4. [Instant win](#4-instant-win)
-5. [Runtime log](#5-runtime-log)
+5. [Codes](#5-codes)
+9. [Runtime log](#9-runtime-log)
 
 ### 1. Customers
 
@@ -63,26 +64,40 @@ already been selected automatically.
 
 #### Manage coupons
 First, select the experience in which you want to manage the coupons.
-You can add new coupons. To do this, either download the example CSV file using the button 'Download example CSV' and then upload it again using the button 
-'Upload CSV' or upload your CSV file using this button. CSV files can also be uploaded in the module itself.
+You can add new coupons. To do this, either download the example CSV file using the button 'Download example CSV' and then upload it again using the 
+button 'Upload CSV' or upload your CSV file using this button. CSV files can also be uploaded in the module itself.
 You can also see which coupons have already been awarded. You will receive the email of the coupon winner, when they received the coupon (issued at) and 
 when the coupon was created.
-You have the chance to download the information as a CSV file. The coupon codes are then listed in the file. In addition, the winner and when he or she won 
-the coupon is listed.
-You can either delete the data individually via the bin symbol or you can delete all of them via the button 'Delete all entries' at the top right. If you 
-do not delete the data yourself, it will be deleted automatically after 720 days.
+You have the chance to download the information as a CSV file. The coupon codes are then listed in the file. In addition, the winner and when he or she 
+won the coupon is listed.
+You can either delete the data individually via the bin symbol or you can delete all of them via the button 'Delete all entries' at the top right. If 
+you do not delete the data yourself, it will be deleted automatically after 720 days.
 
 #### Manage codes
+First, select the experience where you want to manage the codes. You can add new codes. To do this, either download the sample CSV file via the "Download 
+sample CSV" button and then upload it again via the "Upload CSV" button or upload your CSV file via this button. CSV files can also be uploaded in the 
+module itself. You can see which codes have already been awarded, how many points there are for each code, and whether you win with the code. You will 
+receive the winner's email, when they redeemed the code and when the code was uploaded. You have the option of downloading the information as a CSV 
+file. 
+The file will then list the codes. In addition, it is indicated how many points are awarded for which code, and whether one wins with the corresponding 
+code. If someone has redeemed a code, it also says when and with which email address.
+You can either delete the data individually via the bin symbol or you can delete all of them via the button 'Delete all entries' at the top right. If 
+you do not delete the data yourself, it will be deleted automatically after 720 days.
 
 #### Coupons
-In this section you can see all the coupon codes from the entire tenant. For each code, you can see who won it and when. In addition, you can see in which 
+In this section you can see all the coupon codes from the entire tenant. For each code, you can see who won it and when. In addition, you can see in 
+which 
 experience it is awarded and when the coupon was added there.
-You can either delete the data individually via the bin symbol or you can delete all of them via the button 'Delete all entries' at the top right. If you 
-do not delete the data yourself, it will be deleted automatically after 720 days.
+You can either delete the data individually via the bin symbol or you can delete all of them via the button 'Delete all entries' at the top right. If 
+you do not delete the data yourself, it will be deleted automatically after 720 days.
 
 #### Codes
+In this area, you have an overview of all codes in your tenant. For each code, you can see the number of points, whether you win with the code, the 
+experience in which the code is assigned, and when it was added. You can also see who redeemed the code and when.
+You can either delete the data individually via the bin symbol or you can delete all of them via the button 'Delete all entries' at the top right. If 
+you do not delete the data yourself, it will be deleted automatically after 720 days.
 
-### 5. Runtime log
+### 9. Runtime log
 
 The runtime log stores events, which have occurred for the tenant in the last 7 days. Typical log entries e.g. are that customers signed up in the chat, or that errors have happened when communicating with remote REST apis such as Salesforce.
 
