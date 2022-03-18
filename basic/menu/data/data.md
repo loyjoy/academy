@@ -4,6 +4,8 @@
 3. [Giveaways](#3-giveaways)
 4. [Instant win](#4-instant-win)
 5. [Codes](#5-codes)
+6. [Loyalty](#6-loyalty)
+7. [Variables](#7-variables)
 9. [Runtime log](#9-runtime-log)
 
 ### 1. Customers
@@ -96,6 +98,39 @@ In this area, you have an overview of all codes in your tenant. For each code, y
 experience in which the code is assigned, and when it was added. You can also see who redeemed the code and when.
 You can either delete the data individually via the bin symbol or you can delete all of them via the button 'Delete all entries' at the top right. If 
 you do not delete the data yourself, it will be deleted automatically after 720 days.
+
+### 6. Loyalty
+
+#### Manage loyalty
+In this tab you can see who has redeemed each reward. All the necessary information that is requested in the chat, such as the postal address, is 
+displayed. You can download the data via the 'CSV export' button.
+You can either delete the data individually via the bin symbol or you can delete all of them via the button 'Delete all entries' at the top right. If 
+you do not delete the data yourself, it will be deleted automatically after 60 days.
+
+#### Redemptions
+In this section you can see all customers who have redeemed a redemption. The overview is cross-process. So that you know in which experience the reward 
+was redeemed, this is shown next to the personal information. You can also see when the reward was redeemed.
+You can either delete the data individually via the bin symbol or you can delete all of them via the button 'Delete all entries' at the top right. If 
+you do not delete the data yourself, it will be deleted automatically after 60 days.
+
+#### Transactions
+In this area you can see all transactions that have been made across all processes. This means that you have an overview of which customer has received 
+or redeemed how many points. You can also see when and in which experience this happened.
+You can either delete the data individually via the bin symbol or you can delete all of them via the button 'Delete all entries' at the top right. If 
+you do not delete the data yourself, it will be deleted automatically after 60 days.
+
+### 7. Variables
+
+#### Export variables
+Select an experience and download all variables from this chatbot. In the document are all the variables that are automatically set by the system, such 
+as 'firstname'. For variables that you have set yourself (e.g. in the questionnaire or via the variable module), you have to set that they should be 
+saved in the database. By default, these are only stored in a cookie.
+
+#### Variables
+In this area, you can view the last 100 variables set. Only variables that are set by the system or that have been set to be saved in the database 
+appear here. The value of the variable is displayed and the experience in which the variable was saved. You can also see the appropriate process 
+instance, the scope, and when the variable was created.
+With the button 'Delete all entries' you can delete all variables. They are automatically deleted after 60 days.
 
 ### 9. Runtime log
 
