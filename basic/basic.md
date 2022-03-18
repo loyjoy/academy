@@ -30,8 +30,9 @@
 6.2.  [Languages tab](design/language/language.md)<br>
 6.3.  [Textes/ Assets tabs](design/text/text_and_assets.md)<br>
 6.4.  [Publish tab](design/publish/publish.md)<br>
+6.5.  [Email templates](design/guides/email_templates.md)
 
-### 7. Useful Links and guides
+### 7. Useful Links
 7.1.  [Overview of question types](help/processes/process/subprocesses/data_collection.md)<br>
 7.2.  [Emojipedia](https://emojipedia.org/) <br>
 7.3.  [Pick up your Corporate Color](https://imagecolorpicker.com/) <br>
