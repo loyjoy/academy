@@ -28,7 +28,7 @@ timeline of which variables have been set for the customer. You can also downloa
 
 ### 2. Consents
 
-In the consents tab you can see which customer has given which consent. The data is sorted by time. The time stamp indicates at which point in time the client gave 
+In the consents tab, you can see which customer has given which consent. The data is sorted by time. The timestamp indicates at which point in time the client gave 
 this consent.
 
 There are two ways to delete data. Either you delete individual customers using the button behind the corresponding customer or you delete all customers at the same 
@@ -41,14 +41,14 @@ You can also download all customer data as a CSV file.
 
 ### 3. Giveaways
 
-In the giveaway tab, you have the possibility to manage your giveaways and to draw winners. First, select which chatbot the giveaway you want to access is in.
+In the giveaway tab, you can manage your giveaways and draw winners. First, select which chatbot the giveaway you want to access is in.
 
 #### Manage giveaways
 In this section, you will first see all the winners drawn and below that all the participants. 
 There is always an email address for each customer. You can also see all the personal data that has been entered via the corresponding modules. This includes, for example, the postal address. 
 
-In the area of the drawn participations, you can draw as many winners as you want via the button 'draw participation'. You can also export the winners as 
-well as all participants with their data as a CSV. To do this, click on the button for the participants or for the drawn winners.
+In the area of drawn participations, you can draw as many winners as you want via the button 'draw participation'. You can also export the winners as 
+well as all participants with their data as a CSV. To do this, click on the button for the participants or the drawn winners.
 The data will be automatically deleted 60 days after creation.
 
 #### Participations
@@ -59,7 +59,7 @@ do not delete the data yourself, it will be deleted automatically after 60 days.
 
 #### Drawn participations
 Here you can see all the participants drawn. You can see all the personal information that was asked for in the chatbot, such as the postal address. In 
-addition, under 'created at' you can see when the participant was drawn and under 'participated at' when the customer participated.You can either delete 
+addition, under 'created at' you can see when the participant was drawn and under 'participated at' when the customer participated. You can either delete 
 the data individually via the bin symbol or you can delete all of them via the button 'Delete all entries' at the top right. If you 
 do not delete the data yourself, it will be deleted automatically after 60 days.
 
@@ -92,7 +92,7 @@ You can either delete the data individually via the bin symbol or you can delete
 you do not delete the data yourself, it will be deleted automatically after 720 days.
 
 #### Coupons
-In this section you can see all the coupon codes from the entire tenant. For each code, you can see who won it and when. In addition, you can see in 
+In this section, you can see all the coupon codes from the entire tenant. For each code, you can see who won it and when. In addition, you can see in 
 which 
 experience it is awarded and when the coupon was added there.
 You can either delete the data individually via the bin symbol or you can delete all of them via the button 'Delete all entries' at the top right. If 
@@ -107,19 +107,19 @@ you do not delete the data yourself, it will be deleted automatically after 720 
 ### 6. Loyalty
 
 #### Manage loyalty
-In this tab you can see who has redeemed each reward. All the necessary information that is requested in the chat, such as the postal address, is 
+In this tab, you can see who has redeemed each reward. All the necessary information that is requested in the chat, such as the postal address, is 
 displayed. You can download the data via the 'CSV export' button.
 You can either delete the data individually via the bin symbol or you can delete all of them via the button 'Delete all entries' at the top right. If 
 you do not delete the data yourself, it will be deleted automatically after 60 days.
 
 #### Redemptions
-In this section you can see all customers who have redeemed a redemption. The overview is cross-process. So that you know in which experience the reward 
+In this section, you can see all customers who have redeemed a redemption. The overview is cross-processing. So that you know in which experience the reward 
 was redeemed, this is shown next to the personal information. You can also see when the reward was redeemed.
 You can either delete the data individually via the bin symbol or you can delete all of them via the button 'Delete all entries' at the top right. If 
 you do not delete the data yourself, it will be deleted automatically after 60 days.
 
 #### Transactions
-In this area you can see all transactions that have been made across all processes. This means that you have an overview of which customer has received 
+In this area, you can see all transactions that have been made across all processes. This means that you have an overview of which customer has received 
 or redeemed how many points. You can also see when and in which experience this happened.
 You can either delete the data individually via the bin symbol or you can delete all of them via the button 'Delete all entries' at the top right. If 
 you do not delete the data yourself, it will be deleted automatically after 60 days.
@@ -138,7 +138,7 @@ instance, the scope, and when the variable was created.
 With the button 'Delete all entries' you can delete all variables. They are automatically deleted after 60 days.
 
 ### 8. Files
-In this section you can check whether files have been uploaded by the customer. You can only see the files themselves in the area of the customer who 
+In this section, you can check whether files have been uploaded by the customer. You can only see the files themselves in the area of the customer who 
 has uploaded a file.
 With the button 'Delete all entries' you can delete all variables. They are automatically deleted after 60 days.
 
