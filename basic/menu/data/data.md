@@ -59,6 +59,27 @@ do not delete the data yourself, it will be deleted automatically after 60 days.
 This area is structured in the same way as the tab for [giveaways](#3-giveaways). The only difference is that there is no button for the winner drawing, as these have 
 already been selected automatically.
 
+### 5. Codes
+
+#### Manage coupons
+First, select the experience in which you want to manage the coupons.
+You can add new coupons. To do this, either download the example CSV file using the button 'Download example CSV' and then upload it again using the button 
+'Upload CSV' or upload your CSV file using this button. CSV files can also be uploaded in the module itself.
+You can also see which coupons have already been awarded. You will receive the email of the coupon winner, when they received the coupon (issued at) and 
+when the coupon was created.
+You have the chance to download the information as a CSV file. The coupon codes are then listed in the file. In addition, the winner and when he or she won 
+the coupon is listed.
+You can either delete the data individually via the bin symbol or you can delete all of them via the button 'Delete all entries' at the top right. If you 
+do not delete the data yourself, it will be deleted automatically after 720 days.
+
+#### Manage codes
+
+#### Coupons
+In this section you can see all the coupon codes from the entire tenant. For each code, you can see who won it and when. In addition, you can see in which 
+experience it is awarded and when the coupon was added there.
+You can either delete the data individually via the bin symbol or you can delete all of them via the button 'Delete all entries' at the top right. If you 
+do not delete the data yourself, it will be deleted automatically after 720 days.
+
 ### 5. Runtime log
 
 The runtime log stores events, which have occurred for the tenant in the last 7 days. Typical log entries e.g. are that customers signed up in the chat, or that errors have happened when communicating with remote REST apis such as Salesforce.
