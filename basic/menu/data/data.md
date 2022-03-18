@@ -6,6 +6,7 @@
 5. [Codes](#5-codes)
 6. [Loyalty](#6-loyalty)
 7. [Variables](#7-variables)
+8. [Files](#)
 9. [Runtime log](#9-runtime-log)
 
 ### 1. Customers
@@ -20,6 +21,10 @@ information by clicking the button in the top right corner.
 Using the search bar, you can search for customers by their email address. 
 
 You can also download all customer data as a CSV file.
+
+#### Detailed information
+When you click on a customer's email, you will see all the personal data that the customer has already entered. In the variables section, you will see a 
+timeline of which variables have been set for the customer. You can also download files that the customer has uploaded, such as audio recordings.
 
 ### 2. Consents
 
@@ -130,6 +135,11 @@ saved in the database. By default, these are only stored in a cookie.
 In this area, you can view the last 100 variables set. Only variables that are set by the system or that have been set to be saved in the database 
 appear here. The value of the variable is displayed and the experience in which the variable was saved. You can also see the appropriate process 
 instance, the scope, and when the variable was created.
+With the button 'Delete all entries' you can delete all variables. They are automatically deleted after 60 days.
+
+### 8. Files
+In this section you can check whether files have been uploaded by the customer. You can only see the files themselves in the area of the customer who 
+has uploaded a file.
 With the button 'Delete all entries' you can delete all variables. They are automatically deleted after 60 days.
 
 ### 9. Runtime log
