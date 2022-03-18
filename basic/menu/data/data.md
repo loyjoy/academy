@@ -80,6 +80,8 @@ experience it is awarded and when the coupon was added there.
 You can either delete the data individually via the bin symbol or you can delete all of them via the button 'Delete all entries' at the top right. If you 
 do not delete the data yourself, it will be deleted automatically after 720 days.
 
+#### Codes
+
 ### 5. Runtime log
 
 The runtime log stores events, which have occurred for the tenant in the last 7 days. Typical log entries e.g. are that customers signed up in the chat, or that errors have happened when communicating with remote REST apis such as Salesforce.
