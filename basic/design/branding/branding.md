@@ -23,11 +23,11 @@ Click on the header in the chat animation to your left. You will find the Header
 
 To create the design you want, choose a title and a tagline or insert a logo image, which you will see on the left side of the header, a header image, which you can see in the middle of the header, or loyalty icon.
 
-#### Home 
+* #### Home 
 
 By clicking on the arrow pointing to the left in the chat animation you can select a home view for this experience and can manage to show the home view initially, as soon as the chat window is open. 
 
-#### Navigation 
+* #### Navigation 
 
 Find the three dots next to the arrow in the header chat animation to manage your sign-in or -out options, enable imprint or enable the chat restart and reset. 
 
@@ -42,7 +42,7 @@ In the Footer settings you are able to activate or deactivate the input field. I
 If you use our NLU features, under the Footer settings, you are able to activate the NLU and choose responses to unrecognised intents.
 Some consumers will type something into the open text field at the bottom of the chatbot. To respond to customer input, we provide standard intents to respond empathically to customer inquiries. However, in some cases, our AI algorithm will not identify the input. Define a message to send out to your customers in that case or let them fill out a contact form so that the inquiry can be addressed personally. An email address must be set to address customer inquiries.
 
-#### Footer web components 
+* #### Footer web components 
 
 You are able to enter Footer web components to the footer by entering the wished URL and HTML tag. 
 
