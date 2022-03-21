@@ -19,7 +19,7 @@ You can also find the individual settings for desktop or mobile use. Choose indi
 
 ### Header 
 
-Click on the header in the chat animation to your left. You will find the Header settings. Here you are able to manage the settings about the chat header, the restart options. 
+Click on the header in the chat animation to your left. You will find the Header settings. Here you are able to manage the settings about the chat header and the restart options. 
 
 To create the design you want, choose a title and a tagline or insert a logo image, which you will see on the left side of the header, a header image, which you can see in the middle of the header, or loyalty icon.
 
@@ -29,7 +29,7 @@ To create the design you want, choose a title and a tagline or insert a logo ima
 
 * #### Navigation 
 
-> Find the three dots next to the arrow in the header chat animation to manage your sign-in or -out options, enable imprint or enable the chat restart and reset. 
+> Find the three dots next to the arrow in the header chat animation to manage your sign-in or -out options, enable imprint or enable the chat restart and reset. Before a chatbot goes live, an imprint must be set.
 
 ### Persistent quick replies 
 
@@ -37,7 +37,7 @@ You can set fixed buttons in your chatbot to offer your customers the option to 
 
 ### Footer 
 
-In the Footer settings you are able to activate or deactivate the input field. If you your customers will not need the input field and your experience is not trained in NLU, we recommend not to show the input field for an overall better conversation. 
+In the Footer settings you are able to activate or deactivate the input field. If you your customers will not need the input field and your experience is not trained in NLU, we recommend to deactivate the input field for an overall better conversation. 
 
 If you use our NLU features, under the Footer settings, you are able to activate the NLU and choose responses to unrecognised intents.
 Some consumers will type something into the open text field at the bottom of the chatbot. To respond to customer input, we provide standard intents to respond empathically to customer inquiries. However, in some cases, our AI algorithm will not identify the input. Define a message to send out to your customers in that case or let them fill out a contact form so that the inquiry can be addressed personally. An email address must be set to address customer inquiries.
@@ -48,14 +48,14 @@ Some consumers will type something into the open text field at the bottom of the
 
 ### Chat preview 
 
-Use the chat preview above your chat bubble to excite your customers to click on your experience. You can also offer up to three quick replies in your chat preview. Your customers can use these to jump into another experience or to a process module.
+Use the chat preview above your chat bubble to excite and motivate your customers to click on your experience. You can also offer up to three quick replies in your chat preview. Your customers can use these to jump into another experience or to a process module.
 
 ### Chat bubble 
 
-Click on the Chat bubble to the left to customise your chat bubble image, the chat bubble position or choose an animation. A little hint from us: We also support  moving Gifs as Chat bubbles!
+Click on the Chat bubble to the left to customise your chat bubble image, the chat bubble position or choose an animation. A little *hint* from us: We also support moving Gifs as Chat bubbles!
 
 ### Call to action 
 
-A call to action can be a powerful tool to  animate your customers to engage with your chatbot. Insert a call to action image that will show up left to your chat bubble. 
+A call to action can be a powerful tool to  animate your customers to engage with your chatbot. Insert a call to action image in the recommended size that will show up left to your chat bubble. 
 
 
