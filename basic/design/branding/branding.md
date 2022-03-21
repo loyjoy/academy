@@ -9,7 +9,7 @@ If you already have a standardised branding that you wish to transfer to another
 
 ## Create new branding
 
-If you want to personalise your individual experiences, you can create new brandings for every experience. 
+If you want to personalise your individual experiences, you can create new brandings for every experience. Let's brand your chatbot to your preferences together.
 
 ### Conversation
 
