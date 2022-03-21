@@ -5,7 +5,7 @@ Use our Branding options to design you chat UI and create powerful experiences. 
 
 ## Paste branding 
 
-If you already have a standardised branding that you wish to transfer to a chatbot, just use the *Paste branding* button that you will find under Branding. Here you are able to paste any branding from another experience in your tenant. By pasting the branding all the settings will be transferred to this experience. 
+If you already have a standardised branding that you wish to transfer to another experience, just use the *Paste branding* button that you will find under Branding. Here you are able to paste any branding from another experience in your tenant. By pasting the branding all the settings will be transferred to this experience. 
 
 ## Create new branding
 
