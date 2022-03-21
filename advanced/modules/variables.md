@@ -119,7 +119,7 @@ At the beginning of this article, we mentioned that variables can be set with tw
 In case you have a decision jump which is asking for signing up, there are the options “yes” and “no”. Both will jump to a process brick “variable” (two different). 
 
 <p align="center">
-  <img src="variableInChat.png" alt="Variable module" title="Variable module" width="300"/>
+  <img src="variableInChat.png" alt="Variable module" title="Variable module" width="250"/>
   <img src="setVariableModules.png" alt="Variable module" title="Variable module" width="300"/>
 </p>
 
