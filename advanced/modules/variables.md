@@ -15,33 +15,75 @@ those hobby messages.
 </p>
 
 To do so, first, click on the settings icon.
+<p align="center">
+  <img src="settings.png" alt="Settings" title="Settings" width="300"/>
+</p>
 
 Afterward, choose one process variable. A meaningful name is suitable here. Our example is about hobbies. That is why the name "hobby" is appropriate.
 
+<p align="center">
+  <img src="processVariable.png" alt="Choose process variable" title="Choose process variable" width="300"/>
+</p>
+
 Then you click on the settings icons for both answer options too. 
+
+<p align="center">
+  <img src="answerOptions.png" alt="Set fixed value" title="Set fixed value" width="300"/>
+</p>
 
 Here we set a fixed value and not a process variable. Because of transparency, we choose “jogging” and “bicycle”. 
 
-Add variables to process bricks
+<p align="center">
+  <img src="fixedValue1.png" alt="Set fixed value" title="Set fixed value" width="300"/>
+  <img src="fixedValue2.png" alt="Set fixed value" title="Set fixed value" width="300"/>
+</p>
+
+### Add variables to process bricks
 Those names are freely selectable. Now we have chosen our variables. As a next step, you choose process bricks that will be sent after the consumer decision.
 The following step works with every process brick. At each process brick, there is a small circle in the right corner. 
 
+<p align="center">
+  <img src="conditionModule.png" alt="Set a condition at the modules" title="Set a condition at the modules" width="300"/>
+</p>
+
 Click on it. Afterward, choose “add condition” and fill in the three fields. For this, you need to remember the given names in the questionnaire.
 
+<p align="center">
+  <img src="addCondition.png" alt="Set a condition at the modules" title="Set a condition at the modules" width="300"/>
+</p>
+
 For the first field choose “process variable”. Fill in the given name for the question. In our example, it was a “hobby”. 
+
+<p align="center">
+  <img src="setCondition3.png" alt="Set a condition at the modules" title="Set a condition at the modules" width="300"/>
+  <img src="setCondition4.png" alt="Set a condition at the modules" title="Set a condition at the modules" width="300"/>
+</p>
 
 When setting a variable it is important to pay attention to spelling. The best is, to capitalize or lowercase all initial letters. Also, avoid the space behind your variables. As soon as it is a little different for the chatbot it seems like those are different variables. So take your time, because this can save you a lot of time later!
 Next, an operator must be chosen. In our case we use “is equal”.
 
+<p align="center">
+  <img src="operator.png" alt="Choose an operator" title="Choose an operator" width="300"/>
+</p>
+
 For the last field, you have to select “fixed value”.
+
+<p align="center">
+  <img src="setFixedValue.png" alt="Choose an operator" title="Choose an operator" width="300"/>
+</p>
 
 In this field, enter what was previously entered for one of the answer choices. If this process brick has a message for consumers who have chosen “riding bicycle” you enter in the last field “bicycle” and the other way round. The same thing you do for the second process brick. 
 
+<p align="center">
+  <img src="setCondition3.png" alt="Set a condition at the modules" title="Set a condition at the modules" width="300"/>
+  <img src="setCondition4.png" alt="Set a condition at the modules" title="Set a condition at the modules" width="300"/>
+</p>
 
 If you have more than two answer options you can add more process bricks as well. Besides, it is possible to condition more than one process brick for the same answer. 
 For example, you want to give an interview and tips for the best practice to your consumer, and afterward, he can subscribe to a matching newsletter. Just drag and drop all those process bricks in a row and condition them with the same variable.
 
-Add more conditions
+### Add more conditions
+
 Besides, a process brick can have more than one condition for when it is played. To do this, you add another condition. 
 
 Here you can choose whether both conditions must be fulfilled (and) or only one of the two (or). 
