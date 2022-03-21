@@ -25,11 +25,11 @@ To create the design you want, choose a title and a tagline or insert a logo ima
 
 * #### Home 
 
-By clicking on the arrow pointing to the left in the chat animation you can select a home view for this experience and can manage to show the home view initially, as soon as the chat window is open. 
+(>) By clicking on the arrow pointing to the left in the chat animation you can select a home view for this experience and can manage to show the home view initially, as soon as the chat window is open. 
 
 * #### Navigation 
 
-Find the three dots next to the arrow in the header chat animation to manage your sign-in or -out options, enable imprint or enable the chat restart and reset. 
+(>) Find the three dots next to the arrow in the header chat animation to manage your sign-in or -out options, enable imprint or enable the chat restart and reset. 
 
 ### Persistent quick replies 
 
@@ -44,7 +44,7 @@ Some consumers will type something into the open text field at the bottom of the
 
 * #### Footer web components 
 
-You are able to enter Footer web components to the footer by entering the wished URL and HTML tag. 
+(>) You are able to enter Footer web components to the footer by entering the wished URL and HTML tag. 
 
 ### Chat preview 
 
