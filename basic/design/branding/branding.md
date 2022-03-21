@@ -9,7 +9,7 @@ If you already have a standardised branding that you wish to transfer to a chatb
 
 ## Create new branding
 
-If you want to individualise your experiences for different events, you can create new brandings for every experience. 
+If you want to personalise your individual experiences, you can create new brandings for every experience. 
 
 ### Conversation
 
