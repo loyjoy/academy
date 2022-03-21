@@ -1,13 +1,105 @@
-## ADVANCED Modules                                                                   
+## Modules                                                                   
 
 *[See also Module-FAQs](/faq/modules/modules.md)*
 
-| Module                                                  | Description                                        | Pros       | Cons       | Detailed description |
-| ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
-| [Signal](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Trigger execution of process|  Useful when working with DOIs     | Expensive when used tenant wide          |[How to *Signal*](detailed.md#signal) |
-| [NPS survey](../../../../../welcome/blob/staging/help/processes/process/subprocesses/nps_survey.md) | Ask for Net Promoter Score |Slider to adjust your score |Placeholder         |           [How to *NPS survey*](detailed.md#nps-survey)|
-| [Clipboard](../../../../../welcome/blob/staging/help/processes/process/subprocesses/clipboard.md)| Display a text message that can be copied|Copy with one click |  Placeholder          |     |
-| [Mini program](../../../../../welcome/blob/staging/help/processes/process/subprocesses/mini_program.md)| Insert existing web application or website into the chat| Placeholder           | Placeholder           |           [How to *Mini program*](detailed.md#mini-program)        |
-| [Scanner](../../../../../welcome/blob/staging/help/processes/process/subprocesses/scanner.md)| Scan products, QR codes or bar codes |  Placeholder          | Placeholder           |           [How to *Scanner*](detailed.md#scanner)        |
-| [Decision table](../../../../../welcome/blob/staging/help/processes/process/subprocesses/dmn.md)                                    | Compute process variables |   Placeholder         |   Placeholder         |           [How to *Decision table*](detailed.md#decision-table)        |
+### Essential
 
+| Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
+| ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
+| [Automatic jump](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Clipboard](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Decision jump](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Email](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Goodbye](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [NPS survey](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Proceed question](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Product gallery](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Questionnaire](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Restart](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Return jump](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Share link](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Sign in](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Simple message](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Stop](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Welcoming](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+
+
+
+
+### Loyalty
+
+| Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
+| ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
+| [Loyalty points](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Loyalty referral](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Loyalty sharing](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Rewards](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+
+
+
+### Integration
+
+| Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
+| ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
+| [Automatic jump](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+
+### opt-in
+
+| Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
+| ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
+| [Automatic jump](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+
+### media
+
+| Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
+| ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
+| [Automatic jump](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+
+
+### activation
+
+| Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
+| ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
+| [Automatic jump](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+
+### personal identifiable information
+
+| Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
+| ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
+| [Automatic jump](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+
+### advanced
+
+| Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
+| ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
+| [Automatic jump](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+
+### content
+
+| Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
+| ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
+| [Automatic jump](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+
+### email
+
+| Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
+| ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
+| [Automatic jump](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+
+### live
+
+| Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
+| ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
+| [Automatic jump](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+
+### multi-language
+
+| Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
+| ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
+| [Automatic jump](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+
+### logic
+
+| Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
+| ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
+| [Automatic jump](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
