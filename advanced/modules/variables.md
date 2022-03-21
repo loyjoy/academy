@@ -84,28 +84,63 @@ For example, you want to give an interview and tips for the best practice to you
 
 ### Add more conditions
 
-Besides, a process brick can have more than one condition for when it is played. To do this, you add another condition. 
+Besides, a process brick can have more than one condition for when it is played. To do this, you add another condition.
+
+<p align="center">
+  <img src="moreCondition.png" alt="Add another condition" title="Add another condition" width="300"/>
+</p>
 
 Here you can choose whether both conditions must be fulfilled (and) or only one of the two (or). 
 
+<p align="center">
+  <img src="operator1.png" alt="Choose the operator" title="Choose the operator" width="300"/>
+</p>
+
 If, for example, there were another answer option for which the jogging tips should also be played, you would choose “or”. Accordingly, the user only has to click on one or the other answer.
  
+<p align="center">
+  <img src="doubleCondition.png" alt="Two conditions" title="Two conditions" width="300"/>
+</p>
+
 If we add a second question instead, where the user has to click on a certain answer for the module to be played, “and” would be suitable.
 For example, after the consumer has selected "riding a bicycle", he is also asked whether he wants to ride an ergometer or ride in the fresh air. For the rider in the fresh air, there is a product recommendation for sunscreen, and for the rider at home, a recommendation for different series to watch on the bike. Here, too, any number of conditions can be added. 
 
 As soon as more than one condition is necessary, however, you should consider whether a decision table is easier to handle.
-For more information, please read our article. (LINK)
+For more information, please read our article.
 
-Process Brick: Variable
+### Process Brick: Variable
+
 At the beginning of this article, we mentioned that variables can be set with two process bricks. Now you know how it works with the questionnaire. Next, you learn how to use the process brick “variable”. It is not that different from the questionnaire. For example, there are different combinations in which the consumer will be asked if he wants to sign up for the newsletter. So that he is not annoyed, we add a variable to save the answer. Therefore you need a variable. 
+
+<p align="center">
+  <img src="variableModule.png" alt="Variable module" title="Variable module" width="300"/>
+</p>
 
 In case you have a decision jump which is asking for signing up, there are the options “yes” and “no”. Both will jump to a process brick “variable” (two different). 
 
+<p align="center">
+  <img src="variableInChat.png" alt="Variable module" title="Variable module" width="300"/>
+  <img src="setVariableModules.png" alt="Variable module" title="Variable module" width="300"/>
+</p>
+
 The first brick is for “yes” and the second one for “no”. We need an automatic jump because else the second process brick “variable” will be sent too and the chatbot will save both variables. The brick jumps to the newsletter sign up.
+
+<p align="center">
+  <img src="automaticJump.png" alt="Condition at automatic jump" title="Condition at automatic jump" width="300"/>
+</p>
 
  Then you fill in the fields. It is similar to the questionnaire. We need a process variable and a fixed value. Under the first arrow you fill in a name for the process variable (for example: newsletter). Under the second arrow you choose a fixed value and add a name. It is advisable to use “newsletter” as the process variable and “yes” (or “no” for the other process brick).
 
+<p align="center">
+  <img src="setUpVariable1.png" alt="Set variables" title="Set variables" width="300"/>
+  <img src="setUpVariable2.png" alt="Set variables" title="Set variables" width="300"/>
+</p>
+
 Afterward, condition every newsletter brick and question if the consumer wants to sign up with the variable you set in when the consumer says “yes”. 
+
+<p align="center">
+  <img src="setUpVariable3.png" alt="Set variables" title="Set variables" width="300"/>
+</p>
 
 You can use variables in any different caes. Both were only examples to show you how it works!
 Name bricks!
