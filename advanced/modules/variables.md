@@ -10,6 +10,9 @@ A message should then be sent with tips for suitable clothing for the chosen hob
 all of them would be sent. To implement our plan you now use variables. With those, you can set what happens if the consumers click on one of 
 those hobby messages.
 
+<p align="center">
+  <img src="firstScreenshot.png" alt="Result" title="Result" width="300"/>
+</p>
 
 To do so, first, click on the settings icon.
 
