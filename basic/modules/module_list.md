@@ -8,18 +8,18 @@
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
 | [Automatic jump](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Clipboard](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Decision jump](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Email](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Decision jump](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Jump into another modul or experience	|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Email](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask customer for email address	|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Goodbye](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [NPS survey](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Proceed question](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Product gallery](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Questionnaire](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Proceed question](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Press a button to continue	|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Product gallery](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Show products to customers	|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Questionnaire](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Collect customer information	|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Restart](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Return jump](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Share link](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Share link](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Let customers share their experience	|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Sign in](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Simple message](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Simple message](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Send plain chat message	|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Stop](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Welcoming](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 
@@ -62,7 +62,7 @@
 
 | Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
-| [Newsletter opt-in](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Newsletter opt-in](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask for newsletter opt-in	|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Notification](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Opt-ins](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Profiling opt-in](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
@@ -79,10 +79,10 @@
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
 | [Audio](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Audio recording](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Image gallery](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Image gallery](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Add images to chat	|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Scanner](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Snapshot](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Video gallery](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Video gallery](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Add videos to chat	|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 
 
 ### Activation
@@ -90,15 +90,15 @@
 | Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
 | [Advent calendar door](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Animation](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Animation](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Show an animation	|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Appointment scheduler](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Code entry](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Coupon code](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Giveaway participation](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Giveaway participation](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Let customers participate in raffles	|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Instant win](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Main prize](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Prizes](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Quiz](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Quiz](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Let your customers play a quiz	|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 
 
 ### Personal identifiable information
@@ -132,7 +132,7 @@
 
 | Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
-| [External link](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [External link](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Link to an external website	|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [List](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Share image](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Tag](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
