@@ -38,9 +38,9 @@ Here we set a fixed value and not a process variable. Because of transparency, w
   <img src="fixedValue2.png" alt="Set fixed value" title="Set fixed value" width="300"/>
 </p>
 
-### Add variables to process bricks
-Those names are freely selectable. Now we have chosen our variables. As a next step, you choose process bricks that will be sent after the consumer's decision.
-The following step works with every module. At each process brick, there is a small circle in the right corner. 
+### Add variables to modules
+Those names are freely selectable. Now we have chosen our variables. As a next step, you choose modules that will be sent after the consumer's decision.
+The following step works with every module. At each module, there is a small circle in the right corner. 
 
 <p align="center">
   <img src="conditionModule.png" alt="Set a condition at the modules" title="Set a condition at the modules" width="300"/>
@@ -74,7 +74,7 @@ For the last field, you have to select “fixed value”.
   <img src="setFixedValue.png" alt="Choose an operator" title="Choose an operator" width="300"/>
 </p>
 
-In this field, enter what was previously entered for one of the answer choices. If this process brick has a message for consumers who have chosen “riding bicycle” you enter in the last field “bicycle” and the other way round. The same thing you do for the second process brick. 
+In this field, enter what was previously entered for one of the answer choices. If this module has a message for consumers who have chosen “riding bicycle” you enter in the last field “bicycle” and the other way round. The same thing you do for the second module. 
 
 <p align="center">
   <img src="setCondition3.png" alt="Set a condition at the modules" title="Set a condition at the modules" width="300"/>
@@ -100,8 +100,8 @@ Here you can choose whether both conditions must be fulfilled (and) or only one 
   <img src="operator1.png" alt="Choose the operator" title="Choose the operator" width="300"/>
 </p>
 
-If, for example, there were another answer option for which the jogging tips should also be played, you would choose “or”. Accordingly, the user only has to click on one or the other answer.
- 
+For example, if there were another answer option where the jogging tips should also be played, you would choose "or".
+
 <p align="center">
   <img src="doubleCondition.png" alt="Two conditions" title="Two conditions" width="300"/>
 </p>
@@ -116,13 +116,13 @@ For more information, please read our article.
 
 ### Module: Variable
 
-At the beginning of this article, we mentioned that variables can be set with two process bricks. Now you know how it works with the questionnaire. Next, you learn how to use the module “variable”. It is not that different from the questionnaire. For example, there are different combinations in which the consumer will be asked if he wants to sign up for the newsletter. So that he is not annoyed, we add a variable to save the answer. Therefore you need a variable. 
+At the beginning of this article, we mentioned that variables can be set with two modules. Now you know how it works with the questionnaire. Next, you learn how to use the module “variable”. It is not that different from the questionnaire. For example, there are different combinations in which the consumer will be asked if he wants to sign up for the newsletter. So that he is not annoyed, we add a variable to save the answer. Therefore you need a variable. 
 
 <p align="center">
   <img src="variableModule.png" alt="Variable module" title="Variable module" width="300"/>
 </p>
 
-In case you have a decision jump that is asking for signing up, there are the options “yes” and “no”. Both will jump to a process brick “variable” (two different). 
+In case you have a decision jump that is asking for signing up, there are the options “yes” and “no”. Both will jump to a module “variable” (two different). 
 
 <p align="center">
   <img src="variableInChat.png" alt="Variable module" title="Variable module" width="250"/>
