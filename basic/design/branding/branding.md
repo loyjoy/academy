@@ -36,7 +36,7 @@ To create the design you want, choose a title and a tagline or insert a logo ima
 > By clicking on the arrow pointing to the left in the chat animation you can select a home view for this experience and can manage to show the home view initially, as soon as the chat window is open. 
 
 <p align="center">
-    <img src="branding_header_settings.png" alt="Header Settings" title="Header Settings" width="600"/>
+    <img src="branding_header_settings.png" alt="Header Settings" title="Header Settings" width="300"/>
 </p>
 
 
