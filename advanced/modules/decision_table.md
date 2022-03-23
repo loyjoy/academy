@@ -5,7 +5,7 @@ For this article, you should know how variables work. If you need help with that
 To use a decision table you need a questionnaire, a decision table, and some outputs. Outputs can be every process brick. Those are what the consumer will see as a result. In this example, we will build a test on which hobby suits best for the consumer. As a result (outputs) we have swimming, cycling, and jogging.
 
 <p align="center">
-  <img src="unnamed.png" alt="Start" title="Start" width="300"/>
+  <img src="unnamed.png" alt="Start" title="Start" width="200"/>
 </p>
 For example, in a product finder, this would be the product gallery with products that suits best your consumers.
 
@@ -23,31 +23,31 @@ Then you choose process variables and values for each question and each answer (
 Now you open the decision table. We need to add as many inputs as you have added questions. Therefore click on “Input +”.
 
 <p align="center">
-  <img src="input.png" alt="Add an input" title="Add an input" width="300"/>
+  <img src="input.png" alt="Add an input" title="Add an input" width="400"/>
 </p>
 
 Afterward, add an output by clicking on “Output +”. 
 
 <p align="center">
-  <img src="output.png" alt="Add an output" title="Add an output" width="300"/>
+  <img src="output.png" alt="Add an output" title="Add an output" width="400"/>
 </p>
 
 Next, click on the first field under “Input” and select “process variable”. Fill in the name of the process variable of your first question. In the other field under input, you do the same with the other process variables. 
 
 <p align="center">
-  <img src="rules.png" alt="Add process variables" title="Add process variables" width="300"/>
+  <img src="rules.png" alt="Add process variables" title="Add process variables" width="400"/>
 </p>
 
 Then, click on the field under “Output”, choose again “process variable”, and add a new name. Do not use a name that you have already used. You can use for example “skin type” if you do a skin type test or you can use “product” if you build a product finder. As for scope you choose “consumer” if you want to collect consumer data and process if not.
 
 <p align="center">
-  <img src="output2.png" alt="Choose outputs" title="Choose outputs" width="300"/>
+  <img src="output2.png" alt="Choose outputs" title="Choose outputs" width="400"/>
 </p>
 
 As a next step, add a new rule.
 
 <p align="center">
-  <img src="addRules.png" alt="Add a new rule" title="Add a new rule" width="300"/>
+  <img src="addRules.png" alt="Add a new rule" title="Add a new rule" width="400"/>
 </p>
 
 
@@ -58,26 +58,26 @@ the variables at process bricks. Click on the field under the first input. Choos
 set in the first question.
 
 <p align="center">
-  <img src="rules2.png" alt="Add rules" title="Add rules" width="300"/>
+  <img src="rules2.png" alt="Add rules" title="Add rules" width="400"/>
 </p>
 
 Then you add the values in the other fields of your inputs too.
 
 <p align="center">
-  <img src="rulesReady.png" alt="Complete rules" title="Complete rules" width="300"/>
+  <img src="rulesReady.png" alt="Complete rules" title="Complete rules" width="400"/>
 </p>
 
 Next, you fill in the “Output”. Therefore click on the field under hobby. Choose a fixed value and add a name that is meaningful. In our case, we will use swimming, jogging, and bicycle. 
 
 <p align="center">
-  <img src="fixedValueOutput.png" alt="Complete output" title="Complete output" width="300"/>
+  <img src="fixedValueOutput.png" alt="Complete output" title="Complete output" width="400"/>
 </p>
 
 
 Now the first rule is ready. If this combination is clicked, the consumer will get “bicycle” as a result. You need to rule every possibility because else the chatbot does not know what to send. There would be no output then.
 
 <p align="center">
-  <img src="ready.png" alt="Add process variables" title="Add process variables" width="300"/>
+  <img src="ready.png" alt="Add process variables" title="Add process variables" width="400"/>
 </p>
 
 
