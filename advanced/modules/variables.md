@@ -1,12 +1,12 @@
 # Variables
 
-Do you want to specify that process bricks will be sent only when certain messages will be chosen in a questionnaire? You can do this with variables!
-Therefore, you need the process brick questionnaire or variable. In this article, we will first use the questionnaire. 
+Do you want to specify that modules will be sent only when certain messages will be chosen in a questionnaire? You can do this with variables!
+Therefore, you need the module questionnaire or variable. In this article, we will first use the questionnaire. 
 
 ### Prepare the questionnaire
 
 Let´s work with the following example: During the chat, the consumer will be asked whether he likes jogging or riding a bicycle. 
-A message should then be sent with tips for suitable clothing for the chosen hobby. If you would only drag and drop the process bricks, 
+A message should then be sent with tips for suitable clothing for the chosen hobby. If you would only drag and drop the modules, 
 all of them would be sent. To implement our plan you now use variables. With those, you can set what happens if the consumers click on one of 
 those hobby messages.
 
@@ -19,7 +19,7 @@ To do so, first, click on the settings icon.
   <img src="settings.png" alt="Settings" title="Settings" width="300"/>
 </p>
 
-Afterward, choose one process variable. A meaningful name is suitable here. Our example is about hobbies. That is why the name "hobby" is appropriate.
+Afterward, choose a process variable. A meaningful name is suitable here. Our example is about hobbies. That is why the name "hobby" is appropriate.
 
 <p align="center">
   <img src="processVariable.png" alt="Choose process variable" title="Choose process variable" width="300"/>
@@ -40,7 +40,7 @@ Here we set a fixed value and not a process variable. Because of transparency, w
 
 ### Add variables to process bricks
 Those names are freely selectable. Now we have chosen our variables. As a next step, you choose process bricks that will be sent after the consumer decision.
-The following step works with every process brick. At each process brick, there is a small circle in the right corner. 
+The following step works with every module. At each process brick, there is a small circle in the right corner. 
 
 <p align="center">
   <img src="conditionModule.png" alt="Set a condition at the modules" title="Set a condition at the modules" width="300"/>
@@ -59,7 +59,9 @@ For the first field choose “process variable”. Fill in the given name for th
   <img src="setCondition4.png" alt="Set a condition at the modules" title="Set a condition at the modules" width="300"/>
 </p>
 
-When setting a variable it is important to pay attention to spelling. The best is, to capitalize or lowercase all initial letters. Also, avoid the space behind your variables. As soon as it is a little different for the chatbot it seems like those are different variables. So take your time, because this can save you a lot of time later!
+When setting a variable it is important to pay attention to spelling. The best is, to capitalize or lowercase all initial letters. Also, avoid the space 
+behind your variables. As soon as it is a little different for the chatbot it seems like those are different variables. So take your time, because this 
+can save you a lot of time later!
 Next, an operator must be chosen. In our case we use “is equal”.
 
 <p align="center">
@@ -79,12 +81,14 @@ In this field, enter what was previously entered for one of the answer choices. 
   <img src="setCondition4.png" alt="Set a condition at the modules" title="Set a condition at the modules" width="300"/>
 </p>
 
-If you have more than two answer options you can add more process bricks as well. Besides, it is possible to condition more than one process brick for the same answer. 
-For example, you want to give an interview and tips for the best practice to your consumer, and afterward, he can subscribe to a matching newsletter. Just drag and drop all those process bricks in a row and condition them with the same variable.
+If you have more than two answer options you can add more modules as well. Besides, it is possible to condition more than one modules for 
+the same answer. 
+For example, you want to give an interview and tips for the best practice to your consumer, and afterward, he can subscribe to a matching newsletter. 
+Just drag and drop all those modules in a row and condition them with the same variable.
 
 ### Add more conditions
 
-Besides, a process brick can have more than one condition for when it is played. To do this, you add another condition.
+Besides, a module can have more than one condition for when it is played. To do this, you add another condition.
 
 <p align="center">
   <img src="moreCondition.png" alt="Add another condition" title="Add another condition" width="300"/>
@@ -103,14 +107,16 @@ If, for example, there were another answer option for which the jogging tips sho
 </p>
 
 If we add a second question instead, where the user has to click on a certain answer for the module to be played, “and” would be suitable.
-For example, after the consumer has selected "riding a bicycle", he is also asked whether he wants to ride an ergometer or ride in the fresh air. For the rider in the fresh air, there is a product recommendation for sunscreen, and for the rider at home, a recommendation for different series to watch on the bike. Here, too, any number of conditions can be added. 
+For example, after the consumer has selected "riding a bicycle", he is also asked whether he wants to ride an ergometer or ride in the fresh air. For 
+the rider in the fresh air, there is a product recommendation for sunscreen, and for the rider at home, a recommendation for different series to watch 
+on the bike. Here, too, any number of conditions can be added. 
 
 As soon as more than one condition is necessary, however, you should consider whether a decision table is easier to handle.
 For more information, please read our article.
 
 ### Process Brick: Variable
 
-At the beginning of this article, we mentioned that variables can be set with two process bricks. Now you know how it works with the questionnaire. Next, you learn how to use the process brick “variable”. It is not that different from the questionnaire. For example, there are different combinations in which the consumer will be asked if he wants to sign up for the newsletter. So that he is not annoyed, we add a variable to save the answer. Therefore you need a variable. 
+At the beginning of this article, we mentioned that variables can be set with two process bricks. Now you know how it works with the questionnaire. Next, you learn how to use the module “variable”. It is not that different from the questionnaire. For example, there are different combinations in which the consumer will be asked if he wants to sign up for the newsletter. So that he is not annoyed, we add a variable to save the answer. Therefore you need a variable. 
 
 <p align="center">
   <img src="variableModule.png" alt="Variable module" title="Variable module" width="300"/>
@@ -123,27 +129,23 @@ In case you have a decision jump which is asking for signing up, there are the o
   <img src="setVariableModules.png" alt="Variable module" title="Variable module" width="300"/>
 </p>
 
-The first brick is for “yes” and the second one for “no”. We need an automatic jump because else the second process brick “variable” will be sent too and the chatbot will save both variables. The brick jumps to the newsletter sign up.
+The first module is for “yes” and the second one for “no”. We need an automatic jump because else the second module “variable” will be sent too and the chatbot will save both variables. The brick jumps to the newsletter sign up.
 
 <p align="center">
   <img src="automaticJump.png" alt="Condition at automatic jump" title="Condition at automatic jump" width="300"/>
 </p>
 
- Then you fill in the fields. It is similar to the questionnaire. We need a process variable and a fixed value. Under the first arrow you fill in a name for the process variable (for example: newsletter). Under the second arrow you choose a fixed value and add a name. It is advisable to use “newsletter” as the process variable and “yes” (or “no” for the other process brick).
+ Then you fill in the fields. It is similar to the questionnaire. We need a process variable and a fixed value. Under the first arrow you fill in a name for the process variable (for example: newsletter). Under the second arrow you choose a fixed value and add a name. It is advisable to use “newsletter” as the process variable and “yes” (or “no” for the other module).
 
 <p align="center">
   <img src="setUpVariable1.png" alt="Set variables" title="Set variables" width="300"/>
   <img src="setUpVariable2.png" alt="Set variables" title="Set variables" width="300"/>
 </p>
 
-Afterward, condition every newsletter brick and question if the consumer wants to sign up with the variable you set in when the consumer says “yes”. 
+Afterward, condition every newsletter module and question if the consumer wants to sign up with the variable you set in when the consumer says “yes”. 
 
 <p align="center">
   <img src="setUpVariable3.png" alt="Set variables" title="Set variables" width="300"/>
 </p>
 
 You can use variables in any different caes. Both were only examples to show you how it works!
-Name bricks!
-To make it easier for you and others, you now name your building blocks. This way, you know right away that the process brick is about tips for jogging or cycling. 
-
-
