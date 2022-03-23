@@ -39,7 +39,7 @@ Here we set a fixed value and not a process variable. Because of transparency, w
 </p>
 
 ### Add variables to process bricks
-Those names are freely selectable. Now we have chosen our variables. As a next step, you choose process bricks that will be sent after the consumer decision.
+Those names are freely selectable. Now we have chosen our variables. As a next step, you choose process bricks that will be sent after the consumer's decision.
 The following step works with every module. At each process brick, there is a small circle in the right corner. 
 
 <p align="center">
@@ -81,7 +81,7 @@ In this field, enter what was previously entered for one of the answer choices. 
   <img src="setCondition4.png" alt="Set a condition at the modules" title="Set a condition at the modules" width="300"/>
 </p>
 
-If you have more than two answer options you can add more modules as well. Besides, it is possible to condition more than one modules for 
+If you have more than two answer options you can add more modules as well. Besides, it is possible to condition more than one module for 
 the same answer. 
 For example, you want to give an interview and tips for the best practice to your consumer, and afterward, he can subscribe to a matching newsletter. 
 Just drag and drop all those modules in a row and condition them with the same variable.
@@ -114,7 +114,7 @@ on the bike. Here, too, any number of conditions can be added.
 As soon as more than one condition is necessary, however, you should consider whether a decision table is easier to handle.
 For more information, please read our article.
 
-### Process Brick: Variable
+### Module: Variable
 
 At the beginning of this article, we mentioned that variables can be set with two process bricks. Now you know how it works with the questionnaire. Next, you learn how to use the module “variable”. It is not that different from the questionnaire. For example, there are different combinations in which the consumer will be asked if he wants to sign up for the newsletter. So that he is not annoyed, we add a variable to save the answer. Therefore you need a variable. 
 
@@ -122,7 +122,7 @@ At the beginning of this article, we mentioned that variables can be set with tw
   <img src="variableModule.png" alt="Variable module" title="Variable module" width="300"/>
 </p>
 
-In case you have a decision jump which is asking for signing up, there are the options “yes” and “no”. Both will jump to a process brick “variable” (two different). 
+In case you have a decision jump that is asking for signing up, there are the options “yes” and “no”. Both will jump to a process brick “variable” (two different). 
 
 <p align="center">
   <img src="variableInChat.png" alt="Variable module" title="Variable module" width="250"/>
@@ -135,7 +135,7 @@ The first module is for “yes” and the second one for “no”. We need an au
   <img src="automaticJump.png" alt="Condition at automatic jump" title="Condition at automatic jump" width="300"/>
 </p>
 
- Then you fill in the fields. It is similar to the questionnaire. We need a process variable and a fixed value. Under the first arrow you fill in a name for the process variable (for example: newsletter). Under the second arrow you choose a fixed value and add a name. It is advisable to use “newsletter” as the process variable and “yes” (or “no” for the other module).
+ Then you fill in the fields. It is similar to the questionnaire. We need a process variable and a fixed value. Under the first arrow, you fill in a name for the process variable (for example newsletter). Under the second arrow, you choose a fixed value and add a name. It is advisable to use “newsletter” as the process variable and “yes” (or “no” for the other module).
 
 <p align="center">
   <img src="setUpVariable1.png" alt="Set variables" title="Set variables" width="300"/>
@@ -148,4 +148,4 @@ Afterward, condition every newsletter module and question if the consumer wants 
   <img src="setUpVariable3.png" alt="Set variables" title="Set variables" width="300"/>
 </p>
 
-You can use variables in any different caes. Both were only examples to show you how it works!
+You can use variables in any different cases. Both were only examples to show you how it works!
