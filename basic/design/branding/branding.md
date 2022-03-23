@@ -12,7 +12,7 @@ If you already have a standardised branding that you wish to transfer to another
 If you want to personalise your individual experiences, you can create new brandings for every experience. Let's brand your chatbot to your preferences together.
 
 <p align="center">
-    >img src="branding_start.png" alt="Branding" title="Branding" width="300"/>
+    <img src="branding_start.png" alt="Branding" title="Branding" width="300"/>
 </p>
 
 ### Conversation
