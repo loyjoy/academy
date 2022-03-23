@@ -17,7 +17,7 @@ If you want to personalise your individual experiences, you can create new brand
 
 ### Conversation
 
-First, you will find the Conversation settings. Here you can pick the main color of your experience to match the brand’s style. Manage your chat speed and personalise the experiences by inserting a chat avatar image or a chat background. Remember that we recommend the pictures be no larger than 500 kb, furthermore, you can find the recommended px size in the designated area!
+First, you will find the Conversation settings. Here you can pick the main color of your experience to match the brand’s style. Manage your chat speed and personalise the experiences by inserting a chat avatar image or a chat background. Remember that we recommend the pictures be **no larger than 500 kb**, furthermore, you can find the recommended px size in the designated area!
 
 You can also find the individual settings for desktop or mobile use. Choose individually if you wish the experience to open initially or open more than once. You are also able to adjust the chat window position and window width for the desktop experience. 
 
