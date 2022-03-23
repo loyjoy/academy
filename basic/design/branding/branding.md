@@ -11,6 +11,10 @@ If you already have a standardised branding that you wish to transfer to another
 
 If you want to personalise your individual experiences, you can create new brandings for every experience. Let's brand your chatbot to your preferences together.
 
+<p align="center">
+    >img src="branding_start" alt="Branding" title="Branding" width="300"/>
+</p>
+
 ### Conversation
 
 First, you will find the Conversation settings. Here you can pick the main color of your experience to match the brand’s style. Manage your chat speed and personalise the experiences by inserting a chat avatar image or a chat background. Remember that we recommend the pictures be no larger than 500 kb, furthermore, you can find the recommended px size in the designated area!
