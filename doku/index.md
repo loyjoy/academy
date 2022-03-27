@@ -2,6 +2,8 @@
 
 Here you find the [LoyJoy Conversational Marketing Cloud](https://www.loyjoy.com).
 
+[See here how to login](/basic/start/login/login.md) 
+
 ## PLATFORM OVERVIEW
 
 How is the platform structured 📂 , where can I find what 🔎 and where can I view my personal settings?
@@ -9,9 +11,9 @@ Also everything about your tenant and its settings ⚙️
 
 [Sidebar](sidebar/sidebar.md)                                   
 [Tabs](tabs/tabs.md)
-[Main screen](main/main.md)
-[Personal settings](settings/settings.md)   
-[Tendant](tendant/tendant.md)
+[Main screen]()
+[Personal settings](/basic/start/personal_settings/personal_settings.md)   
+[Tendant]()
 
 ## BUILD PROCESSES
 
@@ -28,9 +30,9 @@ Also everything about your tenant and its settings ⚙️
 [How]()
 [Settings]()
 
-### 4. Data
+### 4. [Data](/basic/menu/data/data.md)
 
-### 5. Analytics
+### 5. [Analytics](/basic/menu/analytics/analytics.md)
 
 ### 6. Checklists & Guides
 + New project
