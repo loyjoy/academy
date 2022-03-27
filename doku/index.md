@@ -17,7 +17,7 @@ Also everything about your tenant and its settings ⚙️
 
 ## BUILD PROCESSES
 
-[Start](start/start.md)   
+[Start building](start/start.md)   
 [Modules](modules/modules.md)                                   
 [Template store](templates/templates.md)      
 [Branding](branding/branding.md)     
