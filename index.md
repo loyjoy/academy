@@ -4,7 +4,7 @@ Here you find the academy documentation for [LoyJoy Conversational Marketing Clo
 
 ## 📖 Academy contents
 
-| Documentation                                                           |                                                              |
+| Courses                                                                 |                                                              |
 | ------------------------------------------------------------------------| ------------------------------------------------------------ |
 | [BASIC](basic/basic.md)                                                 |  How to bring the joy 🎉                                     |
 | [ADVANCED](advanced/advanced.md)                                        |  How to bring advanced joy ⭐                                | 
