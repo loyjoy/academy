@@ -2,7 +2,7 @@
 
 Building a product finder, a skin type test, or something similar was never so easy as with the decision table! You do not have to add every condition to each module. 
 For this article, you should know how variables work. If you need help with that, read this (LINK) article first.
-To use a decision table you need a questionnaire, a decision table, and some outputs. Outputs can be every process brick. Those are what the customer will see as a result. In this example, we will build a test on which hobby suits best for the customer. As a result (outputs) we have swimming, cycling, and jogging.
+To use a decision table you need a questionnaire, a decision table, and some outputs. Outputs can be every module. Those are what the customer will see as a result. In this example, we will build a test on which hobby suits best for the customer. As a result (outputs) we have swimming, cycling, and jogging.
 
 <p align="center">
   <img src="unnamed.png" alt="Start" title="Start" width="200"/>
@@ -54,7 +54,7 @@ As a next step, add a new rule.
 With this, you determine the combinations of your questionnaire. For example, you have three outputs: jogging, cycling, and swimming add a rule for every 
 combination after which comes jogging as an output. Because of length, we do only three combinations. Afterward, the system will be clear. If the first 
 combination is clicked by the customer the hobby will be cycling. So we add in the fields of the first rule values which suits. The system is similar to 
-the variables at process bricks. Click on the field under the first input. Choose an operator and add the fitting value. This has to be a value that is 
+the variables at modules. Click on the field under the first input. Choose an operator and add the fitting value. This has to be a value that is 
 set in the first question.
 
 <p align="center">
@@ -74,7 +74,7 @@ Next, you fill in the “Output”. Therefore click on the field under hobby. Ch
 </p>
 
 
-Now the first rule is ready. If this combination is clicked, the consumer will get “bicycle” as a result. You need to rule every possibility because else the chatbot does not know what to send. There would be no output then.
+Now the first rule is ready. If this combination is clicked, the customer will get “bicycle” as a result. You need to rule every possibility because else the chatbot does not know what to send. There would be no output then.
 
 <p align="center">
   <img src="ready.png" alt="Add process variables" title="Add process variables" width="400"/>
@@ -82,8 +82,8 @@ Now the first rule is ready. If this combination is clicked, the consumer will g
 
 
 
-### Choose your process bricks
-As the last step, you need to condition your modules. Therefore click on the small circle at your process brick. 
+### Choose your modules
+As the last step, you need to condition your modules. Therefore click on the small circle at your module. 
 
 <p align="center">
   <img src="conditionModules.png" alt="Condition the modules" title="Condition the modules" width="300"/>
