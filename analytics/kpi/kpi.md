@@ -1,12 +1,10 @@
-# Analytics 📈
+# Key Performance Indicator (KPI) 📈
 
 #### Track the performance of your live chatbots, better understand your customers' behaviour and see your KPIs skyrocket by using the LoyJoy Analytics Dashboard.
 ________________________
 1. [Find your way](#1-find-your-way)
-2. [KPI tab at a glance](#2-KPI-tab-at-a-glance)
-3. [Which numbers are displayed (KPI-Tab)](#3-which-numbers-are-displayed-KPI-tab)
-4. [Drill-down tab at a glance](#4-drill-down-tab-at-a-glance)
-5. [Which numbers are displayed (Drill-down-Tab)](#5-which-numbers-are-displayed-drill-down-tab)
+2. [KPI tab at a glance](#2-kpi-tab-at-a-glance)
+3. [Which numbers are displayed (KPI-Tab)](#3-which-numbers-are-displayed-kpi-tab)
 
 
 [*See also Analytics FAQs*](/faq/analytics/analytics.md)
@@ -21,7 +19,7 @@ ________________________
 
 SCREENSHOT
 
-+ There are two tabs in this view: KPI & Drilldown. The KPI tab shows the aggregated numbers and general charts for this experience. The drilldown tab shows the heatmap depicting which process modules were visited how often and allows you to click on each module to analyse module-specific data.
++ There are two tabs in this view: KPI & [Drilldown](/analytics/drill_down/drill_down.md). The KPI tab shows the aggregated numbers and general charts for this experience. The drilldown tab shows the heatmap depicting which process modules were visited how often and allows you to click on each module to analyse module-specific data.
 
 SCREENSHOT (tabs)
 
