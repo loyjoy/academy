@@ -1,13 +1,13 @@
 # Decision table
 
-Building a product finder, a skin type test, or something similar was never so easy as with the decision table! You do not have to add every condition to each process brick. 
+Building a product finder, a skin type test, or something similar was never so easy as with the decision table! You do not have to add every condition to each module. 
 For this article, you should know how variables work. If you need help with that, read this (LINK) article first.
-To use a decision table you need a questionnaire, a decision table, and some outputs. Outputs can be every process brick. Those are what the consumer will see as a result. In this example, we will build a test on which hobby suits best for the consumer. As a result (outputs) we have swimming, cycling, and jogging.
+To use a decision table you need a questionnaire, a decision table, and some outputs. Outputs can be every process brick. Those are what the customer will see as a result. In this example, we will build a test on which hobby suits best for the customer. As a result (outputs) we have swimming, cycling, and jogging.
 
 <p align="center">
   <img src="unnamed.png" alt="Start" title="Start" width="200"/>
 </p>
-For example, in a product finder, this would be the product gallery with products that suits best your consumers.
+For example, in a product finder, this would be the product gallery with products that suits best your customer.
 
 ### Add a questionnaire
 First, you add the questions you want to ask. Add at least two questions. For fewer questions, it does not make sense to use a decision table.
@@ -38,7 +38,7 @@ Next, click on the first field under “Input” and select “process variable�
   <img src="rules.png" alt="Add process variables" title="Add process variables" width="400"/>
 </p>
 
-Then, click on the field under “Output”, choose again “process variable”, and add a new name. Do not use a name that you have already used. You can use for example “skin type” if you do a skin type test or you can use “product” if you build a product finder. As for scope you choose “consumer” if you want to collect consumer data and process if not.
+Then, click on the field under “Output”, choose again “process variable”, and add a new name. Do not use a name that you have already used. You can use for example “skin type” if you do a skin type test or you can use “product” if you build a product finder. Select 'process specific' for 'Variable scope' if you want the variable to be used only in this experience and 'process independent' if you want the variable to be usable in other experiences as well.
 
 <p align="center">
   <img src="output2.png" alt="Choose outputs" title="Choose outputs" width="400"/>
@@ -53,7 +53,7 @@ As a next step, add a new rule.
 
 With this, you determine the combinations of your questionnaire. For example, you have three outputs: jogging, cycling, and swimming add a rule for every 
 combination after which comes jogging as an output. Because of length, we do only three combinations. Afterward, the system will be clear. If the first 
-combination is clicked by the consumer the hobby will be cycling. So we add in the fields of the first rule values which suits. The system is similar to 
+combination is clicked by the customer the hobby will be cycling. So we add in the fields of the first rule values which suits. The system is similar to 
 the variables at process bricks. Click on the field under the first input. Choose an operator and add the fitting value. This has to be a value that is 
 set in the first question.
 
@@ -83,7 +83,7 @@ Now the first rule is ready. If this combination is clicked, the consumer will g
 
 
 ### Choose your process bricks
-As the last step, you need to condition your process bricks. Therefore click on the small circle at your process brick. 
+As the last step, you need to condition your modules. Therefore click on the small circle at your process brick. 
 
 <p align="center">
   <img src="conditionModules.png" alt="Condition the modules" title="Condition the modules" width="300"/>
@@ -96,7 +96,7 @@ Then choose “hobby” as a process variable in the first field and your output
   <img src="conditionReady.png" alt="Condition is ready" title="Condition is ready" width="300"/>
 </p>
 
-That's it! Now your chat is customised to the customer's responses.
+That's it! Now your chat is customized to the customer's responses.
 
 <p align="center">
    <img src="end.png" alt="Ready" title="Ready" width="200"/>
