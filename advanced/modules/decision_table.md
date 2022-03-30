@@ -7,7 +7,6 @@ To use a decision table you need a questionnaire, a decision table, and some out
 <p align="center">
   <img src="unnamed.png" alt="Start" title="Start" width="200"/>
 </p>
-For example, in a product finder, this would be the product gallery with products that suits best your customer.
 
 ### Add a questionnaire
 First, you add the questions you want to ask. Add at least two questions. For fewer questions, it does not make sense to use a decision table.
