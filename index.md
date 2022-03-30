@@ -6,14 +6,6 @@
 - [User Roles](/basic/start/roles/roles.md)
 - [Personal settings](/basic/start/roles/roles.md)
 
-## Analytics
-- [KPIs](/basic/menu/analytics/analytics.md#2-KPI-tab-at-a-glance)
-- [Drilldown](/basic/menu/analytics/analytics.md#4-drill-down-tab-at-a-glance)
-
-## Data
-- [Data Privacy](/basic/start/data_privacy.md)
-- [Storage options](/basic/menu/data/data.md)
-
 ## Experiences
 - [Folders and Experiences](/basic/conversation/build/build_a_conversational_experience.md)
 - [Experiences](/basic/menu/experiences/experiences.md)
@@ -26,11 +18,20 @@
 ## Branding
 - [Multi-language](
 - [Publish to Web](
-- [Publish to Social Media](
+- [Publish to Social Media](## Analytics
+- [KPIs](/basic/menu/analytics/analytics.md#2-KPI-tab-at-a-glance)
+- [Drilldown](/basic/menu/analytics/analytics.md#4-drill-down-tab-at-a-glance)
 
-## [Push Messages](/advanced/push/push.md)
+## Data
+- [Data Privacy](/basic/start/data_privacy.md)
+- [Storage options](/basic/menu/data/data.md)
 
-## [NLU](/advanced/nlu/nlu.md)
+## Push Messages
+- [How to](/advanced/push/push.md)
+
+
+## NLU
+- [What is]((/advanced/nlu/nlu.md)
 - [Training Data Tips](/advanced/nlu/training/training.md)
 
 ## [Live Chat](/advanced/live/live.md)
