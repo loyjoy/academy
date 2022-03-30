@@ -10,8 +10,8 @@
 - [Drilldown](analytics/drill_down/drill_down.md)
 
 ## Data
-- [Data Privacy](/guides/data_privacy.md)
-- [Storage options](/basic/menu/data/data.md)
+- [Data Privacy](/data/data_privacy.md)
+- [Storage options](/data/data.md)
 
 ## Experiences
 - [Experiences & Folders](/basic/conversation/build/build_a_conversational_experience.md)
