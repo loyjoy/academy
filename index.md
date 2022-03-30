@@ -38,6 +38,8 @@
 
 ## Best Practices
 - [7 secrets]()
+- [New project - Checklists]()
+- [Advent calendar - Checklist]()
 
 ## [FAQ]()
 
