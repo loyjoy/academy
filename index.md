@@ -1,9 +1,9 @@
 # Welcome to LoyJoy documentation ! 🎉
 
 ## Getting started
-- [Login](/basic/start/login/login.md)
-- [Invite Team & user roles](/basic/start/roles/roles.md)
-- [Personal settings](/basic/start/roles/roles.md)
+- [Login](/getting_started/login/login.md)
+- [Invite Team & user roles](/getting_started/roles/roles.md)
+- [Personal settings](/getting_started/personal_settings/personal_settings.md)
 
 ## Analytics
 - [KPIs](/basic/menu/analytics/analytics.md#2-KPI-tab-at-a-glance)
