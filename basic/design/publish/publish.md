@@ -8,7 +8,7 @@ Before you go live with your chatbot, make sure you test the experience and of c
     <img src=“publish_test.png" alt=“Publish_Test” title=“Publish” width=“600"/>
 </p>
 
-![Publish](/academy/basic/design/publish/publish_test.png)
+![Publish_Test](/academy/basic/design/publish/publish_test.png)
 
 View your chatbot on a unique landing page. We have automatically created a simple landing page for you, which you can use and share directly. Adjust the landing page to your brand by using the settings to insert a background, to enter an imprint, or to redirect visitors to another URL. Just copy the Link and share! 
 
