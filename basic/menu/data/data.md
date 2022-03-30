@@ -1,4 +1,7 @@
+# Data 🗂️
 
+#### Find all the data, that are collected in the Chat. From customer data to uploaded assets to a log of chat history changes.
+______________
 1. [Customers](#1-customers)
 2. [Consents](#2-consents)
 3. [Giveaways](#3-giveaways)
@@ -23,6 +26,7 @@ Using the search bar, you can search for customers by their email address.
 You can also download all customer data as a CSV file.
 
 #### Detailed information
+
 When you click on a customer's email, you will see all the personal data that the customer has already entered. In the variables section, you will see a 
 timeline of which variables have been set for the customer. You can also download files that the customer has uploaded, such as audio recordings.
 
