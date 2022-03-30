@@ -4,8 +4,6 @@
 
 Before you go live with your chatbot, make sure you test the experience and of course, share it with your colleagues. Choose out of three options to securely test your chatbot and grant feedback.
 
-![Publish_Test](/academy/basic/design/publish/publish.png)
-
 View your chatbot on a unique landing page. We have automatically created a simple landing page for you, which you can use and share directly. Adjust the landing page to your brand by using the settings to insert a background, to enter an imprint, or to redirect visitors to another URL. Just copy the Link and share! 
 
 To test the experience your future mobile users you are able to review the chatbot on your smartphone. Just scan the QR code and try it out!
@@ -30,19 +28,9 @@ Get extra attention for your chat bubble by using our cool chat bubble animation
 
 But there are much more ways to publish your chatbot such as various social media channels. 
 
-<p align="center">
-    <img src=“publish_platforms.png" alt="Publish_Platforms" title=“Platforms” width=“600"/>
-</p>
-
 To post your chatbot directly into an Instagram Story, simply copy and paste the appropriate link into the Swipe-Up link.
 
 To integrate the experience into Facebook, enter the provided URL as Webhook subscription URL in Facebook Developer and fill out the  necessary fields.
-
-<p align="center">
-    <img src=“publish_facebook.png" alt="Publish_FB" title=“Facebook”ook width=“100"/>
-</p>
-
-![Publish](basic/design/publish/publish_facebook.png) 
 
 To integrate the experience in WhatsApp Business API, enter the provided URL as Webhook URL in a Docker-hosted WhatsApp Business API and fill out the necessary fields.
 
