@@ -1,0 +1,95 @@
+1. [Drill-down tab at a glance](#4-drill-down-tab-at-a-glance)
+2. [Which numbers are displayed (Drill-down-Tab)](#5-which-numbers-are-displayed-drill-down-tab))
+
+## 1. Drill-down tab at a glance
+
+The drilldown tab shows a sequential view of the different modules that make up an experience. For each of the modules it shows the number of times this module was shown. Laid over the the modules is a heatmap that visually indicates the relative frequency (blue over green and yellow to red from low to high).
+
+## 2. Which numbers are displayed (Drill-down-Tab)
+
+A color visualized heatmap shows how often each of the modules were displayed. The color gradient from blue to green to yellow to red shows a low to high 
+frequency.
+If you click on the individual modules, you will get more detailed information. For each module, it is indicated how often it was passed through. For some 
+modules, there are also additional KPIs. These are explained in more detail [here](#51-web-push-opt-in).
+
+2.1. [Web push opt-in](#51-web-push-opt-in)</br>
+2.2. [Share link](#52-share-link)</br>
+2.3. [NPS Survey](#53-nps-survey)</br>
+2.4. [Sign in](#54-sign-in)</br>
+2.5. [Decision Jump](#55-decision-jump)</br>
+2.6. [Loyalty points](#56-loyalty-points)</br>
+2.7. [Rewards](#57-rewards)</br>
+2.8. [Opt-ins](#58-opt-ins)</br>
+2.9. [Quiz](#59-quiz)</br>
+2.10. [Instant win](#510-instant-win)</br>
+2.11. [Giveaway participation](#511-giveaway-participation)</br>
+2.12. [Coupon code](#512-coupon-code)</br>
+2.13. [Appointment scheduler](#513-appointment-scheduler)</br>
+2.14. [Code entry](#514-code-entry)</br>
+2.15. [Personal data](#515-personal-data)</br>
+
+
+### 2.1. Web push opt-in
+Here you can see how often the web push opt-in was asked for, how many single and double opt-ins were given and how many times the single opt-in was rejected
+
+### 2.2. Share link
+Here you can see how often the chatbot was shared via Facebook, email, Twitter, Whatsapp or the link.
+
+### 2.3. NPS Survey
+
+#### NPS segments
+This diagram shows the distribution of [detractors](#detractors), [passives](#passives) and [promoters](#promoters). If you hover over it, you will also see the 
+absolute number.
+
+#### NPS distribution
+In this chart you can see the NPS scores per score.
+
+#### NPS answers
+Download the answers (typed content) of the customers in the NPS rating here. You can choose between the three categories [detractors](#detractors), 
+[passives](#passives) and [promoters](#promoters).
+
+### 2.4. Sign in
+Here you get an overview of how many customers have signed in and how often the pin email was sent. You can also see how often the pin was successfully or 
+unsuccessfully entered. In addition, the new customers are also counted. These are customers who enter their email address for the first time.
+
+### 2.5. Decision Jump
+Look at the split of how many clients chose which options
+
+### 2.6. Loyalty points
+This module provides you with information on how many loyalty points have been awarded, how many different customers have received these points and how many 
+rewards have been redeemed.
+
+### 2.7. Rewards
+Here you can find out how many points have been redeemed in total and how many rewards they have been distributed over.
+
+### 2.8. Opt-ins
+For the opt-in modules (profiling, reminder, SMS and newsletter), you can see how often single or double opt-ins were given, how often single opt-ins were 
+rejected and how often opt-outs occurred.
+
+### 2.9. Quiz
+See here how many correct and incorrect answers were given and how many pictures were uploaded. You also get an overview of the answer distribution for the 
+individual quiz questions.
+
+### 2.10. Instant win
+Here you can see how many different participants there were and how many in total. You can also see how many participants won and how many lost.
+
+### 2.11. Giveaway participation
+Here you get an overview of how many different customers have participated and how many in total.
+
+### 2.12 Coupon code
+Get an overview of how many coupon codes have been uploaded, how many codes have been distributed and how many codes have been entered.
+
+### 2.13. Appointment scheduler
+Get an overview here of how many appointments have already been booked
+
+### 2.14. Code entry
+Here you can see how many codes were entered, how many of them were correct and how many of them were wrong.
+
+### 2.15. Personal data
+In the modules that request personal data (birthdate, first name, phone number, postal address), you can see how many customers have entered data.
+
+
+
+
+
+
