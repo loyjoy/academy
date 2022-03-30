@@ -3,10 +3,10 @@
 #### Track the performance of your live chatbots, better understand your customers' behaviour and see your KPIs skyrocket by using the LoyJoy Analytics Dashboard.
 ________________________
 1. [Find your way](#1-find-your-way)
-3. [Overview tab at a glance](#2-overview-tab-at-a-glance)
-4. [Which numbers are displayed (Overview-Tab)](#4-which-numbers-are-displayed-overview-tab)
-5. [Drill-down tab at a glance](#3-drill-down-tab-at-a-glance)
-6. [Which numbers are displayed (Drill-down-Tab)](#5-which-numbers-are-displayed-drill-down-tab)
+2. [Overview tab at a glance](#2-overview-tab-at-a-glance)
+3. [Which numbers are displayed (Overview-Tab)](#3-which-numbers-are-displayed-overview-tab)
+4. [Drill-down tab at a glance](#4-drill-down-tab-at-a-glance)
+5. [Which numbers are displayed (Drill-down-Tab)](#5-which-numbers-are-displayed-drill-down-tab)
 
 
 [*See also Analytics FAQs*](/faq/analytics/analytics.md)
