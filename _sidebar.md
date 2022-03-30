@@ -1,6 +1,6 @@
 ###
 [Main Menu](/)
-- [Getting started](https://github.com/loyjoy/academy/blob/main/index.md#getting-started)
+- [Getting started](/index.md#getting-started)
 - [Experiences]()
 - [Branding]()
 - [Publish]()
