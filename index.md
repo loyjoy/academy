@@ -23,12 +23,11 @@
 - [Drilldown](/basic/menu/analytics/analytics.md#4-drill-down-tab-at-a-glance)
 
 ## Data
-- [Data Privacy](/basic/start/data_privacy.md)
+- [Data Privacy](/guides/data_privacy.md)
 - [Storage options](/basic/menu/data/data.md)
 
 ## Push Messages
 - [How to](/advanced/push/push.md)
-
 
 ## NLU
 - [What is]((/advanced/nlu/nlu.md)
