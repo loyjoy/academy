@@ -18,11 +18,7 @@ There are many ways to publish and distribute your chatbot. One way is to place 
 
 Of you want to integrate a button for the experience into your website, paste the provided code into your HTML to show a button to start the chat.
 
-If you decide to publish your chatbot on a website, make use of our Chatbot Settings.
-
-You might have noticed that the chat bubble is LoyJoy-branded. Adjust it by inserting your chat bubble.
-
-Get extra attention for your chat bubble by using our cool chat bubble animations.
+If you decide to publish your chatbot on a website, make use of our Chatbot Settings. You might have noticed that the chat bubble is LoyJoy-branded. Adjust it by inserting your chat bubble. Get extra attention for your chat bubble by using our cool chat bubble animations.
 
 ### Other Platforms
 
@@ -30,9 +26,7 @@ But there are much more ways to publish your chatbot such as various social medi
 
 To post your chatbot directly into an Instagram Story, simply copy and paste the appropriate link into the Swipe-Up link.
 
-To integrate the experience into Facebook, enter the provided URL as Webhook subscription URL in Facebook Developer and fill out the  necessary fields.
-
-To integrate the experience in WhatsApp Business API, enter the provided URL as Webhook URL in a Docker-hosted WhatsApp Business API and fill out the necessary fields.
+To integrate the experience into Facebook or in WhatsApp Business API, enter the provided URL as Webhook subscription URL in Facebook Developer or in a Docker-hosted WhatsApp Business API and fill out the necessary fields.
 
 If you have any questions or problems with other channels, please contact the LoyJoy Team.
 
