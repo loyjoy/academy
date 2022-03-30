@@ -40,7 +40,7 @@ Next, click on the first field under “Input” and select “process variable�
 Then, click on the field under “Output”, choose again “process variable”, and add a new name. Do not use a name that you have already used. You can use for example “skin type” if you do a skin type test or you can use “product” if you build a product finder. Select 'process specific' for 'Variable scope' if you want the variable to be used only in this experience and 'process independent' if you want the variable to be usable in other experiences as well.
 
 <p align="center">
-  <img src="output2.png" alt="Choose outputs" title="Choose outputs" width="400"/>
+  <img src="output_2.png" alt="Choose outputs" title="Choose outputs" width="400"/>
 </p>
 
 As a next step, add a new rule.
