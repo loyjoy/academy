@@ -8,7 +8,7 @@ Here you can set a name for your tenant. In case you are working on multiple tea
 Furthermore, you can delete your tenant and all customer data here. This action is irreversible.
 
 ## User accounts 
-Find out more on the user accounts under [*Invite colleagues & assign user roles*](https://github.com/loyjoy/academy/blob/main/basic/start/roles.md)
+Find out more on the user accounts under [*Invite colleagues & assign user roles*](/getting_started/roles/roles.md)
 
 ## API
 LoyJoy offers an API for executing processes programmatically and accessing variables. For the API an access token is required which can be generated in this view.
