@@ -11,13 +11,15 @@
 - [Drilldown](/basic/menu/analytics/analytics.md#4-drill-down-tab-at-a-glance)
 
 ## Data
-- [Data Privacy](
-- [Storage options](
+- [Data Privacy](/basic/start/data_privacy.md)
+- [Storage options](/basic/menu/data/data.md)
 
 ## Experiences
-- [Folders and Templates](
+- [Folders and Experiences](/basic/conversation/build/build_a_conversational_experience.md)
+- [Experiences and HomeViews](/basic/menu/experiences/experiences.md)
+- [Templates](
 - [Process Editor](
-- [Process Modules](
+- [Process Modules](/basic/modules/module_list.md)
 - [Variables & Conditions](
 
 ## Branding
@@ -27,12 +29,12 @@
 
 ## [Push Messages](
 
-## [NLU](
-- [Training Data Tips](
+## [NLU](/advanced/nlu/nlu.md)
+- [Training Data Tips](/advanced/nlu/training/training.md)
 
-## [Live Chat](
+## [Live Chat](/advanced/live/live.md)
 
 ## [Best Practices](
 
-## [Changelog](
+## [Changelog](https://github.com/loyjoy/welcome/blob/master/CHANGELOG.md)
 
