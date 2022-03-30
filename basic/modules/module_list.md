@@ -16,12 +16,12 @@
 | [Product gallery](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Show products to customers	|  Placeholder  | Image gallery         |[How to *Placeholder*](detailed.md#signal) |
 | [Questionnaire](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Collect customer information	|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Restart](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Start the chat again|  Placeholder  | Automatic jump         |[How to *Placeholder*](detailed.md#signal) |
-| [Return jump](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Return jump](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Jump to another experience and back to the same place when the experience you jumped to has finished.|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Share link](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Let customers share their experience	|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Sign in](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Sign in](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Let the customer log in and create an entry in the customer database|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Simple message](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Send plain chat message	|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Stop](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Welcoming](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Stop](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Stop the flow|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Welcoming](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Say hello to your customers|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 
 
 
@@ -30,10 +30,10 @@
 
 | Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
-| [Loyalty points](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Loyalty referral](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Loyalty sharing](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Rewards](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Loyalty points](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Give the customer loyalty points|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Loyalty referral](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Reward customers when they successfully acquired new loyalty program members.|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Loyalty sharing](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Provide a sharing link for your loyalty program. If a new member signs up, the referrer gets rewarded.|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Rewards](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Customers can view and redeem rewards with their loyalty points.|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 
 
 
@@ -64,13 +64,13 @@
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
 | [Newsletter opt-in](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask for newsletter opt-in	|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Notification](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Opt-ins](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Profiling opt-in](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Opt-ins](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Show your customers their opt-ins that they have given in other process modules. Customers can remove their opt-ins if needed.|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Profiling opt-in](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask for profiling opt-in|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Reminder notification](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Reminder opt-in](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [SMS opt-in](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Terms of participation](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Web push opt-in](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Reminder opt-in](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask for reminder opt-in|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [SMS opt-in](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask for SMS opt-in|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Terms of participation](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask your customer for confirmation on the terms|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Web push opt-in](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask for web push opt-in|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 
 
 ### Media
