@@ -31,7 +31,7 @@ Get extra attention for your chat bubble by using our cool chat bubble animation
 But there are much more ways to publish your chatbot such as various social media channels. 
 
 <p align="center">
-    <img src=“publish_platforms.png.png" alt="Publish_Platforms" title=“Platforms” width=“600"/>
+    <img src=“publish_platforms.png" alt="Publish_Platforms" title=“Platforms” width=“600"/>
 </p>
 
 To post your chatbot directly into an Instagram Story, simply copy and paste the appropriate link into the Swipe-Up link.
@@ -39,7 +39,7 @@ To post your chatbot directly into an Instagram Story, simply copy and paste the
 To integrate the experience into Facebook, enter the provided URL as Webhook subscription URL in Facebook Developer and fill out the  necessary fields.
 
 <p align="center">
-    <img src=“publish_facebook.png.png" alt="Publish_FB" title=“Facebook”ook width=“100"/>
+    <img src=“publish_facebook.png" alt="Publish_FB" title=“Facebook”ook width=“100"/>
 </p>
 
 ![Publish](basic/design/publish/publish_facebook.png) 
