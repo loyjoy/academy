@@ -94,5 +94,10 @@ Then choose “hobby” as a process variable in the first field and your output
 
 <p align="center">
   <img src="conditionReady.png" alt="Condition is ready" title="Condition is ready" width="300"/>
+</p>
+
+That's it! Now your chat is customised to the customer's responses.
+
+<p align="center">
    <img src="end.png" alt="Ready" title="Ready" width="200"/>
 </p>
