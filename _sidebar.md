@@ -1,8 +1,9 @@
-### 
+###
 [Main Menu](/)
 - [Getting started]()
 - [Experiences]()
 - [Branding]()
+- [Publish]()
 - [Data]()
 - [Analytics]()
 - [Push Messages]()

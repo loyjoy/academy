@@ -1,6 +1,6 @@
 # Welcome to LoyJoy documentation ! 🎉
 
-## Getting started 
+## Getting started
 - [First steps](/basic/start/login/login.md)
 - [Invite Team](/basic/start/roles/roles.md)
 - [User Roles](/basic/start/roles/roles.md)
@@ -14,11 +14,15 @@
 - [Process Editor](
 - [Process Modules](/basic/modules/module_list.md)
 - [Variables & Conditions](
+  [languages](
 
 ## Branding
-- [Multi-language](
+
+## Publish
 - [Publish to Web](
-- [Publish to Social Media](## Analytics
+- [Publish to Social Media]
+
+## Analytics
 - [KPIs](/basic/menu/analytics/analytics.md#2-KPI-tab-at-a-glance)
 - [Drilldown](/basic/menu/analytics/analytics.md#4-drill-down-tab-at-a-glance)
 
@@ -38,4 +42,3 @@
 ## [Best Practices](
 
 ## [Changelog](https://github.com/loyjoy/welcome/blob/master/CHANGELOG.md)
-
