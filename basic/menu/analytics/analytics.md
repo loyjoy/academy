@@ -46,19 +46,15 @@ SCREENTSHOT (funnel)
 
 SCREENSHOT (graph)
 
-## 3. Drill-down tab at a glance
+## 3. Which numbers are displayed (Overview-Tab)
 
-The drilldown tab shows a sequential view of the different modules that make up an experience. For each of the modules it shows the number of times this module was shown. Laid over the the modules is a heatmap that visually indicates the relative frequency (blue over green and yellow to red from low to high).
+3.1. [KPIs in absolute numbers](#41-kpis-in-absolute-numbers)</br>
+3.2. [KPIs over time](#42-kpis-over-time)</br>
+3.3. [KPIs over time (cumulated)](#43-kpis-over-time-cumulated)</br>
+3.4. [Funnel](#44-funnel)</br>
+3.5. [KPIs over time](#45-others)</br>
 
-## 4. Which numbers are displayed (Overview-Tab)
-
-4.1. [KPIs in absolute numbers](#41-kpis-in-absolute-numbers)</br>
-4.2. [KPIs over time](#42-kpis-over-time)</br>
-4.3. [KPIs over time (cumulated)](#43-kpis-over-time-cumulated)</br>
-4.4. [Funnel](#44-funnel)</br>
-4.5. [KPIs over time](#45-others)</br>
-
-### 4.1. KPIs in absolute numbers
+### 3.1. KPIs in absolute numbers
 
 #### Screen time (min)
 Total screen time spent by all customers within this experience in minutes.
@@ -149,16 +145,16 @@ Display of the year change in the diagram.
 
 * All KPIs marked with * can also be seen at [KPIs over time](#42-kpis-over-time), [KPIs over time (cumulated)](#43-kpis-over-time-cumulated) and [Funnel](#44-funnel).
 
-### 4.2. KPIs over time
+### 3.2. KPIs over time
 In this chart you can view the individual KPIs over the specified time period or over the entire time period
 
-### 4.3. KPIs over time (cumulated)
+### 3.3. KPIs over time (cumulated)
 In this diagram you can view the individual KPIs cumulatively over the specified time period or over the entire time period.
 
-### 4.4. Funnel
+### 3.4. Funnel
 Here you can see the individual KPIs in a funnel.
 
-### 4.5. Others
+### 3.5. Others
 
 #### Platforms
 Take a look at the diagram to see how your customers are split between mobile and desktop. If you hover over it, you get the absolute number.
@@ -179,6 +175,10 @@ In this chart you can see the NPS scores per score.
 #### NPS answers
 Download the answers (typed content) of the customers in the NPS rating here. You can choose between the three categories [detractors](#detractors), 
 [passives](#passives) and [promoters](#promoters).
+
+## 4. Drill-down tab at a glance
+
+The drilldown tab shows a sequential view of the different modules that make up an experience. For each of the modules it shows the number of times this module was shown. Laid over the the modules is a heatmap that visually indicates the relative frequency (blue over green and yellow to red from low to high).
 
 ## 5. Which numbers are displayed (Drill-down-Tab)
 
