@@ -22,19 +22,6 @@
 | 7 | Variables | No | Stores all process variables for export purposes as in Manager > Customers > Experience > Download variables | 60 days | Expires at | Variable values, files (AES encrypted) | 
 | 8  Marketing Consents | Only when using process modules Newsletter Optin, Reminder Optin, Profiling Optin, WebPush Optin, can be disabled | Stores consents for export purposes. | 180 days | Created at | Email address (AES encrypted), IP address (AES encrypted) |
 | 9 | Coupon codes redeemed | Only when using process modules Coupon or Codes, can be disabled | Stores coupon codes to be emitted to customers. A coupon code emitted to a customer is assigned to that customer, so that it cannot be emitted twice. | 180 days | Created at | Email address (AES encrypted) |
-| 10 | Loyalty transactions | Only when using process modules Loyalty, LoyaltyReferral, LoyaltySharing, can be disabled | Stores loyalty transactions which in the chat UI are represented as coins. br E.g. a customer can retrieve 10 coins in a loyalty transaction, spend 2 coins in another loyalty transaction for a reward, leaving the customer with 8 coins and a reward redemption.
-180 days
-Created at
-Email address (AES encrypted)
-
-
-11
-Loyalty redemptions
-Only when using process module Rewards, can be disabled
-Stores reward redemptions by customers originating from loyalty transactions
-60 days
-Created at
-Email address, firstname, last name, postal address, phone (all AES encrypted)
-
-
-
+| 10 | Loyalty transactions | Only when using process modules Loyalty, LoyaltyReferral, LoyaltySharing, can be disabled | Stores loyalty transactions which in the chat UI are represented as coins. br E.g. a customer can retrieve 10 coins in a loyalty transaction, spend 2 coins in another loyalty transaction for a reward, leaving the customer with 8 coins and a reward redemption. | 180 days | Created at | Email address (AES encrypted) |
+| 11 | Loyalty redemptions | Only when using process module Rewards, can be disabled |Stores reward redemptions by customers originating from loyalty transactions | 60 days | Created at | Email address, firstname, last name, postal address, phone (all AES encrypted) |
+| 12 | Raffle Participations | Only when using process module Giveaway Participation or Instant Win, can be disabled | Stores raffle participations, from which a participant randomly can be chosen. | Might also store a manually picked random list of participants as a copy of the corresponding participation entry | 60 days | Created at | Email address, firstname, last name, postal address, phone (all AES encrypted) |
