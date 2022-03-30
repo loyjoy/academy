@@ -46,6 +46,8 @@ To integrate the experience into Facebook, enter the provided URL as Webhook sub
     <img src=“publish_facebook.png" alt="Publish_FB" title=“Facebook”ook width=“100"/>
 </p>
 
+![Publish](basic/design/publish/publish_facebook.png) 
+
 To integrate the experience in WhatsApp Business API, enter the provided URL as Webhook URL in a Docker-hosted WhatsApp Business API and fill out the necessary fields.
 
 If you have any questions or problems with other channels, please contact the LoyJoy Team.
