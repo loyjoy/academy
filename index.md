@@ -27,7 +27,7 @@
 - [Texts and assets]()
 
 ## NLU
-- [What is NLU]((/advanced/nlu/nlu.md)
+- [What is NLU](/advanced/nlu/nlu.md)
 - [Training Data Tips](/advanced/nlu/training/training.md)
 
 ## Push
