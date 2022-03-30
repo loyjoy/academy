@@ -16,8 +16,9 @@
 
 ## Experiences
 - [Folders and Experiences](/basic/conversation/build/build_a_conversational_experience.md)
-- [Experiences and HomeViews](/basic/menu/experiences/experiences.md)
-- [Templates](
+- [Experiences](/basic/menu/experiences/experiences.md)
+- [Home Views](/basic/menu/home/homeview.md)
+- [Templates]()
 - [Process Editor](
 - [Process Modules](/basic/modules/module_list.md)
 - [Variables & Conditions](
