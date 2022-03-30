@@ -4,7 +4,7 @@
 
 Before you go live with your chatbot, make sure you test the experience and of course, share it with your colleagues. Choose out of three options to securely test your chatbot and grant feedback.
 
-![Publish_Test](/academy/basic/design/publish/publish_test.png)
+![Publish_Test](/academy/basic/design/publish/publish.png)
 
 View your chatbot on a unique landing page. We have automatically created a simple landing page for you, which you can use and share directly. Adjust the landing page to your brand by using the settings to insert a background, to enter an imprint, or to redirect visitors to another URL. Just copy the Link and share! 
 
