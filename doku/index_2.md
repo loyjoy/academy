@@ -27,7 +27,7 @@
 - [Publish to Web](
 - [Publish to Social Media](
 
-## [Push Messages](
+## [Push Messages](/advanced/push/push.md)
 
 ## [NLU](/advanced/nlu/nlu.md)
 - [Training Data Tips](/advanced/nlu/training/training.md)
