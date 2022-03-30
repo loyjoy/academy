@@ -6,7 +6,7 @@
 - [Personal settings](/getting_started/personal_settings/personal_settings.md)
 
 ## Analytics
-- [KPIs](/basic/menu/analytics/analytics.md#2-KPI-tab-at-a-glance)
+- [KPIs](https://github.com/loyjoy/academy/blob/main/analytics/analytics.md#analytics-)
 - [Drilldown](/basic/menu/analytics/analytics.md#4-drill-down-tab-at-a-glance)
 
 ## Data
