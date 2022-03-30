@@ -4,11 +4,13 @@
 ________________________
 1. [Find your way](#1-find-your-way)
 3. [Overview tab at a glance](#2-overview-tab-at-a-glance)
-4. [Drill-down tab at a glance](#3-drill-down-tab-at-a-glance)
-5. [Which numbers are displayed (Overview-Tab)](#4-which-numbers-are-displayed-overview-tab)
+4. [Which numbers are displayed (Overview-Tab)](#4-which-numbers-are-displayed-overview-tab)
+5. [Drill-down tab at a glance](#3-drill-down-tab-at-a-glance)
 6. [Which numbers are displayed (Drill-down-Tab)](#5-which-numbers-are-displayed-drill-down-tab)
 
+
 [*See also Analytics FAQs*](/faq/analytics/analytics.md)
+
 ## 1. Find your way
 
 + You can find your aggregated, tenant-wide KPIs under "Dashboard" at the top of the page and the performance of the individual experience in the view in the respective folders. <br>
@@ -200,7 +202,6 @@ modules, there are also additional KPIs. These are explained in more detail [her
 5.13. [Appointment scheduler](#513-appointment-scheduler)</br>
 5.14. [Code entry](#514-code-entry)</br>
 5.15. [Personal data](#515-personal-data)</br>
-
 
 
 ### 5.1. Web push opt-in
