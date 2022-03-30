@@ -25,3 +25,15 @@
 | 10 | Loyalty transactions | Only when using process modules Loyalty, LoyaltyReferral, LoyaltySharing, can be disabled | Stores loyalty transactions which in the chat UI are represented as coins. <br><br> E.g. a customer can retrieve 10 coins in a loyalty transaction, spend 2 coins in another loyalty transaction for a reward, leaving the customer with 8 coins and a reward redemption. | 180 days | Created at | Email address (AES encrypted) |
 | 11 | Loyalty redemptions | Only when using process module Rewards, can be disabled |Stores reward redemptions by customers originating from loyalty transactions | 60 days | Created at | Email address, firstname, last name, postal address, phone (all AES encrypted) |
 | 12 | Raffle Participations | Only when using process module Giveaway Participation or Instant Win, can be disabled | Stores raffle participations, from which a participant randomly can be chosen. <br><br> Might also store a manually picked random list of participants as a copy of the corresponding participation entry | 60 days | Created at | Email address, firstname, last name, postal address, phone (all AES encrypted) |
+
+
+## Data at rest
+Data at rest is encrypted according to the database schema
+- Properties with suffix _aes are AES-encrypted with AES/CBC/PKCS5Padding and key size 128. A migration to AES/GCM/NoPadding is planned in 2022.
+- Properties with suffix _bcrypt are hashed with bcrypt with cost 11 and are used for lookup
+- Data at rest is automatically deleted after the expiry date occurs
+
+## Data in transit
+- Data in transit is encrypted with TLS.
+- All services are hosted on Google Cloud Run, thus the Google Load Balancer certificate management applies.
+- LoyJoy GmbH does not manage TLS certificates, this is automated based on LetsEncrypt by Google Cloud Platform.
