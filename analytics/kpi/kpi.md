@@ -141,7 +141,7 @@ Number of deleted costumers.
 #### Year change*
 Display of the year change in the diagram.
 
-* All KPIs marked with * can also be seen at [KPIs over time](#42-kpis-over-time), [KPIs over time (cumulated)](#43-kpis-over-time-cumulated) and [Funnel](#44-funnel).
+* All KPIs marked with * can also be seen at [KPIs over time](#32-kpis-over-time), [KPIs over time (cumulated)](#33-kpis-over-time-cumulated) and [Funnel](#34-funnel).
 
 ### 3.2. KPIs over time
 In this chart you can view the individual KPIs over the specified time period or over the entire time period
