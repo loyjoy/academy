@@ -1,9 +1,10 @@
 ### 
 [Main Menu](/)
 - [Getting started]()
-- [Analytics]()
-- [Data]()
 - [Experiences]()
+- [Branding]()
+- [Data]()
+- [Analytics]()
 - [Push Messages]()
 - [NLU]()
 - [Live Chat]()
