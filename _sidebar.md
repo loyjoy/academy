@@ -1,6 +1,6 @@
 ###
 [Main Menu](/)
-- [Getting started]()
+- [Getting started](#getting-started)
 - [Experiences]()
 - [Branding]()
 - [Publish]()
