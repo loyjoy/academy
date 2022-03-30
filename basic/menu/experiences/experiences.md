@@ -12,7 +12,7 @@ Discover the possibilities of the LoyJoy Home Screen!
 Start your journey with LoyJoy and build your first Experience! 🎉
 
 ## Create new Experience
-Create a new Experience in the upper right corner on the orange button. You can choose between three options: start with a blank Experience and make your own from scratch, choose a template from our template store or a colleagues templates ([find our more here](https://github.com/loyjoy/academy/blob/main/basic/start/personal_settings.md)), or enter a copy token from another Experience. After you have created your Experience, it will appear in your overview under *Experiences*.
+Create a new Experience in the upper right corner on the orange button. You can choose between three options: start with a blank Experience and make your own from scratch, choose a template from our template store or a colleagues templates ([find our more here](/basic/start/personal_settings.md)), or enter a copy token from another Experience. After you have created your Experience, it will appear in your overview under *Experiences*.
 
 Screenshots 
 
