@@ -41,7 +41,7 @@ To post your chatbot directly into an Instagram Story, simply copy and paste the
 To integrate the experience into Facebook, enter the provided URL as Webhook subscription URL in Facebook Developer and fill out the  necessary fields.
 
 <p align="center">
-    <img src=“publish_facebook.png" alt="Branding" title=“Facebook”ook width=“300"/>
+    <img src=“publish_facebook.png" alt="Branding" title=“Facebook”ook width=“100"/>
 </p>
 
 To integrate the experience in WhatsApp Business API, enter the provided URL as Webhook URL in a Docker-hosted WhatsApp Business API and fill out the necessary fields.
