@@ -121,7 +121,7 @@
 
 | Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
-| [Decision table](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Decision table](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder |  Placeholder | [How to use the decision table](/experiences/modules/decision_table/decision_table.md) |
 | [Event](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Password](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Places](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
