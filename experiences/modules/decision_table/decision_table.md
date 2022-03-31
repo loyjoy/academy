@@ -7,7 +7,6 @@ To use a decision table you need a questionnaire, a decision table, and some out
 <p align="center">
   <img src="unnamed.png" alt="Start" title="Start" width="200"/>
 </p>
-![Select language](unnamed.png "Select language")
 
 
 ### Add a questionnaire
