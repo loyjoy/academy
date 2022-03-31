@@ -1,6 +1,3 @@
-# Decision Table
-
-Insert detailed description here. (if explanation in the help bar is not sufficient)
 
 # Mini program
 
