@@ -44,5 +44,5 @@ Screenshots
 You can find all your Home Views in the backend right next to your Experiences. To create a new Home view either start a blank Home View from the beginning or enter your token to copy an existing Home View on the orange button in the upper right corner. 
 
 ## Build your Home View 
-Find out how to build an exciting LoyJoy Home View [right here](/basic/menu/home/homeview.md).
+Find out how to build an exciting LoyJoy Home View [right here](/experiences/homeview/homeview.md).
 
