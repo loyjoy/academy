@@ -7,6 +7,8 @@ To use a decision table you need a questionnaire, a decision table, and some out
 <p align="center">
   <img src="unnamed.png" alt="Start" title="Start" width="200"/>
 </p>
+![Select language](unnamed.png "Select language")
+
 
 ### Add a questionnaire
 First, you add the questions you want to ask. Add at least two questions. For fewer questions, it does not make sense to use a decision table.
