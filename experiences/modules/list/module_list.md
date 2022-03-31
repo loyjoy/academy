@@ -77,10 +77,10 @@
 
 | Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
-| [Audio](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Audio recording](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Audio](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Add audio files to chat|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Audio recording](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Let the customer record audio messages|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Image gallery](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Add images to chat	|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Scanner](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Scanner](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Let the customer scan something|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Snapshot](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Video gallery](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Add videos to chat	|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 
