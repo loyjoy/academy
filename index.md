@@ -14,17 +14,17 @@
 - [Storage options](/data/data.md)
 
 ## Experiences
-- [Experiences & Folders](/basic/conversation/build/build_a_conversational_experience.md)
-- [Templates]()
-- [Home views](/basic/menu/home/homeview.md)
-- [Building dialogues]()
-- [Modules](/basic/modules/module_list.md)
-- [Variables & Conditions]()
-- [Branding]()
-- [Languages]()
-- [Publish to Web]()
-- [Publish to Social Media]()
-- [Texts and assets]()
+- [Experiences & Folders](experiences/experiences/experiences.md)
+- [Templates](experiences/templates/templates.md)
+- [Home views](experiences/homeview/homeview.md)
+- [Building dialogues](experiences/building/build_a_conversational_experience.md)
+- [Modules](experiences/modules/module_list.md)
+- [Variables & Conditions](/experiences/variables/variables.md)
+- [Branding](experiences/branding/branding.md)
+- [Languages](experiences/language/language.md)
+- [Publish to Web](experiences/publish/publish.md)
+- [Publish to Social Media](experiences/publish/publish.md#other-platforms)
+- [Texts and assets](experiences/text_and_assets.md)
 
 ## NLU
 - [What is NLU](/advanced/nlu/nlu.md)
