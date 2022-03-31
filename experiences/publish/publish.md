@@ -20,16 +20,17 @@ Of you want to integrate a button for the experience into your website, paste th
 
 If you decide to publish your chatbot on a website, make use of our Chatbot Settings. You might have noticed that the chat bubble is LoyJoy-branded. Adjust it by inserting your chat bubble. Get extra attention for your chat bubble by using our cool chat bubble animations.
 
-### Other Platforms
+### Social Media 
 
-But there are much more ways to publish your chatbot such as various social media channels. 
+Choose one of the various Social Media platforms we support to provide your Experience on different channels for your clients.
 
-To post your chatbot directly into an Instagram Story, simply copy and paste the appropriate link into the Swipe-Up link.
+To post your chatbot directly into an **Instagram** Story, simply copy and paste the appropriate link into the Swipe-Up link.
 
-To integrate the experience into Facebook or in WhatsApp Business API, enter the provided URL as Webhook subscription URL in Facebook Developer or in a Docker-hosted WhatsApp Business API and fill out the necessary fields.
+To integrate the experience into **Facebook**, enter the provided URL as Webhook subscription URL in Facebook Developer and fill out the  necessary fields. In the same way it is also possible to integrate the experience in **WhatsApp Business API**, enter following URL as Webhook URL in a Docker-hosted WhatsApp Business API and fill out the following fields. 
 
-If you have any questions or problems with other channels, please contact the LoyJoy Team.
+If you want to send messages to your clients while also providing a return channel we recommend using Twilio for **SMS** and **Whatsapp**. To integrate the experience into Twilio, enter the following URL as Webhook in Twilio console and fill out the following fields. In Twilio select HTTP-GET for SMS and HTTP-POST for WhatsApp.
 
+More Chat platforms are **Viber** and **WeChat**. To connect with Viber, you will need the necessary Viber access token and a catching welcome greeting! To integrate the experience into WeChat, enter following URL as interface URL in WeChat management and fill out the following fields.
 
 Now it's time to celebrate your first successful LoyJoy chatbot! Enjoy! 🎉
 
