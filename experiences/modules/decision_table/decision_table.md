@@ -1,7 +1,7 @@
 # Decision table
 
 Building a product finder, a skin type test, or something similar was never so easy as with the decision table! You do not have to add every condition to each module. 
-For this article, you should know how variables work. If you need help with that, read this (LINK) article first.
+For this article, you should know how variables work. If you need help with that, read [this](/experiences/variables/variables.md) article first.
 To use a decision table you need a questionnaire, a decision table, and some outputs. Outputs can be every module. Those are what the customer will see as a result. In this example, we will build a test on which hobby suits best for the customer. As a result (outputs) we have swimming, cycling, and jogging.
 
 <p align="center">
