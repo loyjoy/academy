@@ -24,7 +24,7 @@ If you decide to publish your chatbot on a website, make use of our Chatbot Sett
 
 Choose one of the various Social Media platforms we support to provide your Experience on different channels for your clients.
 
-To post your chatbot directly into an **Instagram** Story, simply copy and paste the appropriate link into the Swipe-Up link.
+To post your chatbot directly into an **Instagram** Story or Post, simply copy and paste the appropriate link into the Swipe-Up link.
 
 To integrate the experience into **Facebook**, enter the provided URL as Webhook subscription URL in Facebook Developer and fill out the  necessary fields. In the same way it is also possible to integrate the experience in **WhatsApp Business API**, enter following URL as Webhook URL in a Docker-hosted WhatsApp Business API and fill out the following fields. 
 
