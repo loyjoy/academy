@@ -18,7 +18,7 @@
 - [Templates](experiences/templates/templates.md)
 - [Home views](experiences/homeview/homeview.md)
 - [Building dialogues](experiences/building/build_a_conversational_experience.md)
-- [Modules](experiences/modules/module_list.md)
+- [Modules](/experiences/modules/list/module_list.md)
 - [Variables & Conditions](/experiences/variables/variables.md)
 - [Branding](experiences/branding/branding.md)
 - [Languages](experiences/language/language.md)
