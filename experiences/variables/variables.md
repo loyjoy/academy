@@ -45,38 +45,24 @@ Click on it. Afterward, choose “add condition” and fill in the three fields.
 
 For the first field choose “process variable”. Fill in the given name for the question. In our example, it was a “hobby”. 
 
-<p align="center">
-  <img src="setCondition3.png" alt="Set a condition at the modules" title="Set a condition at the modules" width="300"/>
-  <img src="setCondition4.png" alt="Set a condition at the modules" title="Set a condition at the modules" width="300"/>
-</p>
-![](.png "")
-![](.png "")
+![Set a condition at the modules](setCondition3.png "Set a condition at the modules")
+![Set a condition at the modules](setCondition4.png "Set a condition at the modules")
 
 When setting a variable it is important to pay attention to spelling. The best is, to capitalize or lowercase all initial letters. Also, avoid the space 
 behind your variables. As soon as it is a little different for the chatbot it seems like those are different variables. So take your time, because this 
 can save you a lot of time later!
 Next, an operator must be chosen. In our case we use “is equal”.
 
-<p align="center">
-  <img src="operator.png" alt="Choose an operator" title="Choose an operator" width="300"/>
-</p>
-![](.png "")
+![Choose an operator](operator.png "Choose an operator")
 
 For the last field, you have to select “fixed value”.
 
-<p align="center">
-  <img src="setFixedValue.png" alt="Choose an operator" title="Choose an operator" width="300"/>
-</p>
-![](.png "")
+![Choose an operator](setFixedValue.png "Choose an operator")
 
 In this field, enter what was previously entered for one of the answer choices. If this module has a message for consumers who have chosen “riding bicycle” you enter in the last field “bicycle” and the other way round. The same thing you do for the second module. 
 
-<p align="center">
-  <img src="setCondition3.png" alt="Set a condition at the modules" title="Set a condition at the modules" width="300"/>
-  <img src="setCondition4.png" alt="Set a condition at the modules" title="Set a condition at the modules" width="300"/>
-</p>
-![](.png "")
-![](.png "")
+![Set a condition at the modules](setCondition3.png "Set a condition at the modules")
+![Set a condition at the modules](setCondition4.png "Set a condition at the modules")
 
 If you have more than two answer options you can add more modules as well. Besides, it is possible to condition more than one module for 
 the same answer. 
@@ -87,24 +73,15 @@ Just drag and drop all those modules in a row and condition them with the same v
 
 Besides, a module can have more than one condition for when it is played. To do this, you add another condition.
 
-<p align="center">
-  <img src="moreCondition.png" alt="Add another condition" title="Add another condition" width="300"/>
-</p>
-![](.png "")
+![Add another condition](moreCondition.png "Add another condition")
 
 Here you can choose whether both conditions must be fulfilled (and) or only one of the two (or). 
 
-<p align="center">
-  <img src="operator1.png" alt="Choose the operator" title="Choose the operator" width="300"/>
-</p>
-![](.png "")
+![Choose the operator](operator1.png "Choose the operator")
 
 For example, if there were another answer option where the jogging tips should also be played, you would choose "or".
 
-<p align="center">
-  <img src="doubleCondition.png" alt="Two conditions" title="Two conditions" width="300"/>
-</p>
-![](.png "")
+![Two conditions](doubleCondition.png "Two conditions")
 
 If we add a second question instead, where the user has to click on a certain answer for the module to be played, “and” would be suitable.
 For example, after the consumer has selected "riding a bicycle", he is also asked whether he wants to ride an ergometer or ride in the fresh air. For 
@@ -118,41 +95,24 @@ For more information, please read our article.
 
 At the beginning of this article, we mentioned that variables can be set with two modules. Now you know how it works with the questionnaire. Next, you learn how to use the module “variable”. It is not that different from the questionnaire. For example, there are different combinations in which the consumer will be asked if he wants to sign up for the newsletter. So that he is not annoyed, we add a variable to save the answer. Therefore you need a variable. 
 
-<p align="center">
-  <img src="variableModule.png" alt="Variable module" title="Variable module" width="300"/>
-</p>
-![](.png "")
+![Variable module](variableModule.png "Variable module")
 
 In case you have a decision jump that is asking for signing up, there are the options “yes” and “no”. Both will jump to a module “variable” (two different). 
 
-<p align="center">
-  <img src="variableInChat.png" alt="Variable module" title="Variable module" width="250"/>
-  <img src="setVariableModules.png" alt="Variable module" title="Variable module" width="300"/>
-</p>
-![](.png "")
-![](.png "")
+![Variable module](variableInChat.png "Variable module")
+![Variable module](setVariableModules.png "Variable module")
 
 The first module is for “yes” and the second one for “no”. We need an automatic jump because else the second module “variable” will be sent too and the chatbot will save both variables. The brick jumps to the newsletter sign up.
 
-<p align="center">
-  <img src="automaticJump.png" alt="Condition at automatic jump" title="Condition at automatic jump" width="300"/>
-</p>
-![](.png "")
+![Condition at automatic jump](automaticJump.png "Condition at automatic jump")
 
  Then you fill in the fields. It is similar to the questionnaire. We need a process variable and a fixed value. Under the first arrow, you fill in a name for the process variable (for example newsletter). Under the second arrow, you choose a fixed value and add a name. It is advisable to use “newsletter” as the process variable and “yes” (or “no” for the other module).
 
-<p align="center">
-  <img src="setUpVariable1.png" alt="Set variables" title="Set variables" width="300"/>
-  <img src="setUpVariable2.png" alt="Set variables" title="Set variables" width="300"/>
-</p>
-![](.png "")
-![](.png "")
+![Set variables](setUpVariable1.png "Set variables")
+![Set variables](setUpVariable2.png "Set variables")
 
 Afterward, condition every newsletter module and question if the consumer wants to sign up with the variable you set in when the consumer says “yes”. 
 
-<p align="center">
-  <img src="setUpVariable3.png" alt="Set variables" title="Set variables" width="300"/>
-</p>
-![](.png "")
+![Set variables](setUpVariable3.png "Set variables")
 
 You can use variables in any different cases. Both were only examples to show you how it works!
