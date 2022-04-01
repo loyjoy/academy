@@ -1,4 +1,4 @@
-# New Project Checklist 
+# ✨ New Project Checklist 
 
 ## 1. Legal topics
 - [ ] Data Protection Addendum (DPA) / AVV agreed and signed?
