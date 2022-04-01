@@ -1,24 +1,18 @@
 # FAQs
 
-## [Getting started](loyjoy/loyjoy_in_general.md)
-
-#### [Settings](settings/settings.md)
+## [Getting started](/getting_started/getting_started.md)
 
 ## [Analytics](analytics/analytics.md)
 
-## [Data]()
+## [Data](/data/data.md)
 
-## [Experiences](analytics/analytics.md)
-
-#### [Modules](experiences/modules/modules.md)
-#### [Integration](/experience/integration.md)
+## [Experiences](experience/experience.md)
 
 ## [NLU](nlu/nlu.md)
 
-## [Push]()
+## [Push](push/push.md)
 
-## [Live]()
+## [Live](/live/live.md)
 
-## [Changelog]()
+## [Changelog](changelog/changelog.md)
 
-#### [Release 01/22](22-01-release.md)
