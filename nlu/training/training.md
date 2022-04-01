@@ -20,4 +20,4 @@ I like.
 We understand. We love our brand as well! :-)
 
 
-[1. TOP 3 things to be aware when you train your AI](how_to_top3.md)
+[TOP 3 things to be aware when you train your AI](how_to_top3.md)
