@@ -20,6 +20,8 @@ Of you want to integrate a button for the experience into your website, paste th
 
 If you decide to publish your chatbot on a website, make use of our Chatbot Settings. You might have noticed that the chat bubble is LoyJoy-branded. Adjust it by inserting your chat bubble. Get extra attention for your chat bubble by using our cool chat bubble animations.
 
+See also [Integration with JavaScript API](/experiences/publish/java_integration.md)
+
 ### Social Media 
 
 Choose one of the various Social Media platforms we support to provide your Experience on different channels for your clients.
