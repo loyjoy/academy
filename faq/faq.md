@@ -10,7 +10,8 @@
 
 ## [Experiences](analytics/analytics.md)
 
-#### [Modules](modules/modules.md)
+#### [Modules](experiences/modules/modules.md)
+#### [Integration](/experience/integration.md)
 
 ## [NLU](nlu/nlu.md)
 
