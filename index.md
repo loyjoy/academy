@@ -31,17 +31,17 @@
 - [Training Data Tips](/nlu/training/training.md)
 
 ## Push
-- [Create campaigns](/advanced/push/push.md)
+- [Create campaigns](/push/push.md)
 
 ## Live
-- [Manage live chat](/advanced/live/live.md)
+- [Manage live chat](/live/live.md)
 
 ## Best Practices
-- [7 secrets]()
+- [7 secrets](/best_practices/dos_and_donts.md)
 - [New project - Checklists](/best_practices/checklists/new_checklist.md)
 - [Advent calendar - Checklist](/best_practices/checklists/advent_checklist.md)
 - [NLU - Checklist](/best_practices/checklists/nlu_checklist.md)
 
-## [FAQ]()
+## [FAQ](https://github.com/loyjoy/academy/blob/main/faq/faq.md)
 
 ## [Changelog](https://github.com/loyjoy/welcome/blob/master/CHANGELOG.md)
