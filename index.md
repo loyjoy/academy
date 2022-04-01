@@ -23,7 +23,7 @@
 - [Branding](experiences/branding/branding.md)
 - [Languages](experiences/language/language.md)
 - [Publish to Web](experiences/publish/publish.md)
-- [Publish to Social Media](experiences/publish/publish.md#other-platforms)
+- [Publish to Social Media](/experiences/publish/publish.md#social-media)
 - [Texts and assets](experiences/text/text_and_assets.md)
 
 ## NLU
