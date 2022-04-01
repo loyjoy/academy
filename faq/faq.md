@@ -14,7 +14,7 @@
 
 ## [Live](/live/live.md)
 
-## [Changelog](changelog/changelog.md)
+## Changelog
 
 - [Releases](/faq/changelog/releases/releases.md)
 
