@@ -1,12 +1,4 @@
 
-
-### [What Is a Chatbot?](#what-is-a-chatbot-1)
-
-### [What Is a Conversational Platform?](#what-is-a-conversational-platform-1)
-
-### [What Is a BPMN Engine?](#what-is-a-bpmn-engine-1)
-____
-
 # What Is a Chatbot?
 
 
