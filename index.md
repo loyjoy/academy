@@ -27,8 +27,8 @@
 - [Texts and assets](experiences/text/text_and_assets.md)
 
 ## NLU
-- [What is NLU](/advanced/nlu/nlu.md)
-- [Training Data Tips](/advanced/nlu/training/training.md)
+- [What is NLU](/nlu/nlu.md)
+- [Training Data Tips](/nlu/training/training.md)
 
 ## Push
 - [Create campaigns](/advanced/push/push.md)
@@ -38,8 +38,9 @@
 
 ## Best Practices
 - [7 secrets]()
-- [New project - Checklists]()
-- [Advent calendar - Checklist]()
+- [New project - Checklists](/best_practices/checklists/new_checklist.md)
+- [Advent calendar - Checklist](/best_practices/checklists/advent_checklist.md)
+- [NLU - Checklist](/best_practices/checklists/nlu_checklist.md)
 
 ## [FAQ]()
 
