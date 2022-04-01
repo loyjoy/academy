@@ -7,6 +7,8 @@
 ## [Data](/data/data.md)
 
 ## [Experiences](experience/experience.md)
+- [Modules](/faq/experience/modules/modules.md)
+- [Integration](/faq/experience/integration/integration.md)
 
 ## [NLU](nlu/nlu.md)
 
