@@ -16,3 +16,5 @@
 
 ## [Changelog](changelog/changelog.md)
 
+- [Releases](/faq/changelog/releases/releases.md)
+
