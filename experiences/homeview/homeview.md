@@ -14,6 +14,8 @@ Check out the different Home View components:
 - [Stories widget](#Stories-widget)
 - [Notifications widget](#Notifications-widget)
 - [Roster widget](#Roster-widget)
+- [Search widget](#Search-widget)
+- [Web component widget](#Web-component-widget)
 
 
 ### Set up the Home View
