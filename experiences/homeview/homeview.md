@@ -54,34 +54,23 @@ Through stories, you can create exciting insights for your customers. Provide en
 
 First, you add a new story.
 
+![Story](/experiences/homeview/Story.gif)
 
-Then choose the size of your avatar image for your stories within the Home Screen. Choose between large and compact.
+Create your stories with the free tool [Make Stories](https://makestories.io/). With this tool, you can build your stories. Be creative and make your personal story! Get the Link and paste it to your LoyJoy Home View Stories.
 
+![Story Settings](/experiences/homeview/Story_settings.png)
 
+Back in the LoyJoy backend, you can add an avatar image and a logo. You are also able to enter tags for specific Storys that can help you later. 
 
-Create your stories with the free tool https://makestories.io/ and simply add the URL of your story to the story components in LoyJoy.
+![Story Tag](/experiences/homeview/Tags_story.gif)
 
-With this tool, you can build your stories.
+If you only want to display certain Stories, just choose the Tags you gave your Stories!
 
-
-Simply click on "preview" to display your story.
-
-
-Then click on the Share button in the upper right corner.
-
-
-
-Finally, click on "Get Link" and paste it to your LoyJoy Home View Stories.
-
-
-Back in the LoyJoy backend, you can add an avatar image and a logo.
-
+![Story Tags](/experiences/homeview/Story_tags.png)
 
 Let your customer jump directly into one of your experiences by calling to action and linking an experience to your story.
 
-
-
-To review the story, click it. Be creative and create your own!
+Watch your Story in the preview and go live!
 
 ### Groups widget
 
