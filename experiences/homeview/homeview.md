@@ -128,5 +128,4 @@ To integrate your web component you need to enter the URL to locate the web comp
 
 ![Web Component](/experiences/experiences/Web_component.png)
 
-
 Awesome! Now you are a Home View expert and ready to build your own LoyJoy Home View for your brand! :tada:
