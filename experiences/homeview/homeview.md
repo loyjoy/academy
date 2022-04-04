@@ -2,8 +2,6 @@
 
 Are you ready to take your chat experiences to the next level and discover the possibilities of the LoyJoy Home Screen? Great - You are in the right place!
 
-![Home View](home_view.Home View "Result")
-
 This article will guide you through the features of the LoyJoy Home View and explain how to use them in the best ways. The Home View lets you create a responsive web application to easily navigate through different customer experiences. In addition to your well-known LoyJoy experiences, let me introduce you to our LoyJoy Stories. Present your content in exciting social-media-like Stories and discover the new era of Conversational Marketing!
 
 
@@ -20,199 +18,119 @@ Check out the different Home View components:
 
 ### Set up the Home View
 
-Open the Home View editor by clicking on *Home Views* next to your Experiences. Create a new Home View in the upper right corner. In our example, we build a Home View about bicycles.
+Open the Home View editor by clicking on *Home Views* next to your Experiences. Create a new Home View in the upper right corner. Now there are several widgets that you can add to your Home View.
 
-austauschen
-<p align="center">
-  <img src="accessHomeView.png" alt="Home View Startpage" title="Home View Startpage" width="500"/>
-</p>
+![Homeview](/experiences/homeview/Homeviews.png)
 
-Now there are several widgets that you can add to your Home View.
 To do so, click the plus of the widget of your choice.
 
-austauschen
-<p align="center">
-  <img src="adding_widgets.gif" alt="Add widgets" title="Add widgets" width="300"/>
-</p>
+![Add Widgets](/experiences/homeview/Add_widget.gif)
 
 Drag and drop the components until they are in your preferred order.
 
-austauschen
-<p align="center">
-  <img src="change_order_widgets.gif" alt="Change order widgets" title="Change order widgets" width="300"/>
-</p>
+![Switch Widgets](/experiences/homeview/Switch_widget.gif)
 
 ### Navigation bar
 
 Let's start with the navigation bar.
 
-austauschen
-<p align="center">
-  <img src="navigation_bar.png" alt="Navigation bar" title="Navigation bar" width="300"/>
-</p>
-
 Here you can add an image that will be displayed at the top of the page in the header.
 
-<p align="center">
-  <img src="navigation_bar_example.png" alt="Navigation bar example" title="Navigation bar example" width="500"/>
-  <img src="navigation_example_view.png" alt="Navigation bar home view" title="Navigation bar Home View" width="300"/>
-</p>
+![Navigation bar](/experiences/homeview/Navigationbar.png)
 
 ### Hero widget
 
 The hero widget will be a cover image with an optional greeting text field.
 
-austauschen
-<p align="center">
-  <img src="hero_widget.png" alt="hero widget" title="hero widget" width="300"/>
-</p>
-
-<p align="center">
-  <img src="hero_example.png" alt="Hero example" title="Hero example" width="500"/>
-  <img src="hero_example_view.png" alt="Hero example home view" title="Hero example Home View" width="300"/>
-</p>
+![Hero Widget](/experiences/homeview/Hero_chat.png)
 
 Introduce your customers and jump directly into one of your experiences by linking it here.
 
-<p align="center">
-  <img src="hero_jump.png" alt="Hero Jump" title="Hero Jump" width="600"/>
-</p>
+![Hero Settings](/experiences/homeview/Hero widget.png)
 
 ### Stories widget
 
 Through stories, you can create exciting insights for your customers. Provide enjoyable content by adding small video sequences in the form of stories to your Home View.
 
-austauschen
-<p align="center">
-  <img src="stories_widget.png" alt="Stories widget" title="Stories widget" width="300"/>
-</p>
-
 First, you add a new story.
 
-austauschen
-<p align="center">
-  <img src="add_story.png" alt="Add new story" title="Add new Story" width="500"/>
-</p>
 
 Then choose the size of your avatar image for your stories within the Home Screen. Choose between large and compact.
 
 
-<p align="center">
-  <img src="stories_example_large.png" alt="Example Style large" title="Example style large" width="200"/>
-  <img src="stories_example_compact.png" alt="Example Style compact" title="Example style compact" width="200"/>
-</p>
-
 
 Create your stories with the free tool https://makestories.io/ and simply add the URL of your story to the story components in LoyJoy.
 
-<p align="center">
-  <img src="story_url.png" alt="Add URL" title="Add URL" width="500"/>
-</p>
-
 With this tool, you can build your stories.
 
-<p align="center">
-  <img src="create_new_story.png" alt="Create a new story" title="Create a new story" width="500"/>
-</p>
 
 Simply click on "preview" to display your story.
 
-<p align="center">
-  <img src="story_preview.png" alt="Editor" title="Editor" width="500"/>
-</p>
 
 Then click on the Share button in the upper right corner.
 
-<p align="center">
-  <img src="share.png" alt="Share" title="Share" width="500"/>
-</p>
+
 
 Finally, click on "Get Link" and paste it to your LoyJoy Home View Stories.
 
-<p align="center">
-  <img src="get_link.png" alt="Get link" title="Get link" width="300"/>
-</p>
 
 Back in the LoyJoy backend, you can add an avatar image and a logo.
 
-<p align="center">
-  <img src="avatar_example.png" alt="Example Avatar" title="Example Avatar" width="500"/>
-</p>
 
 Let your customer jump directly into one of your experiences by calling to action and linking an experience to your story.
 
-austauschen
-<p align="center">
-  <img src="stories_cta_jump.png" alt="Add CTA and jump" title="Add CTA and jump" width="500"/>
-</p>
 
 
-To review the story, click it. We created a story for this year bicycle conference. Be creative!
-
-<p align="center">
-  <img src="story_bicycle.gif" alt="Example Story" title="Example Story" width="300"/>
-</p>
+To review the story, click it. Be creative and create your own!
 
 ### Groups widget
 
 Place your experiences in the Home View by using the groups widget.
 
-austauschen
-<p align="center">
-  <img src="groups_widget.png" alt="Groups widget" title="Groups widget" width="300"/>
-</p>
+![Group widget](/experiences/homeview/Groupone.png)
 
-To select which experience groups to display in the Home View just active the button of each experience group.
+To select which experience groups to display in the Home View just active the button of each experience group. Add an image and avatar image to each experience of your Home View and choose a title and a slogan.
 
-<p align="center">
-  <img src="show_process_group.png" alt="Groups widget" title="Groups widget" width="300"/>
-</p>
+![Add Group widget](/experiences/homeview/Add Group.png)
 
-Add an image and avatar image to each experience of your Home View and choose a title and a slogan.
+If you wish to add multiple groups into your Homeview use an individual Group Widget for each one. 
 
-<p align="center">
-  <img src="group_example.png" alt="Example for groups widget" title="Example for groups widget" width="500"/>
-</p>
+![Add multiple Group widgets](/experiences/homeview/Group Widget.png)
 
-This is how our two experience groups look like in the Home View.
+Design your individual Group Widgets to your liking! 
 
-<p align="center">
-  <img src="group_example_view.png" alt="Group example home view" title="Group example home view" width="500"/>
-</p>
+![Multiple Groups](/experiences/homeview/Grouptwo.png)
+
+Your Homeview should look like this with multiple Group widgets!
+
+![Multiple Groups in Chat](/experiences/homeview/Groups.png)
 
 ### Notifications widget
 
-austauschen
-<p align="center">
-  <img src="notifications_widget.png" alt="Notifications Widget" title="Notifications Widget" width="300"/>
-</p>
-
 This widget presents a message for the customer. Call out for action, excite your customer or guide them - all possible by using the notifications widget.
-
-<p align="center">
-  <img src="notifications_example.png" alt="Notifications example" title="Notifications example" width="600"/>
-  <img src="notifications_example_view.png" alt="Notifications example home view" title="Notfications example home view" width="200"/>
-</p>
 
 ### Roster widget
 
 The roster shows the customer's previous chats and interactions with your chat experiences.
 
-austauschen
-<p align="center">
-  <img src="roster_widget.png" alt="Roster Widget" title="Roster Widget" width="300"/>
-</p>
-
 If you want the roster to be displayed in the home view, active the button.
 
-<p align="center">
-  <img src="roster_see_group.png" alt="Roster in Home View" title="Roster in Home View" width="500"/>
-</p>
+![Roster](/experiences/homeview/Roster.gif)
 
 Let your customers go back to previous conversations just like they would do while chatting with a friend.
 
-<p align="center">
-  <img src="roster_example_view.png" alt="Roster example home view" title="Roster example home view" width="300"/>
-</p>
+### Search widget 
+
+In the search widget your customers can search through LoyJoy experiences and jump right into them.
+
+![Search widget](/experiences/homeview/Search Chat.png)
+
+Add a Title and Search pharse to help your customers. 
+
+![Search](/experiences/homeview/Search Widget.png)
+
+### Web component widget 
+
+Here you are able to integrate a Web component for your customers. 
 
 Awesome! Now you are a Home View expert and ready to build your own LoyJoy Home View for your brand! :tada:
