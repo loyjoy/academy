@@ -42,7 +42,7 @@ Here you can add an image that will be displayed at the top of the page in the h
 
 The hero widget will be a cover image with an optional greeting text field.
 
-![Hero Widget](/experiences/homeview/Hero_chat.png)
+![Hero widget](/experiences/homeview/Hero_chat.png)
 
 Introduce your customers and jump directly into one of your experiences by linking it here.
 
