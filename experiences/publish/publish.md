@@ -35,8 +35,10 @@ To post your chatbot directly into an **Instagram** Story or Post, simply copy a
 To integrate the experience into **Facebook**, enter the provided URL as Webhook subscription URL in Facebook Developer and fill out the  necessary fields. In the same way it is also possible to integrate the experience in **WhatsApp Business API**, enter following URL as Webhook URL in a Docker-hosted WhatsApp Business API and fill out the following fields. 
 
 ![Publish on Facebook](/experiences/publish/publish_facebook.png =100x50)
-
-<img src="/experiences/publish/publish_facebook.pnge" width="50">
+img[src*="/experiences/publish/publish_facebook.png"] {
+   width:50px;
+   height:100px;
+}
 
 If you want to send messages to your clients while also providing a return channel we recommend using Twilio for **SMS** and **Whatsapp**. To integrate the experience into Twilio, enter the following URL as Webhook in Twilio console and fill out the following fields. In Twilio select HTTP-GET for SMS and HTTP-POST for WhatsApp.
 
