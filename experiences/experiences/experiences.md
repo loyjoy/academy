@@ -38,11 +38,15 @@ You can create a new Folder by clicking on the button in the upper right corner.
 # Home View
 The Home View is a way to make multiple experiences selectable in a single view. It only functions as a start page to visually display individual experiences in an overview.  The branding of the Home View is generally independent of the Experiences and is no longer inherited.
 
-Screenshots
-
 ## Create new Home View 
 You can find all your Home Views in the backend right next to your Experiences. To create a new Home view either start a blank Home View from the beginning or enter your token to copy an existing Home View on the orange button in the upper right corner. 
 
 ## Build your Home View 
 Find out how to build an exciting LoyJoy Home View [right here](/experiences/homeview/homeview.md).
+
+## Integrate Home View into Experiences 
+
+To connect your experience with your Home View go to the branding settings of your experience and click on the arrow as shown below. Select the Home View you wish to connect and you are good to go!
+
+![Integrate Homeview](/experiences/experiences/module_homeview.gif)
 
