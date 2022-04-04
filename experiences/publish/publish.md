@@ -36,6 +36,8 @@ To integrate the experience into **Facebook**, enter the provided URL as Webhook
 
 ![Publish on Facebook](/experiences/publish/publish_facebook.png =100x50)
 
+<img src="/experiences/publish/publish_facebook.pnge" width="50">
+
 If you want to send messages to your clients while also providing a return channel we recommend using Twilio for **SMS** and **Whatsapp**. To integrate the experience into Twilio, enter the following URL as Webhook in Twilio console and fill out the following fields. In Twilio select HTTP-GET for SMS and HTTP-POST for WhatsApp.
 
 More Chat platforms are **Viber** and **WeChat**. To connect with Viber, you will need the necessary Viber access token and a catching welcome greeting! To integrate the experience into WeChat, enter following URL as interface URL in WeChat management and fill out the following fields.
