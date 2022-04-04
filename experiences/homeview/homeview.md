@@ -46,7 +46,7 @@ The hero widget will be a cover image with an optional greeting text field.
 
 Introduce your customers and jump directly into one of your experiences by linking it here.
 
-![Hero Settings](/experiences/homeview/Hero widget.png)
+![Hero Settings](/experiences/homeview/Hero_widget.png)
 
 ### Stories widget
 
@@ -91,11 +91,11 @@ Place your experiences in the Home View by using the groups widget.
 
 To select which experience groups to display in the Home View just active the button of each experience group. Add an image and avatar image to each experience of your Home View and choose a title and a slogan.
 
-![Add Group widget](/experiences/homeview/Add Group.png)
+![Add Group widget](/experiences/homeview/Add_Group.png)
 
 If you wish to add multiple groups into your Homeview use an individual Group Widget for each one. 
 
-![Add multiple Group widgets](/experiences/homeview/Group Widget.png)
+![Add multiple Group widgets](/experiences/homeview/Group_Widget.png)
 
 Design your individual Group Widgets to your liking! 
 
@@ -123,11 +123,11 @@ Let your customers go back to previous conversations just like they would do whi
 
 In the search widget your customers can search through LoyJoy experiences and jump right into them.
 
-![Search widget](/experiences/homeview/Search Chat.png)
+![Search widget](/experiences/homeview/Search_Chat.png)
 
 Add a Title and Search pharse to help your customers. 
 
-![Search](/experiences/homeview/Search Widget.png)
+![Search](/experiences/homeview/Search_Widget.png)
 
 ### Web component widget 
 
