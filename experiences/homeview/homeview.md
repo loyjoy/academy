@@ -126,6 +126,6 @@ Here you are able to integrate a Web component for your customers.
 
 To integrate your web component you need to enter the URL to locate the web component javascript file and the tag  for the web component html tag as defined in your javascript file.
 
-![Web Component](/experiences/experiences/Web_component.png)
+![Web Component](/experiences/homeview/Web_component.png)
 
 Awesome! Now you are a Home View expert and ready to build your own LoyJoy Home View for your brand! :tada:
