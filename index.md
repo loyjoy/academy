@@ -42,6 +42,6 @@
 - [Advent calendar - Checklist](/best_practices/checklists/advent_checklist.md)
 - [NLU - Checklist](/best_practices/checklists/nlu_checklist.md)
 
-## [FAQ](https://github.com/loyjoy/academy/blob/main/faq/faq.md)
+## [FAQ](/faq/faq.md)
 
 ## [Changelog](https://github.com/loyjoy/welcome/blob/master/CHANGELOG.md)
