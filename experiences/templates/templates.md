@@ -1,7 +1,7 @@
 # Templates
 
-With LoyJoy you can choose whether you want to create your own experience from scratch or use one of many templates we already created for you! 
-When you want to use our ready-made experiences (e.g. giveaway or advent calendar) in the experiences tab, you simply can click on New experience.
+At LoyJoy, you can choose to create your own experience from scratch or use one of the many templates that we have already created for you! If you want to use our templates (e.g. giveaways or advent calendars), simply click on <i>New experience</i> in the <i>Experiences</i> tab.
+
 ![New Experience](new_experience.png "New Experience")
 
 <br> <b>Now you have the following options: </b> </br>
@@ -11,16 +11,16 @@ When you want to use our ready-made experiences (e.g. giveaway or advent calenda
 
 ![From template](from_template.png "From template")
 
-In this case we choose From template and get to the following window where you can create a new experience from a template. 
-
+For this example, we select <i>From template</i> to get to the following window, which allows you to choose a new experience from a template.
 ![Choose experience](choose_experience.png "Choose experience")
 
-<br>The following image shows just a few of the many templates waiting for you to try out!</br>
-We now choose raffles + quiz for this example. You can click on the blue bubble to get directly to the experience. 
+<br>The image below shows just a few of the many templates waiting for you to try!</br>
+Let's choose <i>Raffles + Quiz with permission</i> in this case.
+<br>You can click on the blue button to get directly to the experience.</br>
 
 ![Click bot](click_bot.png "Click bot")
 
-And that's all! Here is your new experience to try. And of course, whenever you are ready you can modify it to your own preferences etc.
+And that's it! Here is your new experience to try out. Obviously, you can always style and modify it to your own preferences!
 
 ![Bot preview](bot_preview.png "Bot preview")
 
