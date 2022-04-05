@@ -120,11 +120,51 @@ Add a Title and Search pharse to help your customers.
 
 ### Web component widget 
 
-Here you are able to integrate a Web component for your customers. 
+Here you are able to integrate a Web component for your customers. "Web Components are a set of features that provide a standard component model for the Web allowing for encapsulation and interoperability of individual HTML elements." [Wikipedia](https://en.wikipedia.org/wiki/Web_Components)
 
-"Web Components are a set of features that provide a standard component model for the Web allowing for encapsulation and interoperability of individual HTML elements." [Wikipedia](https://en.wikipedia.org/wiki/Web_Components)
+For example the following Web component defines a Web component with the tag `hello-world`. To integrate the Web component in LoyJoy, (1) deploy the following JavaScript snippet as a file to a Web hosting of your choice, (2) enter the URL to this file in LoyJoy as the URL of Web component and (3) enter `hello-world` as the HTML tag of the Web component.
 
-To integrate your web component you need to enter the URL to locate the web component javascript file and the tag  for the web component html tag as defined in your javascript file.
+```
+(function () {
+  class HelloWorld extends HTMLElement {
+    constructor () {
+      super()
+      this.attachShadow({ mode: 'open' })
+
+      /*
+      * sic! firefox requires methods to be defined in constructor
+      */
+
+      this.someAttribute = () => this.attributes['foo']?.value
+
+      this.render = () => {
+        this.shadowRoot.innerHTML = `
+          <div class="hello-world">
+            Hello world
+          </div>
+        `
+
+        const helloWorld = this.shadowRoot.querySelector('.hello-world');
+
+        helloWorld.onclick = () => {
+          this.dispatchEvent(new CustomEvent('hello', { detail: { foo: this.someAttribute } }))
+        }
+      }
+    }
+
+    connectedCallback() {
+      if (!this._rendered) {
+        this.render()
+        this._rendered = true
+      }
+    }
+  }
+
+  if (!customElements.get('hello-world')) {
+    customElements.define('hello-world', HelloWorld)
+  }
+})()
+```
 
 ![Web Component](/experiences/homeview/Web_component.png)
 
