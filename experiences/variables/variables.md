@@ -7,8 +7,7 @@ Therefore, you need the module questionnaire or variable. In this article, we wi
 
 Let´s work with the following example: During the chat, the consumer will be asked whether he likes jogging or riding a bicycle. 
 A message should then be sent with tips for suitable clothing for the chosen hobby. If you would only drag and drop the modules, 
-all of them would be sent. To implement our plan you now use variables. With those, you can set what happens if the consumers click on one of 
-those hobby messages.
+all of them would be sent. Instead, use variables to only have the right message sent. With variables, you can set what happens if the consumer clicks on one of those hobby messages.
 
 ![Result](firstScreenshot.png "Result")
 
