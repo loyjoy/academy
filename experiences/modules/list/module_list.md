@@ -6,7 +6,7 @@
 
 | Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
-| [Automatic jump](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Jump into another modul or experience|  Quickly jump to another part of the experience without clicking a button  | Decision Jump         |[How to *Placeholder*](detailed.md#signal) |
+| [Automatic jump](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Jump into another modul or experience|  Quickly jump to another part of the experience | Decision Jump         |[How to *Placeholder*](detailed.md#signal) |
 | [Clipboard](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Display a text message that can be copied|  Text message or a win code  | -         |[How to *Placeholder*](detailed.md#signal) |
 | [Decision jump](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Jump into another modul or experience	|  Let the customer choose what to do next  | <br>Automatic jump</br> <br> Proceed question</br> <br> Questionnaire</br>          |[How to *Placeholder*](detailed.md#signal) |
 | [Email](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask customer for email address	|  <br>Ask again for value</br> <br>Add terms the customer has to accept</br>  | Sign in, Questionnaire (Email question type)         |[How to *Placeholder*](detailed.md#signal) |
