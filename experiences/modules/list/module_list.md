@@ -156,15 +156,15 @@
 
 | Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
-| [Language selection](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Region](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Language selection](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | If multiple languages are available in the chatbot, customers can choose which language they prefer.|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Region](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | You can give regions to choose from and prohibit certain regions from using the chatbot.|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 
 ### Logic
 
 | Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
-| [Create process instance](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [List process instance](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Session reset](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Timer](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Variable](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder |  Placeholder  | Placeholder         |[How to *Variable*](/experiences/variables/variables.md) |
+| [Create process instance](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Use this if customers should be able to go through the same experience several times|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [List process instances](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | If you allow customers to go through the same experience several times, here they can manage all the stored information and change it.|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Session reset](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Reset the process session completely, effectively logging out the customer and resetting the chat.|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Timer](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Start or restart the chat at specific points in time. |  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Variable](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Set, modify or remove a variable in the process. This is useful to design personalized experiences. |  Placeholder  | Placeholder         |[How to *Variable*](/experiences/variables/variables.md) |
