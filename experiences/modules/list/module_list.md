@@ -89,15 +89,15 @@
 
 | Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
-| [Advent calendar door](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Advent calendar door](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Let customers open a new door every day in a Christmas countdown.|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Animation](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Show an animation	|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Appointment scheduler](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Code entry](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Coupon code](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Appointment scheduler](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Give customers the opportunity to make appointments in chat|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Code entry](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Have the customer enter a code to be entered into a giveaway or loyalty program|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Coupon code](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Provide the customer with a coupon code|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Giveaway participation](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Let customers participate in raffles	|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Instant win](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Main prize](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Prizes](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Instant win](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Offer a giveaway with instant win|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Main prize](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Show a main prize of a giveaway|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Prizes](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Show prizes of a giveaway|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Quiz](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Let your customers play a quiz	|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 
 
@@ -105,16 +105,16 @@
 
 | Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
-| [Birthdate](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Delete customer](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Edit email address](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [First name](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Gender](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Last name](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Personal data intro](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Personal data outro](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Phone number](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Postal address](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Birthdate](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask about the customer's birthday|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Delete customer](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Delete the customer from the database|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Edit email address](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Allow your customers to edit their email address in chat|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [First name](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask about the customer's first name|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Gender](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask about the customer's gender|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Last name](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask about the customer's last name|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Personal data intro](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask for permission to ask personal questions|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Personal data outro](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Thank customers for personal information|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Phone number](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask about the customer's phone number|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Postal address](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask about the customer's postal address|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 
 
 ### Advanced
