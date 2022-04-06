@@ -133,24 +133,26 @@
 | Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
 | [External link](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Link to an external website	|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [List](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Share image](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Tag](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Tag preference center](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [List](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Display a list in the chat|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Share image](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Let your customers share an image from the chat to their friends|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Tag](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | With this process module you can add a tag to customers or remove a tag from customers|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Tag preference center](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | With this process module you can define a tags, which should be offered to the customer to select or deselect|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 
 ### Email
 
 | Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
-| [Handover via email](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Send email](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Send email to customer](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Handover via email](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Let customer get in touch with your team via email.|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Send email](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Send an email to a specific recipient|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Send email to customer](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Send an email to the customer
+
+|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 
 ### Live
 
 | Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
-| [Live chat](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Live chat](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Give customers the option to chat live with your users in the chat. |  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 
 ### Multi-language
 
