@@ -18,7 +18,7 @@ First, you add the questions you want to ask. Add at least two questions. For fe
   <img src="answer2.png" alt="Question" title="Question" width="300"/>
   <img src="answer3.png" alt="Question" title="Question" width="300"/>
 </p>
-Then choose the process variables and values for each question and each answer. [here](/experiences/variables/variables.md). Pay attention to the correct spelling!
+Then choose the process variables and values for each question and each answer. [this](/experiences/variables/variables.md). Pay attention to the correct spelling!
 
 ### Working with the decision table
 
