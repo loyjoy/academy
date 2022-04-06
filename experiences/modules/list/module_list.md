@@ -18,10 +18,10 @@
 | [Restart](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Start the chat again|  Placeholder  | Automatic jump         |[How to *Placeholder*](detailed.md#signal) |
 | [Return jump](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Jump into another experience|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Share link](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Let customers share their experience	|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Sign in](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Let the customer log in and create an entry in the customer database|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Sign in](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Let the customer log in and create an entry in the customer database|  Log in your Customer  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Simple message](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Send plain chat message	|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Stop](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Stop the flow|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Welcoming](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Say hello to your customers|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Welcoming](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Say hello to your customers|  Greeting the customer when opening the website  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 
 
 
