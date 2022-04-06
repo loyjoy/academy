@@ -41,21 +41,21 @@
 
 | Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
-| [API client](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Campaign Monitor](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [CleverReach](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Google Pub/sub](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Inxmail](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Mini program](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [OneTrust](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Salesforce Interaction Studio](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Salesforce Markting Cloud](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Salesforce Service Cloud](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Scondoo cashback](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Shopify](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Web component](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Web-Service](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Yotpo review](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [API client](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Send a GET or POST request to any URL|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Campaign Monitor](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | This module is used to insert subscriptions into your campaign monitor database|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [CleverReach](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | This module is used to insert subscriptions into your CleverReach database|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Google Pub/sub](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Integrate Google Pub/Sub into your process.|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Inxmail](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Subscribe or unsubscribe customers from an Inxmail mailing list.|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Mini program](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Add any existing web application or website into the chat.|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [OneTrust](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Create or update a consent receipt in OneTrust or retrieve the status of a consent receipt for a customer|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Salesforce Interaction Studio](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Integrate Salesforce Interaction Studio into the process|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Salesforce Markting Cloud](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Integrate Salesforce Marketing Cloud into the process|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Salesforce Service Cloud](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Integrate Salesforce Service Cloud (SFSC) into your chat process|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Scondoo cashback](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Add a cash back feature with our partner Scondoo.|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Shopify](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Display products from your Shopify store in the chat. Customers can add products to the shopping cart and view the content of their cart|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Web component](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Display a component within the chat|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Web-Service](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Add external web services to exchange information and add rich features to the chat|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Yotpo review](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Integrate Yotpo into the process to collect product reviews with Yotpo|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 
 
 ### Opt-in
@@ -63,10 +63,10 @@
 | Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
 | [Newsletter opt-in](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask for newsletter opt-in	|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Notification](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Notification](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Trigger an immediate notification to your customer|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Opt-ins](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Show your customers their opt-ins that they have given in other process modules. Customers can remove their opt-ins if needed.|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Profiling opt-in](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask for profiling opt-in|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Reminder notification](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Reminder notification](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Schedule a reminder notification to your customer at a certain point in time.|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Reminder opt-in](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask for reminder opt-in|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [SMS opt-in](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask for SMS opt-in|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Terms of participation](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask your customer for confirmation on the terms|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
@@ -81,7 +81,7 @@
 | [Audio recording](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Let the customer record audio messages|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Image gallery](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Add images to chat	|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Scanner](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Let the customer scan something|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Snapshot](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Snapshot](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Use the camera in the chat and ask customers to take a picture or use it as a scanner for barcodes and QR codes|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Video gallery](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Add videos to chat	|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 
 
@@ -121,12 +121,12 @@
 
 | Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
-| [Decision table](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder |  Placeholder | [How to use the decision table](/experiences/modules/decision_table/decision_table.md) |
-| [Event](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Password](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Places](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Search](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Signal](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Placeholder|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Decision table](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Define a decision table based on decision rules to read and write BPMN process variables at once|  Placeholder |  Placeholder | [How to use the decision table](/experiences/modules/decision_table/decision_table.md) |
+| [Event](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Trigger an event with the name of your choice|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Password](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Let your customer enter a password in the chat|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Places](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Let the user enter an address and calculate the distances to a set of destinations|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Search](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Let your customers search for texts in all experiences|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Signal](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Triggers execution by listening for an incoming signal|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 
 ### Content
 
@@ -144,9 +144,9 @@
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
 | [Handover via email](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Let customer get in touch with your team via email.|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Send email](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Send an email to a specific recipient|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Send email to customer](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Send an email to the customer
+| [Send email to customer](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Send an email to the customer|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 
-|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+
 
 ### Live
 
