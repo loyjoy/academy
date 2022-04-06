@@ -31,7 +31,7 @@ Here we set a fixed value and not a process variable. Because of transparency, w
 
 ### Add variables to modules
 Those names are freely selectable. Now we have chosen our variables. As a next step, you choose modules that will be sent after the consumer's decision.
-The following step works with every module. At each module, there is a small circle in the right corner. 
+The following step works with every module, we are using the module product overview. At each module, there is a small circle in the right corner. 
 
 ![Set a condition at the modules](conditionModule.png "Set a condition at the modules")
 
@@ -48,8 +48,7 @@ For the first field choose “process variable”. Fill in the given name for th
 ![Set a condition at the modules](setCondition4.png "Set a condition at the modules")
 
 When setting a variable it is important to pay attention to spelling. The best is, to capitalize or lowercase all initial letters. Also, avoid the space 
-behind your variables. As soon as it is a little different for the chatbot it seems like those are different variables. So take your time, because this 
-can save you a lot of time later!
+behind your variables. As soon as there is a little difference, the chatbot doesn't recognise the variables as equal. So take your time and double-check, because this can save you a lot of time later!
 Next, an operator must be chosen. In our case we use “is equal”.
 
 ![Choose an operator](operator.png "Choose an operator")
@@ -70,7 +69,7 @@ Just drag and drop all those modules in a row and condition them with the same v
 
 ### Add more conditions
 
-Besides, a module can have more than one condition for when it is played. To do this, you add another condition.
+Besides that, one individual module can have more than one condition for when it is played. To do this, you add another condition.
 
 ![Add another condition](moreCondition.png "Add another condition")
 
@@ -110,8 +109,8 @@ The first module is for “yes” and the second one for “no”. We need an au
 ![Set variables](setUpVariable1.png "Set variables")
 ![Set variables](setUpVariable2.png "Set variables")
 
-Afterward, condition every newsletter module and question if the consumer wants to sign up with the variable you set in when the consumer says “yes”. 
+Afterwards, condition every newsletter module and question, if the consumer wants to sign up, with the variable you set in when the consumer says “yes”. 
 
 ![Set variables](setUpVariable3.png "Set variables")
 
-You can use variables in any different cases. Both were only examples to show you how it works!
+You can use variables in many different cases. We made up a few examples to show you how it works!
