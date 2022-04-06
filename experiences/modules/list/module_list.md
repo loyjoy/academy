@@ -6,17 +6,17 @@
 
 | Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
-| [Automatic jump](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Jump into another modul or experience|  The customer jumps to another part of the experience without clicking on a button.  | Decision Jump         |[How to *Placeholder*](detailed.md#signal) |
-| [Clipboard](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Give the possibility to copy something in the experience to the clipboard.|  After a code has been provided, you can also provide it to the customer for copying.  | -         |[How to *Placeholder*](detailed.md#signal) |
+| [Automatic jump](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Jump into another modul or experience|  Quickly jump to another part of the experience without clicking a button  | Decision Jump         |[How to *Placeholder*](detailed.md#signal) |
+| [Clipboard](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Display a text message that can be copied|  After a code has been provided, you can also provide it to the customer for copying.  | -         |[How to *Placeholder*](detailed.md#signal) |
 | [Decision jump](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Jump into another modul or experience	|  Give the customer the chance to choose what he wants to do next  | Automatic jump, Proceed question, Questionnaire         |[How to *Placeholder*](detailed.md#signal) |
 | [Email](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask customer for email address	|  You want to know the email address of your customer, but you do not want to store any data in the customer database.  | Sign in, Questionnaire (Email question type)         |[How to *Placeholder*](detailed.md#signal) |
-| [Goodbye](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Send a simple goodbye message|  Placeholder  | Simple message         |[How to *Placeholder*](detailed.md#signal) |
-| [NPS survey](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask for the Net Promoter Score, a loyalty score based on recommendations.|  Placeholder  | Questionnaire (Rating question type)         |[How to *Placeholder*](detailed.md#signal) |
+| [Goodbye](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Send a simple goodbye message|  End the conversation  | Simple message         |[How to *Placeholder*](detailed.md#signal) |
+| [NPS survey](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask for the Net Promoter Score, a score based on recommendations|  Customer loyalty  | Questionnaire (Rating question type)         |[How to *Placeholder*](detailed.md#signal) |
 | [Proceed question](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Press a button to continue	|  If there are many messages in a row, you can interrupt the flow with the proceed question.  | Questionnaire, Decision jump         |[How to *Placeholder*](detailed.md#signal) |
 | [Product gallery](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Show products to customers	|  Placeholder  | Image gallery         |[How to *Placeholder*](detailed.md#signal) |
 | [Questionnaire](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Collect customer information	|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Restart](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Start the chat again|  Placeholder  | Automatic jump         |[How to *Placeholder*](detailed.md#signal) |
-| [Return jump](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Jump to another experience and back to the same place when the experience you jumped to has finished.|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Return jump](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Jump into another experience|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Share link](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Let customers share their experience	|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Sign in](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Let the customer log in and create an entry in the customer database|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Simple message](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Send plain chat message	|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
@@ -31,9 +31,9 @@
 | Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
 | [Loyalty points](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Give the customer loyalty points|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Loyalty referral](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Reward customers when they successfully acquired new loyalty program members.|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Loyalty sharing](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Provide a sharing link for your loyalty program. If a new member signs up, the referrer gets rewarded.|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Rewards](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Customers can view and redeem rewards with their loyalty points.|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Loyalty referral](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Reward customers when they successfully acquired new loyalty program members|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Loyalty sharing](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Provide a sharing link for your loyalty program|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Rewards](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Customers can view and redeem rewards with their loyalty points|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 
 
 
@@ -52,7 +52,7 @@
 | [Salesforce Markting Cloud](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Integrate Salesforce Marketing Cloud into the process|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Salesforce Service Cloud](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Integrate Salesforce Service Cloud (SFSC) into your chat process|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Scondoo cashback](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Add a cash back feature with our partner Scondoo.|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Shopify](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Display products from your Shopify store in the chat. Customers can add products to the shopping cart and view the content of their cart|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Shopify](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Display products from your Shopify store in the chat |  Customers can add products to the shopping cart and view the content of their cart  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Web component](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Display a component within the chat|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Web-Service](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Add external web services to exchange information and add rich features to the chat|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Yotpo review](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Integrate Yotpo into the process to collect product reviews with Yotpo|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
@@ -64,7 +64,7 @@
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
 | [Newsletter opt-in](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask for newsletter opt-in	|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Notification](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Trigger an immediate notification to your customer|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Opt-ins](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Show your customers their opt-ins that they have given in other process modules. Customers can remove their opt-ins if needed.|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Opt-ins](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Show your customers their opt-ins that they have given in other process modules|  Customers can remove their opt-ins if needed  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Profiling opt-in](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask for profiling opt-in|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Reminder notification](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Schedule a reminder notification to your customer at a certain point in time.|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Reminder opt-in](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask for reminder opt-in|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
@@ -81,7 +81,7 @@
 | [Audio recording](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Let the customer record audio messages|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Image gallery](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Add images to chat	|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Scanner](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Let the customer scan something|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Snapshot](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Use the camera in the chat and ask customers to take a picture or use it as a scanner for barcodes and QR codes|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Snapshot](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Use the camera in the chat and ask customers to take a picture or use it as a scanner|  Pictures, barcodes and QR codes  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Video gallery](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Add videos to chat	|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 
 
@@ -89,7 +89,7 @@
 
 | Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
-| [Advent calendar door](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Let customers open a new door every day in a Christmas countdown.|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Advent calendar door](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Let customers open a new door every day in a Christmas countdown|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Animation](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Show an animation	|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Appointment scheduler](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Give customers the opportunity to make appointments in chat|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Code entry](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Have the customer enter a code to be entered into a giveaway or loyalty program|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
@@ -135,8 +135,8 @@
 | [External link](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Link to an external website	|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [List](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Display a list in the chat|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Share image](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Let your customers share an image from the chat to their friends|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Tag](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | With this process module you can add a tag to customers or remove a tag from customers|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Tag preference center](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | With this process module you can define a tags, which should be offered to the customer to select or deselect|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Tag](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Add a tag to customers or remove a tag from customers|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Tag preference center](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Define a tag, which should be offered to the customer to select or deselect|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 
 ### Email
 
@@ -152,21 +152,21 @@
 
 | Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
-| [Live chat](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Give customers the option to chat live with your users in the chat. |  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Live chat](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Option to chat live with your users in the chat |  Agents have to go to Live and mark themselves as online to interact with users live  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 
 ### Multi-language
 
 | Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
-| [Language selection](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | If multiple languages are available in the chatbot, customers can choose which language they prefer.|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Region](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | You can give regions to choose from and prohibit certain regions from using the chatbot.|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Language selection](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Customers can choose which language they prefer|  If multiple languages are available in the chatbot   | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Region](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | You can give regions to choose from and prohibit certain regions from using the chatbot|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 
 ### Logic
 
 | Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
 | [Create process instance](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Use this if customers should be able to go through the same experience several times|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [List process instances](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | If you allow customers to go through the same experience several times, here they can manage all the stored information and change it.|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Session reset](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Reset the process session completely, effectively logging out the customer and resetting the chat.|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Timer](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Start or restart the chat at specific points in time. |  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Variable](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Set, modify or remove a variable in the process. This is useful to design personalized experiences. |  Placeholder  | Placeholder         |[How to *Variable*](/experiences/variables/variables.md) |
+| [List process instances](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | If you allow customers to go through the same experience several times, here they can manage all the stored information and change it|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Session reset](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Reset the process session completely, effectively logging out the customer and resetting the chat|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Timer](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Start or restart the chat at specific points in time |  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Variable](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Set, modify or remove a variable in the process  |  This Useful to design personalized experiences  | Placeholder         |[How to *Variable*](/experiences/variables/variables.md) |
