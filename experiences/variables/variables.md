@@ -1,7 +1,7 @@
 # Variables
 
-Do you want to specify that modules will be sent only when certain messages will be chosen in a questionnaire? You can do this with variables!
-Therefore, you need the module questionnaire or variable. In this article, we will first use the questionnaire. 
+Do you want to specify that modules will be sent only when certain messages will be chosen in a questionnaire? Great! You can do this with variables!
+To achieve this, you will either need the module *questionnaire* or the module *variable*. In this article, we will start with the questionnaire. 
 
 ### Prepare the questionnaire
 
