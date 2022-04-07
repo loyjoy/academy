@@ -111,10 +111,10 @@
 | [First name](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask about the customer's first name|  To use all Sign-in functions, your customer database has to be activated  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Gender](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask about the customer's gender|  Useful to store the customers gender  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Last name](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask about the customer's last name|  Useful to collect the customers last name  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Personal data intro](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask for permission to ask personal questions|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Personal data outro](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Thank customers for personal information|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Phone number](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask about the customer's phone number|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Postal address](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask about the customer's postal address|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Personal data intro](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask for permission to ask personal questions|  Useful to manage the customers personal data  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Personal data outro](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Thank customers for personal information|  Useful to thank the customer after submitting personal data  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Phone number](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask about the customer's phone number|  Useful to store the customers phone number  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Postal address](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask about the customer's postal address|  Useful to store the customers Postal address   | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 
 
 ### Advanced
