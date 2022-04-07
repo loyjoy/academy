@@ -122,11 +122,11 @@
 | Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
 | [Decision table](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) |Based on decision rules to read and write BPMN process variables simultaneously|  Placeholder |  Placeholder | [How to use the decision table](/experiences/modules/decision_table/decision_table.md) |
-| [Event](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Trigger an event with the name of your choice|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Event](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Trigger an event with the name of your choice|  Useful to connect with your customers in a great way  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Password](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Let your customer enter a password in the chat|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Places](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Let the user enter an address and calculate the distances to a set of destinations|  As this process module integrates Google Maps, several API keys are mandatory  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Search](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Let your customers search for texts in all experiences|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Signal](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Triggers execution by listening for an incoming signal|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Signal](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Triggers execution by listening for an incoming signal|  Useful to make experience available in search  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 
 ### Content
 
