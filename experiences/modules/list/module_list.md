@@ -41,7 +41,7 @@
 
 | Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
-| [API client](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Send a GET or POST request to any URL|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [API client](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Send a GET or POST request to any URL|  Useful to authenticate your customer | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Campaign Monitor](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | This module is used to insert subscriptions into your campaign monitor database|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [CleverReach](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | This module is used to insert subscriptions into your CleverReach database|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Google Pub/sub](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Integrate Google Pub/Sub into your process|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
@@ -62,13 +62,13 @@
 
 | Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
-| [Newsletter opt-in](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask for newsletter opt-in	|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Notification](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Trigger an immediate notification to your customer|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Newsletter opt-in](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask for newsletter opt-in	|  Send newsletter via email  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Notification](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Trigger an immediate notification to your customer|  Send notifications to your customers  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Opt-ins](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Show your customers their opt-ins that they have given in other process modules|  Customers can remove their opt-ins if needed  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Profiling opt-in](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask for profiling opt-in|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Reminder notification](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Schedule a reminder notification to your customer at a certain point in time|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Reminder opt-in](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask for reminder opt-in|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [SMS opt-in](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask for SMS opt-in|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Reminder notification](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Schedule a reminder notification to your customer at a certain point in time|  Remind your customer to open the advent calendar door  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Reminder opt-in](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask for reminder opt-in|  Get approval from your customer to send reminder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [SMS opt-in](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask for SMS opt-in|  Get approval from your customer to send SMS  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Terms of participation](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask your customer for confirmation on the terms|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Web push opt-in](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask for web push opt-in|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 
