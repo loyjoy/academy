@@ -89,11 +89,11 @@
 
 | Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
-| [Advent calendar door](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Let customers open a new door every day before Christmas |  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Advent calendar door](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Let customers open a new door every day before Christmas |  Christmas advent calendar  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Animation](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Show an animation	|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Appointment scheduler](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Give customers the opportunity to make appointments in the chat|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Code entry](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Your customers can enter codes to participate in a giveaway or loyality program|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Coupon code](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Provide the customer with a coupon code|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Coupon code](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Provide the customer with a coupon code|  Show coupon codes in the chat or send them by email  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Giveaway participation](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Let customers participate in raffles	|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Instant win](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Offer a giveaway with instant win|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Main prize](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Show a main prize of a giveaway|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
