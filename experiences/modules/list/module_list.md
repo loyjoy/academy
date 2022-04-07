@@ -67,10 +67,10 @@
 | [Opt-ins](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Show your customers their opt-ins that they have given in other process modules|  Customers can remove their opt-ins if needed  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Profiling opt-in](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask for profiling opt-in|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Reminder notification](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Schedule a reminder notification to your customer at a certain point in time|  Remind your customer to open the advent calendar door  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Reminder opt-in](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask for reminder opt-in|  Get approval from your customer to send reminder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [SMS opt-in](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask for SMS opt-in|  Get approval from your customer to send SMS  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Terms of participation](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask your customer for confirmation on the terms|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Web push opt-in](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask for web push opt-in|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Reminder opt-in](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask for reminder opt-in|  Get approval to send personalized reminder to your customers  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [SMS opt-in](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask for SMS opt-in|  Get approval to send personalized SMS to your customer  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Terms of participation](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask your customer for confirmation on the terms|  Collect agreement for confirmation on the terms | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Web push opt-in](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Ask for web push opt-in|  Collect opt-ins for Web push notifications to send personalized Web push messages to your customers  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 
 
 ### Media
