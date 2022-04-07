@@ -80,9 +80,9 @@
 | [Audio](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Add audio files to chat|  Send up to five audio or voice messages  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Audio recording](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Let the customer record audio messages|  Your customers can send audio messages to your chatbot  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Image gallery](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Add images to chat	|  Show one or more images in an image gallery  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Scanner](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Let the customer scan something|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Scanner](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Let the customer scan something|  Display a scanner so your customers can scan products, QR codes and barcodes  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Snapshot](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Use the camera in the chat and ask customers to take a picture or use it as a scanner|  Pictures, barcodes and QR codes  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Video gallery](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Add videos to chat	|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Video gallery](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Add videos to chat	|  Show one or more videos in a video gallery  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 
 
 ### Activation
