@@ -132,11 +132,11 @@
 
 | Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
-| [External link](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Link to an external website	|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [List](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Display a list in the chat|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Share image](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Let your customers share an image from the chat to their friends|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [External link](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Link to an external website	|  Useful to direct your customer to an external website with a link   | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [List](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Display a list in the chat|  Useful to show your customers a product overview  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Share image](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Share images from the chat|  Let your customers share images from the chat to their friends   | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Tag](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Add a tag to customers or remove a tag from customers|  Tags are used for customer segmentation  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
-| [Tag preference center](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Define a tag, which should be offered to the customer to select or deselect|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
+| [Tag preference center](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Define a tag, which should be offered to the customer to select or deselect|  Customers can have tags such as fashion, which express interests a customer can have. Tags are used for customer segmentation  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 
 ### Email
 
