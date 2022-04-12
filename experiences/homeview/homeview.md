@@ -34,6 +34,8 @@ Drag and drop the components until they are in your preferred order.
 
 Let's start with the navigation bar.
 
+![Navigation](/experiences/homeview/navbar.png)
+
 Here you can add an image that will be displayed at the top of the page in the header.
 
 ![Navigation bar](/experiences/homeview/Navigationbar.png)
@@ -51,6 +53,8 @@ Introduce your customers and jump directly into one of your experiences by linki
 ### Stories widget
 
 Through stories, you can create exciting insights for your customers. Provide enjoyable content by adding small video sequences in the form of stories to your Home View.
+
+![Stories Widget](/experiences/homeview/storieswid.png)
 
 First, you add a new story.
 
@@ -76,6 +80,8 @@ Watch your Story in the preview and go live!
 
 Place your experiences in the Home View by using the groups widget.
 
+![Group](/experiences/homeview/groupswid.png)
+
 ![Group widget](/experiences/homeview/Groupone.png)
 
 To select which experience groups to display in the Home View just active the button of each experience group. Add an image and avatar image to each experience of your Home View and choose a title and a slogan.
@@ -97,6 +103,8 @@ Your Homeview should look like this with multiple Group widgets!
 ### Notifications widget
 
 This widget presents a message for the customer. Call out for action, excite your customer or guide them - all possible by using the notifications widget.
+
+![Notification Widget](/experiences/homeview/notwid.png)
 
 ### Roster widget
 
