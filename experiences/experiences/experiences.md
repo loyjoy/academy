@@ -1,8 +1,6 @@
 # Experiences & Home Views 
 Welcome to your backend in LoyJoy. Find everything you need to know about your Experiences and your Home Views!
 
-Screenshots
-
 - [Experiences](#experiences):
 Create powerful Experiences and start your journey with LoyJoy!
 - [Home Views](#home-view):
