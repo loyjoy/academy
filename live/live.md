@@ -39,7 +39,11 @@ Once the user enters the "Live Chat" process module, the agents receives a messa
 
 3. Choose the relevant chat from the sidebar
 
-4. Start chatting
+4. Start chatting in-person
+
+5. When you are finished chatting with your customer, simply click on End chat
+
+![Live end](live_end.png "Live end")
 
 ## How to use the Live Chat as user
 Once customers enter the live chat, the conversation is marked as "waiting" in the live section and an agent can take over the chat. When the live chat started it might look like this:
