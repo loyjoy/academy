@@ -1,4 +1,4 @@
-# Live Chat
+# Live 
 
 With LoyJoy you can let human experts support your automated chat experiences. Best of all, always-on agents are not required! Get notified when customers are waiting in the Live Chat and join the conversation easily from the LoyJoy Cloud. It is the place where all your in-person conversations meet, ongoing or settled.
 
