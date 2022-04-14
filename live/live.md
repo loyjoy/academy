@@ -6,7 +6,7 @@ With LoyJoy you can let human experts support your automated chat experiences. B
 
 Now you are probably wondering how to set up and use the live chat. Just follow the next steps and you are ready to chat. It is very simple! 
  
-1. Go to your experience and add the "Live Chat" process module to your existing chat flow
+1. Go to your experience and add the process module <i>Live chat</i> to your existing chat flow
 
 ![Live module](live_module.png "Live module")
 
