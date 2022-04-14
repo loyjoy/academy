@@ -11,7 +11,7 @@ Now you are probably wondering how to set up and use the live chat. Just follow 
 ![Live module](live_module.png "Live module")
 
 
-2. By clicking on the module and closing the process editor, you will see the following options:
+2. When you close the process editor and click on the module, you will see the following options:
 
 ![Live options](live_options.png "Live options")
 
@@ -33,7 +33,7 @@ Once the user enters the "Live Chat" process module, the agents receives a messa
 ![Live sidebar](live_sidebar.png "Live sidebar")
 
 
-2. Turn the switch and go online
+2. Flip the switch and go online
 
 ![Live agent](live_agent_online.png "Live agent")
 
