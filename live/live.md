@@ -26,7 +26,7 @@ Now you are probably wondering how to set up and use the live chat. Just follow 
 
 ## How to use the Live Chat as agent
 Once the user enters the "Live Chat" process module, the agents receive a message in their Live section and can reply. Agents can use animations and lead the user to a certain experience or sub-process if needed. Important: Agents must go live and mark themselves as online to interact with users.
-[Watch our short Live chat demonstration video.](https://www.youtube.com/watch?v=FFMvH-iQWho)
+
 
 1. Go to the Live tab in the LoyJoy Cloud
 
