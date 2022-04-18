@@ -142,9 +142,9 @@
 
 | Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
-| [Handover via email](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Let customer get in touch with your team via email|  Add rules which will determine the receiver of the request  | -         |[How to *Placeholder*](detailed.md#signal) |
-| [Send email](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Send an email to a specific recipient|  Placeholder  | -         |[How to *Placeholder*](detailed.md#signal) |
-| [Send email to customer](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Send an email to the customer|  Placeholder  | -         |[How to *Placeholder*](detailed.md#signal) |
+| [Handover via email](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Transfer a concern of the customer to you by email|  For problems that are too specific for the chatbot, it is a simple solution to send the customer's request directly to your email address.  | -         |[How to *Placeholder*](detailed.md#signal) |
+| [Send email](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Send an email to a specific recipient|  Request information from the customer in the chat and then send it to your company  | -         |[How to *Placeholder*](detailed.md#signal) |
+| [Send email to customer](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Send an email to the customer|  Create a recommendation for the customer based on the information provided in the chat, which is then automatically sent to the customer by email.  | -         |[How to *Placeholder*](detailed.md#signal) |
 
 
 
@@ -152,14 +152,14 @@
 
 | Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
-| [Live chat](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Option to chat live with your users in the chat |  Agents need to mark themselves as online to interact with users live  | -         |[How to *Placeholder*](detailed.md#signal) |
+| [Live chat](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Option to chat live with your customers in the chat |  When the chatbot alone cannot solve the customer's problem, live chat can assist  | -         |[How to *Placeholder*](detailed.md#signal) |
 
 ### Multi-language
 
 | Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
-| [Language selection](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Customers can choose which language they prefer|  If multiple languages are available in the chatbot   | -         |[How to *Placeholder*](detailed.md#signal) |
-| [Region](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Define which regions are available for selection|  Placeholder  | - |[How to *Placeholder*](detailed.md#signal) |
+| [Language selection](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Customers can choose in which language the chatbot should be displayed|  If several languages are spoken in your country, you can offer them  | -       |[How to *Placeholder*](detailed.md#signal) |
+| [Region](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Allow only certain regions for the chatbot|  For example, only certain regions may participate in a giveaway  | - |[How to *Placeholder*](detailed.md#signal) |
 
 ### Logic
 
@@ -168,5 +168,5 @@
 | [Create process instance](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Use if customers should be able to go through the same experience several times|  Placeholder  | -         |[How to *Placeholder*](detailed.md#signal) |
 | [List process instances](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Allowing your customers to repeat same experience multiple times, they can manage and modify all stored information here|  Useful to list all process instances of a customer and to allow the customer to switch between them  | -         |[How to *Placeholder*](detailed.md#signal) |
 | [Session reset](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Log-out the customer and reset the chat|  Useful to reset the process session completely, effectively logging out the customer and resetting the chat   | -         |[How to *Placeholder*](detailed.md#signal) |
-| [Timer](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Start or restart the chat at specific points in time |  Useful to start the chat every day  | -         |[How to *Placeholder*](detailed.md#signal) |
-| [Variable](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Set, modify or remove a variable in the process  |  Useful to design personalized experiences  | -         |[How to *Variable*](/experiences/variables/variables.md) |
+| [Timer](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Start or restart the chat at specific points in time |  Restart the chat e.g. for an advent calendar every day  | -         |[How to *Placeholder*](detailed.md#signal) |
+| [Variable](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Set, modify or remove a variable in the process  |  Set variables if modules are to be run through only under certain conditions  | Questionnaire         |[How to *Variable*](/experiences/variables/variables.md) |
