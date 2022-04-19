@@ -75,12 +75,16 @@ The Live chat module has even more to offer for your customers! You can easily r
 ![Jump to](jump_to.png "Jump to")
 
 <b>Jump to experience</b>
+<br>Redirect a customer to any experience you already created in your tenant. </br>
+<b>Jump to sub process</b>
+<br>With this handy tool, you can redirect the customer to another step of the experience. </br>
+
+<br>Example:</br>
 <br>Let's say a customer wants to see the NPS module in real-time. Just redirect them to any NPS experience you already created in your tenant. </br>
 ![Jump 2](jump_to_experience_2.png "Jump 2")
 ![Jump 4](jump_to_experience_4.png "Jump 4")
 
-<b>Jump to sub process</b>
-<br>With this handy tool, you can redirect the customer to another step of the experience. </br>
+
 
 ![Show animation](animation.png "Show animation")
 <b>Send animation</b>
