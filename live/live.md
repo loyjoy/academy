@@ -82,9 +82,10 @@ The Live chat module has even more to offer for your customers! You can easily r
 <b>Jump to sub process</b>
 <br>With this handy tool, you can redirect the customer to another step of the experience. </br>
 
+![Show animation](animation.png "Show animation")
 <b>Send animation</b>
 <br>You can select from our list of animations and send them directly via the Live chat. </br>
-![Show animation](animation.png "Show animation")
+
 
 ![Send animation](send_animation.png "Send animation")
 
