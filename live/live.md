@@ -74,6 +74,8 @@ You've seen this image before on how to end the chat. Now we want to dive deeper
 ![Toolbar](toolbar.png "Toolbar")
 
 <b>1. Jump to </b>
+![Jump to](jump_to.png "Jump to")
+
 <b>experience</b>
 <br>Let's say a customer wants to see the NPS module in real-time. Just redirect them to any NPS experience you already created in your tenant. </br>
 ![Jump 2](jump_to_experience_2.png "Jump 2")
@@ -85,11 +87,13 @@ You've seen this image before on how to end the chat. Now we want to dive deeper
 
 <b>2. Send animation</b>
 <br>You can select from our list of animations and send them directly via the Live chat. </br>
+![Show animation](animation.png "Show animation")
+
 ![Send animation](send_animation.png "Send animation")
 
 <b>3. Block user</b>
 <br>There is also the possibility to to block certain users from the Live chat. </br>
-![Block user](send_animation.png "Block user")
+![Block user](block.png "Block user")
 
 ## Wrap-up: LoyJoy's Live chat Benefits
 
