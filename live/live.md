@@ -102,6 +102,15 @@ The Live chat module has even more to offer for your customers! You can easily r
 2. Here you can update and customize the settings for your profile.
 ![Agent settings](agent_profile_settings.png "Agent settings")
 
+<b>3. Manage templates</b>
+You can create and store custom templates to use in your chat to save valuable time!
+1.Click on the icon selected below:
+![Templates](templates.png "Templates")
+
+2. Add a template
+![Manage templates](manage_templates.png "Manage templates")
+
+
 ## Wrap-up: LoyJoy's Live chat Benefits
 
 
