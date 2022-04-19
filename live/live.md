@@ -83,15 +83,14 @@ The Live chat module has even more to offer for your customers! You can easily r
 Let's say a customer wants to see the NPS module in real-time. Just redirect them to any NPS experience you already created in your tenant. As soon as you've clicked on Jump to experience and chosen the relevant experience, the Live chat ends and the customer gets routed to the chosen experience.
 ![Jump 4](jump_to_experience_4.png "Jump 4")
 
+**Send animation**
 ![Show animation](animation.png "Show animation")
-<b>Send animation</b>
-<br>You can select from our list of animations and send them directly via the Live chat. </br>
-
+You can select from our list of animations and send them directly via the Live chat. The selected animation is then played in the chat of the user.
 ![Send animation](send_animation.png "Send animation")
 
-<b>Block user</b>
-<br>There is also the possibility to to block certain users from the Live chat. </br>
+**Block user**
 ![Block user](block.png "Block user")
+<br>There is also the possibility to to block certain users from the Live chat. </br>
 
 **2. Customize your profile**
 <br>You can also customize the profile of your agent. It is possible to change your Avatar, display name, choose a role and set a custom welcome message</br>
