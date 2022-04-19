@@ -70,7 +70,7 @@ If no agent is available, users can leave a message and Email address:
 The Live chat module has even more to offer for your customers! You can easily redirect them to another chat experience, sub processes or show them our awesome animations live in the chat. Read on to get the full benefits!
 
 <b>Understanding the toolbar</b>
-You've seen this image before on how to end the chat. Now we want to dive deeper and see what's behind the three icons.
+<br>You've seen this image before on how to end the chat. Now we want to dive deeper and see what's behind the three icons.</br>
 ![Toolbar](toolbar.png "Toolbar")
 
 <b>1. Jump to </b>
