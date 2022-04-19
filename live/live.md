@@ -55,7 +55,7 @@ Once the user enters the "Live Chat" process module, the agents receive a messag
 ![Live end](live_end.png "Live end")
 
 ## How to use the Live Chat as user
-Once customers enter the live chat, the conversation is marked as "waiting" in the live section and an agent can take over the chat. When the live chat starts it might look like this:
+Once customers enter the live chat, the conversation is marked as "waiting" in the live section and an agent can take over the chat. When the live chat starts and the agent is writing you also see a typing indicator which might look like this:
 
 ![Chat customer view](chat_customer_view.png "Chat customer view")
 
