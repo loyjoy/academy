@@ -1,10 +1,10 @@
 # Live 
 
-With LoyJoy you can let human experts support your automated chat experiences. Best of all, always-on agents are not required! Get notified when customers are waiting in the Live Chat and join the conversation easily from the LoyJoy Cloud. It is the place where all your in-person conversations meet, ongoing or settled.
+With LoyJoy you can let human experts support your automated chat experiences. Best of all, always-on agents are not required! Get notified when customers are waiting in the Live chat and join the conversation easily from the LoyJoy Cloud. It is the place where all your in-person conversations meet, ongoing or settled.
 
-## How to set up the Live Chat
+## How to set up the Live chat
 
-Now you are probably wondering how to set up and use the live chat. Just follow the next steps and you are ready to chat. It is very simple! 
+Now you are probably wondering how to set up and use the Live chat. Just follow the next steps and you are ready to chat. It is very simple! 
  
 1. Go to your experience and add the process module <i>Live chat</i> to your existing chat flow
 
@@ -24,8 +24,8 @@ Now you are probably wondering how to set up and use the live chat. Just follow 
 <br>a) Allows you to edit the time that the agents have to respond</br> 
 
 
-## How to use the Live Chat as agent
-Once the user enters the "Live Chat" process module, the agents receive a message in their Live section and can reply. Agents can use animations and lead the user to a certain experience or sub-process if needed. Important: Agents must go live and mark themselves as online to interact with users.
+## How to use the Live chat as agent
+Once the user enters the "Live chat" process module, the agents receive a message in their Live section and can reply. Agents can use animations and lead the user to a certain experience or sub-process if needed. Important: Agents must go live and mark themselves as online to interact with users.
 
 
 1. Go to the Live tab in the LoyJoy Cloud
@@ -54,7 +54,7 @@ Once the user enters the "Live Chat" process module, the agents receive a messag
 
 ![Live end](live_end.png "Live end")
 
-## How to use the Live Chat as user
+## How to use the Live chat as user
 Once customers enter the live chat, the conversation is marked as "waiting" in the live section and an agent can take over the chat. When the live chat starts and the agent is writing you also see a typing indicator which might look like this:
 
 ![Chat customer view](chat_customer_view.png "Chat customer view")
@@ -66,8 +66,8 @@ If no agent is available, users can leave a message and Email address:
 
 
 
-## How to unlock the full potential of the Live Chat
-The Live Chat module has even more to offer for your customers! You can easily redirect them to another chat experience, sub processes or show them our awesome animations live in the chat. Read on to get the full benefits!
+## How to unlock the full potential of the Live chat
+The Live chat module has even more to offer for your customers! You can easily redirect them to another chat experience, sub processes or show them our awesome animations live in the chat. Read on to get the full benefits!
 
 <b>Understanding the toolbar</b>
 You've seen this image before on how to end the chat. Now we want to dive deeper and see what's behind the three icons.
@@ -88,10 +88,10 @@ You've seen this image before on how to end the chat. Now we want to dive deeper
 ![Send animation](send_animation.png "Send animation")
 
 <b>3. Block user</b>
-<br>There is also the possibility to to block certain users from the live chat. </br>
+<br>There is also the possibility to to block certain users from the Live chat. </br>
 
 
-## Wrap-up: LoyJoy's Live Chat Benefits
+## Wrap-up: LoyJoy's Live chat Benefits
 
 
 1. Enabling live human interaction
