@@ -103,8 +103,9 @@ The Live chat module has even more to offer for your customers! You can easily r
 ![Agent settings](agent_profile_settings.png "Agent settings")
 
 <b>3. Manage templates</b>
-You can create and store custom templates to use in your chat to save valuable time!
-1.Click on the icon selected below:
+<br>You can create and store custom templates to use in your chat to save valuable time!</br>
+<br>1.Click on the icon selected below:</br>
+
 ![Templates](templates.png "Templates")
 
 2. Add a template
