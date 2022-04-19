@@ -37,7 +37,7 @@ Once the user enters the "Live Chat" process module, the agents receive a messag
 
 ![Live agent](live_agent_online.png "Live agent")
 
-3. You get notified
+3. You get notified when a user is waiting in the Live chat
 
 ![Notification](notification.png "Notification")
 
