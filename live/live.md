@@ -73,16 +73,16 @@ The Live chat module has even more to offer for your customers! You can easily r
 <br>You've seen this image before on how to end the chat. Now we want to dive deeper and see what's behind the three icons.</br>
 ![Toolbar](toolbar.png "Toolbar")
 
-<b>1. Jump to </b>
+<b>1.</b>
 ![Jump to](jump_to.png "Jump to")
 
-<b>experience</b>
+<b>Jump to experience</b>
 <br>Let's say a customer wants to see the NPS module in real-time. Just redirect them to any NPS experience you already created in your tenant. </br>
 ![Jump 2](jump_to_experience_2.png "Jump 2")
 ![Jump 4](jump_to_experience_4.png "Jump 4")
 ![Jump 3](jump_to_experience_3.png "Jump 3")
 
-<b>sub process</b>
+<b>Jump to sub process</b>
 <br>With this handy tool, you can redirect the customer to another step of the experience. </br>
 
 <b>2. Send animation</b>
