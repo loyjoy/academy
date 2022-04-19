@@ -77,18 +77,15 @@ The Live chat module has even more to offer for your customers! You can easily r
 <b>Jump to experience</b>
 <br>Redirect a customer to any experience you already created in your tenant. </br>
 <b>Jump to sub process</b>
-<br>With this handy tool, you can redirect the customer to another step of the experience. </br>
+<br>Redirect the customer to another point of the experience. Useful to show how certain modules work.</br>
 
-<br>Example:</br>
-<br>Let's say a customer wants to see the NPS module in real-time. Just redirect them to any NPS experience you already created in your tenant. </br>
+<br>**Example: Jump to NPS experience**</br>
+Let's say a customer wants to see the NPS module in real-time. Just redirect them to any NPS experience you already created in your tenant. As soon as you've clicked on Jump to experience and chosen the relevant experience, the Live chat ends and the customer gets routed to the chosen experience.
 ![Jump 4](jump_to_experience_4.png "Jump 4")
-
-
 
 ![Show animation](animation.png "Show animation")
 <b>Send animation</b>
 <br>You can select from our list of animations and send them directly via the Live chat. </br>
-
 
 ![Send animation](send_animation.png "Send animation")
 
