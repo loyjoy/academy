@@ -48,7 +48,7 @@ Once the user enters the "Live Chat" process module, the agents receive a messag
 ![Reply](reply_now.png "Reply")
 
 6. Start chatting in-person
-![Send message](chat_agent_view "Send message")
+![Send message](chat_agent_view.png "Send message")
 
 7. When you are finished chatting with your customer, simply click on End chat
 
@@ -58,7 +58,7 @@ Once the user enters the "Live Chat" process module, the agents receive a messag
 Once customers enter the live chat, the conversation is marked as "waiting" in the live section and an agent can take over the chat. When the live chat starts it might look like this:
 
 ![Live chat](live_chat.png "Live chat")
-![Chat customer view](chat_customer_view "Chat customer view")
+![Chat customer view](chat_customer_view.png "Chat customer view")
 
 
 If no agent is available, users can leave a message and Email address:
