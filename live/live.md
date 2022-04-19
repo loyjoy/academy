@@ -89,7 +89,7 @@ You've seen this image before on how to end the chat. Now we want to dive deeper
 
 <b>3. Block user</b>
 <br>There is also the possibility to to block certain users from the Live chat. </br>
-
+![Block user](send_animation.png "Block user")
 
 ## Wrap-up: LoyJoy's Live chat Benefits
 
