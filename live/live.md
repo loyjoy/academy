@@ -69,11 +69,9 @@ If no agent is available, users can leave a message and Email address:
 ## How to unlock the full potential of the Live chat
 The Live chat module has even more to offer for your customers! You can easily redirect them to another chat experience, sub processes or show them our awesome animations live in the chat. Read on to get the full benefits!
 
-<b>1. Understanding the toolbar</b>
+**1. Understanding the toolbar**
 <br>You've seen this image before on how to end the chat. Now we want to dive deeper and see what's behind the three icons.</br>
-![Toolbar](toolbar.png "Toolbar")
 
-<b>1.1</b>
 ![Jump to](jump_to.png "Jump to")
 
 <b>Jump to experience</b>
@@ -84,17 +82,17 @@ The Live chat module has even more to offer for your customers! You can easily r
 <b>Jump to sub process</b>
 <br>With this handy tool, you can redirect the customer to another step of the experience. </br>
 
-<b>1.2 Send animation</b>
+<b>Send animation</b>
 <br>You can select from our list of animations and send them directly via the Live chat. </br>
 ![Show animation](animation.png "Show animation")
 
 ![Send animation](send_animation.png "Send animation")
 
-<b>1.3 Block user</b>
+<b>Block user</b>
 <br>There is also the possibility to to block certain users from the Live chat. </br>
 ![Block user](block.png "Block user")
 
-<b>2. Customize your profile</b>
+**2. Customize your profile**
 <br>You can also customize the profile of your agent. It is possible to change your Avatar, display name, choose a role and set a custom welcome message</br>
 1. To start, click on the avatar.
 ![Agent profile](agent_profile.png "Agent profile")
@@ -102,7 +100,7 @@ The Live chat module has even more to offer for your customers! You can easily r
 2. Here you can update and customize the settings for your profile.
 ![Agent settings](agent_profile_settings.png "Agent settings")
 
-<b>3. Manage templates</b>
+**3. Manage templates**
 <br>You can create and store custom templates to use in your chat to save valuable time!</br>
 <br>1.Click on the icon selected below:</br>
 
