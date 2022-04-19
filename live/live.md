@@ -81,7 +81,6 @@ The Live chat module has even more to offer for your customers! You can easily r
 
 <br>Example:</br>
 <br>Let's say a customer wants to see the NPS module in real-time. Just redirect them to any NPS experience you already created in your tenant. </br>
-![Jump 2](jump_to_experience_2.png "Jump 2")
 ![Jump 4](jump_to_experience_4.png "Jump 4")
 
 
