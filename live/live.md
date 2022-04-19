@@ -37,11 +37,20 @@ Once the user enters the "Live Chat" process module, the agents receive a messag
 
 ![Live agent](live_agent_online.png "Live agent")
 
-3. Choose the relevant chat from the sidebar
+3. You get notified
 
-4. Start chatting in-person
+![Notification](notification.png "Notification")
 
-5. When you are finished chatting with your customer, simply click on End chat
+4. Choose the relevant chat from the sidebar
+![Without agent](without_agent.png "Without agent")
+
+5. Click on reply now
+![Reply](reply_now.png "Reply")
+
+6. Start chatting in-person
+![Send message](chat_agent_view "Send message")
+
+7. When you are finished chatting with your customer, simply click on End chat
 
 ![Live end](live_end.png "Live end")
 
@@ -49,13 +58,35 @@ Once the user enters the "Live Chat" process module, the agents receive a messag
 Once customers enter the live chat, the conversation is marked as "waiting" in the live section and an agent can take over the chat. When the live chat starts it might look like this:
 
 ![Live chat](live_chat.png "Live chat")
+![Chat customer view](chat_customer_view "Chat customer view")
+
 
 If no agent is available, users can leave a message and Email address:
 
 ![Live asynch](live_chat_asynch.png "Live asynch")
 
 
-## LoyJoy's Live Chat Benefits
+
+## How to unlock the full potential of the Live Chat
+The Live Chat module has even more to offer for your customers! You can easily redirect them to another chat experience, sub processes or show them our awesome animations live in the chat. Read on to get the full benefits!
+
+<b>Jump to experience</b>
+<br>Let's say a customer wants to see the NPS module in real-time. Just redirect them to any NPS experience you already created in your tenant. </br>
+![Jump 1](jump_to_experience_1.png "Jump 1")
+![Jump 2](jump_to_experience_1.png "Jump 2")
+![Jump 3](jump_to_experience_1.png "Jump 3")
+![Jump 4](jump_to_experience_1.png "Jump 4")
+
+<b>Jump to sub process</b>
+<br>With this handy tool, you can redirect the customer to another step of the experience. </br>
+
+<b>Send animation</b>
+<br>You can select from our list of animations and send them directly via the Live chat. </br>
+![Send animation](send_animation.png "Send animation")
+
+
+
+## Wrap-up: LoyJoy's Live Chat Benefits
 
 
 1. Enabling live human interaction
