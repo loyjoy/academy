@@ -69,20 +69,26 @@ If no agent is available, users can leave a message and Email address:
 ## How to unlock the full potential of the Live Chat
 The Live Chat module has even more to offer for your customers! You can easily redirect them to another chat experience, sub processes or show them our awesome animations live in the chat. Read on to get the full benefits!
 
-<b>Jump to experience</b>
+<b>Understanding the toolbar</b>
+You've seen this image before on how to end the chat. Now we want to dive deeper and see what's behind the three icons.
+![Toolbar](toolbar.png "Toolbar")
+
+<b>1. Jump to </b>
+<b>experience</b>
 <br>Let's say a customer wants to see the NPS module in real-time. Just redirect them to any NPS experience you already created in your tenant. </br>
-![Jump 1](jump_to_experience_1.png "Jump 1")
 ![Jump 2](jump_to_experience_2.png "Jump 2")
 ![Jump 3](jump_to_experience_3.png "Jump 3")
 ![Jump 4](jump_to_experience_4.png "Jump 4")
 
-<b>Jump to sub process</b>
+<b>sub process</b>
 <br>With this handy tool, you can redirect the customer to another step of the experience. </br>
 
-<b>Send animation</b>
+<b>2. Send animation</b>
 <br>You can select from our list of animations and send them directly via the Live chat. </br>
 ![Send animation](send_animation.png "Send animation")
 
+<b>3. Block user</b>
+<br>There is also the possibility to to block certain users from the live chat. </br>
 
 
 ## Wrap-up: LoyJoy's Live Chat Benefits
