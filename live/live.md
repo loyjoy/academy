@@ -6,7 +6,7 @@ With LoyJoy you can let human experts support your automated chat experiences. B
 
 Now you are probably wondering how to set up and use the Live chat. Just follow the next steps and you are ready to chat. It is very simple! 
  
-1. Go to your experience and add the process module <i>Live chat</i> to your existing chat flow
+1. Go to your experience and add the process module _Live chat_ to your existing chat flow
 
 ![Live module](live_module.png "Live module")
 
@@ -44,7 +44,7 @@ As soon as the user enters the "Live chat" process module, the agents receive a 
 4. Choose the relevant chat from the sidebar
 ![Without agent](without_agent.png "Without agent")
 
-5. Click on _reply now_
+5. Click on _Reply now_
 ![Reply](reply_now.png "Reply")
 
 6. Start chatting in-person
@@ -93,7 +93,7 @@ You can select from our list of animations and send them directly via the Live c
 <br>There is also the possibility to block certain users from the Live chat. </br>
 
 **2. Customize your profile**
-<br>You can also customize the profile of your agent. It is possible to change your Avatar, display name, choose a role and set a custom welcome message</br>
+<br>You can also customize the profile of your agent. It is possible to change your avatar, display name, choose a role and set a custom welcome message</br>
 1. To start, click on the avatar.
 ![Agent profile](agent_profile.png "Agent profile")
 
