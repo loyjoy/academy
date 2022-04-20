@@ -11,9 +11,7 @@ If you already have a standardised branding that you wish to transfer to another
 
 If you want to personalise your individual experiences, you can create new brandings for every experience. Let's brand your chatbot to your preferences together.
 
-<p align="center">
-    <img src="branding_start.png" alt="Branding" title="Branding" width="500"/>
-</p>
+![Branding](branding_start.png "Branding")
 
 ### Conversation
 
@@ -27,18 +25,13 @@ Click on the header in the chat animation to your left. You will find the Header
 
 To create the design you want, choose a title and a tagline or insert a logo image, which you will see on the left side of the header, a header image, which you can see in the middle of the header, or loyalty icon.
 
-<p align="center">
-    <img src="branding_header.png" alt="Header" title="Header" width="500"/>
-</p>
+![Header](branding_header.png "Header")
 
 * #### Home 
 
 > By clicking on the arrow pointing to the left in the chat animation you can select a home view for this experience and can manage to show the home view initially, as soon as the chat window is open. 
 
-<p align="center">
-    <img src="branding_header_settings.png" alt="Header Settings" title="Header Settings" width="300"/>
-</p>
-
+![Header Settings](branding_header_settings.png "Header Settings")
 
 * #### Navigation 
 
@@ -63,9 +56,7 @@ Some consumers will type something into the open text field at the bottom of the
 
 Use the chat preview above your chat bubble to excite and motivate your customers to click on your experience. You can also offer up to three quick replies in your chat preview. Your customers can use these to jump into another experience or to a process module.
 
-<p align="center">
-    <img src="branding_chatpreview.png" alt="Chat Preview" title="Chat Preview" width="500"/>
-</p>
+![Chat Preview](branding_chatpreview.png "Chat Preview")
 
 ### Chat bubble 
 
