@@ -1,9 +1,5 @@
-*** What is NLU
+# What is NLU 
 
-# Messages
+## NLU
 
-Here you can find all free text entries of your users and analyze what your users have to say. If you are using Natural Language Understanding, you can check which intents are recognized and what the percentage accuracy is. You can also see the source bot and the experience of each text entry.
-
-Use the CSV export to download the user inputs.
-
-![Slide1 2](https://user-images.githubusercontent.com/25420427/142872367-55bf8547-ca1d-42c3-b79b-52ed2a657558.jpg)
+NLU stands for Natural Language Understanding. With the help of AI-based NLU, your bot can automatically respond to customer questions. Here you can train your own artificial intelligence and teach your bot new skills.nYour chat experiences have a free text field in which customer can type their requests and comments. With NLU, you can create so called "intents" concerning a certain topic (e.g. goodbye).
