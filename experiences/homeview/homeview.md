@@ -20,57 +20,57 @@ Check out the different Home View components:
 
 Open the Home View editor by clicking on *Home Views* next to your Experiences. Create a new Home View in the upper right corner. Now there are several widgets that you can add to your Home View.
 
-![Homeview](/experiences/homeview/Homeviews.png)
+![Homeview](Homeviews.png "Homeview")
 
 To do so, click the plus of the widget of your choice.
 
-![Add Widgets](/experiences/homeview/Add_widget.gif)
+![Add Widgets](Add_widget.gif "Add Widgets")
 
 Drag and drop the components until they are in your preferred order.
 
-![Switch Widgets](/experiences/homeview/Switch_widget.gif)
+![Switch Widgets](Switch_widget.gif "Switch Widgets")
 
 ### Navigation bar
 
 Let's start with the navigation bar.
 
-![Navigation](/experiences/homeview/navbar.png)
+![Navigation](navbar.png "Navigation")
 
 Here you can add an image that will be displayed at the top of the page in the header.
 
-![Navigation bar](/experiences/homeview/Navigationbar.png)
+![Navigation bar](Navigationbar.png "Navigation bar")
 
 ### Hero widget
 
 The hero widget will be a cover image with an optional greeting text field.
 
-![Hero widget](/experiences/homeview/Hero_chat.png)
+![Hero widget](Hero_chat.png "Hero widget")
 
 Introduce your customers and jump directly into one of your experiences by linking it here.
 
-![Hero Settings](/experiences/homeview/Hero_widget.png)
+![Hero Settings](Hero_widget.png "Hero Settings")
 
 ### Stories widget
 
 Through stories, you can create exciting insights for your customers. Provide enjoyable content by adding small video sequences in the form of stories to your Home View.
 
-![Stories Widget](/experiences/homeview/storieswid.png)
+![Stories Widget](storieswid.png "Stories Widget")
 
 First, you add a new story.
 
-![Story](/experiences/homeview/Story.gif)
+![Story](Story.gif "Story")
 
 Create your stories with the free tool [Make Stories](https://makestories.io/). With this tool, you can build your stories. Be creative and make your personal story! Get the Link and paste it to your LoyJoy Home View Stories.
 
-![Story Settings](/experiences/homeview/Story_settings.png)
+![Story Settings](Story_settings.png "Story Settings")
 
 Back in the LoyJoy backend, you can add an avatar image and a logo. You are also able to enter tags for specific Storys that can help you later. 
 
-![Story Tag](/experiences/homeview/Tags_story.gif)
+![Story Tag](Tags_story.gif "Story Tag")
 
 If you only want to display certain Stories, just choose the Tags you gave your Stories!
 
-![Story Tags](/experiences/homeview/Story_tags.png)
+![Story Tags](Story_tags.png "Story Tags")
 
 Let your customer jump directly into one of your experiences by calling to action and linking an experience to your story.
 
@@ -80,31 +80,31 @@ Watch your Story in the preview and go live!
 
 Place your experiences in the Home View by using the groups widget.
 
-![Group](/experiences/homeview/groupswid.png)
+![Group](groupswid.png "Group")
 
-![Group widget](/experiences/homeview/Groupone.png)
+![Group widget](Groupone.png "Group widget")
 
 To select which experience groups to display in the Home View just active the button of each experience group. Add an image and avatar image to each experience of your Home View and choose a title and a slogan.
 
-![Add Group widget](/experiences/homeview/Add_Group.png)
+![Add Group widget](Add_Group.png "Add Group widget")
 
 If you wish to add multiple groups into your Homeview use an individual Group Widget for each one. 
 
-![Add multiple Group widgets](/experiences/homeview/Group_Widget.png)
+![Add multiple Group widgets](Group_Widget.png "Add multiple Group widgets")
 
 Design your individual Group Widgets to your liking! 
 
-![Multiple Groups](/experiences/homeview/Grouptwo.png)
+![Multiple Groups](Grouptwo.png "Multiple Groups")
 
 Your Homeview should look like this with multiple Group widgets!
 
-![Multiple Groups in Chat](/experiences/homeview/Groups.png)
+![Multiple Groups in Chat](Groups.png "Multiple Groups in Chat")
 
 ### Notifications widget
 
 This widget presents a message for the customer. Call out for action, excite your customer or guide them - all possible by using the notifications widget.
 
-![Notification Widget](/experiences/homeview/notwid.png)
+![Notification Widget](notwid.png "Notification Widget")
 
 ### Roster widget
 
@@ -112,7 +112,7 @@ The roster shows the customer's previous chats and interactions with your chat e
 
 If you want the roster to be displayed in the home view, active the button.
 
-![Roster](/experiences/homeview/Roster.gif)
+![Roster](Roster.gif "Roster")
 
 Let your customers go back to previous conversations just like they would do while chatting with a friend.
 
@@ -120,11 +120,11 @@ Let your customers go back to previous conversations just like they would do whi
 
 In the search widget your customers can search through LoyJoy experiences and jump right into them.
 
-![Search widget](/experiences/homeview/Search_Chat.png)
+![Search widget](Search_Chat.png "Search widget")
 
 Add a Title and Search pharse to help your customers. 
 
-![Search](/experiences/homeview/Search_Widget.png)
+![Search](Search_Widget.png "Search")
 
 ### Web component widget 
 
@@ -174,6 +174,6 @@ For example the following Web component defines a Web component with the tag `he
 })()
 ```
 
-![Web Component](/experiences/homeview/Web_component.png)
+![Web Component](Web_component.png "Web Component)
 
 Awesome! Now you are a Home View expert and ready to build your own LoyJoy Home View for your brand! :tada:
