@@ -150,7 +150,7 @@ For example the following Web component defines a Web component with the tag `he
           <div class="hello-world">
             Hello world
           </div>
-        `
+        
 
         const helloWorld = this.shadowRoot.querySelector('.hello-world');
 
