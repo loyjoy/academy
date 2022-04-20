@@ -38,8 +38,6 @@
 
 ## Best Practices
 - [7 secrets](/best_practices/dos_and_donts.md)
-- [New project - Checklists](/best_practices/checklists/new_checklist.md)
-- [Advent calendar - Checklist](/best_practices/checklists/advent_checklist.md)
 - [NLU - Checklist](/best_practices/checklists/nlu_checklist.md)
 
 ## [FAQ](/faq/faq.md)
