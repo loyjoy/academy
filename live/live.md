@@ -1,6 +1,6 @@
 # Live 
 
-With LoyJoy you can let human experts support your automated chat experiences. Best of all, always-on agents are not required! Get notified when customers are waiting in the Live chat and join the conversation easily from the LoyJoy Cloud. It is the place where all your in-person conversations meet, ongoing or settled.
+With LoyJoy you can let human experts support your automated chat experiences. Best of all, always-on agents are not required anymore! Get notified when customers are waiting in the Live chat and join the conversation easily from the LoyJoy Cloud. It is the place where all your in-person conversations meet, ongoing or settled.
 
 ## How to set up the Live chat
 
@@ -17,15 +17,15 @@ Now you are probably wondering how to set up and use the Live chat. Just follow 
 
 3. <b>If no agent is available choose</b> 
 <br>a) Exit - returns to chatflow and goes into the next process</br> 
-<br>b) Jump - choose where you want to send your customer if no agent is available</br> 
+<br>b) Jump - decide where you want to send your customer if no agent is available</br> 
 <br>c) Asynchronous response - Give your customer the option to get contacted via mail</br> 
 
 4. Set <b>Waiting time in seconds for agents to respond</b> 
-<br>a) Allows you to edit the time that the agents have to respond</br> 
+<br>a) Allows you to edit the time agents have to respond</br> 
 
 
-## How to use the Live chat as agent
-Once the user enters the "Live chat" process module, the agents receive a message in their Live section and can reply. Agents can use animations and lead the user to a certain experience or sub-process if needed. Important: Agents must go live and mark themselves as online to interact with users.
+## How to use the Live chat as an agent
+As soon as the user enters the "Live chat" process module, the agents receive a message in their Live section and can reply. Agents can use animations and lead the user to a certain experience or sub-process if needed. Important: Agents must go live and mark themselves as online to interact with users.
 
 
 1. Go to the Live tab in the LoyJoy Cloud
@@ -44,23 +44,23 @@ Once the user enters the "Live chat" process module, the agents receive a messag
 4. Choose the relevant chat from the sidebar
 ![Without agent](without_agent.png "Without agent")
 
-5. Click on reply now
+5. Click on _reply now_
 ![Reply](reply_now.png "Reply")
 
 6. Start chatting in-person
 ![Send message](chat_agent_view.png "Send message")
 
-7. When you are finished chatting with your customer, simply click on End chat
+7. When you are finished chatting with your customer, simply click on _End chat_
 
 ![Live end](live_end.png "Live end")
 
-## How to use the Live chat as user
+## How to use the Live chat as a user
 Once customers enter the live chat, the conversation is marked as "waiting" in the live section and an agent can take over the chat. When the live chat starts and the agent is writing you also see a typing indicator which might look like this:
 
 ![Chat customer view](chat_customer_view.png "Chat customer view")
 
 
-If no agent is available, users can leave a message and Email address:
+If no agent is available, users can leave a message and mail address:
 
 ![Live asynch](live_chat_asynch.png "Live asynch")
 
@@ -75,7 +75,7 @@ The Live chat module has even more to offer for your customers! You can easily r
 ![Jump to](jump_to.png "Jump to")
 
 <b>Jump to experience</b>
-<br>Redirect a customer to any experience you already created in your tenant. </br>
+<br>Redirect a customer to any experience you have already created in your tenant. </br>
 <b>Jump to sub process</b>
 <br>Redirect the customer to another point of the experience. Useful to show how certain modules work.</br>
 
@@ -90,7 +90,7 @@ You can select from our list of animations and send them directly via the Live c
 
 **Block user**
 ![Block user](block.png "Block user")
-<br>There is also the possibility to to block certain users from the Live chat. </br>
+<br>There is also the possibility to block certain users from the Live chat. </br>
 
 **2. Customize your profile**
 <br>You can also customize the profile of your agent. It is possible to change your Avatar, display name, choose a role and set a custom welcome message</br>
@@ -117,6 +117,6 @@ You can select from our list of animations and send them directly via the Live c
 
 2. Hybrid approach: automated process + human interaction
 
-3. Jump back and forth between automated process and human interaction
+3. Jump back and forth between automated processes and human interaction
 
 4. Save costs by avoiding always-on agents
