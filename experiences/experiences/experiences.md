@@ -12,7 +12,7 @@ Start your journey with LoyJoy and build your first Experience! 🎉
 ## Create new Experience
 Create a new Experience in the upper right corner on the orange button. You can choose between three options: start with a blank Experience and make your own from scratch, choose a template from our template store or a colleagues templates [find out more here](/getting_started/personal_settings/personal_settings.md), or enter a copy token from another Experience. After you have created your Experience, it will appear in your overview under *Experiences*.
 
-![Create Experience](/experiences/experiences/Experience.gif)
+![Create Experience](Experience.gif "Create Experience")
 
 ### Manage 
 To manage your Experiences you can click on the three dots in the right upper corner of any Experience. Here you are able to download or upload as a file, move the Experience into a folder, copy, pause, archive or delete your Experience. 
