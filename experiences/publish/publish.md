@@ -4,7 +4,7 @@
 
 Before you go live with your chatbot, make sure you test the experience and of course, share it with your colleagues. Choose out of three options to securely test your chatbot and grant feedback.
 
-![Test before publish](/experiences/publish/publish.png)
+![Test before publish](publish.png "Test before publish")
 
 View your chatbot on a unique landing page. We have automatically created a simple landing page for you, which you can use and share directly. Adjust the landing page to your brand by using the settings to insert a background, to enter an imprint, or to redirect visitors to another URL. Just copy the Link and share! 
 
@@ -28,13 +28,13 @@ See also [Integration with JavaScript API](/experiences/publish/java_integration
 
 Choose one of the various Social Media platforms we support to provide your Experience on different channels for your clients.
 
-![Platforms](/experiences/publish/publish_platforms.png)
+![Platforms](publish_platforms.png "Platforms")
 
 To post your chatbot directly into an **Instagram** Story or Post, simply copy and paste the appropriate link into the Swipe-Up link.
 
 To integrate the experience into **Facebook**, enter the provided URL as Webhook subscription URL in Facebook Developer and fill out the  necessary fields. In the same way it is also possible to integrate the experience in **WhatsApp Business API**, enter following URL as Webhook URL in a Docker-hosted WhatsApp Business API and fill out the following fields. 
 
-![Publish on Facebook](/experiences/publish/publish_facebook.png)
+![Publish on Facebook](publish_facebook.png "Publish on Facebook")
 
 If you want to send messages to your clients while also providing a return channel we recommend using Twilio for **SMS** and **Whatsapp**. To integrate the experience into Twilio, enter the following URL as Webhook in Twilio console and fill out the following fields. In Twilio select HTTP-GET for SMS and HTTP-POST for WhatsApp.
 
