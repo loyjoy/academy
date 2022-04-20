@@ -174,6 +174,6 @@ For example the following Web component defines a Web component with the tag `he
 })()
 ```
 
-![Web Component](Web_component.png "Web Component)
+![Web Component](Web_component.png "Web Component")
 
 Awesome! Now you are a Home View expert and ready to build your own LoyJoy Home View for your brand! :tada:
