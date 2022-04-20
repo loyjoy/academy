@@ -1,4 +1,4 @@
-## How to train your AI :dragon:
+## How to train your AI 🐉
 
 # NLU
 
