@@ -70,8 +70,7 @@ If no agent is available, users can leave a message and mail address:
 The Live chat module has even more to offer for your customers! You can easily redirect them to another chat experience, sub processes or show them our awesome animations live in the chat. Read on to get the full benefits!
 
 ### 1. Understanding the toolbar
-<br>You've seen this image before on how to end the chat. Now we want to dive deeper and see what's behind the three icons.</br>
-
+You've seen this image before on how to end the chat. Now we want to dive deeper and see what's behind the three icons.
 ![Jump to](jump_to.png "Jump to")
 
 <b>Jump to experience</b>
@@ -93,7 +92,7 @@ You can select from our list of animations and send them directly via the Live c
 <br>There is also the possibility to block certain users from the Live chat. </br>
 
 ### 2. Customize your profile
-<br>You can also customize the profile of your agent. It is possible to change your avatar, display name, choose a role and set a custom welcome message</br>
+You can also customize the profile of your agent. It is possible to change your avatar, display name, choose a role and set a custom welcome message
 1. To start, click on the avatar.
 ![Agent profile](agent_profile.png "Agent profile")
 
@@ -101,7 +100,7 @@ You can select from our list of animations and send them directly via the Live c
 ![Agent settings](agent_profile_settings.png "Agent settings")
 
 ### 3. Manage templates
-<br>You can create and store custom templates to use in your chat to save valuable time!</br>
+You can create and store custom templates to use in your chat to save valuable time!
 <br>1.Click on the icon selected below:</br>
 
 ![Templates](templates.png "Templates")
