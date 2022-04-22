@@ -132,19 +132,19 @@
 
 | Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
-| [External link](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Link to an external website	|  Show more of a topic   | Mini program         |[How to *Placeholder*](detailed.md#signal) |
-| [List](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Display a list in the chat|  Useful to show your customers a product overview  | -         |[How to *Placeholder*](detailed.md#signal) |
-| [Share image](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Share images from the chat|  Let your customers share images from the chat to their friends   | -         |[How to *Placeholder*](detailed.md#signal) |
-| [Tag](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Add a tag to customers or remove a tag from customers|  Tags are used for customer segmentation  | -         |[How to *Placeholder*](detailed.md#signal) |
-| [Tag preference center](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Define a tag, which should be offered to the customer to select or deselect|  Customers can have tags such as fashion, which express interests a customer can have. Tags are used for customer segmentation  | -         |[How to *Placeholder*](detailed.md#signal) |
+| [External link](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/external_link.md) | Link to an external website	|  Show more of a topic   | Mini program         |[How to *Placeholder*](detailed.md#signal) |
+| [List](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/list.md) | Display a list in the chat|  Useful to show your customers a product overview  | -         |[How to *Placeholder*](detailed.md#signal) |
+| [Share image](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/share_image.md) | Share images from the chat|  Let your customers share images from the chat to their friends   | -         |[How to *Placeholder*](detailed.md#signal) |
+| [Tag](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/tag.md) | Add a tag to customers or remove a tag from customers|  Tags are used for customer segmentation  | -         |[How to *Placeholder*](detailed.md#signal) |
+| [Tag preference center](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/tag_preference.md) | Define a tag, which should be offered to the customer to select or deselect|  Customers can have tags such as fashion, which express interests a customer can have. Tags are used for customer segmentation  | -         |[How to *Placeholder*](detailed.md#signal) |
 
 ### Email
 
 | Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
-| [Handover via email](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Transfer a concern of the customer to you by email|  For problems that are too specific for the chatbot, it is a simple solution to send the customer's request directly to your email address.  | -         |[How to *Placeholder*](detailed.md#signal) |
-| [Send email](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Send an email to a specific recipient|  Request information from the customer in the chat and then send it to your company  | -         |[How to *Placeholder*](detailed.md#signal) |
-| [Send email to customer](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Send an email to the customer|  Create a recommendation for the customer based on the information provided in the chat, which is then automatically sent to the customer by email.  | -         |[How to *Placeholder*](detailed.md#signal) |
+| [Handover via email](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/handover.md) | Transfer a concern of the customer to you by email|  For problems that are too specific for the chatbot, it is a simple solution to send the customer's request directly to your email address.  | -         |[How to *Placeholder*](detailed.md#signal) |
+| [X_Send email](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Send an email to a specific recipient|  Request information from the customer in the chat and then send it to your company  | -         |[How to *Placeholder*](detailed.md#signal) |
+| [X_Send email to customer](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Send an email to the customer|  Create a recommendation for the customer based on the information provided in the chat, which is then automatically sent to the customer by email.  | -         |[How to *Placeholder*](detailed.md#signal) |
 
 
 
@@ -152,14 +152,14 @@
 
 | Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
-| [Live chat](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Option to chat live with your customers in the chat |  When the chatbot alone cannot solve the customer's problem, live chat can assist  | -         |[How to *Placeholder*](detailed.md#signal) |
+| [Live chat](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/live.md) | Option to chat live with your customers in the chat |  When the chatbot alone cannot solve the customer's problem, live chat can assist  | -         |[How to *Placeholder*](detailed.md#signal) |
 
 ### Multi-language
 
 | Module                                                  | Description                                        | Use case       | Alternatives       | Detailed description |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | ------------------------- 
-| [Language selection](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Customers can choose in which language the chatbot should be displayed|  If several languages are spoken in your country, you can offer them  | -       |[How to *Placeholder*](detailed.md#signal) |
-| [Region](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Allow only certain regions for the chatbot|  For example, only certain regions may participate in a giveaway  | - |[How to *Placeholder*](detailed.md#signal) |
+| [Language selection](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/locale.md) | Customers can choose in which language the chatbot should be displayed|  If several languages are spoken in your country, you can offer them  | -       |[How to *Placeholder*](detailed.md#signal) |
+| [Region](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/region.md) | Allow only certain regions for the chatbot|  For example, only certain regions may participate in a giveaway  | - |[How to *Placeholder*](detailed.md#signal) |
 
 ### Logic
 
