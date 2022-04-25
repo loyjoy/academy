@@ -4,7 +4,7 @@
 
 ### [How are bounces calculated?](#how-are-bounces-calculated-1)
 
-### [Do I have to many bounces in my experiences?](#do-i-have-to-many-bounces-in-my-experiences-1)
+### [Do I have too many bounces in my experiences?](#do-i-have-to-many-bounces-in-my-experiences-1)
 
 ### [How can I find out where my users bounce in the experience?](#how-can-i-find-out-where-my-users-bounce-in-the-experience-1)
 
@@ -36,7 +36,7 @@ Bounces are defined as sessions without interactions. Consequently they are
 calculated by subtracting the number of sessions with conversation from the
 number of sessions overall.
 
-# Do I have to many bounces in my experiences?
+# Do I have too many bounces in my experiences?
 
 The fraction of bounces that can be expected can differ greatly between
 experiences. Experiences that open automatically, for example, are expected
