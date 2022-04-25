@@ -5,7 +5,7 @@ To access your personal settings, go to *Manage* in the upper left corner beneat
 ## Tenant
 Here you can set a name for your tenant. In case you are working on multiple teams, this will help you organizing your tenants and jump right into the right one. Be aware that any changes affect the whole team. 
 
-Furthermore, you can delete your tenant and all customer data here. This action is irreversible.
+Furthermore, you can delete your tenant and all customer data here. <br>**Caution:** This action is irreversible!</br>
 
 ## User accounts 
 Find out more on the user accounts under [*Invite colleagues & assign user roles*](/getting_started/roles/roles.md)
@@ -23,7 +23,7 @@ View all the tenants you have currently subscribed to and who they were issued b
 Under create subscription you are able to generate a new subscription token for others to subscribe to the templates you have marked as such. 
 	
 #### How to create a template
-To create a template and add it to your token, create a new experience or go the experience you want to use. Next to the              experience name, go to settings and check *"Is template"* for this experience. This experience has now been added to your templates that others can use by entering **your** subscription token into **their** tenant. 
+To create a template and add it to your token, create a new experience or go the experience you want to use. Next to the experience name, go to settings and check *"Is template"* for this experience. This experience has now been added to your templates that others can use by entering **your** subscription token into **their** tenant. 
 
 #### Find other templates 
 Create an experience from a template (selection in the dropdown under new experience: from template). Here you will be redirected to our template store. We will have many new designs and template inspirations - be sure to check them out.
