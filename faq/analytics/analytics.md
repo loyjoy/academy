@@ -75,9 +75,7 @@ final Goodbye step in the process.
 
 The drilldown tab shows a sequential view of the different modules that make
 up an experience. For each of the modules it shows the number of times this
-module was shown. Laid over the the modules is a heatmap that visually indicates
-the relative frequency (blue over green and yellow to red from low to high).
-
+module was shown. Above the modules is a heat map that visually displays the relative frequency (blue through green and yellow to red from low to high).
 You can get more details about each of the modules simply by clicking on it.
 
 # Why does my second module have more views than the first one?
