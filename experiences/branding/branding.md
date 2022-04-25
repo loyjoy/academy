@@ -5,17 +5,17 @@ Use our Branding options to design you chat UI and create powerful experiences. 
 
 ## Paste branding 
 
-If you already have a standardised branding that you wish to transfer to another experience, just use the *Paste branding* button that you will find under Branding. Here you are able to paste any branding from another experience in your tenant. By pasting the branding all your previously made settings will be transferred to this experience. 
+If you already have a standardized branding that you wish to transfer to another experience, just use the *Paste branding* button you will find under Branding. Here you are able to paste any branding from another experience in your tenant. By pasting the branding all your previously made settings will be transferred to this experience. 
 
 ## Create new branding
 
-If you want to personalise your individual experiences, you can create new brandings for every experience. Let's brand your chatbot to your preferences together.
+If you want to personalize your individual experiences, you can create new brandings for every experience. Let's brand your chatbot to your preferences together.
 
 ![Branding](branding_start.png "Branding")
 
 ### Conversation
 
-First, you will find the Conversation settings. Here you can pick the main color of your experience to match the brand’s style. Manage your chat speed and personalise the experiences by inserting a chat avatar image or a chat background. Remember that we recommend the pictures be **no larger than 500 kb**, furthermore, you can find the recommended px size in the designated area!
+First, you will find the Conversation settings. Here you can pick the main color of your experience to match the brand’s style. Manage your chat speed and personalize the experiences by inserting a chat avatar image or a chat background. Remember that we recommend that pictures are **no larger than 500 kb**, furthermore, you can find the recommended px size in the designated area!
 
 You can also find the individual settings for desktop or mobile use. Choose individually if you wish the experience to open initially or open more than once. You are also able to adjust the chat window position and window width for the desktop experience. 
 
@@ -39,13 +39,13 @@ To create the design you want, choose a title and a tagline or insert a logo ima
 
 ### Persistent quick replies 
 
-You can set fixed buttons in your chatbot to offer your customers the option to jump right into a certain action by using our persistent quick replies. To manage your quick replies in the footer of your experience, click on the space above the footer in the chat animation to the left.  Enter your quick replies and guide your customers into another experience. You can choose up to 5 quick replies.
+You can set fixed buttons in your chatbot to offer your customers the option to jump right into a certain action by using our persistent quick replies. To manage your quick replies in the footer of your experience, click on the space above the footer in the chat animation to the left.  Enter your quick replies and guide your customers into another experience. You can choose up to five quick replies.
 
 ### Footer 
 
-In the Footer settings you are able to activate or deactivate the input field. If you your customers will not need the input field and your experience is not trained in NLU, we recommend to deactivate the input field for an overall better conversation. 
+In the Footer settings you are able to activate or deactivate the input field. If your customers will not need the input field and your experience is not trained in NLU, we recommend to deactivate the input field for an overall better conversation. 
 
-If you use our NLU features, under the Footer settings, you are able to activate the NLU and choose responses to unrecognised intents.
+If you use our NLU features, under the Footer settings, you are able to activate the NLU and choose responses to unrecognized intents.
 Some consumers will type something into the open text field at the bottom of the chatbot. To respond to customer input, we provide standard intents to respond empathically to customer inquiries. However, in some cases, our AI algorithm will not identify the input. Define a message to send out to your customers in that case or let them fill out a contact form so that the inquiry can be addressed personally. An email address must be set to address customer inquiries.
 
 * #### Footer web components 
@@ -65,5 +65,3 @@ Click on the Chat bubble to the left to customise your chat bubble image, the ch
 ### Call to action 
 
 A call to action can be a powerful tool to  animate your customers to engage with your chatbot. Insert a call to action image in the recommended size that will show up left to your chat bubble. 
-
-
