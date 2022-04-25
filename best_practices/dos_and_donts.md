@@ -1,6 +1,6 @@
 # Seven Secrets to Great Conversation Design
 
-## 1️⃣  A chatbot is not a website 
+## 1️⃣  A chatbot is not a website  💬
 
 There is a fundamental difference between a website and a conversational experience (aka chatbot).
 People scroll over a website’s content swiftly on the outlook for what catches their eye.
@@ -9,7 +9,7 @@ A conversation instead, has their full attention by design. The typing indicator
 
 
 
-## 2️⃣  It’s not a monologue 
+## 2️⃣  It’s not a monologue 🗣️
 
 I know, your brand has a lot to tell. In the real world we sometimes have to endure boring, self-centered monologues and cannot walk away easily without being rude. In contrast, if the chatbot conversation is boring or overwhelming, customers can leave immediately. And they will. To only provide the most relevant information is an art, and it is key to not lose interest of your customers. 
 #### As a rule of thumb, never push more than two messages without an option for the customers to interact. 👋
@@ -55,5 +55,5 @@ Get feedback from colleagues and also from friends and family that bring a fresh
 
 _______
 
-## You are now ready to launch 🎊🎊 Congrats! 
+## Congrats, you are now ready to launch! 🎊🎊
 Launching is great. And it's the beginning of something new: you are directly able to listen to what your customers have to say. Analyze the performance of your conversational experiences, read the customer feedback and optimize based on the feedback and performance. And remember: Have fun!
