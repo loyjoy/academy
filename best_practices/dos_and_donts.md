@@ -55,5 +55,5 @@ Get feedback from colleagues and also from friends and family that bring a fresh
 
 _______
 
-## Are you now ready to launch 🎊🎊 Congrats! 
-Launching is great. And it's the beginning of something new: you are directly able listen to what your customers have to say. Analyse the performance of your conversational experiences, read the customer feedback and optimise based on the feedback and performance. And remember: Have fun!
+## You are now ready to launch 🎊🎊 Congrats! 
+Launching is great. And it's the beginning of something new: you are directly able to listen to what your customers have to say. Analyze the performance of your conversational experiences, read the customer feedback and optimize based on the feedback and performance. And remember: Have fun!
