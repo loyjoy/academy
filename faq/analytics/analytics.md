@@ -62,11 +62,11 @@ modules of your experience and see how often each one of them was visited:
 
 
 
-Here we can see that the process was started 6 times (number above the top
-circle). Accordingly, each of the first 3 modules was seen six times. The
+Here we can see that the process was started six times (number above the top
+circle). Accordingly, each of the first three modules was seen six times. The
 proceed question is the first stop / break in the process where the chat waits
-for user input. We can see that the Questionnaire `#4` was seen 4 times. That
-means that 4 chat users have confirmed the proceed question. Furthermore, we
+for user input. We can see that the Questionnaire `#4` was seen four times. That
+means that four chat users have confirmed the proceed question. Furthermore, we
 can see that the Goodbye `#5` was seen two times. That means that two times
 users have answered the questions in the questionnaire and proceeded to the
 final Goodbye step in the process.
