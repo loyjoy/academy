@@ -2,6 +2,7 @@
 
 ## Getting started
 - [Login](/getting_started/login/login.md)
+- [2FA](/getting_started/2FA/2FA.md)
 - [Invite Team & user roles](/getting_started/roles/roles.md)
 - [Personal settings](/getting_started/personal_settings/personal_settings.md)
 
