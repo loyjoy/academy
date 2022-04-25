@@ -8,5 +8,5 @@ There are several ways to log in to LoyJoy:
 2. by hardware key in accordance with the FIDO2 standard (strongly recommended)
 3. Fingerprint sensor of your laptop
 4. Android device via QR code 
-/
+
 ![Placeholder](placeholder.png "Placeholder")
