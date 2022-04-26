@@ -9,7 +9,7 @@ After confirming your account, please type in your email address to access the t
 
 ![sign in to LoyJoy](sign_in.png "sign in to LoyJoy")
 
-Everybody has troubles remembering passwords. That is why we retired the password for good. Each time you will log in to the LoyJoy platform, we will send you a magic link via email. Click the link in the email to access the platform. 
+Everybody has troubles remembering passwords. That is why we retired the password for good. Each time you will log in to the LoyJoy platform, we will send you a magic link via email. Just click the link to access the platform. 
 
 [*See also Two-factor-authentification*](/getting_started/2FA/2FA.md)
 
