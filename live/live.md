@@ -1,9 +1,12 @@
 # Live 
 
+- [Introduction](#introduction)
 - [How to set up the Live chat](#how-to-set-up-the-live-chat)
 - [How to use the Live chat as an agent](#how-to-use-the-live-chat-as-an-agent)
 - [How to use the Live chat as a user](#how-to-use-the-live-chat-as-a-user)
 - [How to unlock the full potential of the Live chat](#how-to-unlock-the-full-potential-of-the-live-chat)
+
+## Introduction
 
 With LoyJoy you can let human experts support your automated chat experiences. Best of all, always-on agents are not required anymore! Get notified when customers are waiting in the Live chat and join the conversation easily from the LoyJoy Cloud. It is the place where all your in-person conversations meet, ongoing or settled.
 
