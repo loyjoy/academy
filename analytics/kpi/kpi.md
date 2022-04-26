@@ -16,6 +16,10 @@ Once you are in the Analytics tab, you can find your aggregated, tenant-wide KPI
 
 Here you get the most important numbers in a brief overview with colorful tiles (Tip: Hover over them to get more detailed information).
 You can select here for which period the data should be displayed. The selection will affect all tabs and views. 
+
+![Filter](filter.png "Filter")
+
+
 <br>Essential data displayed includes:</br>
 
 - Screen time (Total screen time spent by all customers within this experience in minutes)
@@ -26,7 +30,7 @@ You can select here for which period the data should be displayed. The selection
 - Participants (Number of customers that successfully went through a participation module. The participation module is mostly used for raffles. In this case it counts the unique users, that participated in the raffle.
 - New customers (Number of customers who have entered their mail address in the email module)
 
-**KPI - tiles:** Insert screenshot
+![Tiles](tiles.png "Tiles")
 
 
 ### Advanced data displayed
@@ -52,8 +56,14 @@ Data can be also viewed visualized.
 **Funnel**
 - Here you can see the individual KPIs in a funnel.
 
+![Funnel](funnel.png "Funnel")
+
+**Platforms**
+- Here you can see how your customers are split between mobile and desktop.
+
+![Platforms](platforms.png "Platforms")
+
 **Further illustrations**
-- Platforms: see how your customers are split between mobile and desktop. Hover over it to get the absolute number.
 - Log-in attemps with code: shows how often the log in attempt with code worked and how often it did not.
 - Data entered by customers: see what data has been entered by customers, such as the postal address
 - NPS visualization
