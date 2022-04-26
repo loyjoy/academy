@@ -1,4 +1,4 @@
-# Invite colleagues & assign user roles
+# Invite colleagues & assign roles
 
 Find out how to add colleagues to your LoyJoy tenant, assign roles and manage their user accounts.
 
