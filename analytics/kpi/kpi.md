@@ -1,6 +1,6 @@
 # Key Performance Indicator (KPI) 📈
 
-#### Track the performance of your live chatbots, better understand your customers' behavior and see your KPIs skyrocket by using the LoyJoy Analytics Dashboard.
+#### Track the performance of your live experiences, better understand your customers' behavior and see your KPIs skyrocket by using the LoyJoy Analytics Dashboard.
 ________________________
 1. [Find your way](#1-find-your-way)
 2. [KPI tab at a glance](#2-kpi-tab-at-a-glance)
@@ -11,21 +11,21 @@ ________________________
 
 ## 1. Find your way
 
-+ You can find your aggregated, tenant-wide KPIs under "Dashboard" at the top of the page and the performance of the individual experience in the view in the respective folders. <br>
++ You can find your aggregated, tenant-wide KPIs under _Dashboard_ at the top of the page and the performance of the individual experience in the view in the respective folders. 
 
-+ By clicking on the chart icon, you can easily access the KPIs of **each experiece** <br>
++ By clicking on the chart icon, you can easily access the KPIs of **each experiece** 
 
 + If you click on the bell icon, you can sign up (or unsubscribe) for a **daily report** by email on the performance of each experience:
 
 SCREENSHOT
 
-+ There are two tabs in this view: KPI & [Drilldown](/analytics/drill_down/drill_down.md). The KPI tab shows the aggregated numbers and general charts for this experience. The drilldown tab shows the heatmap depicting which process modules were visited how often and allows you to click on each module to analyze module-specific data.
++ There are two tabs in this view: KPI & [Drilldown](/analytics/drill_down/drill_down.md). The KPI tab shows the aggregated numbers and general charts for this experience. The _Drill-down_ tab shows the heatmap depicting which process modules were visited how often and allows you to click on each module to analyze module-specific data.
 
 SCREENSHOT (tabs)
 
 ## 2. KPI tab at a glance
 
-+ **Quick help:** When you hover over it, you will get a short reminder of what the tile shows. If you want to learn more about the individual areas in the platform backend, click on _Learn_ in the upper corner. </br>
++ **Quick help:** When you hover over it, you will get a short reminder of what the tile shows. If you want to learn more about the individual areas in the platform backend, click on _Learn_ in the upper corner. 
 
 SCREENSHOT (learn hat)
 
@@ -46,13 +46,17 @@ SCREENSHOT (graph)
 
 ## 3. Which numbers are displayed (KPI-Tab)
 
-3.1. [KPIs in absolute numbers](#41-kpis-in-absolute-numbers)</br>
-3.2. [KPIs over time](#42-kpis-over-time)</br>
-3.3. [KPIs over time (cumulated)](#43-kpis-over-time-cumulated)</br>
-3.4. [Funnel](#44-funnel)</br>
-3.5. [KPIs over time](#45-others)</br>
+3.1[KPIs in absolute numbers](#kpis-in-absolute-numbers)
 
-### 3.1. KPIs in absolute numbers
+3.2[KPIs over time](#kpis-over-time)
+
+3.3[KPIs over time (cumulated)](#kpis-over-time-cumulated)
+
+3.4[Funnel](#funnel)
+
+3.5[Others](#others)
+
+### KPIs in absolute numbers
 
 #### Screen time (min)
 Total screen time spent by all customers within this experience in minutes.
@@ -143,16 +147,16 @@ Display of the year change in the diagram.
 
 * All KPIs marked with * can also be seen at [KPIs over time](#32-kpis-over-time), [KPIs over time (cumulated)](#33-kpis-over-time-cumulated) and [Funnel](#34-funnel).
 
-### 3.2. KPIs over time
+### KPIs over time
 In this chart you can view the individual KPIs over the specified time period or over the entire time period
 
-### 3.3. KPIs over time (cumulated)
+### KPIs over time (cumulated)
 In this diagram you can view the individual KPIs cumulatively over the specified time period or over the entire time period.
 
-### 3.4. Funnel
+### Funnel
 Here you can see the individual KPIs in a funnel.
 
-### 3.5. Others
+### Others
 
 #### Platforms
 Take a look at the diagram to see how your customers are split between mobile and desktop. If you hover over it, you get the absolute number.
