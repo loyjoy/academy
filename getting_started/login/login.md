@@ -1,5 +1,5 @@
 
-# How to Log in
+# How to Sign in
 
 After your first call with the LoyJoy team, you will receive an email inviting you to the LoyJoy platform. Please click **Confirm my account** within 24 hours to activate the access to your tenant on the LoyJoy platform. Think of your tenant as being your team's playground to create chat experiences and much more.
 
@@ -9,7 +9,7 @@ After confirming your account, please type in your email address to access the t
 
 ![sign in to LoyJoy](sign_in.png "sign in to LoyJoy")
 
-Everybody has troubles remembering passwords. That is why we retired the password for good. Each time you will log in to the LoyJoy platform, we will send you a magic link via email. Just click the link to access the platform. 
+Everybody has troubles remembering passwords. That is why we retired the password for good. Each time you want to sign in to the LoyJoy platform, we will send you a magic link via email. Just click the link to access the platform. 
 
 [*See also Two-factor-authentification*](/getting_started/2FA/2FA.md)
 
