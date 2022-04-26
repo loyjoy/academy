@@ -5,6 +5,8 @@
 - [How to use the Live chat as an agent](#how-to-use-the-live-chat-as-an-agent)
 - [How to use the Live chat as a user](#how-to-use-the-live-chat-as-a-user)
 - [How to unlock the full potential of the Live chat](#how-to-unlock-the-full-potential-of-the-live-chat)
+- [Conclusion](#conclusion)
+
 
 ## Introduction
 
@@ -117,8 +119,9 @@ You can create and store custom templates to use in your chat to save valuable t
 ![Manage templates](manage_templates.png "Manage templates")
 
 
-## Wrap-up: LoyJoy's Live chat Benefits
+## Conclusion
 
+By using LoyJoy's live chat, you will see many benefits, including:
 
 1. Enabling live human interaction
 
