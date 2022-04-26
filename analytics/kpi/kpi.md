@@ -1,15 +1,17 @@
 # Key Performance Indicator (KPI) 📈
 
-#### Track the performance of your live experiences, better understand your customers' behavior and see your KPIs skyrocket by using the LoyJoy Analytics Dashboard.
+- [Introduction](#introduction)
+- [The KPI tab](#the-kpi-tab)
+- [Which numbers are displayed](#which-numbers-are-displayed)
+
+
+## Introduction
+Track the performance of your live experiences, better understand your customers' behavior and see your KPIs skyrocket by using the LoyJoy Analytics Dashboard.
 ________________________
-1. [Find your way](#1-find-your-way)
-2. [KPI tab at a glance](#2-kpi-tab-at-a-glance)
-3. [Which numbers are displayed (KPI-Tab)](#3-which-numbers-are-displayed-kpi-tab)
 
+## The KPI tab
 
-[*See also Analytics FAQ*](/faq/analytics/analytics.md)
-
-## 1. Find your way
+### Find your way
 
 + You can find your aggregated, tenant-wide KPIs under _Dashboard_ at the top of the page and the performance of the individual experience in the view in the respective folders. 
 
@@ -23,7 +25,9 @@ SCREENSHOT
 
 SCREENSHOT (tabs)
 
-## 2. KPI tab at a glance
+________________________
+
+### Detailed 
 
 + **Quick help:** When you hover over it, you will get a short reminder of what the tile shows. If you want to learn more about the individual areas in the platform backend, click on _Learn_ in the upper corner. 
 
@@ -44,17 +48,11 @@ SCREENTSHOT (funnel)
 
 SCREENSHOT (graph)
 
-## 3. Which numbers are displayed (KPI-Tab)
 
-3.1[KPIs in absolute numbers](#kpis-in-absolute-numbers)
+[*See also Analytics FAQ*](/faq/analytics/analytics.md)
 
-3.2[KPIs over time](#kpis-over-time)
 
-3.3[KPIs over time (cumulated)](#kpis-over-time-cumulated)
-
-3.4[Funnel](#funnel)
-
-3.5[Others](#others)
+## Which numbers are displayed
 
 ### KPIs in absolute numbers
 
