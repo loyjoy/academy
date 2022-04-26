@@ -11,6 +11,8 @@ After confirming your account, please type in your email address to access the t
 
 Everybody has troubles remembering passwords. That is why we retired the password for good. Each time you will log in to the LoyJoy platform, we will send you a magic link via email. Click the link in the email to access the platform. 
 
+[*See also Two-factor-authentification*](/getting_started/2FA/2FA.md)
+
 ![sign in with magic link](magic_link.png "sign in with magic link")
 
 Tada! Welcome to the LoyJoy platform. It's where the magic happens! 🎉
