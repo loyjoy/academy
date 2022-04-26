@@ -1,7 +1,7 @@
 
 # How to Adjust the Branding
 
-Use our Branding options to design you chat UI and create powerful experiences. Give your chatbot a name and attract customers with a custom slogan or design. You can transfer brandings from one experience to another or create new ones for every individual experience. 
+Use our Branding option to design you chat UI and create powerful experiences. Give your chatbot a name and attract customers with a custom slogan or design. You can transfer brandings from one experience to another or create new ones for every individual experience. 
 
 ## Paste branding 
 
