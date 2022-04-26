@@ -1,4 +1,4 @@
-# Welcome to the LoyJoy documentation! 🎉
+# Welcome to the LoyJoy Academy! 🎉
 
 ## Getting started
 - [Login](/getting_started/login/login.md)
