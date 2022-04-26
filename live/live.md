@@ -123,10 +123,10 @@ You can create and store custom templates to use in your chat to save valuable t
 
 By using LoyJoy's live chat, you will see many benefits, including:
 
-1. Enabling live human interaction
+1. Live human interaction
 
 2. Hybrid approach: automated process + human interaction
 
 3. Jump back and forth between automated processes and human interaction
 
-4. Save costs by avoiding always-on agents
+4. Cost savings by avoiding always-on agents
