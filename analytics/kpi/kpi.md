@@ -1,13 +1,13 @@
 # Key Performance Indicator (KPI) 📈
 
-#### Track the performance of your live chatbots, better understand your customers' behaviour and see your KPIs skyrocket by using the LoyJoy Analytics Dashboard.
+#### Track the performance of your live chatbots, better understand your customers' behavior and see your KPIs skyrocket by using the LoyJoy Analytics Dashboard.
 ________________________
 1. [Find your way](#1-find-your-way)
 2. [KPI tab at a glance](#2-kpi-tab-at-a-glance)
 3. [Which numbers are displayed (KPI-Tab)](#3-which-numbers-are-displayed-kpi-tab)
 
 
-[*See also Analytics FAQs*](/faq/analytics/analytics.md)
+[*See also Analytics FAQ*](/faq/analytics/analytics.md)
 
 ## 1. Find your way
 
@@ -19,13 +19,13 @@ ________________________
 
 SCREENSHOT
 
-+ There are two tabs in this view: KPI & [Drilldown](/analytics/drill_down/drill_down.md). The KPI tab shows the aggregated numbers and general charts for this experience. The drilldown tab shows the heatmap depicting which process modules were visited how often and allows you to click on each module to analyse module-specific data.
++ There are two tabs in this view: KPI & [Drilldown](/analytics/drill_down/drill_down.md). The KPI tab shows the aggregated numbers and general charts for this experience. The drilldown tab shows the heatmap depicting which process modules were visited how often and allows you to click on each module to analyze module-specific data.
 
 SCREENSHOT (tabs)
 
 ## 2. KPI tab at a glance
 
-+ **Quick help:** When you hover over it, you will get a short reminder of what the tile shows. If you want to learn more about the individual areas in the platform backend, click on the "learn hat" in the upper corner. </br>
++ **Quick help:** When you hover over it, you will get a short reminder of what the tile shows. If you want to learn more about the individual areas in the platform backend, click on _Learn_ in the upper corner. </br>
 
 SCREENSHOT (learn hat)
 
@@ -40,7 +40,7 @@ SCREENSHOT (kacheln)
 
 SCREENTSHOT (funnel)
 
-+ **KPI - charts:** Here you can quickly see the performance of your experience over time and from which device is accessed.  </br>
++ **KPI - charts:** Here you can quickly see the performance of your experience over time and from which device it is accessed.  </br>
 
 SCREENSHOT (graph)
 
@@ -73,7 +73,7 @@ Number of chat starts within this experience. Unlike sessions, this does not app
 Number of customers that successfully went through a participation module. The participation module is mostly used for raffles. In this case it counts the unique users, that participated in the raffle.
 
 #### New customers*
-Number of customers who have entered their e-mail address in the e-mail module.
+Number of customers who have entered their mail address in the email module.
 
 #### Asked for Web push
 Number of customers who were asked for a web push opt-in.
