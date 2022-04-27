@@ -1,5 +1,5 @@
 ###
-[Main Menu](/)
+[Home](/)
 - [Getting started](/index.md#getting-started)
 - [Analytics](/index.md#analytics)
 - [Data](/index.md#data)
