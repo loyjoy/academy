@@ -22,19 +22,20 @@ You can select here for which period the data should be displayed. The selection
 
 <br>Essential data displayed includes:</br>
 
-- Screen time (Total screen time spent by all customers within this experience in minutes)
+- Chat starts (Chat starts are recounted individually for each experience
 - Sessions (new session is counted every 30 minutes)
 - Sessions with conversation (counted as soon as the customer interacts)
 - Bounces (counted when customer has neither typed anything in the chat nor clicked on a button)
-- Chat starts (number of chat starts within experience. Unlike sessions, this does not apply across processes. Chat starts are recounted individually for each experience.
-- Participants (Number of customers that successfully went through a participation module. The participation module is mostly used for raffles. In this case it counts the unique users, that participated in the raffle.
-- New customers (Number of customers who have entered their mail address in the email module)
+- Screen time (Total screen time spent by all customers within this experience in minutes)
+- Live Chats
+- Total handling time
+- Average handling time
 
 ![Tiles](tiles.png "Tiles")
 
 
 ### Advanced data displayed
-Display advanced data such as:
+Advanced data displayed includes:
   -   Asked for Web push
   -   Single/Double opt-in
   -   Shared via Facebook/email/native/Twitter/WhatsApp
