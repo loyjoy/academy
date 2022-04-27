@@ -15,7 +15,7 @@
 - [Storage options](/data/data.md)
 
 ## Experiences
-- [Experiences & Folders](experiences/experiences/experiences.md)
+- [Experiences](experiences/experiences/experiences.md)
 - [Templates](experiences/templates/templates.md)
 - [Home views](experiences/homeview/homeview.md)
 - [Building dialogues](experiences/building/build_a_conversational_experience.md)
