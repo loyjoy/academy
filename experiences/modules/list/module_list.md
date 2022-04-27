@@ -165,7 +165,7 @@
 
 | Module                                                  | Description                                        | Use case   |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |
-| [Create process instance](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/process_instance_create.md) | Use if customers should be able to go through the same experience several times|  Placeholder  | 
+| [Create process instance](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/process_instance_create.md) | Let customers  go through the same experience several times|  Create a loop  | 
 | [List process instances](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/process_instance_list.md) | Allowing your customers to repeat same experience multiple times, they can manage and modify all stored information here|  Useful to list all process instances of a customer and to allow the customer to switch between them  | 
 | [Session reset](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/reset.md) | Log-out the customer and reset the chat|  Useful to reset the process session completely, effectively logging out the customer and resetting the chat   |
 | [Timer](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/timer.md) | Start or restart the chat at specific points in time |  Restart the chat e.g. for an advent calendar every day  | 
