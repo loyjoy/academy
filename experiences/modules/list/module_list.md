@@ -28,8 +28,8 @@
 
 ### Loyalty
 
-| Module                                                  | Description                                        | Use case       | Alternatives       | 
-| ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- |
+| Module                                                  | Description                                        | Use case       | 
+| ------------------------------------------------------- | -------------------------------------------------- | ---------- |
 | [Loyalty points](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/loyalty.md) | Add a loyalty program to your chat experiences|  Customers can receive loyalty points for any action in the chat or external applications  | -         |[How to *Placeholder*](detailed.md#signal) |
 | [Loyalty referral](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/loyalty_referral.md) | Reward customers when they successfully acquired new loyalty program members|  -  | -         |[How to *Placeholder*](detailed.md#signal) |
 | [Loyalty sharing](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/loyalty_sharing.md) | Provide a sharing link for your loyalty program|  Use this module so that the experience gets more range  | -         |[How to *Placeholder*](detailed.md#signal) |
@@ -39,8 +39,8 @@
 
 ### Integration
 
-| Module                                                  | Description                                        | Use case       | Alternatives       |
-| ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- |
+| Module                                                  | Description                                        | Use case       |
+| ------------------------------------------------------- | -------------------------------------------------- | ---------- |
 | [API client](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/api_client.md) | Send a GET or POST request to any URL|  Useful to authenticate your customer | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [Campaign Monitor](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/campaign_monitor.md) | This module is used to insert subscriptions into your campaign monitor database|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
 | [CleverReach](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/clever_reach.md) | This module is used to insert subscriptions into your CleverReach database|  Placeholder  | Placeholder         |[How to *Placeholder*](detailed.md#signal) |
@@ -60,8 +60,8 @@
 
 ### Opt-in
 
-| Module                                                  | Description                                        | Use case       | Alternatives       |
-| ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | 
+| Module                                                  | Description                                        | Use case       |
+| ------------------------------------------------------- | -------------------------------------------------- | ---------- |
 | [Newsletter opt-in](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/newsletter_opt_in.md) | Ask for newsletter opt-in	| Increase your list of newsletter subscribers by adding the subscription to the chat | -         |[How to *Placeholder*](detailed.md#signal) |
 | [Notification](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/notification.md) | Trigger an immediate notification to your customer|  Send notifications to your customers  | -         |[How to *Placeholder*](detailed.md#signal) |
 | [Opt-ins](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/opt_ins.md) | Show your customers their opt-ins that they have given in other process modules|  Customers can remove their opt-ins if needed  | -         |[How to *Placeholder*](detailed.md#signal) |
@@ -75,8 +75,8 @@
 
 ### Media
 
-| Module                                                  | Description                                        | Use case       | Alternatives       | 
-| ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | 
+| Module                                                  | Description                                        | Use case       |
+| ------------------------------------------------------- | -------------------------------------------------- | ---------- |
 | [Audio](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/audio.md) | Add audio files to chat|  Lighten up the experience by adding media  | -         |[How to *Placeholder*](detailed.md#signal) |
 | [Audio recording](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/audio_recorder.md) | Let the customer record audio messages|  Improve the chat experience by letting customers record and upload content themselves  | -         |[How to *Placeholder*](detailed.md#signal) |
 | [Image gallery](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/image.md) | Add images to chat	|  Lighten up the experience by adding media  | -         |[How to *Placeholder*](detailed.md#signal) |
@@ -87,8 +87,8 @@
 
 ### Activation
 
-| Module                                                  | Description                                        | Use case       | Alternatives       | 
-| ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- |
+| Module                                                  | Description                                        | Use case       | 
+| ------------------------------------------------------- | -------------------------------------------------- | ---------- |
 | [Advent calendar door](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/advent_calendar_door.md) | Let customers open a new door every day before Christmas |  Christmas advent calendar  | -         |[How to *Placeholder*](detailed.md#signal) |
 | [Animation](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/animation.md) | Show an animation	|  Add an animation to the chat to lighten it up  | Questionnaire         |[How to *Placeholder*](detailed.md#signal) |
 | [Appointment scheduler](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/appointment.md) | Give customers the opportunity to make appointments in the chat|  Offer the customer a personal appointment, which he can already make in the chatbot  | -         |[How to *Placeholder*](detailed.md#signal) |
@@ -103,8 +103,8 @@
 
 ### Personal identifiable information
 
-| Module                                                  | Description                                        | Use case       | Alternatives       | 
-| ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | 
+| Module                                                  | Description                                        | Use case       |
+| ------------------------------------------------------- | -------------------------------------------------- | ---------- |
 | [Birthdate](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/birthdate.md) | Ask about the customer's birthday|  Ask for the birthday of your customer to congratulate him e.g. via a newsletter  | Questionnaire         |[How to *Placeholder*](detailed.md#signal) |
 | [Delete customer](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/customer_delete.md) | Delete the customer from the database|  Offer the customer the chance to delete his data  | -         |[How to *Placeholder*](detailed.md#signal) |
 | [Edit email address](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/email_edit.md) | Allow your customers to edit their email address in chat|  Keep the email addresses up to date so that you can reach your customers at any time  | -         |[How to *Placeholder*](detailed.md#signal) |
@@ -119,8 +119,8 @@
 
 ### Advanced
 
-| Module                                                  | Description                                        | Use case       | Alternatives       | 
-| ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- |
+| Module                                                  | Description                                        | Use case       | 
+| ------------------------------------------------------- | -------------------------------------------------- | ---------- |
 | [X_Decision table](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) |Based on decision rules to read and write BPMN process variables simultaneously|  Use the Decision table if you want to implement more complex logics in e.g. a skin type test. |  - | [How to use the decision table](/experiences/modules/decision_table/decision_table.md) |
 | [Event](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/event.md) | Trigger an event with the name of your choice|  Send a message to the customers who have won something in the chat, for example  | -         |[How to *Placeholder*](detailed.md#signal) |
 | [Password](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/password.md) | Let your customer enter a password in the chat|  Let the customer log in with a password, so that the data is additionally protected  | -         |[How to *Placeholder*](detailed.md#signal) |
@@ -140,8 +140,8 @@
 
 ### Email
 
-| Module                                                  | Description                                        | Use case       | Alternatives       | 
-| ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- |  
+| Module                                                  | Description                                        | Use case       |
+| ------------------------------------------------------- | -------------------------------------------------- | ---------- |
 | [Handover via email](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/handover.md) | Transfer a concern of the customer to you by email|  For problems that are too specific for the chatbot, it is a simple solution to send the customer's request directly to your email address.  | -         |[How to *Placeholder*](detailed.md#signal) |
 | [X_Send email](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Send an email to a specific recipient|  Request information from the customer in the chat and then send it to your company  | -         |[How to *Placeholder*](detailed.md#signal) |
 | [X_Send email to customer](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) | Send an email to the customer|  Create a recommendation for the customer based on the information provided in the chat, which is then automatically sent to the customer by email.  | -         |[How to *Placeholder*](detailed.md#signal) |
@@ -150,21 +150,21 @@
 
 ### Live
 
-| Module                                                  | Description                                        | Use case       | Alternatives       |
-| ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | 
+| Module                                                  | Description                                        | Use case       | 
+| ------------------------------------------------------- | -------------------------------------------------- | ---------- |
 | [Live chat](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/live.md) | Option to chat live with your customers in the chat |  When the chatbot alone cannot solve the customer's problem, live chat can assist  | -         |[How to *Placeholder*](detailed.md#signal) |
 
 ### Multi-language
 
-| Module                                                  | Description                                        | Use case       | Alternatives       | 
-| ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | 
+| Module                                                  | Description                                        | Use case       | 
+| ------------------------------------------------------- | -------------------------------------------------- | ---------- |
 | [Language selection](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/locale.md) | Customers can choose in which language the chatbot should be displayed|  If several languages are spoken in your country, you can offer them  | -       |[How to *Placeholder*](detailed.md#signal) |
 | [Region](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/region.md) | Allow only certain regions for the chatbot|  For example, only certain regions may participate in a giveaway  | - |[How to *Placeholder*](detailed.md#signal) |
 
 ### Logic
 
-| Module                                                  | Description                                        | Use case       | Alternatives       | 
-| ------------------------------------------------------- | -------------------------------------------------- | ---------- |----------- | 
+| Module                                                  | Description                                        | Use case       | 
+| ------------------------------------------------------- | -------------------------------------------------- | ---------- |
 | [Create process instance](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/process_instance_create.md) | Use if customers should be able to go through the same experience several times|  Placeholder  | -         |[How to *Placeholder*](detailed.md#signal) |
 | [List process instances](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/process_instance_list.md) | Allowing your customers to repeat same experience multiple times, they can manage and modify all stored information here|  Useful to list all process instances of a customer and to allow the customer to switch between them  | -         |[How to *Placeholder*](detailed.md#signal) |
 | [Session reset](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/reset.md) | Log-out the customer and reset the chat|  Useful to reset the process session completely, effectively logging out the customer and resetting the chat   | -         |[How to *Placeholder*](detailed.md#signal) |
