@@ -39,10 +39,5 @@
 ## Live
 - [Manage live chat](/live/live.md)
 
-## Best Practices
-- [7 secrets](/best_practices/dos_and_donts.md)
-- [NLU - Checklist](/best_practices/checklists/nlu_checklist.md)
 
-## [FAQ](/faq/faq.md)
 
-## [Changelog](https://github.com/loyjoy/welcome/blob/master/CHANGELOG.md)
