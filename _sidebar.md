@@ -7,6 +7,3 @@
 - [NLU](/index.md#nlu)
 - [Push](/index.md#push)
 - [Live](/index.md#live)
-- [Best Practices](/index.md#getting-started)
-- [FAQ](/index.md#faq)
-- [Changelog](/index.md#changelog)
