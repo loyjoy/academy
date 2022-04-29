@@ -26,6 +26,8 @@
 - [Publish to Web](experiences/publish/publish.md)
 - [Publish to Social Media](/experiences/publish/publish.md#social-media)
 - [Texts and assets](experiences/text/text_and_assets.md)
+- [Best practices](experiences/best_practices/conversation_design.md)
+
 
 ## NLU
 - [What is NLU](/nlu/nlu/nlu.md)
