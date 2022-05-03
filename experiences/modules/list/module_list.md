@@ -31,7 +31,8 @@
 | Module                                                  | Description                                        | Use case   |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |
 | [Loyalty points](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/loyalty.md) | Add a loyalty program to your chat experiences|  Customers can receive loyalty points for any action in the chat or external applications  |
-| [Loyalty referral](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/loyalty_referral.md) | Reward customers when they successfully acquired new loyalty program members| 
+| [Loyalty referral](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/loyalty_referral.md) | Reward customers when they successfully acquired new loyalty program members| Your customer can earn loyalty points for sharing the experience with their friends |
+
 | [Loyalty sharing](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/loyalty_sharing.md) | Provide a sharing link for your loyalty program|  Use this module so that the experience gets more range  |
 | [Rewards](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/rewards.md) | Customers can view and redeem rewards with their loyalty points|  Let the customer redeem his points  | 
 
@@ -126,7 +127,7 @@
 | [Password](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/password.md) | Let your customer enter a password in the chat|  Let the customer log in with a password, so that the data is additionally protected  | 
 | [Places](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/places.md) | Let the user enter an address and calculate the distances to a set of destinations|  Offer the customer the nearest locations | 
 | [Search](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/elastic.md) | Let your customers search for texts in all experiences|  If you have different experiences, you can give the customer the possibility to choose chatbots with topics that interest him.  |
-| [Signal](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/signal.md) | Triggers execution by listening for an incoming signal|  -  | 
+| [Signal](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/signal.md) | Triggers execution by listening for an incoming signal|  Use the signal to mark a customer that just signed up for your Newsletter to avoid asking again | 
 
 ### Content
 
