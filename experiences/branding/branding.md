@@ -17,7 +17,7 @@ If you want to personalize your individual experiences, you can create new brand
 
 ### Conversation
 
-First, you will find the Conversation settings. Here you can pick the main color of your experience to match the brand’s style. Manage your chat speed and personalize the experiences by inserting a chat avatar image or a chat background. Remember that we recommend that pictures are **no larger than 500 kb**, furthermore, you can find the recommended px size in the designated area!
+First, you will find the Conversation settings. Here you can pick the main color of your experience to match the brand’s style. Choose the chat bubble colors, style or even fonts to personalize everythings to your liking. You are also able to design the style of our bots messages by choosing your colors and style. Manage your chat speed and personalize the experiences by inserting a chat avatar image or a chat background. Remember that we recommend that pictures are **no larger than 500 kb**, furthermore, you can find the recommended px size in the designated area!
 
 You can also find the individual settings for desktop or mobile use. Choose individually if you wish the experience to open initially or open more than once. You are also able to adjust the chat window position and window width for the desktop experience. 
 
@@ -25,7 +25,7 @@ You can also find the individual settings for desktop or mobile use. Choose indi
 
 Click on the header in the chat animation to your left. You will find the Header settings. Here you are able to manage the settings about the chat header and the restart options. 
 
-To create the design you want, choose a title and a tagline or insert a logo image, which you will see on the left side of the header, a header image, which you can see in the middle of the header, or loyalty icon.
+To create the design you want, choose a title and a tagline or insert a logo image, which you will see on the left side of the header, and choose the sizes down below. Furthermore, insert a header image, which you can see in the middle of the header, or loyalty icon.
 
 ![Header Settings](branding_header_settings.png "Header Settings")
 
@@ -41,9 +41,11 @@ To create the design you want, choose a title and a tagline or insert a logo ima
 
 ### Persistent quick replies 
 
-You can set fixed buttons in your chatbot to offer your customers the option to jump right into a certain action by using our persistent quick replies. To manage your quick replies in the footer of your experience, click on the space above the footer in the chat animation to the left.  Enter your quick replies and guide your customers into another experience. You can choose up to five quick replies.
+You can set fixed buttons in your chatbot to offer your customers the option to jump right into a certain action by using our persistent quick replies. To manage your quick replies in the footer of your experience, click on the space above the footer in the chat animation to the left.  Enter your quick replies and guide your customers into another experience. You can choose and design up to five quick replies.
 
 ### Footer 
+
+The footer is optional and contains a text input field. Texts entered by customers can be used as search queries or evaluated using AI. To make experiences searchable, they must contain a title and description. 
 
 In the Footer settings you are able to activate or deactivate the input field. If your customers will not need the input field and your experience is not trained in NLU, we recommend to deactivate the input field for an overall better conversation. 
 
@@ -56,7 +58,7 @@ Some consumers will type something into the open text field at the bottom of the
 
 ### Chat preview 
 
-Use the chat preview above your chat bubble to excite and motivate your customers to click on your experience. You can also offer up to three quick replies in your chat preview. Your customers can use these to jump into another experience or to a process module.
+Use the chat preview above your chat bubble to excite and motivate your customers to click on your experience. You can also offer up to three quick replies in your chat preview. Your customers can use these to jump into another experience or to a process module. Design the styles of the previews or quick replies to match your brand. 
 
 ![Chat Preview](branding_chatpreview.png "Chat Preview")
 
