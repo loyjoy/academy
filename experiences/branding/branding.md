@@ -58,10 +58,16 @@ Use the chat preview above your chat bubble to excite and motivate your customer
 
 ![Chat Preview](branding_chatpreview.png "Chat Preview")
 
+![Chat Preview](Chatpreview.gif "Chat Preview GIF")
+
 ### Chat bubble 
 
 Click on the Chat bubble to the left to customise your chat bubble image, the chat bubble position or choose an animation. A little *hint* from us: We also support moving Gifs as Chat bubbles!
 
+![Chat Bubble](branding_bubble.png "Chat Bubble")
+
 ### Call to action 
 
 A call to action can be a powerful tool to  animate your customers to engage with your chatbot. Insert a call to action image in the recommended size that will show up left to your chat bubble. 
+
+![Chat Call to action](branding_action.png "Chat Call to action")
