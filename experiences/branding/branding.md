@@ -27,13 +27,13 @@ Click on the header in the chat animation to your left. You will find the Header
 
 To create the design you want, choose a title and a tagline or insert a logo image, which you will see on the left side of the header, a header image, which you can see in the middle of the header, or loyalty icon.
 
-![Home](branding_home.png "Home")
+![Header Settings](branding_header_settings.png "Header Settings")
 
 * #### Home 
 
 > By clicking on the arrow pointing to the left in the chat animation you can select a home view for this experience and can manage to show the home view initially, as soon as the chat window is open. 
 
-![Header Settings](branding_header_settings.png "Header Settings")
+![Home](branding_home.png "Home")
 
 * #### Navigation 
 
