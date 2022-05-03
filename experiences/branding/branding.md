@@ -13,6 +13,8 @@ If you want to personalize your individual experiences, you can create new brand
 
 ![Branding](branding_start.png "Branding")
 
+![Header](branding_header.png "Header")
+
 ### Conversation
 
 First, you will find the Conversation settings. Here you can pick the main color of your experience to match the brand’s style. Manage your chat speed and personalize the experiences by inserting a chat avatar image or a chat background. Remember that we recommend that pictures are **no larger than 500 kb**, furthermore, you can find the recommended px size in the designated area!
@@ -25,7 +27,7 @@ Click on the header in the chat animation to your left. You will find the Header
 
 To create the design you want, choose a title and a tagline or insert a logo image, which you will see on the left side of the header, a header image, which you can see in the middle of the header, or loyalty icon.
 
-![Header](branding_header.png "Header")
+![Home](branding_home.png "Home")
 
 * #### Home 
 
