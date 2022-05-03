@@ -31,7 +31,7 @@
 | Module                                                  | Description                                        | Use case   |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |
 | [Loyalty points](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/loyalty.md) | Add a loyalty program to your chat experiences|  Customers can receive loyalty points for any action in the chat or external applications  |
-| [Loyalty referral](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/loyalty_referral.md) | Reward customers when they successfully acquired new loyalty program members|  CYour customer can earn loyalty points for sharing the experience with their friends  | 
+| [Loyalty referral](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/loyalty_referral.md) | Reward customers when they successfully acquired new loyalty program members|  Your customer can earn loyalty points for sharing the experience with their friends  | 
 | [Loyalty sharing](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/loyalty_sharing.md) | Provide a sharing link for your loyalty program|  Use this module so that the experience gets more range  |
 | [Rewards](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/rewards.md) | Customers can view and redeem rewards with their loyalty points|  Let the customer redeem his points  | 
 
