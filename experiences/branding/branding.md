@@ -70,4 +70,4 @@ Click on the Chat bubble to the left to customise your chat bubble image, the ch
 
 A call to action can be a powerful tool to  animate your customers to engage with your chatbot. Insert a call to action image in the recommended size that will show up left to your chat bubble. 
 
-![Chat Call to action](branding_action.png "Chat Call to action")
+![Chat Call to action](branding_actioncall.png "Chat Call to action")
