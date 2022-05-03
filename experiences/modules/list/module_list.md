@@ -42,20 +42,20 @@
 | Module                                                  | Description                                        | Use case   |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |
 | [API client](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/api_client.md) | Send a GET or POST request to any URL|  Useful to authenticate your customer |
-| [Campaign Monitor](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/campaign_monitor.md) | This module is used to insert subscriptions into your campaign monitor database|  Placeholder  |
-| [CleverReach](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/clever_reach.md) | This module is used to insert subscriptions into your CleverReach database|  Placeholder  |
-| [Google Pub/sub](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/pub_sub.md) | Integrate Google Pub/Sub into your process|  Placeholder  | 
-| [Inxmail](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/inxmail.md) | Subscribe or unsubscribe customers from an Inxmail mailing list|  Placeholder  | 
-| [Mini program](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/mini_program.md) | Add any existing web application or website into the chat|  Placeholder  | 
-| [OneTrust](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/one_trust.md) | Create or update a consent receipt in OneTrust or retrieve the status of a consent receipt for a customer|  Placeholder  | 
-| [Salesforce Interaction Studio](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/salesforce_interaction_studio.md) | Integrate Salesforce Interaction Studio into the process|  Placeholder  | 
-| [Salesforce Markting Cloud](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/salesforce_marketing_cloud.md) | Integrate Salesforce Marketing Cloud into the process|  Placeholder  | 
-| [Salesforce Service Cloud](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/salesforce.md) | Integrate Salesforce Service Cloud (SFSC) into your chat process|  Placeholder  | 
-| [Scondoo cashback](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/scondoo.md) | Add a cash back feature with our partner Scondoo|  Placeholder  | 
+| [Campaign Monitor](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/campaign_monitor.md) | This module is used to insert subscriptions into your campaign monitor database|  Integrate every e-mail new sign up directly into campaign monitor |
+| [CleverReach](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/clever_reach.md) | This module is used to insert subscriptions into your CleverReach database|  Integrate every e-mail new sign up directly into cleverreach |
+| [Google Pub/sub](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/pub_sub.md) | Integrate Google Pub/Sub into your process|  Link your customer database to your google systems  | 
+| [Inxmail](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/inxmail.md) | Subscribe or unsubscribe customers from an Inxmail mailing list|  Manage the customers subscription to your mailing lists  | 
+| [Mini program](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/mini_program.md) | Add any existing web application or website into the chat|  Link customers to a web application in chat to give them specialised information  | 
+| [OneTrust](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/one_trust.md) | Create or update a consent receipt in OneTrust or retrieve the status of a consent receipt for a customer|  Customers can give consent to additional data protection laws | 
+| [Salesforce Interaction Studio](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/salesforce_interaction_studio.md) | Integrate Salesforce Interaction Studio into the process|  Promote relevant products to your customers  | 
+| [Salesforce Markting Cloud](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/salesforce_marketing_cloud.md) | Integrate Salesforce Marketing Cloud into the process|  Offer personalised adds to your customers  | 
+| [Salesforce Service Cloud](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/salesforce.md) | Integrate Salesforce Service Cloud (SFSC) into your chat process|  Provide customer service through your service cloud   | 
+| [Scondoo cashback](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/scondoo.md) | Add a cash back feature with our partner Scondoo|  Enable customers to earn cashback   | 
 | [Shopify](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/shopify.md) | Display products from your Shopify store in the chat |  Customers can add products to the shopping cart and view the content of their cart  | Placeholder         |
-| [Web component](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/web_component.md) | Display a component within the chat|  Placeholder  |
-| [Web-Service](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/web_service.md) | Add external web services to exchange information and add rich features to the chat|  Placeholder  | 
-| [Yotpo review](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/yotpo.md) | Integrate Yotpo into the process to collect product reviews with Yotpo|  Placeholder  |
+| [Web component](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/web_component.md) | Display a component within the chat|  Customers can see and use your webcomponents in chat   |
+| [Web-Service](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/web_service.md) | Add external web services to exchange information and add rich features to the chat|  Enable more tools through web services  | 
+| [Yotpo review](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/yotpo.md) | Integrate Yotpo into the process to collect product reviews with Yotpo|  Collect data in chat and view it in Yotpo  |
 
 
 ### Opt-in
