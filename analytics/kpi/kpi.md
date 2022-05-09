@@ -70,4 +70,4 @@ Data can be also viewed visualized.
 - NPS visualization
    -   NPS segments: shows the distribution of [detractors](#detractors), [passives](#passives) and [promoters](#promoters)
    -   NPS distribution: see the NPS scores per score.
-   -   NPS answers: Download the answers (typed content) of the customers in the NPS rating here. You can choose between the three categories [detractors](#detractors),[passives](#passives) and [promoters](#promoters).
+   -   NPS answers: Download the answers (typed content) of the customers in the NPS rating here. You can choose between the three categories [detractors](#detractors), [passives](#passives) and [promoters](#promoters).
