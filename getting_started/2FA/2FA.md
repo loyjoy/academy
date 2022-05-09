@@ -1,4 +1,4 @@
-# Two-factor authentication
+# Two-factor authentication 🔐
 
 ## What is 2FA?
 2FA (Two-factor authentication) is an additional protection that ensures the security of online accounts beyond the username and password.
