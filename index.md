@@ -13,7 +13,6 @@
 ## Data
 - [Data Privacy](/data/data_privacy.md)
 - [Storage options](/data/data.md)
-- [Integration & Tracking](/guides/facebook_pixel/facebook_pixel.md)
 
 ## Experiences
 - [Experiences](experiences/experiences/experiences.md)
@@ -40,5 +39,5 @@
 ## Live
 - [Manage live chat](/live/live.md)
 
-
+## [Integration & Tracking](/guides/facebook_pixel/facebook_pixel.md)
 
