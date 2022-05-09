@@ -1,4 +1,4 @@
-# Personal Settings  
+# Personal Settings 👤⚙️
 
 To access your personal settings, go to *Manage* in the upper left corner beneath your tenant name. You will find the following options. 
 
