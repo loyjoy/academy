@@ -15,21 +15,21 @@ You can log in to LoyJoy using:
 
 ## How to set-up 2FA in LoyJoy?
 
-1. Click on your avatar in LoyJoy to get into the settings.
+**1️⃣ Click on your avatar in LoyJoy to get into the settings**
 
 ![Icon](click_icon.png "Icon")
 
-2. Go to Account & data protection
+**2️⃣ Go to Account & data protection**
 
 ![Account](account.png "Icon")
 
-3. In the new window, click on the tab Security keys
+**3️⃣ In the new window, click on the tab Security keys**
 
 ![Security keys](security_keys.png "Security keys")
 
-4. Then click on Add security key
+**4️⃣ Then click on Add security key**
 
 ![Security keys](security_keys.png "Security keys")
 
-5. Add your key in the form of hardware key (Fido), fingerprint sensor or Android device
+**5️⃣ Add your key in the form of hardware key (Fido), fingerprint sensor or Android device**
 
