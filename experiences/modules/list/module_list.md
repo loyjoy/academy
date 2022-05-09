@@ -1,8 +1,8 @@
-## Modules                                                                   
+# Modules                                                                   
 
 *[See also Module-FAQs](/faq/modules/modules.md)*
 
-### Essential
+## Essential
 
 | Module                                                  | Description                                        | Use case   |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |
@@ -25,8 +25,7 @@
 
 
 
-
-### Loyalty
+## Loyalty
 
 | Module                                                  | Description                                        | Use case   |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |
@@ -37,7 +36,7 @@
 
 
 
-### Integration
+## Integration
 
 | Module                                                  | Description                                        | Use case   |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |
@@ -58,7 +57,7 @@
 | [Yotpo review](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/yotpo.md) | Integrate Yotpo into the process to collect product reviews with Yotpo|  Collect data in chat and view it in Yotpo  |
 
 
-### Opt-in
+## Opt-in
 
 | Module                                                  | Description                                        | Use case   |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |
@@ -73,7 +72,7 @@
 | [Web push opt-in](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/web_push_opt_in.md) | Ask for web push opt-in|  Collect opt-ins for Web push notifications to send personalized Web push messages to your customers  | 
 
 
-### Media
+## Media
 
 | Module                                                  | Description                                        | Use case   |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |
@@ -101,7 +100,7 @@
 | [Quiz](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/quiz.md) | Let your customers play a quiz	|  Let the customer take a quiz to be able to participate in a raffle afterwards  |
 
 
-### Personal identifiable information
+## Personal identifiable information
 
 | Module                                                  | Description                                        | Use case   |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |
@@ -117,7 +116,7 @@
 | [Postal address](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/postal_address.md) | Ask about the customer's postal address|  Ask the customer for his address e.g. for a raffle   |
 
 
-### Advanced
+## Advanced
 
 | Module                                                  | Description                                        | Use case   |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |
@@ -138,7 +137,7 @@
 | [Tag](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/tag.md) | Add a tag to customers or remove a tag from customers|  Tags are used for customer segmentation  | 
 | [Tag preference center](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/tag_preference.md) | Define a tag, which should be offered to the customer to select or deselect|  Customers can have tags such as fashion, which express interests a customer can have. Tags are used for customer segmentation  | 
 
-### Email
+## Email
 
 | Module                                                  | Description                                        | Use case   |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |
@@ -148,20 +147,20 @@
 
 
 
-### Live
+## Live
 
 | Module                                                  | Description                                        | Use case   |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |
 | [Live chat](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/live.md) | Option to chat live with your customers in the chat |  When the chatbot alone cannot solve the customer's problem, live chat can assist  | -         |
 
-### Multi-language
+## Multi-language
 
 | Module                                                  | Description                                        | Use case   |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |
 | [Language selection](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/locale.md) | Customers can choose in which language the chatbot should be displayed|  If several languages are spoken in your country, you can offer them  | -       |
 | [Region](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/region.md) | Allow only certain regions for the chatbot|  For example, only certain regions may participate in a giveaway  |
 
-### Logic
+## Logic
 
 | Module                                                  | Description                                        | Use case   |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |
