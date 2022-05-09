@@ -13,7 +13,7 @@
 ## Data
 - [Data Privacy](/data/data_privacy.md)
 - [Storage options](/data/data.md)
-- [Tracking](/tracking/tracking.md)
+- [Tracking](/guides/facebook_pixel/facebook_pixel.md)
 
 ## Experiences
 - [Experiences](experiences/experiences/experiences.md)
