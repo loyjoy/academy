@@ -39,5 +39,5 @@
 ## Live
 - [Manage live chat](/live/live.md)
 
-## [Integration & Tracking](/guides/facebook_pixel/facebook_pixel.md)
-
+## Integration & Tracking
+- [Facebook Pixel](/guides/facebook_pixel/facebook_pixel.md)
