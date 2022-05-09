@@ -7,13 +7,13 @@ This article will guide you through the features of the LoyJoy Home View and exp
 
 Check out the different Home View components:
 
-- [Navigation bar](#Navigation-bar)
-- [Hero widget](#Hero-widget)
-- [Stories widget](#Stories-widget)
-- [Notifications widget](#Notifications-widget)
-- [Roster widget](#Roster-widget)
-- [Search widget](#Search-widget)
-- [Web component widget](#Web-component-widget)
+- [Navigation bar](#navigation-bar)
+- [Hero widget](#hero-widget)
+- [Stories widget](#stories-widget)
+- [Notifications widget](#notifications-widget)
+- [Roster widget](#roster-widget)
+- [Search widget](#search-widget)
+- [Web component widget](#web-component-widget)
 
 
 ### Set up the Home View
