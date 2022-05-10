@@ -38,7 +38,7 @@ LoyJoy('boot', {
 
 ## Open
 
-Opens LoyJoy chat. Antagonist to close.
+Opens the LoyJoy chat. Opposite to close.
 
 ```html
 <script>LoyJoy('open')</script>
@@ -46,7 +46,7 @@ Opens LoyJoy chat. Antagonist to close.
 
 ## Close
 
-Closes the LoyJoy chat. Antagonist to open.
+Closes the LoyJoy chat. Opposite to open.
 
 ```html
 <script>LoyJoy('close')</script>
@@ -62,7 +62,7 @@ Removes the LoyJoy DOM elements from the DOM.
 
 ## Hide
 
-Hides the LoyJoy element in DOM (display: none), but does not remove it. Antagonist to show.
+Hides the LoyJoy element in DOM (display: none), but does not remove it. Opposite to show.
 
 ```html
 <script>LoyJoy('hide')</script>
@@ -70,7 +70,7 @@ Hides the LoyJoy element in DOM (display: none), but does not remove it. Antagon
 
 ## Show
 
-Makes the LoyJoy element visible in DOM. Antagonist to hide.
+Makes the LoyJoy element visible in DOM. Opposite to hide.
 
 ```html
 <script>LoyJoy('show')</script>
@@ -78,7 +78,7 @@ Makes the LoyJoy element visible in DOM. Antagonist to hide.
 
 ## Locale
 
-A string in in the format `<language-iso-6391>_<region-iso-31662>` (two-letter-codes). Overwrites the user’s settings regarding language and region. This language and region will be saved as the customer’s language and region.
+A string in the format `<language-iso-6391>_<region-iso-31662>` (two-letter-codes) overwrites the user’s settings regarding language and region. This language and region will be saved as the customer’s language and region.
 
 ```html
 <script>
@@ -91,7 +91,7 @@ LoyJoy('boot', {
 
 ## Restart
 
-Tells the chat to restart the process after after (1) a page reload, (2) calling `LoyJoy('boot')` or (3) jumping to another experience. This removes the chat history and restarts the experience from the beginning. In contrast to `reset` the session remains intact, i.e. the customer remains signed in and variables are not removed.
+Tells the chat to restart the process after (1) a page reload, (2) calling `LoyJoy('boot')` or (3) jumping to another experience. This removes the chat history and restarts the experience from the beginning. In contrast to `reset` the session remains intact, i.e. the customer remains signed in and variables are not removed.
 
 ```html
 <script>
@@ -104,7 +104,7 @@ LoyJoy('boot', {
 
 ## Reset
 
-Tells the chat to reset the process after after a page reload (or after a new `LoyJoy('boot')`). This removes the chat history and restarts the experience from the beginning.
+Tells the chat to reset the process after a page reload (or after a new `LoyJoy('boot')`). This removes the chat history and restarts the experience from the beginning.
 
 ```html
 <script>
