@@ -37,11 +37,12 @@
 - [Training Data Tips](/nlu/training/training.md)
 
 ## Push
-- [Create campaigns](/push/push.md)
+- [Create campaigns](/push/push/push.md)
 
 ## Live
-- [Manage live chat](/live/live.md)
+- [Manage live chat](/live/live_guide/live.md)
 
 ## Integration & Tracking
 - [Facebook Pixel](/tracking_integration/facebook_pixel/facebook_pixel.md)
 - [Facebook Integration](/tracking_integration/facebook_integration/facebook_integration.md)
+- [Google tag manager](/tracking_integration/google_tag_manager/google_tag_manager.md)
