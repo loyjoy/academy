@@ -12,15 +12,18 @@
 - [A/B Testing](/analytics/a_b_test/a_b_test.md)
 
 ## Data
-- [Data Privacy](/data/data_privacy.md)
-- [Storage options](/data/data.md)
+- [Storage options](/data/data/data.md)
+- [Big query](/data/big_query//big_query.md)
+- [Data Privacy](/data/data_privacy/data_privacy.md)
+- [Cookie Consent](/data/cookie_consent/cookie_consent.md)
+- [Data transfer](/data/data_transfer/pro_campaign/pro_campaign.md)
 
 ## Experiences
 - [Experiences](experiences/experiences/experiences.md)
 - [Templates](experiences/templates/templates.md)
 - [Home views](experiences/homeview/homeview.md)
 - [Building dialogues](experiences/building/build_a_conversational_experience.md)
-- [Modules](/experiences/modules/list/module_list.md)
+- [Module list](/experiences/modules/list/module_list.md)
 - [Variables & Conditions](/experiences/variables/variables.md)
 - [Branding](experiences/branding/branding.md)
 - [Languages](experiences/language/language.md)
@@ -28,7 +31,6 @@
 - [Publish to Social Media](/experiences/publish/publish.md#social-media)
 - [Texts and assets](experiences/text/text_and_assets.md)
 - [Best practices](experiences/best_practices/conversation_design.md)
-
 
 ## NLU
 - [What is NLU](/nlu/nlu/nlu.md)
