@@ -7,8 +7,9 @@
 - [Personal settings](/getting_started/personal_settings/personal_settings.md)
 
 ## Analytics
-- [Overview](analytics/kpi/kpi.md)
-- [Drill-down](analytics/drill_down/drill_down.md)
+- [Overview](/analytics/kpi/kpi.md)
+- [Drill-down](/analytics/drill_down/drill_down.md)
+- [A/B Testing](/analytics/a_b_test/a_b_test.md)
 
 ## Data
 - [Data Privacy](/data/data_privacy.md)
