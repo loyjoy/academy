@@ -12,6 +12,8 @@ To test the experience your future mobile users you are able to review the chatb
 
 Lastly, explore how your chatbot will look like on your website by typing in your URL. Disclaimer: Display problems may occur in the preview. These do not occur if you embed LoyJoy on your website 😇
 
+When publishing, the order of the homepage elements should be respected: [Z-Index](/publish/z_index/z_index.md)
+
 ## How to Launch your Chatbot 
 
 ### Website 
