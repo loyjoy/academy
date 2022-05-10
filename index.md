@@ -43,6 +43,8 @@
 - [Manage live chat](/live/live_guide/live.md)
 
 ## Integration & Tracking
+- [WebService integration](/tracking_integration/webservice_integration/webservice_integration.md)
 - [Facebook Pixel](/tracking_integration/facebook_pixel/facebook_pixel.md)
-- [Facebook Integration](/tracking_integration/facebook_integration/facebook_integration.md)
+- [Facebook integration](/tracking_integration/facebook_integration/facebook_integration.md)
 - [Google tag manager](/tracking_integration/google_tag_manager/google_tag_manager.md)
+- [JavaScript integration](/tracking_integration/javascript/java_integration.md)
