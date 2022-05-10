@@ -91,23 +91,23 @@ to a specific position in the process or to another process altogether.
 ## 7. Fourth option: Switching inside one experience base on a random 50/50 split in LoyJoy
 
 For this approach we first need to set a random variable that sets up the 50/50 split:
-![grafik](https://user-images.githubusercontent.com/8091176/125583867-ec2ccc1b-06d9-4544-a58b-c68c81243ea5.png)
+![Split](split.png "Split")
 
 The next step is an automatic jump that will lead half of the users to variant B of the chat. The other users do not jump and and will simply arrive at variant A that is positioned right after.
-![grafik](https://user-images.githubusercontent.com/8091176/125584397-29c39f98-2834-457b-a40a-53708e5918a0.png)
+![Condition](condition.png "Condition")
 
 At the end of variant A and B there is a decision jump. This allows us to count independently how often this point was reached and how often users proceeded to the next step:
 
 
-![LoyJoy A/B testing](https://user-images.githubusercontent.com/8091176/125585761-0a2b3c63-b554-4546-ae92-71286d9dd38d.png "LoyJoy A/B testing")
+![Process](process.png "process")
 
 
 
-![LoyJoy A/B testing](https://user-images.githubusercontent.com/8091176/125586528-28a01e25-55f3-4346-bb8e-436c6675fa7f.png "LoyJoy A/B testing")
+![Analytics1](analytics1.png "Analytics1")
 
 
 
-![LoyJoy A/B testing](https://user-images.githubusercontent.com/8091176/125586557-edda0b2e-7fd9-47d3-a62d-d62bd83ab802.png "LoyJoy A/B testing")
+![Analytics2](analytics2.png "Analytics2")
 
 
 Here we can see that both variants were shown 4 times, 2 of the users in variant B continued and only one in variant A.
