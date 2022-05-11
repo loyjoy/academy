@@ -10,13 +10,12 @@
 - [Overview](/analytics/kpi/kpi.md)
 - [Drill-down](/analytics/drill_down/drill_down.md)
 - [A/B Testing](/analytics/a_b_test/a_b_test.md)
+- [Big query](/data/big_query//big_query.md)
 
 ## Data
 - [Storage options](/data/data/data.md)
-- [Big query](/data/big_query//big_query.md)
 - [Data Privacy](/data/data_privacy/data_privacy.md)
 - [Cookie Consent](/data/cookie_consent/cookie_consent.md)
-- [Data transfer](/data/data_transfer/pro_campaign/pro_campaign.md)
 
 ## Experiences
 - [Experiences](experiences/experiences/experiences.md)
@@ -48,4 +47,4 @@
 - [Facebook Pixel](/tracking_integration/facebook_pixel/facebook_pixel.md)
 - [Facebook messenger](/tracking_integration/facebook_integration/facebook_integration.md)
 - [Google tag manager](/tracking_integration/google_tag_manager/google_tag_manager.md)
-
+- [Pro campaign](/data/data_transfer/pro_campaign/pro_campaign.md)
