@@ -120,7 +120,7 @@
 
 | Module                                                  | Description                                        | Use case   |
 | ------------------------------------------------------- | -------------------------------------------------- | ---------- |
-| [X_Decision table](../../../../../welcome/blob/staging/help/processes/process/subprocesses/signal.md) |Based on decision rules to read and write BPMN process variables simultaneously|  Use the Decision table if you want to implement more complex logics in e.g. a skin type test. | 
+| [X_Decision table](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/dmn.md) |Based on decision rules to read and write BPMN process variables simultaneously|  Use the Decision table if you want to implement more complex logics in e.g. a skin type test. | 
 | [Event](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/event.md) | Trigger an event with the name of your choice|  Send a message to the customers who have won something in the chat, for example  | 
 | [Password](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/password.md) | Let your customer enter a password in the chat|  Let the customer log in with a password, so that the data is additionally protected  | 
 | [Places](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/places.md) | Let the user enter an address and calculate the distances to a set of destinations|  Offer the customer the nearest locations | 
