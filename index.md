@@ -46,5 +46,5 @@
 - [JavaScript integration](/tracking_integration/javascript/java_integration.md)
 - [Facebook Pixel](/tracking_integration/facebook_pixel/facebook_pixel.md)
 - [Facebook Messenger](/tracking_integration/facebook_integration/facebook_integration.md)
-- [Google Tag manager](/tracking_integration/google_tag_manager/google_tag_manager.md)
+- [Google Tag Manager](/tracking_integration/google_tag_manager/google_tag_manager.md)
 - [Pro Campaign](/tracking_integration/pro_campaign/OVERVIEW.md)
