@@ -1,8 +1,3 @@
-
-# Mini program
-
-+ Some server security settings don't allow itself to be embedded on pages other than itself. This prevents e.g. phishing sites pretending to be the website. So mini programs can only work when the chatbot is running on the actual page. 
-
 # Sign in
 
 Insert detailed description here. 
