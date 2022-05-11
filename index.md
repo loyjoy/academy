@@ -10,7 +10,7 @@
 - [Overview](/analytics/kpi/kpi.md)
 - [Drill-down](/analytics/drill_down/drill_down.md)
 - [A/B Testing](/analytics/a_b_test/a_b_test.md)
-- [Big query](/data/big_query//big_query.md)
+- [Google BigQuery](/analytics/big_query/big_query.md)
 
 ## Data
 - [Storage options](/data/data/data.md)
@@ -47,4 +47,4 @@
 - [Facebook Pixel](/tracking_integration/facebook_pixel/facebook_pixel.md)
 - [Facebook messenger](/tracking_integration/facebook_integration/facebook_integration.md)
 - [Google tag manager](/tracking_integration/google_tag_manager/google_tag_manager.md)
-- [Pro campaign](/data/data_transfer/pro_campaign/pro_campaign.md)
+- [Pro campaign](/tracking_integration/pro_campaign/OVERVIEW.md)
