@@ -79,7 +79,7 @@
 | [Audio](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/audio.md) | Add audio files to chat|  Lighten up the experience by adding media  |
 | [Audio recording](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/audio_recorder.md) | Let the customer record audio messages|  Improve the chat experience by letting customers record and upload content themselves  | 
 | [Image gallery](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/image.md) | Add images to chat	|  Lighten up the experience by adding media  | 
-| [Scanner](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/scanner.md) | Let the customer scan something|  Display a scanner so your customers can scan products, QR codes and barcodes [_How to set it up_](/modules/product_feed/product_feed.md)  | 
+| [Scanner](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/scanner.md) | Let the customer scan something|  Display a scanner so your customers can scan products, QR codes and barcodes  | 
 | [Snapshot](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/snapshot.md) | Use the camera in the chat and ask customers to take a picture or use it as a scanner|  Let the customer upload a picture to enter a raffle  |
 | [Video gallery](https://github.com/loyjoy/welcome/blob/master/help/processes/process/subprocesses/video.md) | Add videos to chat	|  Lighten up the experience by adding media | 
 
