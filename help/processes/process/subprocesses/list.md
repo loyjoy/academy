@@ -2,7 +2,7 @@
 
 Display a list in the chat.
 
-![list_example_demo](https://raw.githubusercontent.com/loyjoy/welcome/master/help/processes/process/subprocesses/list_example.png)
+![list_example_demo](list_example.png)
 
 
 **Buttons** - If this list contains any buttons, this process module waits for user input.
@@ -11,8 +11,8 @@ You can add buttons to each element and to the whole List. The button for the wh
 **Selection buttons** - The customers can use only one selection button as userinput.
 
 **Style "Compact"** - this is the default and looks like this:
-![list_compact_demo](https://raw.githubusercontent.com/loyjoy/welcome/master/help/processes/process/subprocesses/list_compact.png)
+![list_compact_demo](list_compact.png)
 
 
 **Style "Large"** - This style uses the first element as the top element and displays it differently. The font color will be white, so you need to make sure you use a dark image for the first element.
-![list_large_demo](https://raw.githubusercontent.com/loyjoy/welcome/master/help/processes/process/subprocesses/list_large.png)
+![list_large_demo](list_large.png)

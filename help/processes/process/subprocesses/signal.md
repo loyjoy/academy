@@ -10,4 +10,4 @@ Avoid the usage of tenant wide signals wherever possible, as this is a very expe
 
 Use Signal when working with DOIs
 
-![animation_demo](https://raw.githubusercontent.com/loyjoy/welcome/master/help/processes/process/subprocesses/signal_example.png)
+![animation_demo](signal_example.png)

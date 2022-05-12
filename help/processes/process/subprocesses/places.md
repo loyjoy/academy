@@ -2,7 +2,7 @@
 
 Let the user enter an address and calculate the distances to a set of destinations. The closest 4 destinations are shown as a list. Using addresses solely will always result in the point being snapped to the road nearest to those addresses instead of the location itself. As this process module integrates Google Maps, several API keys are mandatory. Furthermore, if you provide more than 25 different destinations, the latitude and longitude of each destination is required.
 
-![places](https://raw.githubusercontent.com/loyjoy/welcome/master/help/processes/process/subprocesses/places.png)
+![places](places.png)
 
 ### Acquire Google API keys
 1. Make sure you enabled Places API, Distance Matrix API, Geocoding API and Maps Static API in your [Google Cloud Console](https://console.cloud.google.com/google/maps-apis/api-list)

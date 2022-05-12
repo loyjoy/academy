@@ -5,4 +5,4 @@ Invite your customers to share the experience on social media or email with thei
 **URL** - Add the URL of the experience you want to share.
 **Sharing message** - Choose the message which will be sent on the different social media platforms.
 
-![share_link_demo](https://raw.githubusercontent.com/loyjoy/welcome/master/help/processes/process/subprocesses/share_link_demo.png)
+![share_link_demo](share_link_demo.png)

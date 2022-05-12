@@ -2,7 +2,7 @@
 
 Ask your customers for their email address.
 
-![email_enter_example_demo](https://raw.githubusercontent.com/loyjoy/welcome/master/help/processes/process/subprocesses/email_enter_example.png)
+![email_enter_example_demo](email_enter_example.png)
 
 The email is stored in the "email" variable. You can reuse the value of this variable in texts by using the following expression: "${email}".
 
@@ -10,7 +10,7 @@ The email is stored in the "email" variable. You can reuse the value of this var
 
 **Terms** - You can add terms that the customer has to accept.
 
-![email_terms_example_demo](https://raw.githubusercontent.com/loyjoy/welcome/master/help/processes/process/subprocesses/email_terms_example.png)
+![email_terms_example_demo](email_terms_example.png)
 
 While "Do your customers have to agree to terms?" is activated, customers have to accept the terms to enter their email.
 

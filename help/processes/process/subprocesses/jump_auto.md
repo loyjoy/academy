@@ -10,6 +10,6 @@ Jump into another process step or into a different experience, use this to creat
 **Usecase** - Most times it is used with a condition at the module.
 
 **Open new view** - If you jump between experiences, you can choose to open the new experience in a new view.
-![jump_decision_auto_example_demo](https://raw.githubusercontent.com/loyjoy/welcome/master/help/processes/process/subprocesses/jump_auto_example.png)
+![jump_decision_auto_example_demo](jump_auto_example.png)
 -> new view:
-![jump_decision_example_demo](https://raw.githubusercontent.com/loyjoy/welcome/master/help/processes/process/subprocesses/jump_decision_view.png)
+![jump_decision_example_demo](jump_decision_view.png)

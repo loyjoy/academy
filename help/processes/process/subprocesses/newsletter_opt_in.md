@@ -15,4 +15,4 @@ Ask for newsletter opt-in, GDPR compliant double opt-in.
 **Wording** - Choose the wording of every message.
 **Sign in** - The consumer must be signed in.
 
-![newsletter_opt_in_demo](https://raw.githubusercontent.com/loyjoy/welcome/master/help/processes/process/subprocesses/newsletter_opt_in_demo.png)
+![newsletter_opt_in_demo](newsletter_opt_in_demo.png)

@@ -1,7 +1,7 @@
 ## Gender
 
 Ask your customer for gender.
-![gender_example_demo](https://raw.githubusercontent.com/loyjoy/welcome/master/help/processes/process/subprocesses/gender_example.png)
+![gender_example_demo](gender_example.png)
 
 **Storage** - If you want to store this information in association with your customer, you must have a sign-in module somewhere before the gender module. If you are not using the sign-in module, you can still use this information in the conversation by using the "gender" variable with the following syntax: ${gender}
 

@@ -2,7 +2,7 @@
 
 Offer customers in the chat to make appointments in well-defined time slots.
 
-![appointment_demo](https://raw.githubusercontent.com/loyjoy/welcome/master/help/processes/process/subprocesses/appointment_demo.png)
+![appointment_demo](appointment_demo.png)
 
 **Email notification** - You can have an email sent automatically to your own email (not your customers email) as a notification.
 
@@ -12,11 +12,11 @@ Offer customers in the chat to make appointments in well-defined time slots.
 
 You have to add time slots for the process module to work properly.
 
-![appointment_calender_demo](https://raw.githubusercontent.com/loyjoy/welcome/master/help/processes/process/subprocesses/appointment_calender_demo.png)
+![appointment_calender_demo](appointment_calender_demo.png)
 
 Make sure to use the correct timezone. The default is set to UTC±0.
 
-![appointment_scheduler_timezone_demo](https://raw.githubusercontent.com/loyjoy/welcome/master/help/processes/process/subprocesses/appointment_scheduler_timezone.png)
+![appointment_scheduler_timezone_demo](appointment_scheduler_timezone.png)
 
 
 **Time buffer** - You can add a time buffer to allow customers to book an appointment only up to X minutes before the actual appointment.

@@ -4,7 +4,7 @@ Customers enter their email addresses to sign in. Stored in CRM. Customers can l
 
 This process module is necessary for every process module that collects personal information like first name or birth date.
 
-![sign_in_demo](https://raw.githubusercontent.com/loyjoy/welcome/master/help/processes/process/subprocesses/sign_in_demo.png)
+![sign_in_demo](sign_in_demo.png)
 
 ### Code email
 
