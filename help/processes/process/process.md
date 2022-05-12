@@ -6,7 +6,7 @@ Simply **drag and drop** the process blocks into your flow.
 
 Once you have added all your process blocks, the next step would be editing. Click "Close process editor" to open the Chat Flow Editor.
 
-![close_processes editor](https://raw.githubusercontent.com/loyjoy/welcome/master/help/processes/process/close_process_editor.png)
+![close_processes editor](close_process_editor.png)
 
 Now you can adjust the different process blocks. Insert your preferred text into the text fields. Click on a process block to edit its texts.
 
@@ -19,7 +19,7 @@ Do not worry about saving your progress. We have your back! **Every edit is auto
 
 To **add hyperlinks, emojis and variables** to your texts, click on the small button at the end of each text field.
 
-![add hyperlinks, emojis, variables](https://raw.githubusercontent.com/loyjoy/welcome/master/help/processes/process/adding_links_etc.png)
+![add hyperlinks, emojis, variables](adding_links_etc.png)
 
 1. Hyperlinks: Adding a hyperlink to your text will require a link text (in square brackets) and an URL link (in round brackets).
 
@@ -29,7 +29,7 @@ To **add hyperlinks, emojis and variables** to your texts, click on the small bu
 
 In the lower right corner of the process blocks you will find three icons to name, copy and condition your process modules:
 
-![name copy conditions](https://raw.githubusercontent.com/loyjoy/welcome/master/help/processes/process/name_copy_conditions.png)
+![name copy conditions](name_copy_conditions.png)
 
 To make sure you stay on top of your chat flow, you can **name your process blocks** according to their use by clicking in the three dots on the lower right corner of your process block. This helps you to navigate through your flow when complexity grows.
 
