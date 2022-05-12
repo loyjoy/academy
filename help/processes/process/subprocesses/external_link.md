@@ -12,7 +12,7 @@ If you choose the WebView you have to consider the following. The linked website
 **WebView example** - ![external_link_webview_example_demo](external_link_webview_example.png) You can activate this option by clicking the settings icon next to the "Link" heading.
 
 **Trigger event** - You have the chance to trigger an event when the customer clicks on the link. The event is (1) emitted via LoyJoy JavaScript API, (2) stored in the LoyJoyAnalytics database, AND (3) triggers signal process modules that wait for the event name.
-You can read about all the events and their function [here](https://github.com/loyjoy/welcome/blob/master/documentation/GOOGLE_TAG_MANAGER.md).
+You can read about all the events and their function [here](/documentation/GOOGLE_TAG_MANAGER.md).
 
 You can edit the trigger event using the settings icon next to the Link heading.
 ### Appearance

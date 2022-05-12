@@ -20,12 +20,12 @@ We have compiled several articles that describe how to connect LoyJoy and ProCam
 | coming soon                   | How to transfer other data than the ones mentioned above.      |
 
 
-[Newsletter subscriptions]: https://github.com/loyjoy/welcome/blob/master/documentation/pro_campaign/PRO_CAMPAIGN_NEWSLETTER.md
-[Ratings and reviews]: https://github.com/loyjoy/welcome/blob/master/documentation/pro_campaign/PRO_CAMPAIGN_RATINGS.md
-[General integration]: https://github.com/loyjoy/welcome/blob/master/documentation/pro_campaign/PRO_CAMPAIGN_INTEGRATION.md
-[Giveaway participants]: https://github.com/loyjoy/welcome/blob/master/documentation/pro_campaign/PRO_CAMPAIGN_GIVEAWAY.md
-[PIN Email]: https://github.com/loyjoy/welcome/blob/master/documentation/pro_campaign/PRO_CAMPAIGN_PIN_EMAIL.md
-[Reminder Email]: https://github.com/loyjoy/welcome/blob/master/documentation/pro_campaign/PRO_CAMPAIGN_REMINDER.md
-[Postal Address]: https://github.com/loyjoy/welcome/blob/master/documentation/pro_campaign/PRO_CAMPAIGN_POSTAL_ADDRESS.md
-[Advent Calendar winners]: https://github.com/loyjoy/welcome/blob/master/documentation/pro_campaign/PRO_CAMPAIGN_ADVENTCALENDAR.md
+[Newsletter subscriptions]: /documentation/pro_campaign/PRO_CAMPAIGN_NEWSLETTER.md
+[Ratings and reviews]: /documentation/pro_campaign/PRO_CAMPAIGN_RATINGS.md
+[General integration]: /documentation/pro_campaign/PRO_CAMPAIGN_INTEGRATION.md
+[Giveaway participants]: /documentation/pro_campaign/PRO_CAMPAIGN_GIVEAWAY.md
+[PIN Email]: /documentation/pro_campaign/PRO_CAMPAIGN_PIN_EMAIL.md
+[Reminder Email]: /documentation/pro_campaign/PRO_CAMPAIGN_REMINDER.md
+[Postal Address]: /documentation/pro_campaign/PRO_CAMPAIGN_POSTAL_ADDRESS.md
+[Advent Calendar winners]: /documentation/pro_campaign/PRO_CAMPAIGN_ADVENTCALENDAR.md
 
