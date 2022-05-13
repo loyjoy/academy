@@ -5,6 +5,8 @@ All notable updates and changes to the LoyJoy Cloud are documented here.
 
 
 ## unreleased
+- Impressum and Privacy
+  - These options are now available to be shown in the navigation bar
 
 ### Added
 
