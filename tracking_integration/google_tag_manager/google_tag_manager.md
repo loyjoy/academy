@@ -79,6 +79,18 @@ Through the JavaScript API, following events are triggered for various events in
 | interaction | A customer has interacted for the first time in a process / experience, i.e. has manually typed something in the chat, clicked an element in the chat etc. |
 | jump_auto | An automatic jump process brick was executed. |
 | jump_decision_question | The question where to jump was asked in a jump decision process brick. |
++| jump_decision_1 | The preceeding jump_decision_question was ansered with the 1st option |
+| jump_decision_2 | The preceeding jump_decision_question was ansered with the 2nd option |
+| jump_decision_3 | The preceeding jump_decision_question was ansered with the 3rd option |
+| jump_decision_4 | The preceeding jump_decision_question was ansered with the 4th option |
+| jump_decision_5 | The preceeding jump_decision_question was ansered with the 5th option |
+| jump_decision_6 | The preceeding jump_decision_question was ansered with the 6th option |
+| jump_decision_7 | The preceeding jump_decision_question was ansered with the 7th option |
+| jump_persistent_1 | The 1st persistent jump quick-reply was clicked |
+| jump_persistent_2 | The 2nd persistent jump quick-reply was clicked |
+| jump_persistent_3 | The 3rd persistent jump quick-reply was clicked |
+| jump_persistent_4 | The 4th persistent jump quick-reply was clicked |
+| jump_persistent_5 | The 5th persistent jump quick-reply was clicked |
 | lastname_entered | A customer has entered their last name in a lastname process brick. |
 | link_clicked | A link was clicked in a external link or product gallery process brick. |
 | live_chat_duration | A certain duration was reached during a live chat. |
