@@ -1,5 +1,3 @@
-Skip to content
-
 # Key Performance Indicator (KPI) 📈
 # Overview 📈
 
