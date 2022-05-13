@@ -9,7 +9,6 @@ The tracking integration is based on the LoyJoy JavaScript API. Using the follow
 ```
 <script>
 LoyJoy('boot', {
-  bot: BOT_ID,
   eventListeners: [function (evt, obj) {
     dataLayer && dataLayer.push({ 'evt': evt, 'bot_id': obj && obj.bot_id, 'process_id': obj && obj.process_id, 'process_name': obj && obj.process_name })  
   }],
