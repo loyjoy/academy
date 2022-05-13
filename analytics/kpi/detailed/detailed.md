@@ -1,18 +1,5 @@
-# Key Performance Indicator (KPI) 📈
-# Overview 📈
 
-- [Introduction](#introduction)
-- [The KPI tab](#the-kpi-tab)
-- [Which numbers are displayed](#which-numbers-are-displayed)
-
-- [Analytics](#analytics)
-- [Visualization](#visualization)
-
-## Introduction
-Track the performance of your live experiences, better understand your customers' behavior and see your KPIs skyrocket by using the LoyJoy Analytics Dashboard.
-________________________
-
-## The KPI tab
+## The KPI tab in detail
 
 ### Find your way
 
@@ -171,7 +158,6 @@ Number of deleted costumers.
 #### Year change*
 Display of the year change in the diagram.
 
-* All KPIs marked with * can also be seen at [KPIs over time](#32-kpis-over-time), [KPIs over time (cumulated)](#33-kpis-over-time-cumulated) and [Funnel](#34-funnel).
 
 ### KPIs over time
 In this chart you can view the individual KPIs over the specified time period or over the entire time period
