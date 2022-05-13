@@ -46,7 +46,7 @@ Advanced data displayed includes:
 ________________________
 
 ### Visualization
-Data can be also viewed visualized. 
+Data can be also viewed visualized. For detailed descrioption see [Key Performance Indicators (KPI) 📈](/analytics/kpi/detailed/detailed.md)
 
 **KPIs over time** 
 - In this chart you can view the individual KPIs over the specified time period or over the entire time period
