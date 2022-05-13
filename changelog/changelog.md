@@ -19,6 +19,10 @@ All notable updates and changes to the LoyJoy Cloud are documented here.
 - Entity storage time
   - The expiry time of relevant entities after which entities are deleted can now be configured
 
+#### Process Modules
+- Variable
+  - It is now possible to set multiple variables
+
 
 ## release-2022-05-12
 
