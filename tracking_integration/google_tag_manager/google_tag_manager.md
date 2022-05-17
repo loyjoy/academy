@@ -1,19 +1,41 @@
 # Integrate data from your LoyJoy chat into Google Tag Manager
 
-With a LoyJoy chat on your site you can connect with your customers in a great way. You can watch how your customers use the chat in the LoyJoy backend. You can also extract a lot of data from LoyJoy and integrate it directly into your own website tracking solution to collect all analytics data in one place.
+With a LoyJoy chat on your site you can connect with your customers in a great way. You can watch how your customers use the chat in the LoyJoy analytics backend. 
 
-## How to connect LoyJoy to Google Tag Manager
+However, you can also extract a lot of data from LoyJoy and integrate it in real-time into your own website tracking solution to collect all analytics data in one place. The tracking integration is always based on the LoyJoy JavaScript API.
 
-The tracking integration is based on the LoyJoy JavaScript API. Using the following code to integrate a LoyJoy chat in your site, LoyJoy events can be pushed to an existing Google Tag Manager data layer:
+
+## How to connect LoyJoy to Google Universal Analytics (gtag.js)
+
+LoyJoy events can be pushed to [Google Universal Analytics](https://developers.google.com/analytics/devguides/collection/gtagjs/events) like this:
+
+```
+<script>
+LoyJoy('boot', {
+  eventListeners: [function (evt, obj) {
+    gtag('event', evt, {
+      'event_category': 'LoyJoy Chat',
+      'event_label': obj && obj.process_name
+    })
+  }],
+  process: PROCESS_ID
+})
+</script>
+```
+
+
+## How to connect LoyJoy to Google Tag Manager (dataLayer.push)
+
+LoyJoy events can be pushed to [Google Tag Manager](https://developers.google.com/tag-platform/tag-manager/web/datalayer) like this:
 
 ```
 <script>
 LoyJoy('boot', {
   eventListeners: [function (evt, obj) {
     dataLayer && dataLayer.push({ 
-      'evt': evt, 
-      'process_id': obj && obj.process_id, 
-      'process_name': obj && obj.process_name 
+      'evt': evt,
+      'process_id': obj && obj.process_id,
+      'process_name': obj && obj.process_name
     })  
   }],
   process: PROCESS_ID
