@@ -56,15 +56,12 @@ tracking whenever a LoyJoy event called `product_tester` is triggered:
 ```html
 <script>
 LoyJoy('boot', {
-  bot: BOT_ID,
   eventListeners: [function (evt, obj) {
     if (evt === 'product_tester') {
       fbq('track', evt)
     }
   }],
-  process: OPTIONAL_PROCESS_ID,
-  serviceWorkerPath: OPTIONAL_SERVICE_WORKER_PATH,
-  tenant: OPTIONAL_TENANT_ID
+  process: OPTIONAL_PROCESS_ID
 })
 </script>
 ```
