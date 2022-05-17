@@ -53,7 +53,7 @@ You can choose the fields `event_category`, `event_label` and `value` freely whe
 
 ## JavaScript API Events
 
-Through the JavaScript API, following events are emitted for various events in the chat:
+Through the JavaScript API, following events are emitted for various events in the chat. The list is not complete and will enlarge with the growing feature set of LoyJoy Cloud Platform as well as custome events, which can be defined in LoyJoy experiences.
 
 
 | Event name          | Event description |
