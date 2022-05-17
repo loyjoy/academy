@@ -23,6 +23,8 @@ LoyJoy('boot', {
 </script>
 ```
 
+You can choose the fields `event_category`, `event_label` and `value` freely when optimizing events for Google Analytics, as also described in [Measure Google Analytics Events](https://developers.google.com/analytics/devguides/collection/gtagjs/events).
+
 
 ## How to connect LoyJoy to Google Tag Manager via dataLayer.push
 
