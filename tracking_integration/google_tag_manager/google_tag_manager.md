@@ -5,9 +5,9 @@ With a LoyJoy chat on your site you can connect with your customers in a great w
 However, you can also extract a lot of data from LoyJoy and integrate it in real-time into your own website tracking solution to collect all analytics data in one place. The tracking integration is always based on the LoyJoy JavaScript API.
 
 
-## How to connect LoyJoy to Google Universal Analytics (gtag.js)
+## How to connect LoyJoy to Google Analytics via Global Site Tag (gtag.js)
 
-LoyJoy events can be pushed to [Google Universal Analytics](https://developers.google.com/tag-platform/gtagjs) like this:
+LoyJoy events can be pushed via [gtag.js](https://developers.google.com/tag-platform/gtagjs) like this:
 
 ```
 <script>
@@ -24,9 +24,9 @@ LoyJoy('boot', {
 ```
 
 
-## How to connect LoyJoy to Google Tag Manager (dataLayer.push)
+## How to connect LoyJoy to Google Tag Manager via dataLayer.push
 
-LoyJoy events can be pushed to [Google Tag Manager](https://developers.google.com/tag-platform/tag-manager/web) like this:
+LoyJoy events can be pushed via [dataLayer.push](https://developers.google.com/tag-platform/tag-manager/web) like this:
 
 ```
 <script>
