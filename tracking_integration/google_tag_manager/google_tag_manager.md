@@ -7,13 +7,13 @@ However, you can also extract a lot of data from LoyJoy and integrate it in real
 
 ## How to connect LoyJoy to Google Universal Analytics (gtag.js)
 
-LoyJoy events can be pushed to [Google Universal Analytics](https://developers.google.com/analytics/devguides/collection/gtagjs/events) like this:
+LoyJoy events can be pushed to [Google Universal Analytics](https://developers.google.com/tag-platform/gtagjs) like this:
 
 ```
 <script>
 LoyJoy('boot', {
   eventListeners: [function (evt, obj) {
-    gtag('event', evt, {
+    gtag && gtag('event', evt, {
       'event_category': 'LoyJoy Chat',
       'event_label': obj && obj.process_name
     })
@@ -26,7 +26,7 @@ LoyJoy('boot', {
 
 ## How to connect LoyJoy to Google Tag Manager (dataLayer.push)
 
-LoyJoy events can be pushed to [Google Tag Manager](https://developers.google.com/tag-platform/tag-manager/web/datalayer) like this:
+LoyJoy events can be pushed to [Google Tag Manager](https://developers.google.com/tag-platform/tag-manager/web) like this:
 
 ```
 <script>
@@ -36,7 +36,7 @@ LoyJoy('boot', {
       'evt': evt,
       'process_id': obj && obj.process_id,
       'process_name': obj && obj.process_name
-    })  
+    })
   }],
   process: PROCESS_ID
 })
@@ -44,9 +44,9 @@ LoyJoy('boot', {
 ```
 
 
-## Events
+## JavaScript API Events
 
-Through the JavaScript API, following events are triggered for various events in the chat:
+Through the JavaScript API, following events are emitted for various events in the chat:
 
 
 | Event name          | Event description |
