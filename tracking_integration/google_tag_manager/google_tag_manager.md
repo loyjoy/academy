@@ -1,8 +1,8 @@
-# Integrate data from your LoyJoy chat into your tracking solution
+# Integrate data from your LoyJoy chat into Google Tag Manager
 
 With a LoyJoy chat on your site you can connect with your customers in a great way. You can watch how your customers use the chat in the LoyJoy backend. You can also extract a lot of data from LoyJoy and integrate it directly into your own website tracking solution to collect all analytics data in one place.
 
-## Connect LoyJoy in JavaScript to Google Tag Manager
+## How to connect LoyJoy to Google Tag Manager
 
 The tracking integration is based on the LoyJoy JavaScript API. Using the following code to integrate a LoyJoy chat in your site, LoyJoy events can be pushed to an existing Google Tag Manager data layer:
 
@@ -10,7 +10,11 @@ The tracking integration is based on the LoyJoy JavaScript API. Using the follow
 <script>
 LoyJoy('boot', {
   eventListeners: [function (evt, obj) {
-    dataLayer && dataLayer.push({ 'evt': evt, 'process_id': obj && obj.process_id, 'process_name': obj && obj.process_name })  
+    dataLayer && dataLayer.push({ 
+      'evt': evt, 
+      'process_id': obj && obj.process_id, 
+      'process_name': obj && obj.process_name 
+    })  
   }],
   process: PROCESS_ID
 })
