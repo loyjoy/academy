@@ -61,7 +61,7 @@ LoyJoy('boot', {
       fbq('track', evt)
     }
   }],
-  process: OPTIONAL_PROCESS_ID
+  process: PROCESS_ID
 })
 </script>
 ```
