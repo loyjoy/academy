@@ -12,9 +12,7 @@ LoyJoy('boot', {
   eventListeners: [function (evt, obj) {
     dataLayer && dataLayer.push({ 'evt': evt, 'process_id': obj && obj.process_id, 'process_name': obj && obj.process_name })  
   }],
-  process: OPTIONAL_PROCESS_ID,
-  serviceWorkerPath: OPTIONAL_SERVICE_WORKER_PATH,
-  tenant: OPTIONAL_TENANT_ID
+  process: OPTIONAL_PROCESS_ID
 })
 </script>
 ```
