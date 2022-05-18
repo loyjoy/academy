@@ -43,10 +43,10 @@
 
 ## Tracking
 - [Google Tag Manager](/tracking/google_tag_manager/google_tag_manager.md)
-- [Google Analytics](/tracking/google_analytics/google_analytics.md)
+- [Google Global Site Tag](/tracking/google_global_site_tag/google_global_site_tag.md)
 - [Facebook Pixel](/tracking/facebook_pixel/facebook_pixel.md)
 
 ## Integration
 - [Facebook Messenger](/integration/facebook_messenger/facebook_messenger.md)
 - [Pro Campaign](/integration/pro_campaign/pro_campaign.md)
-- [Sales Force](help/processes/process/subprocesses/salesforce.md)
+- [Salesforce](help/processes/process/subprocesses/salesforce.md)
