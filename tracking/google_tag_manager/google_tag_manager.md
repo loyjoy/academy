@@ -44,3 +44,30 @@ LoyJoy('boot', {
 })
 </script>
 ```
+
+
+## Example 1
+
+The following snippet is an example for a tenant, which only wanted to send specific customer interactions from the chat to Google Tag Manager:
+
+```
+<script>
+LoyJoy('boot', {
+  eventListeners: [function (evt, obj) {
+    if ([
+      'load', 'open', 'start', 'session_started', 'interaction', 'link_clicked', 'data_collection_answer',
+      'jump_decision_1', 'jump_decision_2', 'jump_decision_3', 'jump_decision_4', 'jump_decision_5', 'jump_decision_6', 'jump_decision_7',
+      'jump_persistent_1', 'jump_persistent_2', 'jump_persistent_3', 'jump_persistent_4', 'jump_persistent_5'      
+    ].includes(evt)) {
+      dataLayer && dataLayer.push({
+        'event': evt,
+        'event_category': 'LoyJoy ChatBot',
+        'event_action': obj && (obj.process_name || obj.process_id),
+        'event_label': evt + '_' + (obj && (obj.sub_process_name || obj.sub_process_id)) + '_' + location.href
+      })
+    }
+  }],
+  process: PROCESS_ID
+})
+</script>
+```
