@@ -42,9 +42,9 @@
 - [Manage live chat](/live/live_guide/live.md)
 
 ## Tracking
-- [Facebook Pixel](/tracking/facebook_pixel/facebook_pixel.md)
-- [Google Analytics](/tracking/google_analytics/google_analytics.md)
 - [Google Tag Manager](/tracking/google_tag_manager/google_tag_manager.md)
+- [Google Analytics](/tracking/google_analytics/google_analytics.md)
+- [Facebook Pixel](/tracking/facebook_pixel/facebook_pixel.md)
 
 ## Integration
 - [Facebook Messenger](/integration/facebook_messenger/facebook_messenger.md)
