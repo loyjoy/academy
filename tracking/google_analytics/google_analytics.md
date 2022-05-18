@@ -20,3 +20,25 @@ LoyJoy('boot', {
 ```
 
 You can choose the fields `event_category`, `event_label` and `value` freely when optimizing events for Google Analytics 4, as also described in [Measure Google Analytics Events](https://developers.google.com/analytics/devguides/collection/gtagjs/events).
+
+
+## Filter for specific LoyJoy events
+
+The LoyJoy JavaScript API will emit a large list of [events](/experiences/events/events.md) and thus possibly generate a lot of events in Google Analytics. LoyJoy events can be filtered to a subset such as `['load', 'open', 'start', 'session_started', 'interaction']` like this:
+
+```
+<script>
+LoyJoy('boot', {
+  eventListeners: [function (evt, obj) {
+    if (['load', 'open', 'start', 'session_started', 'interaction'].includes(evt)) {
+      gtag && gtag('event', evt, {
+        'event_category': 'LoyJoy Chat',
+        'event_action': obj && obj.process_name,
+        'event_label': evt + '_' + location.href
+      })
+    }
+  }],
+  process: PROCESS_ID
+})
+</script>
+```

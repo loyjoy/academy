@@ -17,7 +17,7 @@ Create your own pixel integration in three steps:
 
 ## 1. Choose/Create an Event to Track
 
-We could choose one of the [events already present](/experiences/events/events.md) in LoyJoy. For example `newsletter_opt_in`
+We could choose one of the [events already present](/experiences/events/events.md) in LoyJoy. For example `newsletter_single_opt_in`
 will be triggered when a customer gives a newsletter single opt-in in the chat.
 
 But we can also add custom event. For this, we can drag an `Event` process building block into our process and then
