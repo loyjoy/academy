@@ -25,7 +25,7 @@ LoyJoy('boot', {
 </script>
 ```
 
-You can choose the fields `event`, `eventCategory`, `eventAction` and `eventLabel` freely when optimizing events for Google Tag Manager. The aforementioned fields intentionally resemble the fields for Google Analytics 4, if Google Analytics 4 is the primary analytics platform configured behind Google Tag Manager.
+You can choose the fields `event`, `event_category`, `event_action` and `event_label` freely and/or add other fields when optimizing events for Google Tag Manager. The aforementioned fields intentionally resemble the fields for Google Analytics 4, in case that Google Analytics 4 is the primary analytics platform configured behind Google Tag Manager.
 
 
 ## How to connect LoyJoy to Google Analytics 4 via Global Site Tag (gtag.js)
