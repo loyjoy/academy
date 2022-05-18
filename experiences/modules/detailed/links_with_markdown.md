@@ -19,16 +19,13 @@ However, if you want to trigger some JavaScript written by you on a Web page hos
 This is some link [link text](https://www.example.org)(@test) that triggers an event named test.
 ```
 
-You can choose any event name you like, `test` is just an example. Links formatted this way will trigger an event listener as described in the [LoyJoy JavaScript API](JAVASCRIPT_API.md), which then can call arbitrary JavaScript code written by you:
+You can choose any event name you like, `test` is just an example. Links formatted this way will trigger an event listener as described in the [LoyJoy JavaScript API](/experiences/publish/javascript_api/javascript_api.md), which then can call arbitrary JavaScript code written by you:
 
 ```
 <script>
 LoyJoy('boot', {
-  bot: BOT_ID,
   eventListeners: [function (evt, obj) {}],
-  process: OPTIONAL_PROCESS_ID,
-  serviceWorkerPath: OPTIONAL_SERVICE_WORKER_PATH,
-  tenant: OPTIONAL_TENANT_ID
+  process: PROCESS_ID
 })
 </script>
 ```
