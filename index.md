@@ -49,3 +49,4 @@
 ## Integration
 - [Facebook Messenger](/integration/facebook_messenger/facebook_messenger.md)
 - [Pro Campaign](/integration/pro_campaign/pro_campaign.md)
+- [Sales Force](help/processes/process/subprocesses/salesforce.md)
