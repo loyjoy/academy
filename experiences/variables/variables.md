@@ -37,9 +37,6 @@ The following step works with every module, we are using the module product over
 
 Click on it. Afterward, choose “add condition” and fill in the three fields. For this, you need to remember the given names in the questionnaire.
 
-<p align="center">
-  <img src="addCondition.png" alt="Set a condition at the modules" title="Set a condition at the modules" width="300"/>
-</p>
 ![Set a condition at the modules](addCondition.png "Set a condition at the modules")
 
 For the first field choose “process variable”. Fill in the given name for the question. In our example, it was a “hobby”. 
