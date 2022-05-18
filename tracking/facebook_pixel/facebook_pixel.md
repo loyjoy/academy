@@ -7,7 +7,7 @@ Right now, it is not possible to include the Facebook Pixel in the Chat itself. 
 makes an easy integration via the website possible.
 
 Our [JavaScript API](/experiences/publish/javascript_api/javascript_api.md) allows the website to handle events that are triggered in the
-chat. Some events are triggered [automatically](/tracking_integration/google_tag_manager/google_tag_manager.md), but you can also set-up
+chat. Some events are triggered [automatically](/experiences/events/events.md), but you can also set-up
 custom events to be triggered inside the chat.
 
 Create your own pixel integration in three steps:
@@ -17,7 +17,7 @@ Create your own pixel integration in three steps:
 
 ## 1. Choose/Create an Event to Track
 
-We could choose one of the [events already present](/tracking_integration/google_tag_manager/google_tag_manager.md) in LoyJoy. For example `newsletter_opt_in`
+We could choose one of the [events already present](/experiences/events/events.md) in LoyJoy. For example `newsletter_opt_in`
 will be triggered when a customer gives a newsletter single opt-in in the chat.
 
 But we can also add custom event. For this, we can drag an `Event` process building block into our process and then

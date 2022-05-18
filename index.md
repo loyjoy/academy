@@ -41,8 +41,11 @@
 ## Live
 - [Manage live chat](/live/live_guide/live.md)
 
-## Integration & Tracking
-- [Facebook Pixel](/tracking_integration/facebook_pixel/facebook_pixel.md)
-- [Facebook Messenger](/tracking_integration/facebook_integration/facebook_integration.md)
-- [Google Tag Manager](/tracking_integration/google_tag_manager/google_tag_manager.md)
-- [Pro Campaign](/tracking_integration/pro_campaign/OVERVIEW.md)
+## Tracking
+- [Facebook Pixel](/tracking/facebook_pixel/facebook_pixel.md)
+- [Google Analytics](/tracking/google_analytics/google_analytics.md)
+- [Google Tag Manager](/tracking/google_tag_manager/google_tag_manager.md)
+
+## Integration
+- [Facebook Messenger](/integration/facebook_messenger/facebook_messenger.md)
+- [Pro Campaign](/integration/pro_campaign/pro_campaign.md)
