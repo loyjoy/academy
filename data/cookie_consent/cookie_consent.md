@@ -38,7 +38,7 @@ whether the cookie consent banner is still shown and starts LoyJoy if it
 is not. Otherwise it calls itself again, after a wait of 0.4 seconds.
 
 ```html
-<script src="https://cloud.loyjoy.com/widget/BOT_ID"></script>
+<script src="https://cloud.loyjoy.com/widget/PROCESS_ID"></script>
 <script>
   function checkAndStart() {
     
@@ -49,7 +49,6 @@ is not. Otherwise it calls itself again, after a wait of 0.4 seconds.
     if (popups.length > 0 && window.getComputedStyle(popups[0]).display === "none") {
       // simply start LoyJoy
       LoyJoy("boot", {
-        bot:"<BOT_ID>",
         cookieConsent: function() {
           return "0" == ("; "+document.cookie).split("; MarketingCookiesDisabled\x3d").pop().split(";").shift()
         },
