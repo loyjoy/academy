@@ -31,3 +31,15 @@
     argument2: Pattern - the kind of pattern you want to get e.g. YY-MM-dd ![Check out the official pattern options](https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html)
     argument3: Timezone id - the id of the timezone of the location you are interested in ![All timezones]https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
    
+  ### CustomerAgeYears
+    This function calculates the age of the customer based on his date of birth, which is stored in the variable birthdate.
+    The variable will be filled automatically if you use the birtdate module.
+    
+  ### date_from_instant
+  
+  ### Formatted Date today
+    Returns the date of today to a format like dd/MM/YY
+    
+  ### Formatted Date tomorrow
+    Returns the date of tomorrow to a format like dd/MM/YY
+    
