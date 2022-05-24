@@ -8,6 +8,7 @@ Manage all your Texts in one place - On the Texts tab, all text fields are avail
 You can search for individual texts and distinguish between customised or all texts. Customised texts display every text that you have altered in your experience while all text include the standardised text we have put in before for a smooth chat flow. 
 
 ![Text](text.png “Text”)
+![Textpix](textpic.png "Textpic")
 
 If you offer your experience in more than one language, you are also able to quickly double-check all languages.
 
