@@ -3,7 +3,7 @@
 
 Manage all your Texts in one place - On the Texts tab, all text fields are available in aggregated form. Double-check your wording or have a copywriter edit right on the platform. Use the *'Search texts'* input field to quickly find what you are looking for!
 
-![Textold](textold.png "Textold")
+![Textold](textold.gif "Textold")
 
 You can search for individual texts and distinguish between customised or all texts. Customised texts display every text that you have altered in your experience while all text include the standardised text we have put in before for a smooth chat flow. 
 
