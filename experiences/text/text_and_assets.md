@@ -1,7 +1,7 @@
 
 # Texts 
 
-Manage all your Texts in one place - On the Texts tab, all text fields are available in aggregated form. Double-check your wording or have a copywriter edit right on the platform. 
+Manage all your Texts in one place - On the Texts tab, all text fields are available in aggregated form. Double-check your wording or have a copywriter edit right on the platform. Use the *'Search texts'* input field to quickly find what you are looking for!
 
 ![Alter Text](alter_text.gif “Alter Text”)
 
