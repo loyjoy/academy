@@ -13,7 +13,7 @@ LoyJoy('boot', {
       'event': evt,
       'event_category': 'LoyJoy Chat',
       'event_action': obj && obj.process_name,
-      'event_label': evt + '_' + location.href
+      'event_label': evt + '/' + (obj.label ? obj.label + '/' : '') + location.href
     })
   }],
   process: PROCESS_ID
@@ -38,7 +38,7 @@ LoyJoy('boot', {
         'event': evt,
         'event_category': 'LoyJoy Chat',
         'event_action': obj && obj.process_name,
-        'event_label': evt + '_' + location.href
+        'event_label': evt + '/' + (obj.label ? obj.label + '/' : '') + location.href
       })
     }
   }],
@@ -66,7 +66,7 @@ LoyJoy('boot', {
         'event': evt,
         'event_category': 'LoyJoy ChatBot',
         'event_action': obj && (obj.process_name || obj.process_id),
-        'event_label': evt + '_' + (obj && (obj.sub_process_name || obj.sub_process_id)) + '_' + location.href
+        'event_label': evt + '_' + (obj && (obj.sub_process_name || obj.sub_process_id)) + '_' + (obj.label ? obj.label + '_' : '') + location.href
       })
     }
   }],
