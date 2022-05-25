@@ -7,9 +7,9 @@ This article will guide you through the features of the LoyJoy Home View and exp
 
 Check out the different Home View components:
 
-- [Navigation bar](#navigation-bar)
 - [Hero widget](#hero-widget)
 - [Stories widget](#stories-widget)
+- [Groups widget](#groups-widget)
 - [Notifications widget](#notifications-widget)
 - [Roster widget](#roster-widget)
 - [Search widget](#search-widget)
@@ -18,9 +18,20 @@ Check out the different Home View components:
 
 ### Set up the Home View
 
-Open the Home View editor by clicking on *Home Views* next to your Experiences. Create a new Home View in the upper right corner. Now there are several widgets that you can add to your Home View.
+Open the Home View overview by clicking on *Home Views* next to your experiences. You can create a new Home view or enter a copy token in the upper right corner. 
 
 ![Homeview](Homeviews.png "Homeview")
+
+Before entering any widgets, let’s start by assembling the body of your home view. First, choose how compact you would like your header as it influences your ability to enter a title or text at the beginning. 
+
+![Body](body_one.png "Body")
+![Body](body_two.png "Body")
+
+You can further alter your header text and background color, as well as the background of the body. 
+
+Now you can add some fun widgets to fill your Home View!
+
+*p.s. Find some fun alterations for your widgets explained under the group widget!*
 
 To do so, click the plus of the widget of your choice.
 
@@ -29,16 +40,6 @@ To do so, click the plus of the widget of your choice.
 Drag and drop the components until they are in your preferred order.
 
 ![Switch Widgets](Switch_widget.gif "Switch Widgets")
-
-### Navigation bar
-
-Let's start with the navigation bar.
-
-![Navigation](navbar.png "Navigation")
-
-Here you can add an image that will be displayed at the top of the page in the header.
-
-![Navigation bar](Navigationbar.png "Navigation bar")
 
 ### Hero widget
 
@@ -78,11 +79,21 @@ Watch your Story in the preview and go live!
 
 ### Groups widget
 
-Place your experiences in the Home View by using the groups widget.
+Use the groups widget to place your experiences directly into your Home View and make them easily accessible for your users. 
 
 ![Group](groupswid.png "Group")
 
 ![Group widget](Groupone.png "Group widget")
+
+Before you enter your experiences, select the settings button on the right to find additional ways to personalise the widget. You can find the settings on any widget you enter into your Home View. 
+
+![Group widget Settings](Groupsettings.png "Group widget Settings")
+![Group Settings](groupset.png "Group Settings")
+
+You can enter a title, alter the colours and layout. Furthermore, you can decide if the widget should be styled as a card. See below what the card style looks like in your Home View. 
+
+![Group card](card_yes.png "Group card")
+![Group card](card_no.png "Group card")
 
 To select which experience groups to display in the Home View just active the button of each experience group. Add an image and avatar image to each experience of your Home View and choose a title and a slogan.
 
