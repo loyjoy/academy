@@ -1,7 +1,18 @@
 # Process module conditions
   # Functions
   ##  Where do you find functions?
-    ![Condition - function](functionsWhere.png "Condition - function")
+  
+    Option 1: At any process module
+    <img width="373" alt="Screenshot 2022-05-25 at 10 21 04" src="https://user-images.githubusercontent.com/77499039/170216504-6363c15f-c8ea-4f66-8057-a2ec64bd544a.png">
+    <img width="923" alt="Screenshot 2022-05-25 at 10 24 19" src="https://user-images.githubusercontent.com/77499039/170216767-2bbc9458-50af-43c3-a4f3-8a821f511cc8.png">
+
+    Option 2: At questionnaires for conditional visibility of the answers
+    <img width="793" alt="Screenshot 2022-05-25 at 10 28 26" src="https://user-images.githubusercontent.com/77499039/170217734-9b3487b8-22c2-49a0-8dab-3fab06e475d4.png">
+    
+    Option 3: Anywhere you can set variable value manually
+    <img width="729" alt="Screenshot 2022-05-25 at 10 30 26" src="https://user-images.githubusercontent.com/77499039/170218138-9aee580d-bbe0-4d6f-98fa-d03c9c8d2926.png">
+
+    
   ##  What are functions used for?
     Functions are used for conditional rendering of process modules. Simply stated:
     You can dynamically decide with functions if a process module will be shown in the chat flow.
