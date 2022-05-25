@@ -33,7 +33,7 @@ Now you can add some fun widgets to fill your Home View!
 
 *p.s. Find some fun alterations for your widgets explained under the group widget!*
 
-To do so, click the plus of the widget of your choice.
+To add widgets, click the plus of the widget of your choice.
 
 ![Add Widgets](Add_widget.gif "Add Widgets")
 
@@ -79,7 +79,7 @@ Watch your Story in the preview and go live!
 
 ### Groups widget
 
-Use the groups widget to place your experiences directly into your Home View and make them easily accessible for your users. 
+Use the groups widget to place your experiences directly into your Home View and make them easily accessible for your users. Click on *Add group* to get started!
 
 ![Group](groupswid.png "Group")
 
