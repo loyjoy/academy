@@ -82,6 +82,7 @@
 | [Scanner](/help/processes/process/subprocesses/scanner.md) | Let the customer scan something|  Display a scanner so your customers can scan products, QR codes and barcodes  | 
 | [Snapshot](/help/processes/process/subprocesses/snapshot.md) | Use the camera in the chat and ask customers to take a picture or use it as a scanner|  Let the customer upload a picture to enter a raffle  |
 | [Video gallery](/help/processes/process/subprocesses/video.md) | Add videos to chat	|  Lighten up the experience by adding media | 
+| [Lottie animation](/help/processes/process/subprocesses/video.md) | Add a lottie animation into the chat	|  Lighten up the experience by adding animations | 
 
 
 ### Activation
