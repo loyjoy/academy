@@ -45,8 +45,6 @@
   ### CustomerAgeYears
     This function calculates the age of the customer based on his date of birth, which is stored in the variable birthdate.
     The variable will be filled automatically if you use the birtdate module.
-    
-  ### date_from_instant
   
   ### Formatted Date today
     Returns the date of today to a format like dd/MM/YY
@@ -55,7 +53,7 @@
     Returns the date of tomorrow to a format like dd/MM/YY
     
   ### Get Param
-    THis function extracts an argument from the url. Argument 1 is the name of the parameter you want to extract.
+    This function extracts an argument from the url. Argument 1 is the name of the parameter you want to extract.
     In the url it lookes like this:
     .../pathofcurrenturl?variablename=variablevalue
     or
@@ -63,3 +61,12 @@
     for multiple parameters.
     
   ### HasBpmnProcessVariable
+    HasBpmnProcessVariable returns 'true' if the variable has a value and 'false' if the variable has no value.
+    
+  ### HasDeniedAnySignleOptIn
+    HasDeniedAnySignleOptIn returns 'true' if the user who is currently signed-in has ever denied any single-opt-in and 'false' if not.
+    
+  ### I18nTranslate
+    This function returns the set translation in the users current language. The function expects the key for the I18nEntry as argument.
+    
+  ### Interpolate
