@@ -16,7 +16,7 @@
 
 + There are two tabs in this view: [KPI](/analytics/kpi/kpi.md) & Drilldown. The KPI tab shows the aggregated numbers and general charts for this experience. The drilldown tab shows the heatmap depicting which process modules were visited how often and allows you to click on each module to analyse module-specific data.
 
-![Drill down](drill_down.gif.png "Drill down")
+![Drill down](drill_down.gif "Drill down")
 _____________________
 
 ## 2. Drill-down tab at a glance
