@@ -66,6 +66,8 @@ In this chart you can see the NPS scores per score.
 Download the answers (typed content) of the customers in the NPS rating here. You can choose between the three categories [detractors](/analytics/kpi/kpi.md#detractors), 
 [passives](/analytics/kpi/kpi.md#passives) and [promoters](/analytics/kpi/kpi.md#promoters).
 
+![NPS](nps.png "NPS")
+
 ### 3.4. Sign in
 Here you get an overview of how many customers have signed in and how often the pin email was sent. You can also see how often the pin was successfully or 
 unsuccessfully entered. In addition, the new customers are also counted. These are customers who enter their email address for the first time.
@@ -73,9 +75,13 @@ unsuccessfully entered. In addition, the new customers are also counted. These a
 ### 3.5. Decision Jump
 Look at the split of how many clients chose which options
 
+![Decision Jump](decjump.png "Decision Jump")
+
 ### 3.6. Loyalty points
 This module provides you with information on how many loyalty points have been awarded, how many different customers have received these points and how many 
 rewards have been redeemed.
+
+![Loyalty](loyalty.png "Loyalty")
 
 ### 3.7. Rewards
 Here you can find out how many points have been redeemed in total and how many rewards they have been distributed over.
@@ -87,6 +93,8 @@ rejected and how often opt-outs occurred.
 ### 3.9. Quiz
 See here how many correct and incorrect answers were given and how many pictures were uploaded. You also get an overview of the answer distribution for the 
 individual quiz questions.
+
+![Quiz](quiz.png "Quiz")
 
 ### 3.10. Instant win
 Here you can see how many different participants there were and how many in total. You can also see how many participants won and how many lost.
@@ -105,6 +113,8 @@ Here you can see how many codes were entered, how many of them were correct and 
 
 ### 3.15. Personal data
 In the modules that request personal data (birthdate, first name, phone number, postal address), you can see how many customers have entered data.
+
+![Personal data](persdata.png "Personal data")
 
 
 
