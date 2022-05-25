@@ -70,3 +70,32 @@
     This function returns the set translation in the users current language. The function expects the key for the I18nEntry as argument.
     
   ### Interpolate
+  
+  ### IpAdress
+    Returns the IP address of the current device.
+    
+  ### IsAuthenticated
+    Returns 'true' if the user is signed in and 'false' if not.
+    
+  ### IsMobile
+    Returns 'true' if the current user uses a mobile device and 'false' if not.
+    
+  ### IsoLocalDate
+    Returns the local date like 'YYYY-MM-dd'.
+    
+  ### IsoLocalDateTime
+    Returns the local date like 'YYYY-MM-ddThh:mm.fffffffff'.
+    
+  ### LocalDateDayOfMonth
+    Returns the local date like 'dd'.
+    
+  ### LocalDateDayOfWeek
+    Returns the local date day of the week as number like 'E' eg. '3'.
+    
+  ### LocalDateDayOfYear
+    Returns the local date like 'DD' (Day of Year).
+    
+  ### LocalDateYear
+    Returns the local date like 'YYYY'.
+    
+  ### Newsletter double-opt-in
