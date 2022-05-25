@@ -44,3 +44,11 @@
     Returns the date of tomorrow to a format like dd/MM/YY
     
   ### Get Param
+    THis function extracts an argument from the url. Argument 1 is the name of the parameter you want to extract.
+    In the url it lookes like this:
+    .../pathofcurrenturl?variablename=variablevalue
+    or
+    .../pathofcurrenturl?variablenam1=variablevalue1&variablename2=variablevalue2
+    for multiple parameters.
+    
+  ### HasBpmnProcessVariable
