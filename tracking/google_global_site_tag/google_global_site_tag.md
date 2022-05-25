@@ -12,7 +12,7 @@ LoyJoy('boot', {
     gtag && gtag('event', evt, {
       'event_category': 'LoyJoy Chat',
       'event_action': obj && obj.process_name,
-      'event_label': evt + '_' + location.href
+      'event_label': evt + '/' + (obj.label ? obj.label + '/' : '') + location.href
     })
   }],
   process: PROCESS_ID
@@ -36,7 +36,7 @@ LoyJoy('boot', {
       gtag && gtag('event', evt, {
         'event_category': 'LoyJoy Chat',
         'event_action': obj && obj.process_name,
-        'event_label': evt + '_' + location.href
+        'event_label': evt + '/' + (obj.label ? obj.label + '/' : '') + location.href
       })
     }
   }],
