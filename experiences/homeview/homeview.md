@@ -83,11 +83,8 @@ Use the groups widget to place your experiences directly into your Home View and
 
 ![Group](groupswid.png "Group")
 
-![Group widget](Groupone.png "Group widget")
-
 Before you enter your experiences, select the settings button on the right to find additional ways to personalise the widget. You can find the settings on any widget you enter into your Home View. 
 
-![Group widget Settings](Groupsettings.png "Group widget Settings")
 ![Group Settings](groupset.png "Group Settings")
 
 You can enter a title, alter the colours and layout. Furthermore, you can decide if the widget should be styled as a card. See below what the card style looks like in your Home View. 
