@@ -146,7 +146,7 @@ LoyJoy('boot', {
 
 ## Events
 
-The chat emits events for chat events (open, close, sign-up, etc.) that can be registered for with event listeners. 
+The chat emits [events](/experiences/events/events.md) for chat events (open, close, sign-up, etc.) that can be registered for with event listeners. 
 
 ```html
 <script>
