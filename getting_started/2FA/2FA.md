@@ -36,6 +36,6 @@ You can log in to LoyJoy using:
 ![Security keys](security_keys.png "Security keys")
 
 
-5️⃣ Add your key in the form of hardware key (FIDO2), fingerprint sensor or Android device. We strongly recommend using a FIDO2 key, which can be bought as [USB + wireless NFC](https://www.mtrix.de/shop/security-key-nfc/) or [USB-only](https://www.mtrix.de/shop/security-key-fido2/) and are used by the LoyJoy team as well as most LoyJoy customers.
+5️⃣ Add your key in the form of hardware key (FIDO2), fingerprint sensor or Android device. 
 
-A FIDO2 key makes it most easy to switch between your devices (computer, mobile phone), and can be used not only to secure your LoyJoy user account, but also all kinds of other [services](https://www.yubico.com/de/works-with-yubikey/catalog/?sort=popular) such as Google, AWS, Salesforce etc.
+We strongly recommend using a FIDO2 key, which can be bought as [USB + wireless NFC](https://www.mtrix.de/shop/security-key-nfc/) or [USB-only](https://www.mtrix.de/shop/security-key-fido2/). The LoyJoy team members as well as most LoyJoy customers use the [USB + wireless NFC](https://www.mtrix.de/shop/security-key-nfc/) version, which makes it easy to switch between your devices (computer, mobile phone), and can be used not only to secure your LoyJoy user account, but also all kinds of other [services](https://www.yubico.com/de/works-with-yubikey/catalog/?sort=popular) such as Google, AWS, Salesforce etc.
