@@ -1,6 +1,8 @@
 # JavaScript API Events
 
-Through LoyJoy [JavaScript API](/experiences/publish/javascript_api/javascript_api.md) following events are emitted for various process modules in the chat. The following list is not complete and will grow with the growing feature set of LoyJoy Cloud Platform. Also with the [Event process module](/help/processes/process/subprocesses/event.md) custom events can be defined and emitted, which are not contained in this list, either.
+Through LoyJoy [JavaScript API](/experiences/publish/javascript_api/javascript_api.md) following events are emitted automatically for the various process modules in the chat.
+
+The following list is not complete and will grow with the growing feature set of LoyJoy Cloud Platform. Also with the [Event process module](/help/processes/process/subprocesses/event.md) custom events can be defined and emitted, which are not contained in this list, either.
 
 
 | Event name          | Event description |
