@@ -9,10 +9,10 @@ After confirming your account, please type in your email address to access the t
 
 ![sign in to LoyJoy](sign_in.png "sign in to LoyJoy")
 
-Everybody has troubles remembering passwords. That is why we retired the password for good. Each time you want to sign in to the LoyJoy platform, we will send you a magic link via email. Just click the link to access the platform. 
-
-[*See also Two-factor-authentification*](/getting_started/2FA/2FA.md)
+Everybody has trouble remembering passwords. That is why we retired the password for good. Each time you want to sign in to the LoyJoy platform, we will send you a magic link via email. Just click the link to access the platform. 
 
 ![sign in with magic link](magic_link.png "sign in with magic link")
 
 Tada! Welcome to the LoyJoy platform. It's where the magic happens! 🎉
+
+When you are signed in, we strongly recommend you to enable [*Two-factor-authentification*](/getting_started/2FA/2FA.md) for your user account.
