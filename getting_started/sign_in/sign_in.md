@@ -13,6 +13,4 @@ Everybody has trouble remembering passwords. That is why we retired the password
 
 ![sign in with magic link](magic_link.png "sign in with magic link")
 
-Tada! Welcome to the LoyJoy platform. It's where the magic happens! 🎉
-
-When you are signed in, we strongly recommend you to enable [*Two-factor-authentification*](/getting_started/2FA/2FA.md) for your user account.
+Tada! Welcome to the LoyJoy platform. It's where the magic happens! 🎉 After you are signed in, we strongly recommend you to enable [*Two-factor-authentification*](/getting_started/2FA/2FA.md) to secure your user account even more.
