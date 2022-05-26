@@ -2,7 +2,11 @@
 
 Through LoyJoy [JavaScript API](/experiences/publish/javascript_api/javascript_api.md) following events are emitted automatically for the various process modules in the chat. Typically each event is prefixed with the name of the process module, e.g. event `birthdate_entered` for the [Birthdate process module](/help/processes/process/subprocesses/birthdate.md).
 
-The following list is not complete and will grow with the growing feature set of LoyJoy Cloud Platform. Also with the [Event process module](/help/processes/process/subprocesses/event.md) custom events can be defined and emitted, which are not contained in this list, either.
+The following list covers most process modules and events. Please note that:
+- the event names do not form a forever constant API, as they may be extended and changed with the further development and growing feature set of LoyJoy Cloud Platform.
+- additional event names that are not included in this list may be emitted by the [JavaScript API](/experiences/publish/javascript_api/javascript_api.md), as with the [Event process module](/help/processes/process/subprocesses/event.md) custom events can be defined and emitted by the modeller
+
+
 
 
 | Event name          | Event description |
