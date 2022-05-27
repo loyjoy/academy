@@ -17,7 +17,8 @@
     Functions are used for conditional rendering of process modules. Simply stated:
     You can dynamically decide with functions if a process module will be shown in the chat flow.
   ##  How does it work?
-    Functions return a value, which you can compare with a fixed value, the value of a variable or with the return value of a different function
+    Functions return a value, which you can compare with a fixed value, 
+    the value of a variable or with the return value of a different function
     ![Condition - function](functionsWhere.png "Condition - function")
    
     What kind of functions are existing and how are they used?
@@ -113,7 +114,8 @@
     This function calculates the number of participation of the current giveaway.
     
   ### PadZeroes
-    'PadZeroes' is used to pad a number or even a string with zeroes. The first argument is the variable which value you want to pad with zeroes. The         second argument is the amount of digits the value should have afterwards:
+    'PadZeroes' is used to pad a number or even a string with zeroes. The first argument is the variable
+    which value you want to pad with zeroes. The second argument is the amount of digits the value should have afterwards:
     Argument 1: '12'
     Argument 2: '4'
     '12' -> '0012'
@@ -131,10 +133,12 @@
     --------
     
   ### PushLiteral
-    'PushLiteral' adds a value (Argument 2) to the variable (Argument 1). The variable has to be in an array form before (e.g. multiple choice question), which does not mean that the variable needs to contain multiple values.
+    'PushLiteral' adds a value (Argument 2) to the variable (Argument 1). The variable has to be in an array form 
+    before (e.g. multiple choice question), which does not mean that the variable needs to contain multiple values.
     
   ### PushVariable
-    Just like 'PushLiteral' but it adds the value of a variable to the array. Keep in mind that if you do change the value of the variable you added afterwards, it wont change the values inside the array.
+    Just like 'PushLiteral' but it adds the value of a variable to the array. Keep in mind that if you do change 
+    the value of the variable you added afterwards, it wont change the values inside the array.
     
   ### RandomInt
     This function returns a random integer between the borders (argument 1 and argument 2) including the borders.
@@ -172,7 +176,8 @@
     -> true
     
   ### StringReplace
-    Replaces every occurency of the string that should be replaced. And returns that value. It does not have any impact on the input variable(argument 1). It works on arrays as well.
+    Replaces every occurency of the string that should be replaced. And returns that value. 
+    It does not have any impact on the input variable(argument 1). It works on arrays as well.
     argument 1: 'helloll'
     argument 2: 'll'
     argument 3: 'bb'
