@@ -12,7 +12,7 @@ All notable updates and changes to the LoyJoy Cloud are documented here.
   - It is now possible to add file attachments to emails
 - Process module `Variable`
   - It is now possible to set multiple variables
-- Process module `Welcome
+- Process module `Welcome`
   - Recurrent users are now greeted differently
 
 
