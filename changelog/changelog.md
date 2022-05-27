@@ -32,7 +32,8 @@ All notable updates and changes to the LoyJoy Cloud are documented here.
 - Persistent quickreplies are now hidden when the user enters the live chat
 - When a form-based question has been asked, clicking on a persistent quickreply will no longer treated as an answer
 - Products in the product selection of the shopify module can now be add to the cart although the chat is no longer in the shopify module
-
+- A bug was fixed that caused the DMN to evaluate the rules incorrectly
+ 
 ## release-2022-05-12
 
 ### Added
