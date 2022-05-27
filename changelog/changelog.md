@@ -10,8 +10,10 @@ All notable updates and changes to the LoyJoy Cloud are documented here.
   - It is now possible to add file attachments to emails
 - Process module `Send Email`
   - It is now possible to add file attachments to emails
-- Variable
+- Process module `Variable`
   - It is now possible to set multiple variables
+- Process module `Welcome
+  - Recurrent users are now greeted differently
 
 
 ### Platform
@@ -21,10 +23,13 @@ All notable updates and changes to the LoyJoy Cloud are documented here.
   - The expiry time of relevant entities after which entities are deleted can now be configured
 - Impressum and Privacy
   - These options are now available to be shown in the navigation bar
+- NLU
+  - It is now transparent which intents were edited since the last training
 
 ### Fixes
 - Persistent quickreplies are now hidden when the user enters the live chat
 - When a form-based question has been asked, clicking on a persistent quickreply will no longer treated as an answer
+- Products in the product selection of the shopify module can now be add to the cart although the chat is no longer in the shopify module
 
 ## release-2022-05-12
 
