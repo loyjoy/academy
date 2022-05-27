@@ -25,6 +25,8 @@ All notable updates and changes to the LoyJoy Cloud are documented here.
   - These options are now available to be shown in the navigation bar
 - NLU
   - It is now transparent which intents were edited since the last training
+- Analytics
+  - The amount of total answers for decision jump will now be shown
 
 ### Fixes
 - Persistent quickreplies are now hidden when the user enters the live chat
