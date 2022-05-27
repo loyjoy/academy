@@ -4,25 +4,27 @@
 All notable updates and changes to the LoyJoy Cloud are documented here.
 
 
-## unreleased
-- Impressum and Privacy
-  - These options are now available to be shown in the navigation bar
-
-### Added
+### Process Modules
 
 - Process module `Pdf`
   - It is now possible to add file attachments to emails
 - Process module `Send Email`
   - It is now possible to add file attachments to emails
+- Variable
+  - It is now possible to set multiple variables
+
+
+### Platform
 - Sessions
   - The expiry time of a session can now be adjusted in the branding tab of an experience
 - Entity storage time
   - The expiry time of relevant entities after which entities are deleted can now be configured
+- Impressum and Privacy
+  - These options are now available to be shown in the navigation bar
 
-#### Process Modules
-- Variable
-  - It is now possible to set multiple variables
-
+### Fixes
+- Persistent quickreplies are now hidden when the user enters the live chat
+- When a form-based question has been asked, clicking on a persistent quickreply will no longer treated as an answer
 
 ## release-2022-05-12
 
