@@ -27,7 +27,7 @@ All notable updates and changes to the LoyJoy Cloud are documented here.
   - It is now transparent which intents were edited since the last training
 - Analytics
   - The amount of total answers for decision jump will now be shown
-  - By default using the chat in the manager does not log analytics event anymore. To log analytics event, use the option at the refresh preview button.
+  - By default, using the chat in the manager does not log analytics events anymore. To log analytics event, use the option at the refresh preview button.
 
 ### Fixes
 - Persistent quickreplies are now hidden when the user enters the live chat
