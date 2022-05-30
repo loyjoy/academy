@@ -23,6 +23,9 @@ All notable updates and changes to the LoyJoy Cloud are documented here.
   - It is now possible to set multiple variables
 - Process module `Welcome`
   - Recurrent users are now greeted differently
+- Process module `External link`
+  - Configuration in the manager has been simplified
+  - Links can now be opened in the current tab, i.e. not opening a new tab, when clicked
 
 ### Platform
 
@@ -34,6 +37,7 @@ All notable updates and changes to the LoyJoy Cloud are documented here.
   - It is now visible which intents were edited since the last training
 - Analytics
   - The amount of total answers for decision jump will now be shown
+- Some JavaScript Events now offer a label in the event body, e.g. describing which button was clicked in the chat
 
 ### Fixes
 
