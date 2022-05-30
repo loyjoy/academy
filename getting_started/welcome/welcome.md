@@ -13,6 +13,8 @@ Turn your brand into a conversation in just a few steps.
 
 Just click on the videos and see it works. Enjoy and build your own chatbot straight away 😎
 
+🎬  [![15 minute short-version](15min "15min.png")]([hyperlink](https://youtu.be/yWjV9JyEatY))
+
 🎬  [15 minute short-version](https://youtu.be/yWjV9JyEatY) <br/>
 🎬  [90 minute onboarding part](https://youtu.be/qpZdAn9mJ7g) <br/>
 🎬  [90 minute onboarding part 2](https://youtu.be/zBQmZmX0mHk) <br/>
