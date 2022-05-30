@@ -13,11 +13,10 @@ Turn your brand into a conversation in just a few steps.
 
 Just click on the videos and see it works. Enjoy and build your own chatbot straight away 😎
 
-🎬  [![15 minute short-version](15min "15min.png")]([hyperlink](https://youtu.be/yWjV9JyEatY))
+[![15 minute short-version](15min.png "15min")](https://youtu.be/yWjV9JyEatY)
+[![90 minute short-version part 1](90min1.png "15min")](https://youtu.be/qpZdAn9mJ7g)
+[![90 minute short-version part 2](90min2.png "15min")](https://youtu.be/zBQmZmX0mHk)
 
-🎬  [15 minute short-version](https://youtu.be/yWjV9JyEatY) <br/>
-🎬  [90 minute onboarding part](https://youtu.be/qpZdAn9mJ7g) <br/>
-🎬  [90 minute onboarding part 2](https://youtu.be/zBQmZmX0mHk) <br/>
 
 Special hint: The onboarding videos have chapters- check out the description
 and look for the chapters that are most relevant for you! 
@@ -30,4 +29,3 @@ Contact us now via sales@loyjoy.com or [book your demo session](https://calendly
 We hope that gets you started fast- enjoy. <br/>
 
 __Your LoyJoy Team 🚀__
-
