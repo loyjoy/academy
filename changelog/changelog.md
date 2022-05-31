@@ -20,7 +20,7 @@ All notable updates and changes to the LoyJoy Cloud are documented here.
 - Process module `Variable`
   - It is now possible to set multiple variables
 - Process module `Welcome`
-  - Recurrent users are now greeted differently
+  - Returning customers are now greeted differently
 - Process module `External link`
   - Configuration in the manager has been simplified
   - Links can now be opened in the current tab, i.e. not opening a new tab, when clicked
@@ -28,20 +28,20 @@ All notable updates and changes to the LoyJoy Cloud are documented here.
 ### Platform
 
 - Sessions
-  - The expiry time of a session can now be adjusted in the branding tab of an experience
-- Impressum and Privacy
-  - These options are now available to be shown in the navigation bar
+  - The expiry time of a session in the chat can now be adjusted in the branding tab of an experience
+- Imprint and Privacy
+  - These options are now available to be shown in the menu of the navigation bar
 - NLU
-  - It is now visible which intents were edited since the last training
+  - It is now visible which intents were edited since the last AI training
 - Analytics
-  - The amount of total answers for decision jump will now be shown
+  - The amount of total answers for decision jumps will now be shown
 - Some JavaScript Events now offer a label in the event body, e.g. describing which button was clicked in the chat
 - By default, using the chat in the manager does not log analytics events anymore. To log analytics event, use the option at the refresh preview button.
 
 ### Fixes
 
-- Persistent quick replies are now hidden when the user enters the live chat
-- When a form-based question has been asked, clicking on a persistent quickreply will no longer treated as an answer
+- Persistent quick replies are now hidden when the customer enters a live chat
+- When a form-based question has been asked, clicking on a persistent quick reply will no longer be treated as a form answer
 - Products in the product selection of the shopify module can now be add to the cart although the chat is no longer in the shopify module
 - If there are duplicate entries in a decision table, these are cleaned up automatically.
 
