@@ -130,12 +130,26 @@ LoyJoy('boot', {
 
 ## Cookie consent
 
-Tells the chat to use the localstorage which enables for persistently storage of chat history and customer's variables. Should be set to false if the customer rejected the cookies.
+By default the chat stores the chat history and customer variables in a [local storage](https://en.wikipedia.org/wiki/Web_storage) object `loyjoy-chat`. This behavior can be disabled either (1) configuratively in an experience in the LoyJoy manger, or (2) programatically via the JavaScript API. The following snippet disables the local storage programatically, so that the chat does not write to local storage object `loyjoy-chat`. 
 
 ```html
 <script>
 LoyJoy('boot', {
-  cookieConsent: true,
+  cookieConsent: false,
+  process: PROCESS_ID
+})
+</script>
+```
+
+Alternatively, `cookieConsent` can contain a callback function, which signals the cookie consent lazily.
+
+```html
+<script>
+LoyJoy('boot', {
+  cookieConsent: function () {
+    return true
+    // e.g. return ('; ' + document.cookie).split('; ' + 'MarketingCookiesEnabled' + '=').pop().split(';').shift() == '1'
+  },
   process: PROCESS_ID
 })
 </script>
