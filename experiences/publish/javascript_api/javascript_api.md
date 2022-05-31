@@ -130,7 +130,7 @@ LoyJoy('boot', {
 
 ## Cookie consent
 
-Tells the chat to use the localstorage which enables for persistently storage of chat history and customer's variables. Valid values: True | False
+Tells the chat to use the localstorage which enables for persistently storage of chat history and customer's variables. True | False
 
 ```html
 <script>
