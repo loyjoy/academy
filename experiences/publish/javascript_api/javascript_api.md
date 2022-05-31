@@ -130,15 +130,12 @@ LoyJoy('boot', {
 
 ## Cookie consent
 
-A callback function, which signals cookie consent, e.g. from a cookie consent bar on the hosting website.
+Tells the chat to use the localstorage which enables for persistently storage of chat history and customer's variables. Valid values: True | False
 
 ```html
 <script>
 LoyJoy('boot', {
-  cookieConsent: function () {
-    return true
-    // e.g. return ('; ' + document.cookie).split('; ' + 'MarketingCookiesEnabled' + '=').pop().split(';').shift() == '1'
-  },
+  cookieConsent: true,
   process: PROCESS_ID
 })
 </script>
