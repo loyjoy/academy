@@ -7,8 +7,6 @@ All notable updates and changes to the LoyJoy Cloud are documented here.
 
 - Entity storage time
   - The expiry time of relevant entities after which entities are deleted can now be configured
-- By default, using the chat in the manager does not log analytics events anymore. To log analytics event, use the option at the refresh preview button.
-- A bug was fixed that caused the DMN to evaluate the rules incorrectly
 
 
 ## release-2022-05-31
@@ -38,12 +36,14 @@ All notable updates and changes to the LoyJoy Cloud are documented here.
 - Analytics
   - The amount of total answers for decision jump will now be shown
 - Some JavaScript Events now offer a label in the event body, e.g. describing which button was clicked in the chat
+- By default, using the chat in the manager does not log analytics events anymore. To log analytics event, use the option at the refresh preview button.
 
 ### Fixes
 
 - Persistent quick replies are now hidden when the user enters the live chat
 - When a form-based question has been asked, clicking on a persistent quickreply will no longer treated as an answer
 - Products in the product selection of the shopify module can now be add to the cart although the chat is no longer in the shopify module
+- If there are duplicate entries in a decision table, these are cleaned up automatically.
 
 
 ## release-2022-05-12
