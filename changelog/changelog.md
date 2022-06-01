@@ -7,6 +7,8 @@ All notable updates and changes to the LoyJoy Cloud are documented here.
 
 - Entity storage time
   - The expiry time of relevant entities after which entities are deleted can now be configured
+- Analytics
+  - The welcome module distinguish between new customers, recurrent customers and signed in recurrent customers with name.
 
 
 ## release-2022-05-31
