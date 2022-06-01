@@ -180,7 +180,9 @@ The following list covers most process modules and events. Please note that:
 | reminder_single_opt_in | A customer has given the reminder single opt-in by agreeing in the chat. |
 | reminder_single_opt_in_asked | A customer was asked in chat whether they agree to receive a reminder. |
 | reminder_single_opt_in_rejected | A customer did not agree to receive a reminder in chat. |
-| welcome_sent | A welcome message was sent in a welcome process module. |
+| welcome_sent | A welcome message was sent in a welcome process module to a new customer. |
+| welcome_sent_recurrent | A welcome message was sent in a welcome process module to a recurrent customer. |
+| welcome_sent_recurrent_named | A welcome message was sent in a welcome process module to a signed-in customer with name. |
 | win_lost | A customer has not won in a win process module. |
 | win_participant_bpmn_process | A customer has participated for the first time in a process in a win process module. |
 | win_participant_bpmn_sub_process | A customer has participated for the first time in a win process module. |
