@@ -17,8 +17,8 @@
     Functions are used for conditional rendering of process modules. Simply stated:
     You can dynamically decide with functions if a process module will be shown in the chat flow.
   ##  How does it work?
-    Functions return a value, which you can compare with a fixed value, 
-    the value of a variable or with the return value of a different function
+    Functions return a value which you can compare with a fixed value, 
+    the value of a variable, or with the return value of a different function
     ![Condition - function](functionsWhere.png "Condition - function")
    
     What kind of functions are existing and how are they used?
@@ -36,7 +36,7 @@
     To check out all possible values, check out a ![documentation of the language codes](https://www.w3schools.com/tags/ref_language_codes.asp).
     
   ### ConvertTimestamptMSToDateTime
-    You can use this function to convert a timestamp into a Date.
+    You can use this function to convert a timestamp into a formatted Date.
     It started on 1. January 1970, 00:00.
     You need the following arguments:
     argument1: Timestamp - the number of seconds since 1970
