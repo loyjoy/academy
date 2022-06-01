@@ -62,23 +62,29 @@
     for multiple parameters.
     
   ### HasBpmnProcessVariable
-    HasBpmnProcessVariable returns 'true' if the variable has a value and 'false' if the variable has no value.
+    HasBpmnProcessVariable returns 'true' if the variable (parameter 1) has a value and 'false' if the variable has no value.
     
   ### HasDeniedAnySignleOptIn
     HasDeniedAnySignleOptIn returns 'true' if the user who is currently signed-in has ever denied any single-opt-in and 'false' if not.
     
   ### I18nTranslate
     This function returns the set translation in the users current language. The function expects the key for the I18nEntry as argument.
-    -------Beispiel?
+    The key should look like this:
+    welcome_greeting/1f6fb69a-49a8-47c6-ab8e-b6cd290fa196
+    This returns the greeting we put in the welcoming module by ourselves.
+    The numbers behind the '/' are the subprocesid. You can find it in the url if you click the process module.
     
   ### Interpolate
-    -------Unterschied zu translate und beispiel?
-  
+    This functions returns the translation for a key aswell, but it allows dynamic values inside the translation.
+    welcome_greeting/1f6fb69a-49a8-47c6-ab8e-b6cd290fa196
+    This returns the greeting we put in the welcoming module by ourselves.
+    The numbers behind the '/' are the subprocesid. You can find it in the url if you click the process module.
+    
   ### IpAdress
     Returns the IP address of the current device.
     
   ### IsAuthenticated
-    Returns 'true' if the user is signed in and 'false' if not.
+    Returns 'true' if the user is signed in and 'false' if not. A user can be authenticated via our sign-in module or via an external authentication service.
     
   ### IsMobile
     Returns 'true' if the current user uses a mobile device and 'false' if not.
@@ -102,16 +108,18 @@
     Returns the local date like 'YYYY'.
     
   ### Newsletter double-opt-in
-    ------- wofür ist das argument
+    Returns 'true', if the current user has done the double-opt-in in the newsletter module opt-in and 'false' if not.
     
   ### Newsletter double-opt-in URL
     Returns the URL of the double-opt-in. ----------- richtig?
     
   ### Newsletter single-opt-in
-    ------- wofür ist das argument
+    Returns 'true', if the current user has done the single-opt-in in the newsletter opt-in module and 'false' if not.
     
   ### Number of participations
-    This function calculates the number of participation of the current giveaway.
+    This function calculates the number of the over all participations in any giveaway of the current user. 
+    To calculate this number there needs to be a giveaway participation module before.
+    
     
   ### PadZeroes
     'PadZeroes' is used to pad a number or even a string with zeroes. The first argument is the variable
@@ -121,16 +129,16 @@
     '12' -> '0012'
     
   ### Postback payload value
-    --------letzte payload answer oder was?
+    Returns the id of the selected value by the user. E.g. if the user selects an element in the product gallery module, you can identify its id.
     
   ### Profiling double-opt-in
-    --------
+    Returns 'true', if the current user has done the double-opt-in in the Profiling opt-in module and 'false' if not.
     
   ### Profiling double-opt-in URL
     --------
   
   ### Profiling single-opt-in
-    --------
+    Returns 'true', if the current user has done the single-opt-in in the Profiling opt-in module and 'false' if not.
     
   ### PushLiteral
     'PushLiteral' adds a value (Argument 2) to the variable (Argument 1). The variable has to be in an array form 
@@ -147,7 +155,7 @@
     -> possible outcomes: '6', '7', '8'
     
   ### Reminder single-opt-in
-    -------
+    Returns 'true', if the current user has done the single-opt-in in the Reminder opt-in module and 'false' if not.
     
   ### Sender ID
     ---wer genau ist der sender
@@ -157,14 +165,14 @@
   ### SignInToken
     Returns a token unique per session even if you are not signed in.
     e.g.: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJjdXN0b21lciBpc3MiLCJleHAiOjE2NTUxMTMyMDF9.xBq5X0bBhJygojavvp3ng5NWN-nqZioDoLb4laJLhpY'
+    You can use this code e.g. to prepare a link for your user to let him be already signed in if he clicks it.
+    'loyjoy_token=eyJ0...'
     
   ### Text message double-opt-in
-    ------- values richtig?
     Returns 'true', if the current user has done the double-opt-in in the sms-opt-in module and 'false' if not.
     
   ### Text message single-opt-in
-    ------ values richtig?
-    Returns 'true', if the current user has done the signle-opt-in in the sms-opt-in module and 'false' if not.
+    Returns 'true', if the current user has done the single-opt-in in the sms-opt-in module and 'false' if not.
     
   ### StringContains
     Checks if the given variable (argument 1) contains the string (argument 2). It even works with arrays.
@@ -188,7 +196,16 @@
     -> ['hebbobb', 'habbo']
     
   ### StringReplaceAll
-    ----Unterschied?
+    StringReplaceAll changes the string in argument 1 by using a regular expression (argument 2).
+    It does not have any impact on the input variable(argument 1). It works on arrays as well.
+    argument 1: variable -> contains 'this is an example sentence'
+    argument 2: '\s+' 
+    argument 3: '-'
+    -> 'this-is-an-example-sentence
+    argument 1: ['Welcome to our', 'platform! Thanks for being here.']
+    argument 2: '\s+'
+    argument 3: '-'
+    -> ['Welcome-to-our', 'platform!-Thanks-for-being-here.']
     
   ### User agent
     Returns the properties of the currently used user agent.
