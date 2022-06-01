@@ -35,7 +35,7 @@
     German  -> "de"
     To check out all possible values, check out a ![documentation of the language codes](https://www.w3schools.com/tags/ref_language_codes.asp).
     
-  ### ConverTimestamptMSToDateTime
+  ### ConvertTimestamptMSToDateTime
     You can use this function to convert a timestamp into a Date.
     It started on 1. January 1970, 00:00.
     You need the following arguments:
@@ -109,12 +109,14 @@
     
   ### Newsletter double-opt-in
     Returns 'true', if the current user has done the double-opt-in in the newsletter module opt-in and 'false' if not.
+    If you have different newsletters with different tags, use the tag as argument in this function.
     
   ### Newsletter double-opt-in URL
-    Returns the URL of the double-opt-in. ----------- richtig?
+    Returns the link which is used as double-opt-in confirmation.
     
   ### Newsletter single-opt-in
     Returns 'true', if the current user has done the single-opt-in in the newsletter opt-in module and 'false' if not.
+    If you have different newsletters with different tags, use the tag as argument in this function.
     
   ### Number of participations
     This function calculates the number of the over all participations in any giveaway of the current user. 
@@ -135,7 +137,7 @@
     Returns 'true', if the current user has done the double-opt-in in the Profiling opt-in module and 'false' if not.
     
   ### Profiling double-opt-in URL
-    --------
+    Returns the link which is used as double-opt-in confirmation.
   
   ### Profiling single-opt-in
     Returns 'true', if the current user has done the single-opt-in in the Profiling opt-in module and 'false' if not.
@@ -158,8 +160,7 @@
     Returns 'true', if the current user has done the single-opt-in in the Reminder opt-in module and 'false' if not.
     
   ### Sender ID
-    ---wer genau ist der sender
-    'Sender ID' returns the ID of the current Sender. It is unique per conversation, even if you are signed-in.
+    'Sender ID' returns the ID of the current client. It is unique per conversation, even if you are signed-in.
     e.g.: 'b0d6950b-06bc-4e6d-88d6-ca7442eb13c9'
     
   ### SignInToken
