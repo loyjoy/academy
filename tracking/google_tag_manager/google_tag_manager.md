@@ -58,7 +58,7 @@ The following snippet is an example for a tenant, which only wanted to send spec
 LoyJoy('boot', {
   eventListeners: [function (evt, obj) {
     if ([
-      'data_collection_question_answered', 'interaction', 'link_clicked', 'load', 'open', 'session_started', 'start',
+      'data_collection_question_answered', 'interaction', 'link_clicked', 'load', 'open', 'session_started', 'session_interacted', 'start',
       'jump_decision_1', 'jump_decision_2', 'jump_decision_3', 'jump_decision_4', 'jump_decision_5', 'jump_decision_6', 'jump_decision_7',
       'jump_persistent_1', 'jump_persistent_2', 'jump_persistent_3', 'jump_persistent_4', 'jump_persistent_5'      
     ].includes(evt)) {
