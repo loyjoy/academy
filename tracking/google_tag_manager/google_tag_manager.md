@@ -65,8 +65,8 @@ LoyJoy('boot', {
       dataLayer && dataLayer.push({
         'event': 'LoyJoy ChatBot ' + evt,
         'event_category': 'LoyJoy ChatBot',
-        'event_action': obj && (obj.process_name || obj.process_id),
-        'event_label': evt + ' / ' + (obj && obj.label ? obj.label + ' / ' : '') + (obj && obj.sub_process_name ? obj.sub_process_name + ' / ' : '')
+        'event_action': evt === 'load' ? 'load' : obj && (obj.process_name || obj.process_id),
+        'event_label': evt === 'load' ? 'load' : evt + ' / ' + (obj && obj.label ? obj.label + ' / ' : '') + (obj && obj.sub_process_name ? obj.sub_process_name + ' / ' : '')
       })
     }
   }],
