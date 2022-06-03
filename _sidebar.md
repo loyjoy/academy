@@ -7,3 +7,4 @@
 - [Push](/index.md#push)
 - [Live](/index.md#live)
 - [Tracking](/index.md#tracking)
+- [Integrations](/index.md#integrations)
