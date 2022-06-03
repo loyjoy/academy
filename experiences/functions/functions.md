@@ -3,7 +3,6 @@
   ##  Where do you find functions?
 
     Option 1: At any process module
-
    
    ![Function at module](condition_at_module.png "Function at module")
     ![Condition in module](condition_in_module.png "Condition in module")
@@ -36,7 +35,8 @@
     For example:
     English -> "en"
     German  -> "de"
-    To check out all possible values, check out a [documentation of the language codes](https://www.w3schools.com/tags/ref_language_codes.asp).
+    To check out all possible values, check out a [documentation of the language codes](www.w3schools.com/tags/ref_language_codes.asp).
+    [test](www.w3schools.com/tags/ref_language_codes.asp)
 
   ### ConvertTimestamptMSToDateTime
     You can use this function to convert a timestamp into a formatted Date.
@@ -44,7 +44,7 @@
     You need the following arguments:
     argument1: Timestamp - the number of seconds since 1970
     argument2: Pattern - the kind of pattern you want to get e.g. YY-MM-dd [Check out the official pattern options](https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html)
-    argument3: Timezone id - the id of the timezone of the location you are interested in ![All timezones]https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+    argument3: Timezone id - the id of the timezone of the location you are interested in ![All timezones](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones)
 
   ### CustomerAgeYears
     This function calculates the age of the customer based on his date of birth, which is stored in the variable birthdate.
