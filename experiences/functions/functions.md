@@ -36,9 +36,8 @@
     For example:
     English -> "en"
     German  -> "de"
-    To check out all possible values, check out a [documentation of the language codes](www.w3schools.com/tags/ref_language_codes.asp).
-    [test](www.w3schools.com/tags/ref_language_codes.asp)
-
+    To check out all possible values, check out a 
+  To check ou all possible values, check out a [documentation of the language codes](www.w3schools.com/tags/ref_languages_codes.asp).
   ### ConvertTimestamptMSToDateTime
     You can use this function to convert a timestamp into a formatted Date.
     It started on 1. January 1970, 00:00.
