@@ -2,7 +2,7 @@
 
 In this section we describe all the ways to edit your experience.
 
-![Tabs](tabs.guf "tabs")
+![Tabs](tabs.gif "tabs")
 
 
 **BUILDING DIALOGES** on from Templates oder 
