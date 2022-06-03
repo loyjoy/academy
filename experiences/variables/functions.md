@@ -4,13 +4,13 @@
   
     Option 1: At any process module
     ![Function at module](functionsPictures/condition_at_module.png "Function at module")
-    ![Condition in module](functions/Pictures/condition_in_module.png "Condition in module")
+    ![Condition in module](functionsPictures/condition_in_module.png "Condition in module")
 
     Option 2: At questionnaires for conditional visibility of the answers
-    ![condition in answer](functions/Pictures/condition_in_answer.png "Condition in answer")
+    ![condition in answer](functionsPictures/condition_in_answer.png "Condition in answer")
     
     Option 3: Anywhere you can set variable value manually
-    ![Set variable](functions/Pictures/set_variable.png "Set variable")
+    ![Set variable](functionsPictures/set_variable.png "Set variable")
 
     
   ##  What are functions used for?
