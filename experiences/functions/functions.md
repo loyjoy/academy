@@ -3,7 +3,9 @@
   ##  Where do you find functions?
 
     Option 1: At any process module
-    ![Function at module](condition_at_module.png "Function at module")
+
+   
+   ![Function at module](condition_at_module.png "Function at module")
     ![Condition in module](condition_in_module.png "Condition in module")
 
     Option 2: At questionnaires for conditional visibility of the answers
