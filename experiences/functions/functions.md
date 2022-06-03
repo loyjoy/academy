@@ -15,14 +15,14 @@
 
 
   ##  What are functions used for?
-    Functions are used for conditional rendering of process modules. Simply stated:
+    Most times functions are used for conditional rendering of process modules. Simply stated:
     You can dynamically decide with functions if a process module will be shown in the chat flow.
 
   ##  How does it work?
     Functions return a value which you can compare with a fixed value,
     the value of a variable, or with the return value of a different function
  
-![Condition - function](functionsWhere.png "Condition function")
+![Condition - function](condition_function.png "Condition function")
 
     What kind of functions are existing and how are they used?
 
