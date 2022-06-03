@@ -1,6 +1,8 @@
-# Experiences 🚀
+# Experiences
 
-    
+In this section we describe all the ways to edit your experience.
+
+![Tabs](tabs.guf "tabs")
 
 
 **BUILDING DIALOGES** on from Templates oder 
