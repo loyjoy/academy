@@ -16,7 +16,7 @@
 
   ##  What are functions used for?
    Most times functions are used for conditional rendering of process modules. Simply stated:
-   You can dynamically decide with functions if a process module will be shown in the chat flow.
+   With functions you can dynamically decide if a process module will be shown in the chat flow.
 
   ##  How does it work?
    Functions return a value which you can compare with a fixed value,
