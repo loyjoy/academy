@@ -2,15 +2,15 @@
   # Functions
   ##  Where do you find functions?
 
-   Option 1: At any process module
+   ### Option 1: At any process module
    
    ![Function at module](condition_at_module.png "Function at module") 
    ![Condition in module](condition_in_module.png "Condition in module")
 
-   Option 2: At questionnaires for conditional visibility of the answers
+   ### Option 2: At questionnaires for conditional visibility of the answers
    ![Condition in answer](condition_in_answer.png "Condition in answer")
 
-   Option 3: Anywhere you can set variable value manually
+   ### Option 3: Anywhere you can set variable value manually
    ![Set variable](set_variable.png "Set variable")
 
 
