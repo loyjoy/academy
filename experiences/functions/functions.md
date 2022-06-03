@@ -50,13 +50,13 @@
    The variable will be filled automatically if you use the birtdate module.
 
   ### Formatted Date today
-   Returns the date of today to a format like dd/MM/YY
+   Returns the localized date of today.
 
   ### Formatted Date tomorrow
-   Returns the date of tomorrow to a format like dd/MM/YY
+   Returns the localized date of tomorrow.
 
   ### Get Param
-   This function extracts an argument from the url. Argument 1 is the name of the parameter you want to extract.
+   This function extracts an query parameter from the url. Argument 1 is the name of the parameter you want to extract.
    In the url it lookes like this:
    .../pathofcurrenturl?variablename=variablevalue
    or
@@ -64,10 +64,10 @@
    for multiple parameters.
 
   ### HasBpmnProcessVariable
-   HasBpmnProcessVariable returns 'true' if the variable (parameter 1) has a value and 'false' if the variable has no value.
+   HasBpmnProcessVariable returns 'true' if the provided variable in parameter 1 has some value and 'false' if the variable has no value.
 
   ### HasDeniedAnySignleOptIn
-   HasDeniedAnySignleOptIn returns 'true' if the user who is currently signed-in has ever denied any single-opt-in and 'false' if not.
+   HasDeniedAnySignleOptIn returns 'true' if the signed-in user has ever denied any single-opt-in and 'false' if not.
 
   ### I18nTranslate
    This function returns the set translation in the users current language. The function expects the key for the I18nEntry as argument.
@@ -92,32 +92,32 @@
    Returns 'true' if the current user uses a mobile device and 'false' if not.
 
   ### IsoLocalDate
-   Returns the local date like 'YYYY-MM-dd'.
+   Returns the localized date in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601]) Format.
 
   ### IsoLocalDateTime
-   Returns the local date like 'YYYY-MM-ddThh:mm.fffffffff'.
+   Returns the localized datetime in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601]) Format.
 
   ### LocalDateDayOfMonth
-   Returns the local date like 'dd'.
+   Returns the localized day of month e.g. 'dd'.
 
   ### LocalDateDayOfWeek
-   Returns the local date day of the week as number like 'E' eg. '3'.
+   Returns the localized day of the week as number.
 
   ### LocalDateDayOfYear
-   Returns the local date like 'DD' (Day of Year).
+   Returns the localized day of the year.
 
   ### LocalDateYear
-   Returns the local date like 'YYYY'.
+   Returns the localized year e.g. '2023'.
 
   ### Newsletter double-opt-in
-   Returns 'true', if the current user has done the double-opt-in in the newsletter module opt-in and 'false' if not.
+   Returns 'true', if the current user has a double-opt-in in the newsletter module opt-in and 'false' if not.
    If you have different newsletters with different tags, use the tag as argument in this function.
 
   ### Newsletter double-opt-in URL
    Returns the link which is used as double-opt-in confirmation.
 
   ### Newsletter single-opt-in
-   Returns 'true', if the current user has done the single-opt-in in the newsletter opt-in module and 'false' if not.
+   Returns 'true', if the current user has a single-opt-in in the newsletter opt-in module and 'false' if not.
    If you have different newsletters with different tags, use the tag as argument in this function.
 
   ### Number of participations
@@ -136,17 +136,17 @@
    Returns the id of the selected value by the user. E.g. if the user selects an element in the product gallery module, you can identify its id.
 
   ### Profiling double-opt-in
-   Returns 'true', if the current user has done the double-opt-in in the Profiling opt-in module and 'false' if not.
+   Returns 'true', if the current user has a double-opt-in in the Profiling opt-in module and 'false' if not.
 
   ### Profiling double-opt-in URL
    Returns the link which is used as double-opt-in confirmation.
 
   ### Profiling single-opt-in
-   Returns 'true', if the current user has done the single-opt-in in the Profiling opt-in module and 'false' if not.
+   Returns 'true', if the current user has a single-opt-in in the Profiling opt-in module and 'false' if not.
 
   ### PushLiteral
    'PushLiteral' adds a value (Argument 2) to the variable (Argument 1). The variable has to be in an array form
-   before (e.g. multiple choice question), which does not mean that the variable needs to contain multiple values.
+   before (e.g. multiple choice question).
 
   ### PushVariable
    Just like 'PushLiteral' but it adds the value of a variable to the array. Keep in mind that if you do change
@@ -159,23 +159,23 @@
    -> possible outcomes: '6', '7', '8'
 
   ### Reminder single-opt-in
-   Returns 'true', if the current user has done the single-opt-in in the Reminder opt-in module and 'false' if not.
+   Returns 'true', if the current user has a single-opt-in in the Reminder opt-in module and 'false' if not.
 
   ### Sender ID
-   'Sender ID' returns the ID of the current client. It is unique per conversation, even if you are signed-in.
+   'Sender ID' returns the id of the current client. It is unique per conversation, even if you are signed-in.
    e.g.: 'b0d6950b-06bc-4e6d-88d6-ca7442eb13c9'
 
   ### SignInToken
    Returns a token unique per session even if you are not signed in.
    e.g.: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJjdXN0b21lciBpc3MiLCJleHAiOjE2NTUxMTMyMDF9.xBq5X0bBhJygojavvp3ng5NWN-nqZioDoLb4laJLhpY'
-   You can use this code e.g. to prepare a link for your user to let him be already signed in if he clicks it.
+   You can use this code e.g. to prepare a sign-in link.
    'loyjoy_token=eyJ0...'
 
   ### Text message double-opt-in
-   Returns 'true', if the current user has done the double-opt-in in the sms-opt-in module and 'false' if not.
+   Returns 'true', if the current user has a double-opt-in in the sms-opt-in module and 'false' if not.
 
   ### Text message single-opt-in
-   Returns 'true', if the current user has done the single-opt-in in the sms-opt-in module and 'false' if not.
+   Returns 'true', if the current user has a single-opt-in in the sms-opt-in module and 'false' if not.
 
   ### StringContains
    Checks if the given variable (argument 1) contains the string (argument 2). It even works with arrays.
