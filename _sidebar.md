@@ -2,7 +2,7 @@
 [Home](/)
 - [Analytics](/index.md#analytics)
 - [Data](/index.md#data)
-- [Experiences](/index.md#experiences)
+- [Experiences](/experiences/index/index.md)
 - [NLU](/index.md#nlu)
 - [Push](/index.md#push)
 - [Live](/index.md#live)
