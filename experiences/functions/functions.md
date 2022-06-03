@@ -19,7 +19,7 @@
    With functions you can dynamically decide if a process module will be shown in the chat flow.
 
   ##  How does it work?
-   Functions return a value which you can compare with a fixed value,
+   Functions return a value which you can compare with e.g. a fixed value,
    the value of a variable, or with the return value of a different function.
  
 ![Condition - function](condition_function.png "Condition function")
