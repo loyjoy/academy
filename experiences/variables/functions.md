@@ -3,19 +3,20 @@
   ##  Where do you find functions?
   
     Option 1: At any process module
-    <img width="373" alt="Screenshot 2022-05-25 at 10 21 04" src="https://user-images.githubusercontent.com/77499039/170216504-6363c15f-c8ea-4f66-8057-a2ec64bd544a.png">
-    <img width="923" alt="Screenshot 2022-05-25 at 10 24 19" src="https://user-images.githubusercontent.com/77499039/170216767-2bbc9458-50af-43c3-a4f3-8a821f511cc8.png">
+    ![Function at module](functionsPictures/condition_at_module.png "Function at module")
+    ![Condition in module](functions/Pictures/condition_in_module.png "Condition in module")
 
     Option 2: At questionnaires for conditional visibility of the answers
-    <img width="793" alt="Screenshot 2022-05-25 at 10 28 26" src="https://user-images.githubusercontent.com/77499039/170217734-9b3487b8-22c2-49a0-8dab-3fab06e475d4.png">
+    ![condition in answer](functions/Pictures/condition_in_answer.png "Condition in answer")
     
     Option 3: Anywhere you can set variable value manually
-    <img width="729" alt="Screenshot 2022-05-25 at 10 30 26" src="https://user-images.githubusercontent.com/77499039/170218138-9aee580d-bbe0-4d6f-98fa-d03c9c8d2926.png">
+    ![Set variable](functions/Pictures/set_variable.png "Set variable")
 
     
   ##  What are functions used for?
     Functions are used for conditional rendering of process modules. Simply stated:
     You can dynamically decide with functions if a process module will be shown in the chat flow.
+    
   ##  How does it work?
     Functions return a value which you can compare with a fixed value, 
     the value of a variable, or with the return value of a different function
@@ -33,14 +34,14 @@
     For example:
     English -> "en"
     German  -> "de"
-    To check out all possible values, check out a ![documentation of the language codes](https://www.w3schools.com/tags/ref_language_codes.asp).
+    To check out all possible values, check out a [documentation of the language codes](https://www.w3schools.com/tags/ref_language_codes.asp).
     
   ### ConvertTimestamptMSToDateTime
     You can use this function to convert a timestamp into a formatted Date.
     It started on 1. January 1970, 00:00.
     You need the following arguments:
     argument1: Timestamp - the number of seconds since 1970
-    argument2: Pattern - the kind of pattern you want to get e.g. YY-MM-dd ![Check out the official pattern options](https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html)
+    argument2: Pattern - the kind of pattern you want to get e.g. YY-MM-dd [Check out the official pattern options](https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html)
     argument3: Timezone id - the id of the timezone of the location you are interested in ![All timezones]https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
    
   ### CustomerAgeYears
