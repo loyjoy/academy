@@ -27,9 +27,7 @@
   ## What kind of functions are existing and how are they used?
 
    ### ArrayLength
-   If you possibly got multiple inputs (e.g. a multiple choice question in the questionnaire) the values are saved in an array.
-   This functions returns now the length of that array. Simply stated: It returns the number of values stored in the variable.
-   You can use this function on any kind of variables and check if they are empty or have a value stored by checking if ArrayLength returns 0.
+   Given a variable of type array (e.g. produced by a multiple choice question in the questionnaire) this function returns the number of elements within that array. You can use this function on any kind of variables and check if they are empty or have a value stored by checking if ArrayLength returns 0.
 
   ### ClientLocale
    This function returns the language setting of the Browser in a String.
