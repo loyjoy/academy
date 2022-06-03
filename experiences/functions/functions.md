@@ -24,7 +24,7 @@
  
 ![Condition - function](condition_function.png "Condition function")
 
-   What kind of functions are existing and how are they used?
+  ## What kind of functions are existing and how are they used?
 
    ### ArrayLength
    If you possibly got multiple inputs (e.g. a multiple choice question in the questionnaire) the values are saved in an array.
