@@ -12,6 +12,8 @@ All notable updates and changes to the LoyJoy Cloud are documented here.
 ### Process Modules
 - New process module `Opening Hours` ⏱️
   - Provide your opening hours and react differently depending on your opening status
+- Process module `Appointment`
+  - Entering slots are simplyfied
 
 
 ## release-2022-05-31
