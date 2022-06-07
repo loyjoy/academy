@@ -30,7 +30,6 @@
 - [Publish to Social Media](/experiences/publish/publish/publish.md#social-media)
 - [Texts and assets](experiences/text/text_and_assets.md)
 - [Best practices](experiences/best_practices/conversation_design.md)
-- [JavaScript API](experiences/publish/javascript_api/javascript_api.md)
 
 ## NLU
 - [What is NLU](/nlu/nlu/nlu.md)
