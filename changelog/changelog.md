@@ -13,7 +13,7 @@ All notable updates and changes to the LoyJoy Cloud are documented here.
 - New process module `Opening Hours` ⏱️
   - Provide your opening hours and react differently depending on your opening status
 - Process module `Appointment`
-  - Entering slots are simplyfied
+  - Entering slots has been simplyfied
 
 
 ## release-2022-05-31
