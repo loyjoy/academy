@@ -9,3 +9,5 @@ Following requirements must be fulfilled so that the chat can ask for a Web Push
 - The hosting Web site must be opened with `https`, not with `http`.
 - The customer must not have accepted or declined a Web push subscription for the hosting Web site, yet. In case of Chrome this can easily checked by opening URL `chrome://settings/content/notifications` in Chrome Web browser and checking the list of domains.
 - There must not be any HTTP basic authentication present on the hosting Web site, e.g. as it could be the case in a staging environment.
+
+If these requirements are not met, the chat will simply skip the process module and proceed with the next one.
