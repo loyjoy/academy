@@ -13,7 +13,7 @@ LoyJoy('boot', {
       'event': evt,
       'event_category': 'LoyJoy Chat',
       'event_action': obj && obj.process_name,
-      'event_label': evt + '/' + (obj.label ? obj.label + '/' : '')
+      'event_label': evt + (obj.label ? '/' + obj.label : '')
     })
   }],
   process: PROCESS_ID
@@ -38,7 +38,7 @@ LoyJoy('boot', {
         'event': evt,
         'event_category': 'LoyJoy Chat',
         'event_action': obj && obj.process_name,
-        'event_label': evt + '/' + (obj.label ? obj.label + '/' : '')
+        'event_label': evt + (obj.label ? '/' + obj.label : '')
       })
     }
   }],
