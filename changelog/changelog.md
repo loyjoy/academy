@@ -9,11 +9,15 @@ All notable updates and changes to the LoyJoy Cloud are documented here.
   - The expiry time of relevant entities after which entities are deleted can now be configured
 - Analytics
   - The welcome module distinguish between new customers, recurrent customers and signed in recurrent customers with name.
+    
 ### Process Modules
 - New process module `Opening Hours` ⏱️
   - Provide your opening hours and react differently depending on your opening status
 - Process module `Appointment`
   - Entering slots has been simplyfied
+
+### Fixes
+- The items of a list now prevents double clicks
 
 
 ## release-2022-05-31
