@@ -20,6 +20,15 @@ All notable updates and changes to the LoyJoy Cloud are documented here.
 - The items of a list now prevents double clicks
 
 
+## release-2022-06-16
+
+- In tenant settings owners can now configure alerts that should be raised if an external API is not available or returns errors.
+- The `Publish` tab has been redesigned with consent managers in mind. LoyJoy now provides a preconfigured JavaScript snippet for the most important consent managers, i.e. cookie managers.
+- A new function `num_participations_bpmn_process` has been introduced, which in contrast to `num_participations` return the number of participations only for the current experience.
+- Mappings and params now are configured in a table view, not a tab view, which is helpful when there are lots of items.
+- In tab `Branding` the widget call-to-action now can be de delayed and have a specific duration.
+
+
 ## release-2022-05-31
 
 ### Process Modules
