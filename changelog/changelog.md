@@ -22,16 +22,21 @@ All notable updates and changes to the LoyJoy Cloud are documented here.
 
 ## release-2022-06-16
 
+### Added
+
 - In tenant settings owners can now configure alerts that should be raised if an external API is not available or returns errors.
 - The `Publish` tab has been redesigned with consent managers in mind. LoyJoy now provides a preconfigured JavaScript snippet for the most important consent managers, i.e. cookie managers.
 - A new function `num_participations_bpmn_process` has been introduced, which in contrast to `num_participations` return the number of participations only for the current experience.
 - Mappings and params now are configured in a table view, not a tab view, which is helpful when there are lots of items.
 - In tab `Branding` the widget call-to-action now can be de delayed and have a specific duration.
+- An initial badge number (red messages number indicator) can now be defined in tab `Branding` for the chat launcher.
 
 
 ## release-2022-05-31
 
-### Process Modules
+### Added
+
+#### Process Modules
 
 - Process module `Pdf`
   - It is now possible to add static file attachments to emails
@@ -45,7 +50,7 @@ All notable updates and changes to the LoyJoy Cloud are documented here.
   - Configuration in the manager has been simplified
   - Links can now be opened in the current tab, i.e. not opening a new tab, when clicked
 
-### Platform
+#### Platform
 
 - Sessions
   - The expiry time of a session in the chat can now be adjusted in the branding tab of an experience
