@@ -21,7 +21,6 @@ The following list covers most process modules and events. Please note that:
 | appointment_created | An appointment was created in the appointment process module. |
 | audio_message_requested | A customer was asked to record an audio message in the audio message process module. |
 | audio_message_uploaded | A customer has uploaded an audio message in the audio message process module. |
-| beiersdorf_api_post_users_subscriptions | A newsletter subscription has been written into a full user profile (User with first name, last name, password) |
 | beiersdorf_api_post_consumers_subscription | A newsletter subscription has been written into a consumer profile (Consumer without first name, last name, password) |
 | beiersdorf_api_post_users_care_profile | Data has been written to user care profile |
 | beiersdorf_api_post_users_channel_permissions | Channel permission has been written to user |
@@ -29,8 +28,14 @@ The following list covers most process modules and events. Please note that:
 | beiersdorf_api_post_users_engagements | Engagement has been written to user |
 | beiersdorf_api_post_users_memberships | Membership has been written to user |
 | beiersdorf_api_post_users_profile | Data has been written to user profile |
-| beiersdorf_api_post_users_subscriptions | Subscription has been written to user profile |
+| beiersdorf_api_post_users_subscriptions | A newsletter subscription has been written into a full user profile (User with first name, last name, password) |
 | beiersdorf_api_put_users_password | Password has been written to user profile |
+| beiersdorf_sign_in | A sign in via chat has happened |
+| beiersdorf_sign_in_via_cookie | A sign in via cookie has happened |
+| beiersdorf_sign_up | A sign up via chat has happened |
+| beiersdorf_sign_up_requested | A sign up via chat has been requested, i.e. the sign-up form has been rendered |
+| beiersdorf_verification_code_failed | A sign-in verification code has been entered, however validation failed, i.e. code was incorrect |
+| beiersdorf_verification_code_succeeded | A sign-in verification code has been entered, and validation succeeded, i.e. code was correct |
 | birthdate_entered | A customer has entered their birthday in the birthdate process module. |
 | campaign_message_sent | A campaign message was sent. |
 | code_entered | A customer has entered a code in the code process module. |
