@@ -9,15 +9,22 @@ All notable updates and changes to the LoyJoy Cloud are documented here.
   - The expiry time of relevant entities after which entities are deleted can now be configured
 - Analytics
   - The welcome module distinguish between new customers, recurrent customers and signed in recurrent customers with name.
-    
-### Process Modules
 - New process module `Opening Hours` ⏱️
   - Provide your opening hours and react differently depending on your opening status
 - Process module `Appointment`
-  - Entering slots has been simplyfied
+  - Entering slots has been simplified
 
-### Fixes
-- The items of a list now prevents double clicks
+
+
+## release-2022-06-21
+
+### Added
+
+- Process module `BDF` now offers a `Write password` option.
+
+### Fixed
+
+- List items in process module `List` do now prevent double clicks, so that list item jumps are not executed twice on double clicks.
 
 
 ## release-2022-06-16
