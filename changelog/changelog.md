@@ -15,6 +15,12 @@ All notable updates and changes to the LoyJoy Cloud are documented here.
   - Entering slots has been simplified
 
 
+## release-2022-06-22
+
+### Added
+
+- The initial badge number (red messages number indicator) for the chat bubble can now have a delay in tab `Branding`.
+
 
 ## release-2022-06-21
 
