@@ -5,8 +5,6 @@ All notable updates and changes to the LoyJoy Cloud are documented here.
 
 ## Unreleased
 
-- Entity storage time
-  - The expiry time of relevant entities after which entities are deleted can now be configured
 - Analytics
   - The welcome module distinguish between new customers, recurrent customers and signed in recurrent customers with name.
 - New process module `Opening Hours` ⏱️
@@ -15,10 +13,12 @@ All notable updates and changes to the LoyJoy Cloud are documented here.
   - Entering slots has been simplified
 
 
-## release-2022-06-22
+## release-2022-06-23
 
 ### Added
 
+- Entity storage time
+  - The expiry time of relevant entities after which entities are deleted can now be configured
 - The initial badge number (red messages number indicator) for the chat bubble can now have a delay in tab `Branding`.
 
 
