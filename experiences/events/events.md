@@ -19,6 +19,15 @@ The following list covers most process modules and events. Please note that:
 | advent_calendar_door_asked | A customer was asked whether to open an advent calendar door. |
 | advent_calendar_door_opened | A customer has confirmed to open an advent calendar door. |
 | appointment_created | An appointment was created in the appointment process module. |
+| api_exception | Another exception has been thrown when accessing the API |
+| api_http_connect_timeout_exception | An HttpConnectTimeoutException has been thrown when accessing the API |
+| api_http_status_code | Another error HTTP status code has been returned when accessing the API |
+| api_http_status_code_400 | An error HTTP status code 400 has been returned when accessing the API |
+| api_http_status_code_403 | An error HTTP status code 403 has been returned when accessing the API |
+| api_http_status_code_404 | An error HTTP status code 404 has been returned when accessing the API |
+| api_http_status_code_500 | An error HTTP status code 500 has been returned when accessing the API |
+| api_http_timeout_exception | An HttpTimeoutException has been thrown when accessing the API |
+| api_socket_timeout_exception | An SocketTimeoutException has been thrown when accessing the API |
 | audio_message_requested | A customer was asked to record an audio message in the audio message process module. |
 | audio_message_uploaded | A customer has uploaded an audio message in the audio message process module. |
 | beiersdorf_api_post_consumers_subscription | A newsletter subscription as defined in the according process module has been written into a consumer profile (Consumer without first name, last name, password) |
