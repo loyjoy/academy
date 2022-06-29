@@ -21,6 +21,7 @@ All notable updates and changes to the LoyJoy Cloud are documented here.
   - Process modules `Loyalty`, `Loyalty referral` and `Code` can create loyalty points. This enables multiple sources of loyalty points in chat flows.
   - Process module `Rewards` can show loyalty rewards for loyalty points, and offer a redeem button, if the customer has enough loyalty points. This enables to show the value loyalty points have, i.e. what can be redeemed.
   - Process modules `Redemptions`, `Coupon code` and `Win` can be configured to consume loyalty points. This enables multiple redemption points for loyalty points in chat flow. Process module `Redemptions` simply consumes loyalty points and converts them to a list of customers with postal address, i.e. for sending out physical rewards. Process module `Coupon code` consumes loyalty points and converts them to coupon codes, which can represent digital rewards such as Web shop coupons. Process module `Win` enables to integrate raffle instant win mechanics with loyalty points.
+- Added functions 'LocationHrefHost', 'LocationHrefHostLowerCase', 'LocationHrefPath', 'LocationHrefPathLowerCase' that enable you to read URL components of `window.location.href`.
 
 
 ## release-2022-06-23
