@@ -5,6 +5,8 @@ All notable updates and changes to the LoyJoy Cloud are documented here.
 
 ## Unreleased
 
+- New Process Editor 
+- Process Module `split`
 - Analytics
   - The welcome module distinguish between new customers, recurrent customers and signed in recurrent customers with name.
 - New process module `Opening Hours` ⏱️
