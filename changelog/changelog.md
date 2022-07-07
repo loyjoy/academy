@@ -13,6 +13,9 @@ All notable updates and changes to the LoyJoy Cloud are documented here.
   - Provide your opening hours and react differently depending on your opening status
 - Process module `Appointment`
   - Entering slots has been simplified
+- 🗣️ New locales
+  - Estonian
+  - Lithuanian
 
 
 ## release-2022-06-27
