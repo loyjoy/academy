@@ -9,9 +9,9 @@ All notable updates and changes to the LoyJoy Cloud are documented here.
 - Process Module `split`
 - Analytics
   - The welcome module distinguish between new customers, recurrent customers and signed in recurrent customers with name.
-- New process module `Opening Hours` ⏱️
+- ⏱️ New process module `Opening Hours`
   - Provide your opening hours and react differently depending on your opening status
-- Process module `Appointment`
+- 🗓️ Process module `Appointment`
   - Entering slots has been simplified
 - 🎫 Process module coupon codes
   - Add option to send warning when coupons run low
