@@ -13,6 +13,8 @@ All notable updates and changes to the LoyJoy Cloud are documented here.
   - Provide your opening hours and react differently depending on your opening status
 - Process module `Appointment`
   - Entering slots has been simplified
+- 🎫 Process module coupon codes
+  - Add option to send warning when coupons run low
 - 🗣️ New locales
   - Estonian
   - Lithuanian
