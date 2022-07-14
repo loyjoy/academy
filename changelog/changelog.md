@@ -13,11 +13,19 @@ All notable updates and changes to the LoyJoy Cloud are documented here.
   - Provide your opening hours and react differently depending on your opening status
 - 🗓️ Process module `Appointment`
   - Entering slots has been simplified
-- 🎫 Process module coupon codes
-  - Add option to send warning when coupons run low
+
+
+
+## release-2022-07-15
+
+### Added
+
 - 🗣️ New locales
   - Estonian
   - Lithuanian
+- 🎫 Process module coupon codes
+  - Add option to send warning when coupons run low
+- Added skip answer option to process modules `Birthdate`, `Email`, `Firstname`, `Lastname`, `Password`, `Phone`, `Postal address`, `SMS opt-in`.
 
 
 ## release-2022-06-27
