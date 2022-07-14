@@ -26,6 +26,8 @@ All notable updates and changes to the LoyJoy Cloud are documented here.
 - 🎫 Process module coupon codes
   - Add option to send warning when coupons run low
 - Added skip answer option to process modules `Birthdate`, `Email`, `Firstname`, `Lastname`, `Password`, `Phone`, `Postal address`, `SMS opt-in`.
+- In process module `Phone` added options for checking if phone number is mobile or land line, and which country the phone number belongs to.
+- In `Publish` tab added `CookieFirst`.
 
 
 ## release-2022-06-27
