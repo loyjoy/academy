@@ -8,12 +8,12 @@ LoyJoy events can be pushed to Google Tag Manager via [dataLayer.push](https://d
 <script src="https://stable.loyjoy.com/widget/PROCESS_ID"></script>
 <script>
 LoyJoy('boot', {
-  eventListeners: [function (evt, obj) {
+  eventListeners: [function (event, detail) {
     dataLayer && dataLayer.push({
-      'event': evt,
+      'event': event,
       'event_category': 'LoyJoy Chat',
-      'event_action': obj && obj.process_name,
-      'event_label': evt + (obj.label ? '/' + obj.label : '')
+      'event_action': detail && detail.process_name,
+      'event_label': event + (detail.label ? '/' + detail.label : '')
     })
   }],
   process: PROCESS_ID
@@ -32,13 +32,13 @@ The LoyJoy JavaScript API will emit a large list of [events](/experiences/events
 <script src="https://stable.loyjoy.com/widget/PROCESS_ID"></script>
 <script>
 LoyJoy('boot', {
-  eventListeners: [function (evt, obj) {
-    if (['load', 'open', 'start', 'session_started', 'interaction'].includes(evt)) {
+  eventListeners: [function (event, detail) {
+    if (['load', 'open', 'start', 'session_started', 'interaction'].includes(event)) {
       dataLayer && dataLayer.push({
-        'event': evt,
+        'event': event,
         'event_category': 'LoyJoy Chat',
-        'event_action': obj && obj.process_name,
-        'event_label': evt + (obj.label ? '/' + obj.label : '')
+        'event_action': detail && detail.process_name,
+        'event_label': event + (detail.label ? '/' + detail.label : '')
       })
     }
   }],
@@ -56,17 +56,17 @@ The following snippet is an example for a tenant, which only wanted to send spec
 <script src="https://stable.loyjoy.com/widget/PROCESS_ID"></script>
 <script>
 LoyJoy('boot', {
-  eventListeners: [function (evt, obj) {
+  eventListeners: [function (event, detail) {
     if ([
       'data_collection_question_answered', 'interaction', 'link_clicked', 'load', 'open', 'session_started', 'session_interacted', 'start',
       'jump_decision_1', 'jump_decision_2', 'jump_decision_3', 'jump_decision_4', 'jump_decision_5', 'jump_decision_6', 'jump_decision_7',
       'jump_persistent_1', 'jump_persistent_2', 'jump_persistent_3', 'jump_persistent_4', 'jump_persistent_5'      
-    ].includes(evt)) {
+    ].includes(event)) {
       dataLayer && dataLayer.push({
-        'event': 'LoyJoy ChatBot ' + evt,
+        'event': 'LoyJoy ChatBot ' + event,
         'event_category': 'LoyJoy ChatBot',
-        'event_action': ['load', 'session_started', 'session_interacted'].includes(evt) ? evt : obj && (obj.process_name || obj.process_id),
-        'event_label': ['load', 'session_started', 'session_interacted'].includes(evt) ? evt : evt + ' / ' + (obj && obj.label ? obj.label + ' / ' : '') + (obj && obj.sub_process_name ? obj.sub_process_name + ' / ' : '')
+        'event_action': ['load', 'session_started', 'session_interacted'].includes(event) ? event : detail && (detail.process_name || detail.process_id),
+        'event_label': ['load', 'session_started', 'session_interacted'].includes(event) ? event : event + ' / ' + (detail && detail.label ? detail.label + ' / ' : '') + (detail && detail.sub_process_name ? detail.sub_process_name + ' / ' : '')
       })
     }
   }],
