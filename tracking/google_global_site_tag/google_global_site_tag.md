@@ -8,11 +8,11 @@ LoyJoy events can be pushed directly to Google Analytics 4 via [gtag.js](https:/
 <script src="https://stable.loyjoy.com/widget/PROCESS_ID"></script>
 <script>
 LoyJoy('boot', {
-  eventListeners: [function (evt, obj) {
-    gtag && gtag('event', evt, {
+  eventListeners: [function (type, detail) {
+    gtag && gtag('event', type, {
       'event_category': 'LoyJoy Chat',
-      'event_action': obj && obj.process_name,
-      'event_label': evt + (obj.label ? '/' + obj.label : '')
+      'event_action': detail && detail.process_name,
+      'event_label': type + (detail.label ? '/' + detail.label : '')
     })
   }],
   process: PROCESS_ID
@@ -31,12 +31,12 @@ The LoyJoy JavaScript API will emit a large list of [events](/experiences/events
 <script src="https://stable.loyjoy.com/widget/PROCESS_ID"></script>
 <script>
 LoyJoy('boot', {
-  eventListeners: [function (evt, obj) {
-    if (['load', 'open', 'start', 'session_started', 'interaction'].includes(evt)) {
-      gtag && gtag('event', evt, {
+  eventListeners: [function (type, detail) {
+    if (['load', 'open', 'start', 'session_started', 'interaction'].includes(type)) {
+      gtag && gtag('event', type, {
         'event_category': 'LoyJoy Chat',
-        'event_action': obj && obj.process_name,
-        'event_label': evt + (obj.label ? '/' + obj.label : '')
+        'event_action': detail && detail.process_name,
+        'event_label': type + (detail.label ? '/' + detail.label : '')
       })
     }
   }],
