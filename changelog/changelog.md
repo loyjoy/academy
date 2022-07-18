@@ -15,6 +15,13 @@ All notable updates and changes to the LoyJoy Cloud are documented here.
   - Entering slots has been simplified
 
 
+## release-2022-07-18
+
+### Added
+
+- In tab `Publish` now custom tracking JavaScript can be entered.
+- Process module `ReachFive` now supports full OAuth code flow, i.e. supports single sign-on (SSO).
+
 
 ## release-2022-07-15
 
