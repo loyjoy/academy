@@ -56,9 +56,9 @@ tracking whenever a LoyJoy event called `product_tester` is triggered:
 ```html
 <script>
 LoyJoy('boot', {
-  eventListeners: [function (evt, obj) {
-    if (evt === 'product_tester') {
-      fbq('track', evt)
+  eventListeners: [function (type, detail) {
+    if (type === 'product_tester') {
+      fbq('track', type)
     }
   }],
   process: PROCESS_ID
