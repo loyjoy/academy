@@ -141,19 +141,6 @@ LoyJoy('boot', {
 </script>
 ```
 
-Alternatively, `cookieConsent` can contain a callback function, which signals the cookie consent lazily.
-
-```html
-<script>
-LoyJoy('boot', {
-  cookieConsent: function () {
-    return true
-    // e.g. return ('; ' + document.cookie).split('; ' + 'MarketingCookiesEnabled' + '=').pop().split(';').shift() == '1'
-  },
-  process: PROCESS_ID
-})
-</script>
-```
 
 ## Events
 
