@@ -149,7 +149,7 @@ The chat emits [events](/experiences/events/events.md) for chat events (open, cl
 ```html
 <script>
 LoyJoy('boot', {
-  eventListeners: [function (evt, obj) {}],
+  eventListeners: [function (type, detail) {}],
   process: PROCESS_ID
 })
 </script>
