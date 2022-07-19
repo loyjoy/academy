@@ -8,4 +8,4 @@
 - [Live](/index.md#live)
 - [Tracking](/index.md#tracking)
 - [Integrations](/index.md#integrations)
-- [Temp] (/)
+- [Temp](/)
