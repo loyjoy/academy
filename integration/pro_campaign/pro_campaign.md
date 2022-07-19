@@ -2,7 +2,7 @@
 
 We have compiled several articles that describe how to connect LoyJoy and ProCampaign.
 
-:warning: The connection transfers data one-way, from LoyJoy to ProCampaign, not the other way around.
+**Warning** The connection transfers data one-way, from LoyJoy to ProCampaign, not the other way around.
 
 ## 📖 LoyJoy to ProCampaign documentation
 
