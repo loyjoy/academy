@@ -21,6 +21,7 @@ All notable updates and changes to the LoyJoy Cloud are documented here.
 
 - In tab `Publish` now custom tracking JavaScript can be entered.
 - Process module `ReachFive` now supports full OAuth code flow, i.e. supports single sign-on (SSO).
+- The launcher can now be configured with its own color.
 
 
 ## release-2022-07-15
