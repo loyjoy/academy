@@ -4,8 +4,10 @@
 - [Overview of personal data storage options](#overview-of-personal-data-storage-options)
 - [Data at rest](#data-at-rest)
 - [Data in transit](#data-in-transit)
-______________
 
+
+
+______________
 ## Data storage and encryption introduction
 - This document shall provide an overview of every possibility to store data in LoyJoy. At LoyJoy it is our goal to minimise the data privacy footprint of each experience built on the platform. If you have any questions please contact us via contact@loyjoy.com.
 - LoyJoy may use database tables to store data, including personal identifiable information.
