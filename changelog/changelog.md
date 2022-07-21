@@ -15,7 +15,7 @@ All notable updates and changes to the LoyJoy Cloud are documented here.
   - Entering slots has been simplified
 
 
-## release-2022-07-18
+## release-2022-07-21
 
 ### Added
 
@@ -24,6 +24,7 @@ All notable updates and changes to the LoyJoy Cloud are documented here.
 - The launcher can now be configured with its own color.
 - For a tenant it can now be configured, that by default the LocalStorage should be disabled.
 - For slow SMTP servers in SMTP settings an email queue can be activated.
+- In tab `Customers` now the CSV file download can include all customer variables including questionnaire answers, not only master data such as first name.
 
 
 ## release-2022-07-15
