@@ -22,6 +22,8 @@ All notable updates and changes to the LoyJoy Cloud are documented here.
 - In tab `Publish` now custom tracking JavaScript can be entered.
 - Process module `ReachFive` now supports full OAuth code flow, i.e. supports single sign-on (SSO).
 - The launcher can now be configured with its own color.
+- For a tenant it can now be configured, that by default the LocalStorage should be disabled.
+- For slow SMTP servers in SMTP settings an email queue can be activated.
 
 
 ## release-2022-07-15
